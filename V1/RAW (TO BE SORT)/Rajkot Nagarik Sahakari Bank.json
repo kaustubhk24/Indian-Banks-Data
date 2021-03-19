@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "NAGARIK BHAVAN NO. 1, DHEBARBHAI ROAD, RAJKOT- 360 001",
+        "BANK": "Rajkot Nagarik Sahakari Bank",
+        "BANKCODE": "RNSB",
+        "BRANCH": "Rajkot Nagarik Sahakari Bank IMPS",
+        "CENTRE": "RAJKOT",
+        "CITY": "RAJKOT",
+        "CONTACT": "",
+        "DISTRICT": "RAJKOT",
+        "IFSC": "RNSB0000001",
+        "IMPS": true,
+        "MICR": "NA",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "GUJARAT",
+        "SWIFT": "",
+        "UPI": true
+    }
+]

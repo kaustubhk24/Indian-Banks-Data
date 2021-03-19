@@ -1,0 +1,38 @@
+[
+    {
+        "ADDRESS": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
+        "BANK": "Shikshak Sahakari Bank",
+        "BANKCODE": "SHKX",
+        "BRANCH": "Shikshak Sahakari Bank IMPS",
+        "CENTRE": "NAGPUR",
+        "CITY": "NAGPUR",
+        "CONTACT": "07122774866",
+        "DISTRICT": "NAGPUR",
+        "IFSC": "SKSB0000001",
+        "IMPS": true,
+        "MICR": "NA",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "MAHARASHTRA",
+        "SWIFT": "",
+        "UPI": false
+    },
+    {
+        "ADDRESS": "NEAR GANDHISAGAR MAHAL, NAGPUR 440018",
+        "BANK": "Shikshak Sahakari Bank",
+        "BANKCODE": "SKSB",
+        "BRANCH": "HEAD OFFICE",
+        "CENTRE": "NAGPUR",
+        "CITY": "NAGPUR",
+        "CONTACT": "07122774866",
+        "DISTRICT": "NAGPUR",
+        "IFSC": "SKSB0000002",
+        "IMPS": true,
+        "MICR": "NA",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "MAHARASHTRA",
+        "SWIFT": "",
+        "UPI": false
+    }
+]

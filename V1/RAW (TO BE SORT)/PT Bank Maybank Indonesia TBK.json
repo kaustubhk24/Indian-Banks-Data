@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "One India Bulls Centre, \nTower 2 B\n702, 7th Floor\nElphinstone Road West\nMumbai 400 013",
+        "BANK": "PT Bank Maybank Indonesia TBK",
+        "BANKCODE": "IBBK",
+        "BRANCH": "MUMBAI",
+        "CENTRE": "MUMBAI",
+        "CITY": "MUMBAI",
+        "CONTACT": "67303411",
+        "DISTRICT": "GREATER BOMBAY",
+        "IFSC": "IBBK0000001",
+        "IMPS": true,
+        "MICR": "400229258",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "MAHARASHTRA",
+        "SWIFT": "",
+        "UPI": false
+    }
+]
