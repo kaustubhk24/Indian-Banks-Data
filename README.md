@@ -175,7 +175,7 @@ once it's ready ,  documentation will be updated
 | 163 | [The Akola District Central Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_147.xlsx)                    |       |      |          |       |
 | 164 | [The Andhra Pradesh State Coop Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_101.xlsx)                     |       |      |          |       |
 | 165 | [The Bank of Nova Scotia](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_75.xlsx)                                         |       |      |          |       |
-| 166 | [The Baramati Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_199.xlsx)                             |  Yes  |  Yes |  Yes     |       |
+| 166 | [The Baramati Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_199.xlsx)                             |       |      |          |       |
 | 167 | [The Cosmos Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_78.xlsx)                             |       |      |          |       |
 | 168 | [The Delhi State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_158.xlsx)                       |       |      |          |       |
 | 169 | [The Gadchiroli District Central Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_146.xlsx)       |       |      |          |       |
