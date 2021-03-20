@@ -21,13 +21,13 @@ once it's ready ,  documentation will be updated
 | 9   | [Andhra Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_04.xlsx)                                                     |       |      |          |       |
 | 10  | [Andhra Pragathi Grameena Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_141.xlsx)                                  |       |      |          |       |
 | 11  | [Andhra Pradesh Grameena Vikas Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_229.xlsx)                             |       |      |          |       |
-| 12  | [Apna Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_106.xlsx)                                     |       |      |          |       |
+| 12  | [Apna Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_106.xlsx)                                     |  Yes  | Yes  |  Yes     |       |
 | 13  | [Arvind Sahakari Bank Ltd](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_269.xls)                                        |       |      |          |       |
 | 14  | [Australia and New Zealand Banking Group Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_107.xlsx)                |       |      |          |       |
 | 15  | [AU Small Finance Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_204.xlsx)                                  |       |      |          |       |
 | 16  | [Axis Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_05.xlsx)                                                       |       |      |          |       |
 | 17  | [Bandhan Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_178.xlsx)                                           |       |      |          |       |
-| 18  | [Bank of America](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_06.xlsx)                                                 |       |      |          |       |
+| 18  | [Bank of America](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_06.xlsx)                                                 | Yes   | Yes  | Yes      |       |
 | 19  | [Bank of Bahrein and Kuwait](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_07.xlsx)                                      |       |      |          |       |
 | 20  | [Bank of Baroda](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_08.xlsx)                                                  |       |      |          |       |
 | 21  | [Bank of Ceylon](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_09.xlsx)                                                  |       |      |          |       |
@@ -171,7 +171,7 @@ once it's ready ,  documentation will be updated
 | 159 | [Telangana State Coop Apex Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_196.xlsx)                                 |       |      |          |       |
 | 160 | [Textile Traders Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_203.xlsx)                       |       |      |          |       |
 | 161 | [The Ajara Urban Cooperative Bank Limited, Ajara](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_244.xlsx)                |  Yes  | Yes  |   Yes    |       |
-| 162 | [The A.P. Mahesh Cooperative Urban Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_119.xlsx)                 |       |      |          |       |
+| 162 | [The A.P. Mahesh Cooperative Urban Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_119.xlsx)                 |  Yes  | Yes  |   Yes    |       |
 | 163 | [The Akola District Central Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_147.xlsx)                    |       |      |          |       |
 | 164 | [The Andhra Pradesh State Coop Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_101.xlsx)                     |       |      |          |       |
 | 165 | [The Bank of Nova Scotia](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_75.xlsx)                                         |       |      |          |       |
