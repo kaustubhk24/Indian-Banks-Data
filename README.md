@@ -81,7 +81,7 @@ once it's ready ,  documentation will be updated
 | 69  | [IDFC First Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_180.xlsx)                                        |       |      |          |       |
 | 70  | [Idukki District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_195.xlsx)                       | YES   | YES  |  YES     |       |
 | 71  | [Indian Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_37.xlsx)                                                     |       |      |          |       |
-| 72  | [India Post Payment Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_224.xlsx)                                        | Yes   | Yes  |          |       |
+| 72  | [India Post Payment Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_224.xlsx)                                        | Yes   | Yes  |  Yes     |       |
 | 73  | [Indusind Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_39.xlsx)                                                   | YES   | YES  |  YES     |       |
 | 74  | [Indian Overseas Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_38.xlsx)                                            |       |      |          |       |
 | 75  | [Industrial and Commercial Bank of China Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_154.xlsx)                | Yes   | Yes  |  Yes     |       |
