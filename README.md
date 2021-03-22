@@ -67,29 +67,29 @@ once it's ready ,  documentation will be updated
 | 55  | [Export Import Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_175.xlsx)                                    |       |      |          |       |
 | 56  | [Federal Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_79.xlsx)                                            |       |      |          |       |
 | 57  | [Fincare Small Finance Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_209.xlsx)                             |       |      |          |       |
-| 58  | [FINO Payments Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_207.xlsx)                                             |       |      |          |       |
-| 59  | [Firstrand Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_32.xlsx)                                          |       |      |          |       |
+| 58  | [FINO Payments Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_207.xlsx)                                             | YES   | YES  |  YES     |       |
+| 59  | [Firstrand Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_32.xlsx)                                          | YES   | YES  |  YES     |       |
 | 60  | [First Abu Dhabi Bank PJSC](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_211.xlsx)                                      |       |      |          |       |
 | 61  | [G P Parsik Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_56.xlsx)                                                 |       |      |          |       |
 | 62  | [GS Mahanagar Cooperative Bank Limited, Mumbai](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_231.xlsx)                  |       |      |          |       |
 | 63  | [HDFC Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_33.xlsx)                                                       |       |      |          |       |
-| 64  | [Haryana State Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_237.xlsx)                                 |       |      |          |       |
-| 65  | [Himachal Pradesh State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_188.xlsx)                |       |      |          |       |
+| 64  | [Haryana State Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_237.xlsx)                                 | YES   | YES  |  YES     |       |
+| 65  | [Himachal Pradesh State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_188.xlsx)                | YES   | YES  |  YES     |       |
 | 66  | [HSBC Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_34.xlsx)                                                       |       |      |          |       |
-| 67  | [ICICI Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_35.xlsx)                                              |       |      |          |       |
-| 68  | [IDBI Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_36.xlsx)                                                       |       |      |          |       |
+| 67  | [ICICI Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_35.xlsx)                                              | YES   | YES  |  YES     |       |
+| 68  | [IDBI Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_36.xlsx)                                                       | YES   | YES  |  YES     |       |
 | 69  | [IDFC First Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_180.xlsx)                                        |       |      |          |       |
-| 70  | [Idukki District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_195.xlsx)                       |       |      |          |       |
+| 70  | [Idukki District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_195.xlsx)                       | YES   | YES  |  YES     |       |
 | 71  | [Indian Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_37.xlsx)                                                     |       |      |          |       |
 | 72  | [India Post Payment Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_224.xlsx)                                        |       |      |          |       |
-| 73  | [Indusind Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_39.xlsx)                                                   |       |      |          |       |
+| 73  | [Indusind Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_39.xlsx)                                                   | YES   | YES  |  YES     |       |
 | 74  | [Indian Overseas Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_38.xlsx)                                            |       |      |          |       |
 | 75  | [Industrial and Commercial Bank of China Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_154.xlsx)                |       |      |          |       |
-| 76  | [Industrial Bank of Korea](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_181.xlsx)                                       |       |      |          |       |
+| 76  | [Industrial Bank of Korea](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_181.xlsx)                                       | YES   | YES  |  YES     |       |
 | 77  | [Irinjalakuda Town Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_232.xlsx)                     |       |      |          |       |
-| 78  | [Jalgaon Janata Sahkari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_111.xlsx)                            |       |      |          |       |
+| 78  | [Jalgaon Janata Sahkari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_111.xlsx)                            | YES   | YES  |  YES     |       |
 | 79  | [Jammu and Kashmir Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_81.xlsx)                                  |       |      |          |       |
-| 80  | [Janakalyan Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_176.xlsx)                               |       |      |          |       |
+| 80  | [Janakalyan Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_176.xlsx)                               | YES   | YES  |   YES    |       |
 | 81  | [Jana Small Finance Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_225.xlsx)                                |       |      |          |       |
 | 82  | [Janaseva Sahakari Bank (Borivli) Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_157.xlsx)                       |       |      |          |       |
 | 83  | [Janaseva Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_42.xlsx)                                  |       |      |          |       |
