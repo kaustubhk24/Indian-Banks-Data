@@ -117,7 +117,7 @@ once it's ready ,  documentation will be updated
 | 105 | [Mizuho Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_50.xlsx)                                             | Yes   | Yes  |  Yes     |       |
 | 106 | [Model Co-operative Bank Ltd](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_264.xlsx)                                    |       |      |          |       |
 | 107 | [MUFG Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_226.xlsx)                                              |       |      |          |       |
-| 108 | [Nagar Urban Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_160.xlsx)                                   |       |      |          |       |
+| 108 | [Nagar Urban Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_160.xlsx)                                   |  Yes  | Yes  |   Yes    |       |
 | 109 | [National Bank for Agriculture and Rural Development](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_223.xlsx)            |  Yes  | Yes  |   Yes    |       |
 | 110 | [Nagpur Nagarik Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_123.xlsx)                           |  Yes  | Yes  |   Yes    |       |
 | 111 | [Nav Jeevan Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_245.xlsx)                            |       |      |          |       |
@@ -197,27 +197,27 @@ once it's ready ,  documentation will be updated
 | 185 | [The Municipal Cooperative Bank Limited, Mumbai](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_122.xlsx)                 |       |      |          |       |
 | 186 | [The Nainital Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_87.xlsx)                                       |       |      |          |       |
 | 187 | [The Nasik Merchants Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_104.xlsx)                   |       |      |          |       |
-| 188 | [The Navnirman Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_197.xlsx)                         |       |      |          |       |
-| 189 | [The Nawanagar Cooperative Bank Ltd](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_268.xlsx)                             |       |      |          |       |
-| 190 | [The Nilambur Cooperative Urban Bank Limited, Nilambur](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_249.xlsx)          |       |      |          |       |
-| 191 | [The Odisha State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_256.xlsx)                      |       |      |          |       |
-| 192 | [The Pandharpur Urban Cooperative Bank Limited, Pandharpur](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_185.xlsx)      |       |      |          |       |
-| 193 | [The Pusad Urban Cooperative Bank Limited, Pusad](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_259.xlsx)                |       |      |          |       |
-| 194 | [The Punjab State Cooperative Bank Ltd](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_267.xlsx)                          |       |      |          |       |
+| 188 | [The Navnirman Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_197.xlsx)                         | Yes   | Yes  | Yes      |       |
+| 189 | [The Nawanagar Cooperative Bank Ltd](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_268.xlsx)                             | Yes   | Yes  | Yes      |       |
+| 190 | [The Nilambur Cooperative Urban Bank Limited, Nilambur](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_249.xlsx)          | Yes   | Yes  | Yes      |       |
+| 191 | [The Odisha State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_256.xlsx)                      | Yes   | Yes  | Yes      |       |
+| 192 | [The Pandharpur Urban Cooperative Bank Limited, Pandharpur](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_185.xlsx)      | Yes   | Yes  | Yes      |       |
+| 193 | [The Pusad Urban Cooperative Bank Limited, Pusad](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_259.xlsx)                | Yes   | Yes  | Yes      |       |
+| 194 | [The Punjab State Cooperative Bank Ltd](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_267.xlsx)                          | Yes   | Yes  | Yes      |       |
 | 195 | [The Rajasthan State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_125.xlsx)                   |       |      |          |       |
-| 196 | [The Seva Vikas Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_143.xlsx)                        |       |      |          |       |
-| 197 | [The Shamrao Vithal Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_91.xlsx)                     |       |      |          |       |
-| 198 | [The Sindhudurg District Central Coop Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_206.xlsx)              |       |      |          |       |
-| 199 | [The Surat District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_126.xlsx)                    |       |      |          |       |
-| 200 | [The Surath Peoples Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_92.xlsx)                     |       |      |          |       |
+| 196 | [The Seva Vikas Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_143.xlsx)                        | Yes   | Yes  | Yes      |       |
+| 197 | [The Shamrao Vithal Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_91.xlsx)                     | Yes   | Yes  | Yes      |       |
+| 198 | [The Sindhudurg District Central Coop Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_206.xlsx)              | Yes   | Yes  | Yes      |       |
+| 199 | [The Surat District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_126.xlsx)                    | Yes   | Yes  | Yes      |       |
+| 200 | [The Surath Peoples Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_92.xlsx)                     | Yes   | Yes  | Yes      |       |
 | 201 | [The Tamilnadu State Apex Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_93.xlsx)                       |       |      |          |       |
-| 202 | [The Thane Bharat Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_118.xlsx)                         |       |      |          |       |
-| 203 | [The Thane District Central Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_144.xlsx)            |       |      |          |       |
-| 204 | [The Udaipur Urban Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_263.xlsx)                     |       |      |          |       |
+| 202 | [The Thane Bharat Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_118.xlsx)                         | Yes   | Yes  | Yes      |       |
+| 203 | [The Thane District Central Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_144.xlsx)            | Yes   | Yes  | Yes      |       |
+| 204 | [The Udaipur Urban Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_263.xlsx)                     | Yes   | Yes  | Yes      |       |
 | 205 | [The Urban Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_243.xlsx)                             |       |      |          |       |
-| 206 | [The Varachha Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_135.xlsx)                          |       |      |          |       |
+| 206 | [The Varachha Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_135.xlsx)                          | Yes   | Yes  | Yes      |       |
 | 207 | [The Vijay Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_247.xlsx)                             |       |      |          |       |
-| 208 | [The Vishweshwar Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_127.xlsx)                          |       |      |          |       |
+| 208 | [The Vishweshwar Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_127.xlsx)                          | Yes   | Yes  | Yes      |       |
 | 209 | [The West Bengal State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_95.xlsx)                  |       |      |          |       |
 | 210 | [The Zoroastrian Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_165.xlsx)                       |       |      |          |       |
 | 211 | [Thrissur District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_222.xlsx)                     |       |      |          |       |
