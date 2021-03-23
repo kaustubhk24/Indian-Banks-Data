@@ -213,25 +213,25 @@ once it's ready ,  documentation will be updated
 | 205 | [The Urban Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_243.xlsx)                             |       |      |          |       |
 | 206 | [The Varachha Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_135.xlsx)                          |       |      |          |       |
 | 207 | [The Vijay Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_247.xlsx)                             |       |      |          |       |
-| 208 | [The Vishweshwar Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_127.xlsx)                          |       |      |          |       |
-| 209 | [The West Bengal State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_95.xlsx)                  |       |      |          |       |
-| 210 | [The Zoroastrian Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_165.xlsx)                       |       |      |          |       |
-| 211 | [Thrissur District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_222.xlsx)                     |       |      |          |       |
-| 212 | [TJSB Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_177.xlsx)                                     |       |      |          |       |
-| 213 | [Tumkur Grain Merchants Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_138.xlsx)                |       |      |          |       |
+| 208 | [The Vishweshwar Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_127.xlsx)                          |  Yes  | Yes  |  Yes     |       |
+| 209 | [The West Bengal State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_95.xlsx)                  |  Yes  | Yes  |  Yes     |       |
+| 210 | [The Zoroastrian Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_165.xlsx)                       |  Yes  | Yes  |  Yes     |       |
+| 211 | [Thrissur District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_222.xlsx)                     |  Yes  | Yes  |  Yes     |       |
+| 212 | [Thane Janta  Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_177.xlsx)                             |  Yes  | Yes  |  Yes     |       |  
+| 213 | [Tumkur Grain Merchants Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_138.xlsx)                |  Yes  | Yes  |  Yes     |       |
 | 214 | [UCO Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_96.xlsx)                                                        |       |      |          |       |
 | 215 | [Ujjivan Small Finance Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_198.xlsx)                             |       |      |          |       |
-| 216 | [Union Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_97.xlsx)                                             |       |      |          |       |
-| 217 | [United Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_98.xlsx)                                            |       |      |          |       |
-| 218 | [United Overseas Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_155.xlsx)                                           |       |      |          |       |
-| 219 | [Utkarsh Small Finance Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_202.xlsx)                                     |       |      |          |       |
-| 220 | [Uttar Pradesh Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_257.xlsx)                         |       |      |          |       |
-| 221 | [Vasai Janata Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_230.xlsx)                             |       |      |          |       |
-| 222 | [Vasai Vikas Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_139.xlsx)                              |       |      |          |       |
-| 223 | [Vijaya Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_99.xlsx)                                                     |       |      |          |       |
-| 224 | [Woori Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_128.xlsx)                                                     |       |      |          |       |
-| 225 | [Yes Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_100.xlsx)                                               |       |      |          |       |
-| 226 | [Zila Sahkari Bank Limited Ghaziabad](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_156.xlsx)                            |       |      |          |       |
+| 216 | [Union Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_97.xlsx)                                             |  Yes  | Yes  |  Yes     |       |
+| 217 | [United Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_98.xlsx)                                            |  Yes  | Yes  |  Yes     |       |
+| 218 | [United Overseas Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_155.xlsx)                                           |  Yes  | Yes  |  Yes     |       |
+| 219 | [Utkarsh Small Finance Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_202.xlsx)                                     |  Yes  | Yes  |  Yes     |       |
+| 220 | [Uttar Pradesh Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_257.xlsx)                         |  Yes  | Yes  |  Yes     |       |
+| 221 | [Vasai Janata Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_230.xlsx)                             |  Yes  | Yes  |  Yes     |       |
+| 222 | [Vasai Vikas Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_139.xlsx)                              |  Yes  | Yes  |  Yes     |       |
+| 223 | [Vijaya Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_99.xlsx)                                                     |  Yes  | Yes  |  Yes     |       |
+| 224 | [Woori Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_128.xlsx)                                                     |  Yes  | Yes  |  Yes     |       |
+| 225 | [Yes Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_100.xlsx)                                               |  Yes  | Yes  |  Yes     |       |
+| 226 | [Zila Sahkari Bank Limited Ghaziabad](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_156.xlsx)                            |  Yes  | Yes  |  Yes     |       |
 
 
 ## Contributors 
