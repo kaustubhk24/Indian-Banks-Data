@@ -156,7 +156,7 @@ once it's ready ,  documentation will be updated
 | 148 | [Solapur Janata Sahkari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_153.xlsx)                            |  Yes  | Yes  |   Yes    |       |
 | 149 | [South Indian Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_64.xlsx)                                               |  Yes  | Yes  |   Yes    |       |
 | 150 | [Standard Chartered Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_65.xlsx)                                         |  Yes  | Yes  |   Yes    |       |
-| 151 | [State Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_68.xlsx)                                             |       |      |          |       |
+| 151 | [State Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_68.xlsx)                                             |  Yes  | Yes  |   Yes    |       |
 | 152 | [Suco Souharda Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_265.xlsx)                            |  Yes  | Yes  |   Yes    |       |
 | 153 | [Sumitomo Mitsui Banking Corporation](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_142.xlsx)                            |  Yes  | Yes  |   Yes    |       |
 | 154 | [Surat National Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_179.xlsx)                        |  Yes  | Yes  |   Yes    |       |
