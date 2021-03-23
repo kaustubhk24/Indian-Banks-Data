@@ -219,8 +219,8 @@ once it's ready ,  documentation will be updated
 | 211 | [Thrissur District Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_222.xlsx)                     |  Yes  | Yes  |  Yes     |       |
 | 212 | [Thane Janta  Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_177.xlsx)                             |  Yes  | Yes  |  Yes     |       |  
 | 213 | [Tumkur Grain Merchants Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_138.xlsx)                |  Yes  | Yes  |  Yes     |       |
-| 214 | [UCO Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_96.xlsx)                                                        |       |      |          |       |
-| 215 | [Ujjivan Small Finance Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_198.xlsx)                             |       |      |          |       |
+| 214 | [UCO Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_96.xlsx)                                                        |  Yes  | Yes  |  Yes     |       |
+| 215 | [Ujjivan Small Finance Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_198.xlsx)                             |  Yes  | Yes  |  Yes     |       |
 | 216 | [Union Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_97.xlsx)                                             |  Yes  | Yes  |  Yes     |       |
 | 217 | [United Bank of India](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_98.xlsx)                                            |  Yes  | Yes  |  Yes     |       |
 | 218 | [United Overseas Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_155.xlsx)                                           |  Yes  | Yes  |  Yes     |       |
