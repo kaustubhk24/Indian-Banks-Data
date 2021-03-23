@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "POST OFFICE,SPEED POST CENTRE BUILDING,MARKET ROAD,NEW DELHI,CENTRAL DELHI,DELHI 110001,INDIA",
+        "BANK": "India Post Payments Bank",
+        "BANKCODE": "IPPB",
+        "BRANCH": "India Post Payments Bank IMPS",
+        "CENTRE": "DELHI",
+        "CITY": "DELHI",
+        "CONTACT": "01123362148",
+        "DISTRICT": "DELHI",
+        "IFSC": "IPOS0000001",
+        "IMPS": true,
+        "MICR": "NA",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "DELHI",
+        "SWIFT": "",
+        "UPI": true
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "SANCHETI CHAMBERS,OPP.VIJAY TALKIES,LAXMI ROAD,PUNE 411030",
+        "BANK": "Bhagini Nivedita Sahakari Bank Pune",
+        "BANKCODE": "BNSB",
+        "BRANCH": "NARAYAN PETH",
+        "CENTRE": "PUNE",
+        "CITY": "PUNE",
+        "CONTACT": "02024458632",
+        "DISTRICT": "PUNE",
+        "IFSC": "BNSB0000002",
+        "IMPS": true,
+        "MICR": "411272002",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "MAHARASHTRA",
+        "SWIFT": "",
+        "UPI": false
+    }
+]
