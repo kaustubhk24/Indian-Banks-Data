@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "UNIT 2B/2, 2nd FLOOR, TWO HORIZON CENTER, GOLF COURSE ROAD, PHASE 5, SECTOR 43, GURUGRAM 122002",
+        "BANK": "Kookmin Bank",
+        "BANKCODE": "KBKB",
+        "BRANCH": "GURUGRAM BRANCH",
+        "CENTRE": "GURUGRAM",
+        "CITY": "GURUGRAM",
+        "CONTACT": "4532222",
+        "DISTRICT": "GURUGRAM",
+        "IFSC": "KBKB0000001",
+        "IMPS": true,
+        "MICR": "110240273",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "HARYANA",
+        "SWIFT": "",
+        "UPI": false
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "Unit 801,8th Floor,A Wing,One BKC,Plot No C 66,G Block,Bandra Kurla Complex,Bandra (E),Mumbai 400051",
+        "BANK": "Industrial and Commercial Bank of China",
+        "BANKCODE": "ICBK",
+        "BRANCH": "RTGS-HO",
+        "CENTRE": "MUMBAI",
+        "CITY": "MUMBAI",
+        "CONTACT": "02233155900",
+        "DISTRICT": "MUMBAI",
+        "IFSC": "ICBK0000001",
+        "IMPS": true,
+        "MICR": "400229256",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "MAHARASHTRA",
+        "SWIFT": "",
+        "UPI": false
+    }
+]

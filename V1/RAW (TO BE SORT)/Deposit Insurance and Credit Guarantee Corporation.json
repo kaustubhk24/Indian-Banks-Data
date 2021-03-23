@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "COB FORT",
+        "BANK": "Deposit Insurance and Credit Guarantee Corporation",
+        "BANKCODE": "DICG",
+        "BRANCH": "FORT",
+        "CENTRE": "NA",
+        "CITY": "MUMBAI",
+        "CONTACT": "23019792",
+        "DISTRICT": "MUMBAI",
+        "IFSC": "DICG0000002",
+        "IMPS": true,
+        "MICR": "400001001",
+        "NEFT": true,
+        "RTGS": false,
+        "STATE": "MAHARASHTRA",
+        "SWIFT": "",
+        "UPI": false
+    }
+]
