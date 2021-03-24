@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "GROUND FLOOR,5TH NORTH AVENUE,MAKER MAXITY,BKC,BANDRA ( EAST),MUMBAI 400051",
+        "BANK": "Emirates NBD Bank",
+        "BANKCODE": "EBIL",
+        "BRANCH": "Emirates NBD Bank IMPS",
+        "CENTRE": "MUMBAI",
+        "CITY": "MUMBAI",
+        "CONTACT": "02261532330",
+        "DISTRICT": "MUMBAI",
+        "IFSC": "EBIL0000001",
+        "IMPS": true,
+        "MICR": "NA",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "MAHARASHTRA",
+        "SWIFT": "",
+        "UPI": false
+    }
+]
