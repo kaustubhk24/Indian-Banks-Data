@@ -1,6 +1,11 @@
 # Bank Details API
 
 NOTE : beta is LIVE,
+
+You can test [here](https://kaustubhk24.github.io/Indian-Banks-Data/V1/)
+
+[NOTE : We are aware that some data is duplicate and we're removing duplicates]
+
 once it's ready ,  documentation will be updated
 
 
