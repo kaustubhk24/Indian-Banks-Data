@@ -116,7 +116,7 @@ once it's ready ,  documentation will be updated
 | 108 | [Nagar Urban Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_160.xlsx)                                   |  Yes  | Yes  |  Yes     |       |
 | 109 | [National Bank for Agriculture and Rural Development](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_223.xlsx)            |  Yes  | Yes  |  Yes     |       |
 | 110 | [Nagpur Nagarik Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_123.xlsx)                           |  Yes  | Yes  |  Yes     |       |
-| 111 | [Nav Jeevan Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_245.xlsx)                            |       |      |          |       |
+| 111 | [Nav Jeevan Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_245.xlsx)                            |  Yes  | Yes  |  Yes     |       |
 | 112 | [New India Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_51.xlsx)                              |  Yes  | Yes  |  Yes     |       |
 | 113 | [NKGSB Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_52.xlsx)                                  |  Yes  | Yes  |  Yes     |       |
 | 114 | [North East Small Finance Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_214.xlsx)                          |  Yes  | Yes  |  Yes     |       |
@@ -126,13 +126,13 @@ once it's ready ,  documentation will be updated
 | 118 | [Paytm Payments Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_205.xlsx)                                    |  Yes  | Yes  |  Yes     |       |
 | 119 | [Prime Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_116.xlsx)                                 |  Yes  | Yes  |  Yes     |       |
 | 120 | [PT Bank Maybank Indonesia TBK](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_190.xlsx)                                  |  Yes  | Yes  |  Yes     |       |
-| 121 | [Punjab and Maharashtra Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_57.xlsx)                 |       |      |          |       |
+| 121 | [Punjab and Maharashtra Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_57.xlsx)                 |  Yes  | Yes  |  Yes     |       |
 | 122 | [Punjab and Sind Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_58.xlsx)                                            |  Yes  | Yes  |  Yes     |       |
 | 123 | [Punjab National Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_59.xlsx)                                            |  Yes  | Yes  |  Yes     |       |
 | 124 | [Qatar National Bank SAQ](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_212.xlsx)                                        |  Yes  | Yes  |  Yes     |       |
 | 125 | [Rabobank International](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_117.xlsx)                                         |  Yes  | Yes  |  Yes     |       |
 | 126 | [Rajarambapu Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_220.xlsx)                              |  Yes  | Yes  |  Yes     |       |
-| 127 | [Rajarshi Shahu Sahakari Bank Limited, Pune](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_262.xlsx)                     |       |      |          |       |
+| 127 | [Rajarshi Shahu Sahakari Bank Limited, Pune](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_262.xlsx)                     |  Yes  | Yes  |  Yes     |       |
 | 128 | [Rajasthan Marudhara Gramin Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_250.xlsx)                                |  Yes  | Yes  |  Yes     |       |
 | 129 | [Rajgurunagar Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_159.xlsx)                             |  Yes  | Yes  |  Yes     |       |
 | 130 | [Rajkot Nagarik Sahakari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_60.xlsx)                            |  Yes  | Yes  |  Yes     |       |
