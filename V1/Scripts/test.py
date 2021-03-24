@@ -1,6 +1,16 @@
 import json,os
 
+bad_chars = [';', ':', '!', "*","\n",'?','.','/']
+
 def getData(bank,state,district,city,center,branch,details):
+    for i in bad_chars:
+        bank=bank.replace(i,'')
+        state=state.replace(i,'')
+        district=district.replace(i,'')
+        city=city.replace(i,'')
+        center=center.replace(i,'')
+        branch=branch.replace(i,'')
+
     if not os.path.exists(state):
         os.makedirs(state)
     if not os.path.exists(state+"/"+district):
@@ -19,7 +29,7 @@ def getData(bank,state,district,city,center,branch,details):
 
 
 def start(file_name):
-    file=open("D:\\indian-banks-data\\JSON\\"+file_name)
+    file=open(file_name)
     data = json.load(file) 
     for i in range(0,len(data)):
         bank=data[i]['BANK'].strip()
@@ -33,7 +43,7 @@ def start(file_name):
 
 
 
-for root, dirs, files in os.walk("D:\\indian-banks-data\\JSON\\"):
+for root, dirs, files in os.walk("C:\\Users\\Kaustubh\\Downloads\\JSON"):
     for file in files:
         if file.endswith('.json') :
             print(file)

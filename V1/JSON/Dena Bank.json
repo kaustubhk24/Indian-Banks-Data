@@ -665,7 +665,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "1ST FLOOR,81 JESSORE ROAD,NAGAR BAZAR,KOLKATA 700028",
         "BANK": "Dena Bank",
@@ -720,7 +720,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "KENDRAPARA BRANCH NEAR ST JOSHEPH SCHOOL TINIMUHANI KENDRAPARA PIN 754211",
         "BANK": "Dena Bank",
@@ -2701,7 +2701,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "427 BY A,DIAMOND HARBOUR ROAD,CALCUTTA700 034",
         "BANK": "Dena Bank",
@@ -3746,7 +3746,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "Dena Bank, Durga College, Raipur, Durga College Campus, Mouhdapara, Raipur, Dist Raipur (Chhattisgarh), PIN : 492001",
         "BANK": "Dena Bank",
@@ -5241,7 +5241,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "Ward No.\u00a027,Aditya Nagar,Opp.\u00a0BSNL ,Tower ,Above OBC, AB Road, Shajapur, M.P, Pin--465001",
         "BANK": "Dena Bank",
@@ -8158,7 +8158,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "Dena Bank 128/8,E-block,Kidwai Nagar Kanpur-208011",
         "BANK": "Dena Bank",
@@ -11255,7 +11255,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "JAMMU,RAGHUNATH MANDIR CHOWK,RAGHUNATH BAZAR.,JAMMU AND KASHMIR",
         "BANK": "Dena Bank",
@@ -11454,7 +11454,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "VIDYA BHAVAN,CHHATARPUR,NEW DELHI -110 030.",
         "BANK": "Dena Bank",
@@ -14929,7 +14929,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "PLOT NO.9,MATE CHOWK,GOPAL NAGAR,OPP.VNIT,SOUTH AMBAZARI ROAD,NAGPUR PIN CODE - 440022",
         "BANK": "Dena Bank",
@@ -15920,7 +15920,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "AT & P.SADAK ARJUNI.,TEH.SAKOLI.TAL.DEORI.,MAHARASHTRA",
         "BANK": "Dena Bank",
@@ -17937,7 +17937,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "357,SHAHUPURI STN RD,P.B.NO.187,KOLHAPUR -416 001",
         "BANK": "Dena Bank",
@@ -20224,7 +20224,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "1, 3RD PASTA LANE,  DENA BANK BHAVAN, GROUND FLOOR, COLABA, MUMBAI,400005",
         "BANK": "Dena Bank",
@@ -20387,7 +20387,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "NEW GAMDEVI,SHANTI SADAN,3 VACHHA GANDHI ROAD,MUMBAI-400007",
         "BANK": "Dena Bank",
@@ -20550,8 +20550,8 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
-    "Not Found",
+    
+    
     {
         "ADDRESS": "DENA BANK BLDG,,32,SHAHID BHAGATSING ROAD,MUMBAI- 400 005,",
         "BANK": "Dena Bank",
@@ -20660,7 +20660,7 @@
         "SWIFT": "",
         "UPI": true
     },
-    "Not Found",
+    
     {
         "ADDRESS": "Head Office,Mumbai",
         "BANK": "Dena Bank",
@@ -31892,7 +31892,7 @@
         "STATE": "GUJARAT",
         "SWIFT": "",
         "UPI": true
-    },
-    "Not Found",
-    "Not Found"
+    }
+    
+    
 ]
