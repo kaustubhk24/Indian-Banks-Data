@@ -1,6 +1,6 @@
 import json,os
 
-bad_chars = [';', ':', '!', "*","\n",'?','.','/']
+bad_chars = [';', ':', '!', "*","\n",'?','.','/',"."]
 
 def getData(bank,state,district,city,center,branch,details):
     for i in bad_chars:
@@ -10,6 +10,8 @@ def getData(bank,state,district,city,center,branch,details):
         city=city.replace(i,'')
         center=center.replace(i,'')
         branch=branch.replace(i,'')
+        
+    branch=branch.replace(".",'')
 
     if not os.path.exists(state):
         os.makedirs(state)
@@ -48,3 +50,5 @@ for root, dirs, files in os.walk("C:\\Users\\Kaustubh\\Downloads\\JSON"):
         if file.endswith('.json') :
             print(file)
             start(file)
+
+# start('PUNJAB NATIONAL BANK.json')

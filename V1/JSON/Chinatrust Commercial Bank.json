@@ -18,7 +18,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "SRIPERUMBUDUR BRANCH (CHENNAI), PLOT NO 42 (OLD NO 105), CHENNAI BANGALORE HIGHWAY \u2013 NH4, SRIPERUMBUDUR, KANCHEEPURAM, DISTRICT TAMIL NADU - 602105.",
+        "ADDRESS": "SRIPERUMBUDUR BRANCH (CHENNAI), PLOT NO 42 (OLD NO 105), CHENNAI BANGALORE HIGHWAY \u2013 NH4, SRIPERUMBUDUR, KANCHEEPURAM, DISTRICT TAMILNADU - 602105.",
         "BANK": "Chinatrust Commercial Bank",
         "BANKCODE": "CTCB",
         "BRANCH": "SRIPERUMBUDUR BRANCH",
@@ -31,7 +31,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     }

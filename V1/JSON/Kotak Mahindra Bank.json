@@ -49,7 +49,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -121,7 +121,7 @@
         "MICR": "360468002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -319,7 +319,7 @@
         "MICR": "360468004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -373,7 +373,7 @@
         "MICR": "364809111",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -697,7 +697,7 @@
         "MICR": "380803006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -715,7 +715,7 @@
         "MICR": "380803005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -738,7 +738,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "THE SARVODAYA SAHAKARI BANK LTD SARVODAYA BHAVAN, NR KHAVAZA PARK, MAKHDUM HIGH SCHOOL ROAD,MODASA-383315 DIS.S.K.(GUJARAT)",
+        "ADDRESS": "THE SARVODAYA SAHAKARI BANK LTD SARVODAYA BHAVAN, NR KHAVAZA PARK, MAKHDUM HIGH SCHOOL ROAD,MODASA-383315 DIS.S.K.(GUJRAT)",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "THE SARVODAYA SAHAKARI BANK LTD Modasa",
@@ -751,7 +751,7 @@
         "MICR": "383803051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -769,7 +769,7 @@
         "MICR": "380124252",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -877,7 +877,7 @@
         "MICR": "391802081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1442,7 +1442,7 @@
         "MICR": "380256004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2027,20 +2027,20 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NA",
+        "ADDRESS": "Mantha Urban Co Op Bank Ltd Mantha Taluka Mantha Dist Jalna Market Committee Road Mantha Jalna 431504",
         "BANK": "Mantha Urban Co-operative Bank",
         "BANKCODE": "MAUX",
         "BRANCH": "Mantha Urban Co-operative Bank IMPS",
-        "CENTRE": "NA",
-        "CITY": "NA",
-        "CONTACT": "",
-        "DISTRICT": "NA",
+        "CENTRE": "Jalna",
+        "CITY": "Jalna",
+        "CONTACT": "270267",
+        "DISTRICT": "Jalna",
         "IFSC": "KKBK0MUCB01",
         "IMPS": true,
         "MICR": "",
         "NEFT": false,
         "RTGS": false,
-        "STATE": "NA",
+        "STATE": "Maharashtra",
         "SWIFT": "",
         "UPI": false
     },
@@ -2112,7 +2112,7 @@
         "MICR": "380118311",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2135,7 +2135,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHAMLAJI ROAD ASTHA HOSPITAL COMPOUND MODASA 383315 DIST ARVALLI GUJARAT",
+        "ADDRESS": "SHAMLAJI ROAD ASTHA HOSPITAL COMPOUND MODASA 383315 DIST ARVALLI GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "THE MODASA NAGARIK SAHAKARI BANK LTD GANESHPUR",
@@ -2148,12 +2148,12 @@
         "MICR": "383806051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "S.T.ROAD MODASA-383315, DISTRICT SABARKANTHA, STATE GUJARAT",
+        "ADDRESS": "S.T.ROAD MODASA-383315, DISTRICT SABARKANTHA, STATE GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "THE MODASA NAGARIK SAHAKARI BANK LTD MARKET YARD ROAD",
@@ -2166,12 +2166,12 @@
         "MICR": "383806053",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NR.NAGARPALIKA SUTHARWADA MODASA, PIN - 383315, DISTRICT SABARKANTHA, STATE GUJARAT",
+        "ADDRESS": "NR.NAGARPALIKA SUTHARWADA MODASA, PIN - 383315, DISTRICT SABARKANTHA, STATE GUJRAT",
         "BANK": "Modasa Nagarik Sahkari Bank",
         "BANKCODE": "TMSX",
         "BRANCH": "Modasa Nagarik Sahkari Bank IMPS",
@@ -2184,7 +2184,7 @@
         "MICR": "383806051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2225,7 +2225,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "S.T.ROAD MODASA-383315, DISTRICT SABARKANTHA, STATE GUJARAT",
+        "ADDRESS": "S.T.ROAD MODASA-383315, DISTRICT SABARKANTHA, STATE GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "THE MODASA NAGARIK SAHAKARI BANK LTD MARKET YARD ROAD",
@@ -2238,12 +2238,12 @@
         "MICR": "682858004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NR.NAGARPALIKA SUTHARWADA MODASA, PIN - 383315, DISTRICT SABARKANTHA, STATE GUJARAT",
+        "ADDRESS": "NR.NAGARPALIKA SUTHARWADA MODASA, PIN - 383315, DISTRICT SABARKANTHA, STATE GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "THE MODASA NAGARIK SAHAKARI BANK LTD HEAD OFFICE",
@@ -2256,7 +2256,7 @@
         "MICR": "682858003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2851,7 +2851,7 @@
         "MICR": "389812081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2951,7 +2951,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "THE GANDHIDHAM MERCANTILE CO OP BANK LTD GANDHIDHAM GMCB BHAVAN, PLAT NO. 12, SECTOR-9, GANDHIDHAM,DIST. KUTCH, GUJARAT",
+        "ADDRESS": "THE GANDHIDHAM MERCANTILE CO OP BANK LTD GANDHIDHAM GMCB BHAVAN, PLAT NO. 12, SECTOR-9, GANDHIDHAM,DIST. KUTCH, GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "THE GANDHIDHAM MERCANTILE CO OP BANK LTD GANDHIDHAM",
@@ -2964,15 +2964,15 @@
         "MICR": "389809023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Gujarat Ambuja Co Op Bank Ltd. Ridham Complex, Nr. Fire Station, Below Balaji Guest House,GIDC, Odhav, Ahmedabad -382415",
+        "ADDRESS": "GUJRAT Ambuja Co Op Bank Ltd. Ridham Complex, Nr. Fire Station, Below Balaji Guest House,GIDC, Odhav, Ahmedabad -382415",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
-        "BRANCH": "Gujarat Ambuja Co Op Bank Ltd Odhav",
+        "BRANCH": "GUJRAT Ambuja Co Op Bank Ltd Odhav",
         "CENTRE": "AHMEDABAD",
         "CITY": "AHMEDABAD",
         "CONTACT": "9909087067",
@@ -2982,15 +2982,15 @@
         "MICR": "380118353",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Gujarat Ambuja Co-Op Bank LTd,1,2,3,Navrang Tower,Sattadhar Cross Road,Sola Road,Ghatlodia,Ahmedabad-380061",
+        "ADDRESS": "GUJRAT Ambuja Co-Op Bank LTd,1,2,3,Navrang Tower,Sattadhar Cross Road,Sola Road,Ghatlodia,Ahmedabad-380061",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
-        "BRANCH": "Gujarat Ambuja Co Op Bank Ltd Sola Road",
+        "BRANCH": "GUJRAT Ambuja Co Op Bank Ltd Sola Road",
         "CENTRE": "AHMEDABAD",
         "CITY": "AHMEDABAD",
         "CONTACT": "07927452224",
@@ -3000,7 +3000,7 @@
         "MICR": "380118353",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3085,20 +3085,20 @@
     
     
     {
-        "ADDRESS": "NA",
+        "ADDRESS": "Bhingar Urban Co-operative Bank Ltd, Bhingar Branch, Bhingar Ahmednagar 414002",
         "BANK": "Bhingar Urban Co-operative Bank",
         "BANKCODE": "BBLX",
         "BRANCH": "Bhingar Urban Co-operative Bank IMPS",
-        "CENTRE": "NA",
-        "CITY": "NA",
+        "CENTRE": "Ahmadnagar",
+        "CITY": "Ahmadnagar",
         "CONTACT": "",
-        "DISTRICT": "NA",
+        "DISTRICT": "Ahmadnagar",
         "IFSC": "KKBK0BUCB01",
         "IMPS": true,
         "MICR": "",
         "NEFT": false,
         "RTGS": false,
-        "STATE": "NA",
+        "STATE": "Maharashtra",
         "SWIFT": "",
         "UPI": false
     },
@@ -3134,7 +3134,7 @@
         "MICR": "380421002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3170,7 +3170,7 @@
         "MICR": "390156011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3188,7 +3188,7 @@
         "MICR": "390156010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3206,7 +3206,7 @@
         "MICR": "380421004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3224,7 +3224,7 @@
         "MICR": "380421002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3242,7 +3242,7 @@
         "MICR": "390156011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3260,7 +3260,7 @@
         "MICR": "390156010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3278,7 +3278,7 @@
         "MICR": "390156009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3296,7 +3296,7 @@
         "MICR": "390156007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3368,7 +3368,7 @@
         "MICR": "390156005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3783,7 +3783,7 @@
         "MICR": "390156003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3896,10 +3896,10 @@
         "UPI": true
     },
     {
-        "ADDRESS": "188 OLD NO 70 MISSION STREET PUDUCHERRY PONDICHERRY 605001",
+        "ADDRESS": "188 OLD NO 70 MISSION STREET PONDICHERRY PONDICHERRY 605001",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
-        "BRANCH": "PUDUCHERRY PONDICHERRY",
+        "BRANCH": "PONDICHERRY PONDICHERRY",
         "CENTRE": "PONDICHERRY",
         "CITY": "PONDICHERRY",
         "CONTACT": "99999999",
@@ -3909,7 +3909,7 @@
         "MICR": "605485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -3927,7 +3927,7 @@
         "MICR": "632485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3945,7 +3945,7 @@
         "MICR": "641485009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3963,7 +3963,7 @@
         "MICR": "600485031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3981,7 +3981,7 @@
         "MICR": "600485029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3999,7 +3999,7 @@
         "MICR": "606485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4017,7 +4017,7 @@
         "MICR": "641485103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4035,7 +4035,7 @@
         "MICR": "613485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4053,7 +4053,7 @@
         "MICR": "636485005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4071,7 +4071,7 @@
         "MICR": "600485036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4091,7 +4091,7 @@
         "MICR": "612485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4109,7 +4109,7 @@
         "MICR": "614485102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4127,7 +4127,7 @@
         "MICR": "639485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4145,7 +4145,7 @@
         "MICR": "638064003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4163,7 +4163,7 @@
         "MICR": "600485035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4181,7 +4181,7 @@
         "MICR": "609485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4199,7 +4199,7 @@
         "MICR": "635485403",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4217,7 +4217,7 @@
         "MICR": "632485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4235,12 +4235,12 @@
         "MICR": "638485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 241A, GROUND FLOOR, NR TOWER, SOUTH STATE BANK NAGAR, CHETTIPALAYAM, VILLAGE: PUDUR, TALUK & DISTRICT : ERODE,  PIN - 638002, TAMIL NADU.",
+        "ADDRESS": "SHOP NO 241A, GROUND FLOOR, NR TOWER, SOUTH STATE BANK NAGAR, CHETTIPALAYAM, VILLAGE: PUDUR, TALUK & DISTRICT : ERODE,  PIN - 638002, TAMILNADU.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "PUDUR BRANCH",
@@ -4253,7 +4253,7 @@
         "MICR": "638485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4271,7 +4271,7 @@
         "MICR": "609485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4289,7 +4289,7 @@
         "MICR": "600485015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4307,7 +4307,7 @@
         "MICR": "641485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4325,7 +4325,7 @@
         "MICR": "380802002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4343,7 +4343,7 @@
         "MICR": "613485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4361,12 +4361,12 @@
         "MICR": "635485402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD, PICHANDARKOVIL BRANCH- TAMIL NADU, GROUND FLOOR & 1ST FLOOR, DOOR NO 1/52, PATTATHAMMAL STREET, PICHANDARKOVIL VILAGE, MANACHANALLUR TALUK, TIRUCHIRAPPALLI DISTRICT, TAMIL NADU-621216.",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD, PICHANDARKOVIL BRANCH- TAMILNADU, GROUND FLOOR & 1ST FLOOR, DOOR NO 1/52, PATTATHAMMAL STREET, PICHANDARKOVIL VILAGE, MANACHANALLUR TALUK, TIRUCHIRAPPALLI DISTRICT, TAMILNADU-621216.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "PICHANDARKOVIL BRANCH",
@@ -4379,7 +4379,7 @@
         "MICR": "620485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4397,7 +4397,7 @@
         "MICR": "625485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4415,7 +4415,7 @@
         "MICR": "620485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4433,7 +4433,7 @@
         "MICR": "641485008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4451,7 +4451,7 @@
         "MICR": "641485007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4470,7 +4470,7 @@
         "MICR": "641485006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4488,7 +4488,7 @@
         "MICR": "641485005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4506,7 +4506,7 @@
         "MICR": "600485041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4524,7 +4524,7 @@
         "MICR": "600485022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4542,7 +4542,7 @@
         "MICR": "600485040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4560,7 +4560,7 @@
         "MICR": "600485039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4579,7 +4579,7 @@
         "MICR": "600485038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4597,7 +4597,7 @@
         "MICR": "600485030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4615,7 +4615,7 @@
         "MICR": "600485034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4633,7 +4633,7 @@
         "MICR": "600485033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4651,7 +4651,7 @@
         "MICR": "600485032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4669,7 +4669,7 @@
         "MICR": "600485023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4687,7 +4687,7 @@
         "MICR": "600485025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4705,7 +4705,7 @@
         "MICR": "600485028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4723,7 +4723,7 @@
         "MICR": "600485024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4741,7 +4741,7 @@
         "MICR": "600485026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4759,7 +4759,7 @@
         "MICR": "600485027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4777,7 +4777,7 @@
         "MICR": "600485021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4795,7 +4795,7 @@
         "MICR": "600485019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4813,7 +4813,7 @@
         "MICR": "600485020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4831,7 +4831,7 @@
         "MICR": "600485018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4849,7 +4849,7 @@
         "MICR": "600485017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4867,7 +4867,7 @@
         "MICR": "600485016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4885,7 +4885,7 @@
         "MICR": "600485014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9412,7 +9412,7 @@
         "MICR": "606485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11241,7 +11241,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 1,2,3 GROUND FLOOR, SS PLAZA,PLOT NO.127/9, VILLAGE & POST-BHAWANIPUR, JSPL ROAD, OPP.VIRANDAVAN COMPLEX, TEHSIL & DISTRICT - RAIGARH - 496001. CHATTISGARH.",
+        "ADDRESS": "SHOP NO 1,2,3 GROUND FLOOR, SS PLAZA,PLOT NO.127/9, VILLAGE & POST-BHAWANIPUR, JSPL ROAD, OPP.VIRANDAVAN COMPLEX, TEHSIL & DISTRICT - RAIGARH - 496001. CHHATTISGARH.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "RAIGARH BRANCH",
@@ -11497,7 +11497,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "O82JAWAHARMARGPLOTO628SCHEMEO3TRAFFICROUTEO2IDORE452007MADHYAPRADESH",
+        "ADDRESS": "O82JAWAHARMARGPLOTO628SCHEMEO3TRAFFICROUTEO2IDORE452007MADHYA PRADESH",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "JAWAHAR MARG INDORE",
@@ -15704,7 +15704,7 @@
         "MICR": "612485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16356,7 +16356,7 @@
         "MICR": "396485112",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16374,12 +16374,12 @@
         "MICR": "390485011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHAKTI CHAMBER 1 NATIONAL HIGHWAY NO 8 TRAJPAR MORBI GUJARAT 363641",
+        "ADDRESS": "SHAKTI CHAMBER 1 NATIONAL HIGHWAY NO 8 TRAJPAR MORBI GUJRAT 363641",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "MORBI TRAJPAR",
@@ -16392,12 +16392,12 @@
         "MICR": "363485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "16 17 PART OF SHOP NO 31 NAVJIVAN BAZAR BESIDE HDFC BANK KALOL NG DIST GANDHINAGAR GUJARAT 382721",
+        "ADDRESS": "16 17 PART OF SHOP NO 31 NAVJIVAN BAZAR BESIDE HDFC BANK KALOL NG DIST GANDHINAGAR GUJRAT 382721",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "KALOL",
@@ -16410,12 +16410,12 @@
         "MICR": "380485044",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "A 20 AND A 21 AKSHAR MALL ANAND BORSAD ROAD NEAR JALARAM TEMPLE BORSAD GUJARAT 388540",
+        "ADDRESS": "A 20 AND A 21 AKSHAR MALL ANAND BORSAD ROAD NEAR JALARAM TEMPLE BORSAD GUJRAT 388540",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "BORSAD",
@@ -16428,7 +16428,7 @@
         "MICR": "380485043",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16446,7 +16446,7 @@
         "MICR": "362485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16464,12 +16464,12 @@
         "MICR": "380485042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MEHTA CHAMBERS BANDER ROAD KHARGATE BHAVNAGAR GUJARAT 364001",
+        "ADDRESS": "MEHTA CHAMBERS BANDER ROAD KHARGATE BHAVNAGAR GUJRAT 364001",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "BHAVNAGAR LOKHAND BAZAAR",
@@ -16482,7 +16482,7 @@
         "MICR": "364485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16501,12 +16501,12 @@
         "MICR": "392485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NO 7 8 9 10 11 BALAJI AVENUE VANTHALI ROAD JUNAGADH 362001 GUJARAT",
+        "ADDRESS": "GROUND FLOOR SHOP NO 7 8 9 10 11 BALAJI AVENUE VANTHALI ROAD JUNAGADH 362001 GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "JUNAGADH VANTHALI ROAD BRANCH",
@@ -16519,12 +16519,12 @@
         "MICR": "362485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "HOUSE NO 126,VILLAGE RABOD,PIN 389310,TALUK KALOL,DISTRICT PANCH MAHALS GUJARAT",
+        "ADDRESS": "HOUSE NO 126,VILLAGE RABOD,PIN 389310,TALUK KALOL,DISTRICT PANCH MAHALS GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "RABOD PANCH MAHALS BRANCH",
@@ -16537,12 +16537,12 @@
         "MICR": "389485501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "HOUSE NO 419 BY 1 VILLAGE KANDACH INAMI,PIN 389310,TALUK KALOL,DISTRICT PANCH MAHALS.GUJARAT",
+        "ADDRESS": "HOUSE NO 419 BY 1 VILLAGE KANDACH INAMI,PIN 389310,TALUK KALOL,DISTRICT PANCH MAHALS.GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "KANDACH PANCH MAHALS BRANCH",
@@ -16555,13 +16555,13 @@
         "MICR": "389485502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     
     {
-        "ADDRESS": "Kotak Mahindra Bank Limited Ground Floor, Plot No. 142, Bus Stand Road, Near Ratan Park Society, Borsad - 388540, Taluka : Borsad, Distrct : Anand. Gujarat.",
+        "ADDRESS": "Kotak Mahindra Bank Limited Ground Floor, Plot No. 142, Bus Stand Road, Near Ratan Park Society, Borsad - 388540, Taluka : Borsad, Distrct : Anand. GUJRAT.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "Borsad Branch Anand",
@@ -16574,12 +16574,12 @@
         "MICR": "389485042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Kotak Mahindra Bank Limited Ground Floor, Shop No 1,2,3 & 4, Shree Nijanand Darshan Complex, Derol Station Road, Kalol - 389330, Taluka: Kalol, District : Panch Mahals, Gujarat.",
+        "ADDRESS": "Kotak Mahindra Bank Limited Ground Floor, Shop No 1,2,3 & 4, Shree Nijanand Darshan Complex, Derol Station Road, Kalol - 389330, Taluka: Kalol, District : Panch Mahals, GUJRAT.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "Panch Mahals Branch Kalol",
@@ -16592,12 +16592,12 @@
         "MICR": "383485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD, SHOP NO 11,12 & 13, GROUND FLOOR, ABHISHREE COMPLEX, SURVEY NO 297, NEAR SABAR DAIRY, NH NO 8, POST : HAJIPUR, TALUKA: HIMATNAGAR - 383001, GUJARAT",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD, SHOP NO 11,12 & 13, GROUND FLOOR, ABHISHREE COMPLEX, SURVEY NO 297, NEAR SABAR DAIRY, NH NO 8, POST : HAJIPUR, TALUKA: HIMATNAGAR - 383001, GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "HAJIPUR BRANCH",
@@ -16610,7 +16610,7 @@
         "MICR": "393485052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16628,7 +16628,7 @@
         "MICR": "396485032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16646,7 +16646,7 @@
         "MICR": "361485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16664,7 +16664,7 @@
         "MICR": "361485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16682,7 +16682,7 @@
         "MICR": "395485019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16700,7 +16700,7 @@
         "MICR": "395485015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16718,12 +16718,12 @@
         "MICR": "395485014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "B WING SILICON SHOPPERS MAIN ROAD UDHNA SURAT GUJARAT 394210",
+        "ADDRESS": "B WING SILICON SHOPPERS MAIN ROAD UDHNA SURAT GUJRAT 394210",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "SURAT UDHNA ROAD",
@@ -16736,12 +16736,12 @@
         "MICR": "395485018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "G 1 A WING INTERNATIONAL COMMERCE CENTRE ICC SAGRAMPURA RING ROAD SURAT GUJARAT 395002",
+        "ADDRESS": "G 1 A WING INTERNATIONAL COMMERCE CENTRE ICC SAGRAMPURA RING ROAD SURAT GUJRAT 395002",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "SURAT ICC TOWER RING ROAD",
@@ -16754,7 +16754,7 @@
         "MICR": "395485017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16772,12 +16772,12 @@
         "MICR": "395485016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GR FLOOR BLOCK NO 100 RS109 POST NAVAGAM KAMREJ CHAR RASTA DISTRICT SURAT GUJARAT",
+        "ADDRESS": "GR FLOOR BLOCK NO 100 RS109 POST NAVAGAM KAMREJ CHAR RASTA DISTRICT SURAT GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "KAMREJ CHAR RASTA BRANCH",
@@ -16790,7 +16790,7 @@
         "MICR": "395485013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16808,7 +16808,7 @@
         "MICR": "395485012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16826,7 +16826,7 @@
         "MICR": "395485011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16844,7 +16844,7 @@
         "MICR": "395485010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16862,7 +16862,7 @@
         "MICR": "395485009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16880,7 +16880,7 @@
         "MICR": "360485010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16898,7 +16898,7 @@
         "MICR": "360485008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16916,7 +16916,7 @@
         "MICR": "360485009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16934,7 +16934,7 @@
         "MICR": "360485007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16952,7 +16952,7 @@
         "MICR": "360485005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16970,7 +16970,7 @@
         "MICR": "360485006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16988,7 +16988,7 @@
         "MICR": "360485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17006,7 +17006,7 @@
         "MICR": "360485081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17024,12 +17024,12 @@
         "MICR": "360485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Kotak Mahindra Bank Ltd, Rajkot Branch- Gujarat, Ground Floor, Shop No. 8, The Imperial Heights, 150ft Rina Road, Rajkot-360005",
+        "ADDRESS": "Kotak Mahindra Bank Ltd, Rajkot Branch- GUJRAT, Ground Floor, Shop No. 8, The Imperial Heights, 150ft Rina Road, Rajkot-360005",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "Rajkot Rina Road Branch",
@@ -17042,7 +17042,7 @@
         "MICR": "360485041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17060,7 +17060,7 @@
         "MICR": "390485012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17078,7 +17078,7 @@
         "MICR": "390485010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17096,7 +17096,7 @@
         "MICR": "390485009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17114,12 +17114,12 @@
         "MICR": "390485008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VASNA ROAD BRANCH VADODARA GROUND FLOOR PANCHAM ICON VASNA ROAD VADODARA GUJARAT 390015",
+        "ADDRESS": "VASNA ROAD BRANCH VADODARA GROUND FLOOR PANCHAM ICON VASNA ROAD VADODARA GUJRAT 390015",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "VASNA ROAD BRANCH",
@@ -17132,7 +17132,7 @@
         "MICR": "390485007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17150,7 +17150,7 @@
         "MICR": "390485006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17168,12 +17168,12 @@
         "MICR": "390485005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DREAM ICONIA NEXT TO PATIDAR COMPLEX MANJALPUR VADODARA GUJARAT 390007",
+        "ADDRESS": "DREAM ICONIA NEXT TO PATIDAR COMPLEX MANJALPUR VADODARA GUJRAT 390007",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "VADODARA MANJALPUR",
@@ -17186,7 +17186,7 @@
         "MICR": "390485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17204,7 +17204,7 @@
         "MICR": "380485045",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17222,7 +17222,7 @@
         "MICR": "380485037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17240,7 +17240,7 @@
         "MICR": "380485036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17258,7 +17258,7 @@
         "MICR": "380485035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17276,7 +17276,7 @@
         "MICR": "380485034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17294,7 +17294,7 @@
         "MICR": "380485033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17312,7 +17312,7 @@
         "MICR": "380485041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17330,7 +17330,7 @@
         "MICR": "380485040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17348,12 +17348,12 @@
         "MICR": "380485039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "289 SAKAR BAZAR OPP MASKATI MARKET GATE NO 2 KALUPUR AHMEDABAD GUJARAT PIN CODE 380002",
+        "ADDRESS": "289 SAKAR BAZAR OPP MASKATI MARKET GATE NO 2 KALUPUR AHMEDABAD GUJRAT PIN CODE 380002",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "AHMEDABAD MASKATI MARKET",
@@ -17366,7 +17366,7 @@
         "MICR": "380485038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17384,7 +17384,7 @@
         "MICR": "380485031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17402,7 +17402,7 @@
         "MICR": "380485030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17420,12 +17420,12 @@
         "MICR": "380485032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RAJSHREE ENCLAVE OPP TULIP CITADEL AMBAWADI AHMEDABAD AND GUJARAT 380006",
+        "ADDRESS": "RAJSHREE ENCLAVE OPP TULIP CITADEL AMBAWADI AHMEDABAD AND GUJRAT 380006",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "AHMEDABAD MANEK BAGH",
@@ -17438,7 +17438,7 @@
         "MICR": "380485029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17456,7 +17456,7 @@
         "MICR": "380485028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17474,7 +17474,7 @@
         "MICR": "380485027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17492,7 +17492,7 @@
         "MICR": "380485026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17510,7 +17510,7 @@
         "MICR": "380485025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17528,7 +17528,7 @@
         "MICR": "380485023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17546,7 +17546,7 @@
         "MICR": "380485024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17564,12 +17564,12 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Kotak Mahindra Bank Limited Sumel Business Park \u2013III Branch, Ground floor, Shop No. 26,27,28 & 29, Block \u2013A, Sumel Business Park-III, Raipur- Ahmedabad PIN : 380002, Gujarat",
+        "ADDRESS": "Kotak Mahindra Bank Limited Sumel Business Park \u2013III Branch, Ground floor, Shop No. 26,27,28 & 29, Block \u2013A, Sumel Business Park-III, Raipur- Ahmedabad PIN : 380002, GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "Raipur Branch Ahmedabad",
@@ -17582,12 +17582,12 @@
         "MICR": "380485022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Kotak Mahindra Bank Limited Shop No 111,112,113,114 and 115, Ground Floor, Silver Plaza, Naya Bazar, Opp. Shiv Ganga Complex, Bavla - 382220, Taluk : Bavla, District : Ahmedabad, Gujarat.",
+        "ADDRESS": "Kotak Mahindra Bank Limited Shop No 111,112,113,114 and 115, Ground Floor, Silver Plaza, Naya Bazar, Opp. Shiv Ganga Complex, Bavla - 382220, Taluk : Bavla, District : Ahmedabad, GUJRAT.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "Bavla Branch, Ahmadabad",
@@ -17600,7 +17600,7 @@
         "MICR": "380485020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17618,7 +17618,7 @@
         "MICR": "380485021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17636,7 +17636,7 @@
         "MICR": "380485019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17654,12 +17654,12 @@
         "MICR": "380485018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD, SANAND BRANCH-AHMEDABAD, PLOT NO. C-5, SHIV KRUPA CO-OPERATIVE HOUSING SCO., SANAND SARKHEJ HIGHWAY, SANAND-382110, AHMEDABAD- GUJARAT.",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD, SANAND BRANCH-AHMEDABAD, PLOT NO. C-5, SHIV KRUPA CO-OPERATIVE HOUSING SCO., SANAND SARKHEJ HIGHWAY, SANAND-382110, AHMEDABAD- GUJRAT.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "SANAND BRANCH- AHMEDABAD",
@@ -17672,7 +17672,7 @@
         "MICR": "380485017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17690,7 +17690,7 @@
         "MICR": "380485016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19595,7 +19595,7 @@
     },
     
     {
-        "ADDRESS": "GUJARAT BHAVAN SATYAM APARTMENT 8 WARDHA ROAD DHANTOLI NAGPUR 440012",
+        "ADDRESS": "GUJRAT BHAVAN SATYAM APARTMENT 8 WARDHA ROAD DHANTOLI NAGPUR 440012",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "NAGPUR",
@@ -21791,7 +21791,7 @@
         "MICR": "364485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21809,7 +21809,7 @@
         "MICR": "395485008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21827,7 +21827,7 @@
         "MICR": "395485006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21845,7 +21845,7 @@
         "MICR": "395485007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21863,12 +21863,12 @@
         "MICR": "394485071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD. GROUND FLOOR, 1,2,3 & 4, THAKORJI COMMERCIAL COMPLEX, MOUJE-PALSANA, TALLUKA- PALSANA, DIST.-SURAT, PIN- 394 315 GUJARAT",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD. GROUND FLOOR, 1,2,3 & 4, THAKORJI COMMERCIAL COMPLEX, MOUJE-PALSANA, TALLUKA- PALSANA, DIST.-SURAT, PIN- 394 315 GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "PALSANA",
@@ -21881,12 +21881,12 @@
         "MICR": "394485502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD. PLOT NO 319  SECTOR 16  G H ROAD  GANDHINAGAR - 382 016  GUJARAT",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD. PLOT NO 319  SECTOR 16  G H ROAD  GANDHINAGAR - 382 016  GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "GANDHINAGAR",
@@ -21899,12 +21899,12 @@
         "MICR": "380485008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD. GROUND FLOOR, AGRAWAL COMPLEX, PALACE ROAD, PALANPUR - 385 001,GUJARAT.",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD. GROUND FLOOR, AGRAWAL COMPLEX, PALACE ROAD, PALANPUR - 385 001,GUJRAT.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "PALANPUR",
@@ -21917,7 +21917,7 @@
         "MICR": "385485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21935,12 +21935,12 @@
         "MICR": "395485005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD,1ST FLOOR,SHANTI POINT,SURAT - CLOTH MARKET (RING ROAD)SURAT - 395002,GUJARAT,INDIA",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD,1ST FLOOR,SHANTI POINT,SURAT - CLOTH MARKET (RING ROAD)SURAT - 395002,GUJRAT,INDIA",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "SURAT - RING ROAD",
@@ -21953,7 +21953,7 @@
         "MICR": "395485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21971,12 +21971,12 @@
         "MICR": "395485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO. 6-11, YASH KAMAL COMPLEX, DAHEJ BY PASS ROAD LINK ROAD CROSSING NANDELAV( BHARUCH) GUJARAT - 392 002",
+        "ADDRESS": "SHOP NO. 6-11, YASH KAMAL COMPLEX, DAHEJ BY PASS ROAD LINK ROAD CROSSING NANDELAV( BHARUCH) GUJRAT - 392 002",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "NANDELAV",
@@ -21989,7 +21989,7 @@
         "MICR": "392485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22007,7 +22007,7 @@
         "MICR": "396485061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22025,7 +22025,7 @@
         "MICR": "395485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22043,12 +22043,12 @@
         "MICR": "384485101",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD, GROUND FLOOR, MEZANINE FLOOR , & FIST FLOOR, BLOCK #2, JUBILIEE COLONY, NEAR JUBILEE GROUND, BHUJ \u2013 370001, DISTRICT- KUTCH, GUJARAT",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD, GROUND FLOOR, MEZANINE FLOOR , & FIST FLOOR, BLOCK #2, JUBILIEE COLONY, NEAR JUBILEE GROUND, BHUJ \u2013 370001, DISTRICT- KUTCH, GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "BHUJ BRANCH",
@@ -22061,12 +22061,12 @@
         "MICR": "370485051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD, GROUND FLOOR, SHOP NO.3 & 4, ISCON ARCADE COLLEGE ROAD, NADIAD, DIST KHEDA GUJARAT 387001",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD, GROUND FLOOR, SHOP NO.3 & 4, ISCON ARCADE COLLEGE ROAD, NADIAD, DIST KHEDA GUJRAT 387001",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "NADIAD BRANCH",
@@ -22079,12 +22079,12 @@
         "MICR": "387485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD, GR. FLR, SNATARAM SQUARE, AMUL DAIRY ROAD, ANAND, GUJARAT - 388 001.",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD, GR. FLR, SNATARAM SQUARE, AMUL DAIRY ROAD, ANAND, GUJRAT - 388 001.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "ANAND BRANCH",
@@ -22097,12 +22097,12 @@
         "MICR": "388485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD, SHYAM SHARAD COMPLEX, HALOL - BARODA ROAD, (NR. BUS STAND), HALOL, GUJARAT - 389 950.",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD, SHYAM SHARAD COMPLEX, HALOL - BARODA ROAD, (NR. BUS STAND), HALOL, GUJRAT - 389 950.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "HALOL BRANCH",
@@ -22115,12 +22115,12 @@
         "MICR": "389485041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD. KABIR PLAZA, SHOP NO 15-17, GROUND FLOOR, SHOP NO 11-15, 1ST FLOOR, BHAVAN\u2019S MAKARPURA ROAD, TARSHALI VILLAGE, VADODARA, GUJARAT - 390 009.",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD. KABIR PLAZA, SHOP NO 15-17, GROUND FLOOR, SHOP NO 11-15, 1ST FLOOR, BHAVAN\u2019S MAKARPURA ROAD, TARSHALI VILLAGE, VADODARA, GUJRAT - 390 009.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "VADODARA - TARSHALI",
@@ -22133,12 +22133,12 @@
         "MICR": "390485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR, SHOP NO.9,10,11, GAJANAND PLAZA OPP S T DEPOT HALOL ROAD ALIPURA BODELI GUJARAT 391135",
+        "ADDRESS": "FIRST FLOOR, SHOP NO.9,10,11, GAJANAND PLAZA OPP S T DEPOT HALOL ROAD ALIPURA BODELI GUJRAT 391135",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "BODELI",
@@ -22151,7 +22151,7 @@
         "MICR": "391485081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22169,12 +22169,12 @@
         "MICR": "390485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD, CHANDKHEDA BRANCH- AHMEDABAD., SHOP NO. 16,17,18 & 19 ON THE FIRST FLOOR, SHOP NO. G 13, ON THE GROUND FLOOR, SHYAMAL COMPLEX, NEW C G ROAD, CHANDKHEDA, AHMEDABAD-382424- GUJARAT",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD, CHANDKHEDA BRANCH- AHMEDABAD., SHOP NO. 16,17,18 & 19 ON THE FIRST FLOOR, SHOP NO. G 13, ON THE GROUND FLOOR, SHYAMAL COMPLEX, NEW C G ROAD, CHANDKHEDA, AHMEDABAD-382424- GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "CHANDKHEDA BRANCH",
@@ -22187,7 +22187,7 @@
         "MICR": "380485014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22205,7 +22205,7 @@
         "MICR": "380485011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22223,12 +22223,12 @@
         "MICR": "380485012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "UNIT NO 1 GAGANDIP TOWER A PALDI CROSS ROAD ASHRAM ROAD AHMEDABAD GUJARAT 380009",
+        "ADDRESS": "UNIT NO 1 GAGANDIP TOWER A PALDI CROSS ROAD ASHRAM ROAD AHMEDABAD GUJRAT 380009",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "AHMEDABAD PALDI GAGANDIP",
@@ -22241,7 +22241,7 @@
         "MICR": "380485010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22259,12 +22259,12 @@
         "MICR": "365485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1ST FLOOR PRANAV COMPLEX NR OLD VIJAY TRANSPORT BUS STAND ROAD SURENDRANAGAR GUJARAT -363 002",
+        "ADDRESS": "1ST FLOOR PRANAV COMPLEX NR OLD VIJAY TRANSPORT BUS STAND ROAD SURENDRANAGAR GUJRAT -363 002",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "SURENDRANAGAR",
@@ -22277,12 +22277,12 @@
         "MICR": "363485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO 5 & 6, MAHALAXMI SOCIETY, VAPI DAMAN ROAD, CHALA, VAPI, GUJARAT\nPIN CODE 396 191\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "ADDRESS": "PLOT NO 5 & 6, MAHALAXMI SOCIETY, VAPI DAMAN ROAD, CHALA, VAPI, GUJRAT\nPIN CODE 396 191\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "VAPI",
@@ -22295,7 +22295,7 @@
         "MICR": "396485070",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22313,7 +22313,7 @@
         "MICR": "388485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22331,12 +22331,12 @@
         "MICR": "360485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MEENA DEVI BHAVAN TOWN HALL ROAD OPP SUPER MARKET JAMNAGAR GUJARAT 361001",
+        "ADDRESS": "MEENA DEVI BHAVAN TOWN HALL ROAD OPP SUPER MARKET JAMNAGAR GUJRAT 361001",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "JAMNAGAR TOWN HALL ROAD",
@@ -22349,12 +22349,12 @@
         "MICR": "361485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD 16, AJANTA SHOPPING CENTRE PLOT NO.15 & 16, SURVEY NO. 3, PAIKI, MOJUE GANESHPUR, TAL - MODASA DIST - SABARKANTHA, GUJARAT - 383315",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD 16, AJANTA SHOPPING CENTRE PLOT NO.15 & 16, SURVEY NO. 3, PAIKI, MOJUE GANESHPUR, TAL - MODASA DIST - SABARKANTHA, GUJRAT - 383315",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "MODASA",
@@ -22367,7 +22367,7 @@
         "MICR": "383485051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22385,12 +22385,12 @@
         "MICR": "380485009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD. GROUND FLOOR, CENTRAL PARK, DURGA MILLS COMPOUND, GADI ROAD, DAHOD, PIN-389 151 GUJARAT\u00a0",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD. GROUND FLOOR, CENTRAL PARK, DURGA MILLS COMPOUND, GADI ROAD, DAHOD, PIN-389 151 GUJRAT\u00a0",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "DAHOD",
@@ -22403,12 +22403,12 @@
         "MICR": "389485021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD. GROUND FLOOR, ISHWAR COMPLEX, OPP. GURUKUL TOWERS,  DRIVE IN ROAD,  AHMEDABAD - 380 052 GUJARAT",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD. GROUND FLOOR, ISHWAR COMPLEX, OPP. GURUKUL TOWERS,  DRIVE IN ROAD,  AHMEDABAD - 380 052 GUJRAT",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "AHMEDABAD - DRIVE IN",
@@ -22421,12 +22421,12 @@
         "MICR": "380485007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO  : 63/64/65/66 GR FLOOR ADITYA COMPLEX NEW BUS STAND NH - 14 NR JALARAM MANDIR DEESA GUJARAT - 385 535",
+        "ADDRESS": "SHOP NO  : 63/64/65/66 GR FLOOR ADITYA COMPLEX NEW BUS STAND NH - 14 NR JALARAM MANDIR DEESA GUJRAT - 385 535",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "DEESA",
@@ -22439,7 +22439,7 @@
         "MICR": "385485031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22475,7 +22475,7 @@
         "MICR": "370485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22493,12 +22493,12 @@
         "MICR": "384485121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, SAI KEVAL, JALARAM ROAD,\nVALSAD-369001, GUJARAT.",
+        "ADDRESS": "GROUND FLOOR, SAI KEVAL, JALARAM ROAD,\nVALSAD-369001, GUJRAT.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "VALSAD",
@@ -22511,7 +22511,7 @@
         "MICR": "396485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22529,12 +22529,12 @@
         "MICR": "393485051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "5,6,7,8, SILVER PLAZA, RAM CHOWK, SAVASAR PLOT,\nMAIN ROAD, MORBI, DIST. RAJKOT, GUJARAT.",
+        "ADDRESS": "5,6,7,8, SILVER PLAZA, RAM CHOWK, SAVASAR PLOT,\nMAIN ROAD, MORBI, DIST. RAJKOT, GUJRAT.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "MORVI",
@@ -22547,12 +22547,12 @@
         "MICR": "363485021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PITRU CHAYA, STATION ROAD, BARDOLI-394 601. GUJARAT.",
+        "ADDRESS": "PITRU CHAYA, STATION ROAD, BARDOLI-394 601. GUJRAT.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "BARDOLI",
@@ -22565,7 +22565,7 @@
         "MICR": "394485051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22583,7 +22583,7 @@
         "MICR": "384485051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22601,7 +22601,7 @@
         "MICR": "382485021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22619,7 +22619,7 @@
         "MICR": "383485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22637,7 +22637,7 @@
         "MICR": "384485001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22655,7 +22655,7 @@
         "MICR": "380485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22673,7 +22673,7 @@
         "MICR": "380485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22691,7 +22691,7 @@
         "MICR": "380485004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -24369,7 +24369,7 @@
         "MICR": "605485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -24387,12 +24387,12 @@
         "MICR": "620485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "17-NEW EDAPPADI ROAD,SANKARI,SALEM DISTRICT,TAMIL NADU - 637 301",
+        "ADDRESS": "17-NEW EDAPPADI ROAD,SANKARI,SALEM DISTRICT,TAMILNADU - 637 301",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "SANKARI",
@@ -24405,7 +24405,7 @@
         "MICR": "636485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24423,7 +24423,7 @@
         "MICR": "637485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24441,7 +24441,7 @@
         "MICR": "636485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24459,7 +24459,7 @@
         "MICR": "625485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24537,7 +24537,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PARK AVENUE AVINASHI ROAD TRIUPUR TAMIL NADU 641 603",
+        "ADDRESS": "PARK AVENUE AVINASHI ROAD TRIUPUR TAMILNADU 641 603",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "TIRUPPUR",
@@ -24550,7 +24550,7 @@
         "MICR": "641485102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24568,7 +24568,7 @@
         "MICR": "641485002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24586,7 +24586,7 @@
         "MICR": "641485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24604,7 +24604,7 @@
         "MICR": "600485012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24622,7 +24622,7 @@
         "MICR": "600485010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24640,7 +24640,7 @@
         "MICR": "600485009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24658,12 +24658,12 @@
         "MICR": "600485011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD.\u00a0  GROUND FLOOR, SHREE ESSARAR TOWERS, 41 VENKATNARAYANA ROAD, T.NAGAR, CHENNAI - 600 017 TAMIL NADU",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD.\u00a0  GROUND FLOOR, SHREE ESSARAR TOWERS, 41 VENKATNARAYANA ROAD, T.NAGAR, CHENNAI - 600 017 TAMILNADU",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "CHENNAI - T. NAGAR",
@@ -24676,12 +24676,12 @@
         "MICR": "600485008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD VINAYAGA MANSION, FIRST FLOOR DOOR NOS.2/44, 2/45, 2/46, 2/47 & 2/48 SUSHEELA NAGAR LAYOUT, RAJIV GANDHI ROAD [OMR], KELAMBAKKAM, TAMIL NADU - 603 103.",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD VINAYAGA MANSION, FIRST FLOOR DOOR NOS.2/44, 2/45, 2/46, 2/47 & 2/48 SUSHEELA NAGAR LAYOUT, RAJIV GANDHI ROAD [OMR], KELAMBAKKAM, TAMILNADU - 603 103.",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "KELAMBAKKAM",
@@ -24694,12 +24694,12 @@
         "MICR": "600485007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD \" SRI HARI BUILDING \" GROUND FLOOR DOOR NO 337 , ARCOT ROAD KODAMBAKKAM CHENNAI  - 600 024 TAMIL NADU",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD \" SRI HARI BUILDING \" GROUND FLOOR DOOR NO 337 , ARCOT ROAD KODAMBAKKAM CHENNAI  - 600 024 TAMILNADU",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "CHENNAI - KODAMBAKKAM",
@@ -24712,7 +24712,7 @@
         "MICR": "600485006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24730,7 +24730,7 @@
         "MICR": "600485005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24766,7 +24766,7 @@
         "MICR": "600485003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27004,7 +27004,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD,SHOP NO. 19,21 & 22,AKSHAR COMPLEX,MANDAL ROAD,AHMEDABADVIRAMGAM-382150,GUJARAT,INDIA",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD,SHOP NO. 19,21 & 22,AKSHAR COMPLEX,MANDAL ROAD,AHMEDABADVIRAMGAM-382150,GUJRAT,INDIA",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "VIRAMGAM - AHMEDABAD",
@@ -27017,12 +27017,12 @@
         "MICR": "382485061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD,GR.FLOOR,PRIME PLAZA,OPP. RAJIVBHAI TOWERS,MANINAGAR,AHMEDABAD-380008,GUJARAT,INDIA",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD,GR.FLOOR,PRIME PLAZA,OPP. RAJIVBHAI TOWERS,MANINAGAR,AHMEDABAD-380008,GUJRAT,INDIA",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "MANINAGAR - AHMEDABAD",
@@ -27035,12 +27035,12 @@
         "MICR": "380485006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOTAK MAHINDRA BANK LTD,BLOCK NO 565,SARKHEJ BAVLA,NH 8 A,CHANGODAR,TALUKA SANAND,AHMEDABAD - 382213,GUJARAT,INDIA",
+        "ADDRESS": "KOTAK MAHINDRA BANK LTD,BLOCK NO 565,SARKHEJ BAVLA,NH 8 A,CHANGODAR,TALUKA SANAND,AHMEDABAD - 382213,GUJRAT,INDIA",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "CHANGODAR",
@@ -27053,7 +27053,7 @@
         "MICR": "380485005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27364,7 +27364,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SINGHANIA HOUSE, ADJUSANT TO IDBI BANK, CIVIL LINES, RAIPUR, CHATTISGARH.492001",
+        "ADDRESS": "SINGHANIA HOUSE, ADJUSANT TO IDBI BANK, CIVIL LINES, RAIPUR, CHHATTISGARH.492001",
         "BANK": "Kotak Mahindra Bank",
         "BANKCODE": "KKBK",
         "BRANCH": "RAIPUR",

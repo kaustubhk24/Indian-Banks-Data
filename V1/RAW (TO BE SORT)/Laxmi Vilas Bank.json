@@ -13,7 +13,7 @@
         "MICR": "600056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -31,7 +31,7 @@
         "MICR": "600056105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -54,7 +54,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO.87,  BROAD BAZAARP. B.NO.35       AMBUR - 635802        VELLORE DT. TAMIL NADU",
+        "ADDRESS": "NO.87,  BROAD BAZAARP. B.NO.35       AMBUR - 635802        VELLORE DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "AMBUR",
@@ -67,7 +67,7 @@
         "MICR": "635056302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -85,12 +85,12 @@
         "MICR": "620056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "138,  KAMARAJ ROAD   ARAKANDANALLUR - 605 752 VILLUPURAM DT. TAMIL NADU",
+        "ADDRESS": "138,  KAMARAJ ROAD   ARAKANDANALLUR - 605 752 VILLUPURAM DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ARAKANDANALLUR",
@@ -103,12 +103,12 @@
         "MICR": "606056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "61, TALUK OFFICE ROAD, ARANTANGI 614 616 PUDUKKOTTAI DT , TAMIL NADU",
+        "ADDRESS": "61, TALUK OFFICE ROAD, ARANTANGI 614 616 PUDUKKOTTAI DT , TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ARANTANGI",
@@ -121,12 +121,12 @@
         "MICR": "622056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "17 D, VILANGARA STREETP.B.NO. 1    ARIYALUR - 621 704   PERAMBALUR DT.,TAMIL NADU",
+        "ADDRESS": "17 D, VILANGARA STREETP.B.NO. 1    ARIYALUR - 621 704   PERAMBALUR DT.,TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ARIYALUR",
@@ -139,12 +139,12 @@
         "MICR": "621056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "M.C. COMPLEX THATCHUR ROAD     P.B.NO. 20 ARNI - 632 301 VELLORE DT.,     TAMIL NADU",
+        "ADDRESS": "M.C. COMPLEX THATCHUR ROAD     P.B.NO. 20 ARNI - 632 301 VELLORE DT.,     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ARNI",
@@ -157,12 +157,12 @@
         "MICR": "632056202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "339- L       FIRST FLOOR   RANIPET, P.B.NO. 19   CUDDALORE,  MAIN ROAD   ATTUR - 636 102 SALEM           DT., TAMIL NADU",
+        "ADDRESS": "339- L       FIRST FLOOR   RANIPET, P.B.NO. 19   CUDDALORE,  MAIN ROAD   ATTUR - 636 102 SALEM           DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ATTUR",
@@ -175,12 +175,12 @@
         "MICR": "636056015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "47-A, FIRST FLOOR  EASWARAN KOIL STREET P.B.NO. 20  AVALPOONDURAI - 638 115 ERODE DT., TAMIL NADU",
+        "ADDRESS": "47-A, FIRST FLOOR  EASWARAN KOIL STREET P.B.NO. 20  AVALPOONDURAI - 638 115 ERODE DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "AVALPOONDURAI",
@@ -193,12 +193,12 @@
         "MICR": "638056012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "R.S.NO. 143/5 B 1MAIN ROAD ALATHUR-614901   THANJAVUR DT. TAMIL NADU",
+        "ADDRESS": "R.S.NO. 143/5 B 1MAIN ROAD ALATHUR-614901   THANJAVUR DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ALATHUR",
@@ -211,12 +211,12 @@
         "MICR": "614056104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "4/295, DHARAPURAM ROAD AMBILIKKAI - 624 612   DINDIGUL DT.,   TAMIL NADU",
+        "ADDRESS": "4/295, DHARAPURAM ROAD AMBILIKKAI - 624 612   DINDIGUL DT.,   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "AMBILIKKAI",
@@ -229,12 +229,12 @@
         "MICR": "624056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "I FLOOR, BLUE STAR COMPLEX NEAR HIGH COURT RAILWAY CROSSING, NAVRANGPURA  AHMEDABAD - 380 014, GUJARAT",
+        "ADDRESS": "I FLOOR, BLUE STAR COMPLEX NEAR HIGH COURT RAILWAY CROSSING, NAVRANGPURA  AHMEDABAD - 380 014, GUJRAT",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "AHMADABAD",
@@ -247,12 +247,12 @@
         "MICR": "380056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KAPASIA BAZAAR P.B.NO. 155        NEAR ASHOK STHUMBH ANAND - 388 001   KHEDA DT.,       GUJARAT",
+        "ADDRESS": "KAPASIA BAZAAR P.B.NO. 155        NEAR ASHOK STHUMBH ANAND - 388 001   KHEDA DT.,       GUJRAT",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ANAND",
@@ -265,7 +265,7 @@
         "MICR": "388056001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -283,12 +283,12 @@
         "MICR": "609056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "3-2-29/25,B,C&D,NATIONAL HIGHWAY,ADILABAD-504 001ANDHRAPRADESH",
+        "ADDRESS": "3-2-29/25,B,C&D,NATIONAL HIGHWAY,ADILABAD-504 001ANDHRA PRADESH",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ADILABAD",
@@ -324,7 +324,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "68 B,HARUR MAIN ROAD,AYOTHIAPATTINAM, 636 103 SALEM DT,TAMIL NADU.",
+        "ADDRESS": "68 B,HARUR MAIN ROAD,AYOTHIAPATTINAM, 636 103 SALEM DT,TAMILNADU.",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "AYOTHIAPATTINAM",
@@ -337,7 +337,7 @@
         "MICR": "636056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -409,7 +409,7 @@
         "MICR": "625056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -427,7 +427,7 @@
         "MICR": "625056015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -517,7 +517,7 @@
         "MICR": "641056018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -553,7 +553,7 @@
         "MICR": "600056035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -589,7 +589,7 @@
         "MICR": "626056202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -607,7 +607,7 @@
         "MICR": "636056026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -625,7 +625,7 @@
         "MICR": "600056041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -661,7 +661,7 @@
         "MICR": "627056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -769,7 +769,7 @@
         "MICR": "625056021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -805,7 +805,7 @@
         "MICR": "625056302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -828,7 +828,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 30 SILVER SQUARE LINK ROAD BHARUCH GUJARAT",
+        "ADDRESS": "NO 30 SILVER SQUARE LINK ROAD BHARUCH GUJRAT",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "BHARUCH",
@@ -841,7 +841,7 @@
         "MICR": "392056001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1021,7 +1021,7 @@
         "MICR": "625056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1039,7 +1039,7 @@
         "MICR": "635056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1242,7 +1242,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "16, MOHAMADIYAR STREET BHUVANAGIRI MAIN ROAD,BHUVANAGIRI - 608 601 CUDDALORE DT., TAMIL NADU",
+        "ADDRESS": "16, MOHAMADIYAR STREET BHUVANAGIRI MAIN ROAD,BHUVANAGIRI - 608 601 CUDDALORE DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "BHUVANAGIRI",
@@ -1255,7 +1255,7 @@
         "MICR": "605056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1278,7 +1278,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "8/5 D1 & 8/5 EI MAIN ROAD, 1ST FLOOR BALASAMUDRAM - 621 203 TRICHY DT., TAMIL NADU",
+        "ADDRESS": "8/5 D1 & 8/5 EI MAIN ROAD, 1ST FLOOR BALASAMUDRAM - 621 203 TRICHY DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "BALASAMUDRAM",
@@ -1291,7 +1291,7 @@
         "MICR": "620056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1458,7 +1458,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "10-182, MAIN ROAD CHINNADHARAPURAM - 639 202 KARUR DT.,        TAMIL NADU",
+        "ADDRESS": "10-182, MAIN ROAD CHINNADHARAPURAM - 639 202 KARUR DT.,        TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "CHINNADARAPURAM",
@@ -1471,12 +1471,12 @@
         "MICR": "639056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "117, BHAVANI MAIN ROAD  P.B.NO. 1    CHITTODE - 638 102     ERODE DT.,    TAMIL NADU",
+        "ADDRESS": "117, BHAVANI MAIN ROAD  P.B.NO. 1    CHITTODE - 638 102     ERODE DT.,    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "CHITTODE",
@@ -1489,7 +1489,7 @@
         "MICR": "638056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1512,7 +1512,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "68, OPPANAKKARA STREET GROUND FLOOR   NEXT TO GIRL\u2019S SCHOOL COIMBATORE - 641 001   TAMIL NADU",
+        "ADDRESS": "68, OPPANAKKARA STREET GROUND FLOOR   NEXT TO GIRL\u2019S SCHOOL COIMBATORE - 641 001   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "COIMBATORE MAIN",
@@ -1525,12 +1525,12 @@
         "MICR": "641056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GOPAL BUILDING\u201d 1157   SATHY ROAD (NEAR T.N. BUS STOP) GANAPATHY COIMBATORE - 641 006   TAMIL NADU",
+        "ADDRESS": "GOPAL BUILDING\u201d 1157   SATHY ROAD (NEAR T.N. BUS STOP) GANAPATHY COIMBATORE - 641 006   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "GANAPATHY - COIMBATORE",
@@ -1543,7 +1543,7 @@
         "MICR": "641056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1561,12 +1561,12 @@
         "MICR": "641056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "T-25, P.B.NO. 2 KOVAIPUDUR    COIMBATORE - 641 042 TAMIL NADU",
+        "ADDRESS": "T-25, P.B.NO. 2 KOVAIPUDUR    COIMBATORE - 641 042 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KOVAIPUDUR - COIMBATORE",
@@ -1579,12 +1579,12 @@
         "MICR": "641056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RN MALLIGA COMPLEX, 750-A TRICHY ROAD, 1ST FLOOR RAMANATHAPURAM  COIMBATORE - 641 045  TAMIL NADU",
+        "ADDRESS": "RN MALLIGA COMPLEX, 750-A TRICHY ROAD, 1ST FLOOR RAMANATHAPURAM  COIMBATORE - 641 045  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "RAMANATHAPURAM - COIMBATORE",
@@ -1597,7 +1597,7 @@
         "MICR": "641056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1615,12 +1615,12 @@
         "MICR": "641056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO,1, HEAD QUARTERS ROAD  1ST FLOOR, UPPILIPALAYAM COIMBATORE - 641 018   TAMIL NADU",
+        "ADDRESS": "NO,1, HEAD QUARTERS ROAD  1ST FLOOR, UPPILIPALAYAM COIMBATORE - 641 018   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "UPPILIPALAYAM - COIMBATORE",
@@ -1633,7 +1633,7 @@
         "MICR": "641056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1651,12 +1651,12 @@
         "MICR": "641056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ARULMIGU ECHANARI, VINAYAGAR TEMPLE,1/226-E, POLLACHI MAIN ROAD, ECHANARI, UPPLIPALAYAM-641 021COIMBATORE DT., TAMIL NADU",
+        "ADDRESS": "ARULMIGU ECHANARI, VINAYAGAR TEMPLE,1/226-E, POLLACHI MAIN ROAD, ECHANARI, UPPLIPALAYAM-641 021COIMBATORE DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "EACHANARY",
@@ -1669,7 +1669,7 @@
         "MICR": "641056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1687,7 +1687,7 @@
         "MICR": "641056101",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1705,7 +1705,7 @@
         "MICR": "641056195",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1723,7 +1723,7 @@
         "MICR": "625056012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1746,7 +1746,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "23, VEDA VINAYAGAR COMPLEX LAWRENCE ROAD, 1ST FLOOR CUDDALORE-607 002  TAMIL NADU",
+        "ADDRESS": "23, VEDA VINAYAGAR COMPLEX LAWRENCE ROAD, 1ST FLOOR CUDDALORE-607 002  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "CUDDALORE",
@@ -1759,12 +1759,12 @@
         "MICR": "605056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "64-65, VELAPPAR KOIL STREET 1ST FLOOR, P.B.NO. 5   CUMBUM - 625 516 THENI DT.     TAMIL NADU",
+        "ADDRESS": "64-65, VELAPPAR KOIL STREET 1ST FLOOR, P.B.NO. 5   CUMBUM - 625 516 THENI DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "CUMBUM",
@@ -1777,7 +1777,7 @@
         "MICR": "625056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1867,7 +1867,7 @@
         "MICR": "600056033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1903,7 +1903,7 @@
         "MICR": "636056030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1921,7 +1921,7 @@
         "MICR": "600056036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1993,7 +1993,7 @@
         "MICR": "605056013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2029,7 +2029,7 @@
         "MICR": "606056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2070,7 +2070,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "88-C-D, BYE PASS ROAD DHARMAPURI - 636 701  TAMIL NADU",
+        "ADDRESS": "88-C-D, BYE PASS ROAD DHARMAPURI - 636 701  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "DHARMAPURI",
@@ -2083,12 +2083,12 @@
         "MICR": "636056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "P.N. TOWERS, 47/2  1ST FLOOR, PENSIONER STREET P.B.NO. 40DINDIGUL - 624 001 TAMIL NADU",
+        "ADDRESS": "P.N. TOWERS, 47/2  1ST FLOOR, PENSIONER STREET P.B.NO. 40DINDIGUL - 624 001 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "DINDIGUL",
@@ -2101,7 +2101,7 @@
         "MICR": "625056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2124,7 +2124,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DODDAVARAM VILLAGE, MADDIPADU (MANDAL), PRAKASAM DT - 523263.  ANDHRAPRADESH",
+        "ADDRESS": "DODDAVARAM VILLAGE, MADDIPADU (MANDAL), PRAKASAM DT - 523263.  ANDHRA PRADESH",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "DODDAVARAM",
@@ -2173,7 +2173,7 @@
         "MICR": "638056302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2209,7 +2209,7 @@
         "MICR": "635056403",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2250,7 +2250,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 1179 28 DHANRAJ COMPOUND STATION ROAD DURG CHATTISGARH 491001",
+        "ADDRESS": "NO 1179 28 DHANRAJ COMPOUND STATION ROAD DURG CHHATTISGARH 491001",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "DURG",
@@ -2299,7 +2299,7 @@
         "MICR": "630056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2317,12 +2317,12 @@
         "MICR": "638056020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "77, 1ST FLOOR THIRUVENKADASAMY STREET ERODE - 638 001 TAMIL NADU",
+        "ADDRESS": "77, 1ST FLOOR THIRUVENKADASAMY STREET ERODE - 638 001 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ERODE",
@@ -2335,7 +2335,7 @@
         "MICR": "638056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2407,12 +2407,12 @@
         "MICR": "639056013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOTNO. 283 WARD 12-B, MAIN MARKET GANDHIDHAM, KUTCH DT. GUJARAT - 370 021",
+        "ADDRESS": "PLOTNO. 283 WARD 12-B, MAIN MARKET GANDHIDHAM, KUTCH DT. GUJRAT - 370 021",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "GANDHIDHAM",
@@ -2425,12 +2425,12 @@
         "MICR": "370056001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "8-120, MAIN ROAD    GOPALPATTI - 624 308 VEMBARPATTI P.O.     DINDIGUL DT.  TAMIL NADU",
+        "ADDRESS": "8-120, MAIN ROAD    GOPALPATTI - 624 308 VEMBARPATTI P.O.     DINDIGUL DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "GOPALPATTI",
@@ -2443,7 +2443,7 @@
         "MICR": "625056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2466,7 +2466,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO. 79, \u201cRAM COMPLEX\u201d  1ST FLOOR, KUTCHERY ROAD GOBICHETTIPALAYAM - 638 452 ERODE DT.  TAMIL NADU",
+        "ADDRESS": "NO. 79, \u201cRAM COMPLEX\u201d  1ST FLOOR, KUTCHERY ROAD GOBICHETTIPALAYAM - 638 452 ERODE DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "GOBICHETTIPALAYAM",
@@ -2479,7 +2479,7 @@
         "MICR": "638056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2502,7 +2502,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ROADNO. 5, NEAR GH 5   SECTOR - 16, P.B.NO. 5 SIDDHARTH LAW COLLEGE CAMPUS GANDHINAGAR - 382 016        GUJARAT",
+        "ADDRESS": "ROADNO. 5, NEAR GH 5   SECTOR - 16, P.B.NO. 5 SIDDHARTH LAW COLLEGE CAMPUS GANDHINAGAR - 382 016        GUJRAT",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "GANDHINAGAR",
@@ -2515,7 +2515,7 @@
         "MICR": "380056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2623,7 +2623,7 @@
         "MICR": "600056026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2677,7 +2677,7 @@
         "MICR": "605056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2767,7 +2767,7 @@
         "MICR": "635056402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2875,12 +2875,12 @@
         "MICR": "636056029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "2/18, CHETTIAR STREET IYYAMPALAYAM - 624 204 DINDIGUL DT.     TAMIL NADU",
+        "ADDRESS": "2/18, CHETTIAR STREET IYYAMPALAYAM - 624 204 DINDIGUL DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "IYYAMPALAYAM",
@@ -2893,12 +2893,12 @@
         "MICR": "625056203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "10/190, PALANI ROAD IDAYAKOTTAI - 624704   DINDIGUL DT.  TAMIL NADU",
+        "ADDRESS": "10/190, PALANI ROAD IDAYAKOTTAI - 624704   DINDIGUL DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "IDAYAKOTTAI",
@@ -2911,7 +2911,7 @@
         "MICR": "625056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3019,7 +3019,7 @@
         "MICR": "600056045",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3150,7 +3150,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "58, VANDIMEDUP.B.NO. 3   JALAKANDAPURAM - 636 501 SALEM DT.      TAMIL NADU",
+        "ADDRESS": "58, VANDIMEDUP.B.NO. 3   JALAKANDAPURAM - 636 501 SALEM DT.      TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "JALAKANDAPURAM",
@@ -3163,12 +3163,12 @@
         "MICR": "636056012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "HOTEL STAY BUILDING  NEAR AMBER CINEMA    PLOTNO.34-G,   PANDIT NEHRY MARG  JAMNAGAR   GUJARAT",
+        "ADDRESS": "HOTEL STAY BUILDING  NEAR AMBER CINEMA    PLOTNO.34-G,   PANDIT NEHRY MARG  JAMNAGAR   GUJRAT",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "JAMNAGAR",
@@ -3181,7 +3181,7 @@
         "MICR": "361056001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3217,7 +3217,7 @@
         "MICR": "639056014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3271,7 +3271,7 @@
         "MICR": "636056024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3325,7 +3325,7 @@
         "MICR": "641056020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3361,7 +3361,7 @@
         "MICR": "622056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3379,7 +3379,7 @@
         "MICR": "626056403",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3397,7 +3397,7 @@
         "MICR": "641056019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3433,7 +3433,7 @@
         "MICR": "636056019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3451,7 +3451,7 @@
         "MICR": "620056015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3474,7 +3474,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "M/S. VYSYA MODERN RICE MILL, CHURCH COMPLEX STREET,MAIN ROAD, CHINNASALEM - 606 201VILLUPURAM DT., TAMIL NADU",
+        "ADDRESS": "M/S. VYSYA MODERN RICE MILL, CHURCH COMPLEX STREET,MAIN ROAD, CHINNASALEM - 606 201VILLUPURAM DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "CHINNA SALEM",
@@ -3487,7 +3487,7 @@
         "MICR": "606056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3505,12 +3505,12 @@
         "MICR": "607056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "D.NO. 19, SALEM MAIN ROAD KALLAKURICHI - 606 202 VILLUPURAM DT.  TAMIL NADU",
+        "ADDRESS": "D.NO. 19, SALEM MAIN ROAD KALLAKURICHI - 606 202 VILLUPURAM DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KALLAKURICHI",
@@ -3523,12 +3523,12 @@
         "MICR": "606056104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "511, GANDHI ROAD   P.B.NO. 11  KANCHEEPURAM - 631 501 TAMIL NADU",
+        "ADDRESS": "511, GANDHI ROAD   P.B.NO. 11  KANCHEEPURAM - 631 501 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KANCHEEPURAM",
@@ -3541,12 +3541,12 @@
         "MICR": "600056020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1-21, CHAVADI STREET   KANDILI - 635 901  VELLORE DT.TAMIL NADU",
+        "ADDRESS": "1-21, CHAVADI STREET   KANDILI - 635 901  VELLORE DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KANDILI",
@@ -3559,12 +3559,12 @@
         "MICR": "635056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "45, P.S.G. BUILDINGS, CHENNIMALAI ROADP.B.NO. 12  KANGAYAM - 638 701    ERODE DT.    TAMIL NADU",
+        "ADDRESS": "45, P.S.G. BUILDINGS, CHENNIMALAI ROADP.B.NO. 12  KANGAYAM - 638 701    ERODE DT.    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KANGAYAM",
@@ -3577,7 +3577,7 @@
         "MICR": "638056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3595,12 +3595,12 @@
         "MICR": "609056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "693, JAWAHAR BAZAAR   P.B.NO. 36  KARUR - 639 001   TAMIL NADU",
+        "ADDRESS": "693, JAWAHAR BAZAAR   P.B.NO. 36  KARUR - 639 001   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KARUR MAIN",
@@ -3613,12 +3613,12 @@
         "MICR": "639056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "118-119, JAWAHAR BAZZAR KARUR - 639 001   TAMIL NADU",
+        "ADDRESS": "118-119, JAWAHAR BAZZAR KARUR - 639 001   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KARUR WEST",
@@ -3631,12 +3631,12 @@
         "MICR": "639056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "179, ANDAPURAM ROAD KATTUPUTHUR 621207 TRICHY DT TAMIL NADU",
+        "ADDRESS": "179, ANDAPURAM ROAD KATTUPUTHUR 621207 TRICHY DT TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KATTUPUTHUR",
@@ -3649,12 +3649,12 @@
         "MICR": "639056015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "897, MAIN ROAD P.B.NO. 17  KOVILPATTI - 628 501 TIRUNELVELI DT. TAMIL NADU",
+        "ADDRESS": "897, MAIN ROAD P.B.NO. 17  KOVILPATTI - 628 501 TIRUNELVELI DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KOVILPATTI",
@@ -3667,12 +3667,12 @@
         "MICR": "627056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "25-B, COLONY ROADP.B.NO. 9   KRISHNAGIRI - 635 001 KRISHNAGIRI DT.  TAMIL NADU",
+        "ADDRESS": "25-B, COLONY ROADP.B.NO. 9   KRISHNAGIRI - 635 001 KRISHNAGIRI DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KRISHNAGIRI",
@@ -3685,12 +3685,12 @@
         "MICR": "635056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.13, 1ST FLOOR  SOMESWARAR SANNADHI STREET KUMBAKONAM - 612 001 THANJAVUR DT. TAMIL NADU",
+        "ADDRESS": "NO.13, 1ST FLOOR  SOMESWARAR SANNADHI STREET KUMBAKONAM - 612 001 THANJAVUR DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KUMBAKONAM",
@@ -3703,12 +3703,12 @@
         "MICR": "612056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "24, KALLUKATTINORTH 1ST FLOOR, P.B.NO. 30  KARAIKUDI - 630 001 SIVAGANGAI DT.     TAMIL NADU",
+        "ADDRESS": "24, KALLUKATTINORTH 1ST FLOOR, P.B.NO. 30  KARAIKUDI - 630 001 SIVAGANGAI DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KARAIKUDI",
@@ -3721,12 +3721,12 @@
         "MICR": "630056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "217/D, PTR BUILDING, ANNA SALAI MAIN ROAD, KATTUGUDALUR - 607805, CUDDALORE DT., TAMIL NADU",
+        "ADDRESS": "217/D, PTR BUILDING, ANNA SALAI MAIN ROAD, KATTUGUDALUR - 607805, CUDDALORE DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KATTUGUDALUR",
@@ -3739,7 +3739,7 @@
         "MICR": "607056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3757,12 +3757,12 @@
         "MICR": "639056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "WARDNO. 1VINAYAGAR KOVIL STREET KANJAMPATTI - 642 003 COIMBATORE DT. TAMIL NADU",
+        "ADDRESS": "WARDNO. 1VINAYAGAR KOVIL STREET KANJAMPATTI - 642 003 COIMBATORE DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KANJAMPATTI",
@@ -3775,12 +3775,12 @@
         "MICR": "641056013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "116/H-2, SALEM MAIN ROAD VENNAMALAI P.O  KATHAPARAI - 639 006   KARUR DT.        TAMIL NADU",
+        "ADDRESS": "116/H-2, SALEM MAIN ROAD VENNAMALAI P.O  KATHAPARAI - 639 006   KARUR DT.        TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KATHAPARAI - KARUR",
@@ -3793,7 +3793,7 @@
         "MICR": "639056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3870,7 +3870,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO. 7, TOWN HALL ROAD, BHARATHI VIDYALAYA HIGH SCHOOL, COMPLEX, KULITHALAI - 639 104 TRICHY DT., TAMIL NADU",
+        "ADDRESS": "NO. 7, TOWN HALL ROAD, BHARATHI VIDYALAYA HIGH SCHOOL, COMPLEX, KULITHALAI - 639 104 TRICHY DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KULITHALAI",
@@ -3883,7 +3883,7 @@
         "MICR": "620056013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3937,7 +3937,7 @@
         "MICR": "600056022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3955,7 +3955,7 @@
         "MICR": "635056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4027,7 +4027,7 @@
         "MICR": "600056031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4063,7 +4063,7 @@
         "MICR": "600056027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4117,7 +4117,7 @@
         "MICR": "600056034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4153,7 +4153,7 @@
         "MICR": "636056020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4171,7 +4171,7 @@
         "MICR": "614056105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4207,7 +4207,7 @@
         "MICR": "627056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4261,7 +4261,7 @@
         "MICR": "609056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4297,7 +4297,7 @@
         "MICR": "600056040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4333,7 +4333,7 @@
         "MICR": "625056020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4360,8 +4360,8 @@
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "LA GUDALUR",
-        "CENTRE": "PUDUCHERRY",
-        "CITY": "PUDUCHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "00",
         "DISTRICT": "VILLUPURAM",
         "IFSC": "LAVB0000405",
@@ -4369,12 +4369,12 @@
         "MICR": "605056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SRG BUILDING, 2 SIRUDAIYUR AGRAHARAM LALGUDI - 621 601     TRICHY DT. TAMIL NADU",
+        "ADDRESS": "SRG BUILDING, 2 SIRUDAIYUR AGRAHARAM LALGUDI - 621 601     TRICHY DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "LALGUDI",
@@ -4387,12 +4387,12 @@
         "MICR": "620056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "/269, MAIN ROAD LAKKAPURAM - 638 002  ERODE DT.  TAMIL NADU",
+        "ADDRESS": "/269, MAIN ROAD LAKKAPURAM - 638 002  ERODE DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "LAKKAPURAM",
@@ -4405,7 +4405,7 @@
         "MICR": "638056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4446,20 +4446,20 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 198 LAWSPET MAIN ROAD LAWSPET PUDUCHERRY",
+        "ADDRESS": "NO 198 LAWSPET MAIN ROAD LAWSPET PONDICHERRY",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "LAWSPET",
-        "CENTRE": "PUDUCHERRY",
-        "CITY": "PUDUCHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "00",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "LAVB0000410",
         "IMPS": true,
         "MICR": "605056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -4495,7 +4495,7 @@
         "MICR": "638056021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4531,7 +4531,7 @@
         "MICR": "636056027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4567,7 +4567,7 @@
         "MICR": "600056039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4585,7 +4585,7 @@
         "MICR": "636056025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4698,7 +4698,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SAKTHI TOWERS, 4TH FLOOR  F-BLOCK, 766     ANNA SALAI CHENNAI - 600 002TAMIL NADU",
+        "ADDRESS": "SAKTHI TOWERS, 4TH FLOOR  F-BLOCK, 766     ANNA SALAI CHENNAI - 600 002TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "CHENNAI - SERVICE BRANCH",
@@ -4711,12 +4711,12 @@
         "MICR": "600056001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "275, THAMBU CHETTY STREET  CHENNAI - 600 001    TAMIL NADU",
+        "ADDRESS": "275, THAMBU CHETTY STREET  CHENNAI - 600 001    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "CHENNAI MAIN",
@@ -4729,12 +4729,12 @@
         "MICR": "600056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "244, IST FLOOR  GOVINDAPPA NAICKEN STREET P.B.NO. 1633     CHENNAI - 600 001     TAMIL NADU",
+        "ADDRESS": "244, IST FLOOR  GOVINDAPPA NAICKEN STREET P.B.NO. 1633     CHENNAI - 600 001     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "GN STREET - CHENNAI.",
@@ -4747,12 +4747,12 @@
         "MICR": "600056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "323, ARCOT ROAD 1ST FLOOR   CHENNAI - 600 024    TAMIL NADU",
+        "ADDRESS": "323, ARCOT ROAD 1ST FLOOR   CHENNAI - 600 024    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KODAMBAKKAM - CHENNAI",
@@ -4765,12 +4765,12 @@
         "MICR": "600056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "636, ANNA SALAI 1ST FLOOR, (MOUNT ROAD) CHENNAI - 600 006    TAMIL NADU",
+        "ADDRESS": "636, ANNA SALAI 1ST FLOOR, (MOUNT ROAD) CHENNAI - 600 006    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MOUNT ROAD - CHENNAI",
@@ -4783,12 +4783,12 @@
         "MICR": "600056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "38,NORTH MADA STREET MYLAPORE  CHENNAI - 600 004  TAMIL NADU",
+        "ADDRESS": "38,NORTH MADA STREET MYLAPORE  CHENNAI - 600 004  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MYLAPORE - CHENNAI",
@@ -4801,12 +4801,12 @@
         "MICR": "600056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "175, VALLUVAR KOTTAM HIGH ROAD, P.B.NO. 1258  S.F.I. COMPLEX, 1ST FLOOR NUNGAMBAKKAMCHENNAI - 600 034  TAMIL NADU",
+        "ADDRESS": "175, VALLUVAR KOTTAM HIGH ROAD, P.B.NO. 1258  S.F.I. COMPLEX, 1ST FLOOR NUNGAMBAKKAMCHENNAI - 600 034  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NUNGAMBAKKAM - CHENNAI",
@@ -4819,12 +4819,12 @@
         "MICR": "600056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "25, 1ST FLOOR, PURASAWALKAM HIGH ROAD, PURASAWALKAM CHENNAI - 600 007   TAMIL NADU",
+        "ADDRESS": "25, 1ST FLOOR, PURASAWALKAM HIGH ROAD, PURASAWALKAM CHENNAI - 600 007   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PURASAIWALKAM - CHENNAI",
@@ -4837,12 +4837,12 @@
         "MICR": "600056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "130, SURYA NARAYANA CHETTY STREET, ROYAPURAM CHENNAI - 600 013   TAMIL NADU",
+        "ADDRESS": "130, SURYA NARAYANA CHETTY STREET, ROYAPURAM CHENNAI - 600 013   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ROYAPURAM - CHENNAI",
@@ -4855,12 +4855,12 @@
         "MICR": "600056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "62, CATHEDRAL ROAD  P.B.NO. 4903  CHENNAI - 600 086     TAMIL NADU",
+        "ADDRESS": "62, CATHEDRAL ROAD  P.B.NO. 4903  CHENNAI - 600 086     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "CATHEDRAL ROAD - CHENNAI",
@@ -4873,7 +4873,7 @@
         "MICR": "600056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4891,12 +4891,12 @@
         "MICR": "600056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "126-A, ARCOT ROAD  1ST FLOOR, VALASARAWAKKAM CHENNAI - 600 087 KANCHEEPURAM DT. TAMIL NADU",
+        "ADDRESS": "126-A, ARCOT ROAD  1ST FLOOR, VALASARAWAKKAM CHENNAI - 600 087 KANCHEEPURAM DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VALASARAVAKKAM - CHENNAI",
@@ -4909,12 +4909,12 @@
         "MICR": "600056013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "27, RAJAJI ROAD, 1ST FLOOR WEST TAMBARAM  CHENNAI - 600 045 KANCHEEPURAM DT. TAMIL NADU",
+        "ADDRESS": "27, RAJAJI ROAD, 1ST FLOOR WEST TAMBARAM  CHENNAI - 600 045 KANCHEEPURAM DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "WEST TAMBARAM - CHENNAI",
@@ -4927,12 +4927,12 @@
         "MICR": "600056012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ZION MATRICULATION HIGHER SECONDARY SCHOOL SELAIYUR CHENNAI - 600 073 KANCHEEPURAM DT. TAMIL NADU",
+        "ADDRESS": "ZION MATRICULATION HIGHER SECONDARY SCHOOL SELAIYUR CHENNAI - 600 073 KANCHEEPURAM DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SELAIYUR - CHENNAI",
@@ -4945,7 +4945,7 @@
         "MICR": "600056014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4963,7 +4963,7 @@
         "MICR": "600056016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4981,7 +4981,7 @@
         "MICR": "600056017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4999,7 +4999,7 @@
         "MICR": "600056015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5017,7 +5017,7 @@
         "MICR": "600056018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5035,12 +5035,12 @@
         "MICR": "600056101",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOTNO.4, DOORNO.49 BHARATHI ULA ROAD    RACE COURSE, P.B.NO. 47 MADURAI- 625 002     TAMIL NADU",
+        "ADDRESS": "PLOTNO.4, DOORNO.49 BHARATHI ULA ROAD    RACE COURSE, P.B.NO. 47 MADURAI- 625 002     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TALLAKULAM - MADURAI",
@@ -5053,12 +5053,12 @@
         "MICR": "625056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "\u201cBALA SASI NIVAS\u201d, 97EAST MARRET STREET   PALACE ROAD, P.B.NO. 177 MADURAI - 625 001     TAMIL NADU",
+        "ADDRESS": "\u201cBALA SASI NIVAS\u201d, 97EAST MARRET STREET   PALACE ROAD, P.B.NO. 177 MADURAI - 625 001     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MADURAI MAIN",
@@ -5071,7 +5071,7 @@
         "MICR": "625056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5094,7 +5094,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "54, BIG BAZAAR STREET MANNARGUDI - 614 001 TIRUVARUR DT.  TAMIL NADU",
+        "ADDRESS": "54, BIG BAZAAR STREET MANNARGUDI - 614 001 TIRUVARUR DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MANNARGUDI",
@@ -5107,12 +5107,12 @@
         "MICR": "614056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "\u201cKRISHNA COMPLEX\u201d  HIGH SCHOOL ROAD MARANDAHALLI - 636 806 DHARMAPURI DT. TAMIL NADU",
+        "ADDRESS": "\u201cKRISHNA COMPLEX\u201d  HIGH SCHOOL ROAD MARANDAHALLI - 636 806 DHARMAPURI DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MARANDAHALLI",
@@ -5125,12 +5125,12 @@
         "MICR": "636056104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "195, ALAGAR KOVIL ROAD   P.B.NO. 7  MELUR - 625 106MADURAI DT. TAMIL NADU",
+        "ADDRESS": "195, ALAGAR KOVIL ROAD   P.B.NO. 7  MELUR - 625 106MADURAI DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MELUR",
@@ -5143,12 +5143,12 @@
         "MICR": "625056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "79A, NVC BUILDING, 1ST FLOOR OOTY MAIN ROAD METTUPALAYAM - 641 301 COIMBATORE DT.  TAMIL NADU",
+        "ADDRESS": "79A, NVC BUILDING, 1ST FLOOR OOTY MAIN ROAD METTUPALAYAM - 641 301 COIMBATORE DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "METTUPALAYAM",
@@ -5161,12 +5161,12 @@
         "MICR": "641056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1/216, MAIN ROAD  MOOLANGUDI - 610 102. KAMALAPURAM POST TIRUVARUR (VIA) TIRUVARUR DT.TAMIL NADU",
+        "ADDRESS": "1/216, MAIN ROAD  MOOLANGUDI - 610 102. KAMALAPURAM POST TIRUVARUR (VIA) TIRUVARUR DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MOOLANGUDI",
@@ -5179,12 +5179,12 @@
         "MICR": "610056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.50, 1ST FLOORKUMARAN BAZAAR     MUTHUPET - 614 704 TIRUVARUR DT.TAMIL NADU",
+        "ADDRESS": "NO.50, 1ST FLOORKUMARAN BAZAAR     MUTHUPET - 614 704 TIRUVARUR DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MUTHUPET",
@@ -5197,12 +5197,12 @@
         "MICR": "614056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "A.R. COMPLEX, 99-T  VELLAKOIL ROAD MUTHUR - 638 105 ERODE DT.     TAMIL NADU",
+        "ADDRESS": "A.R. COMPLEX, 99-T  VELLAKOIL ROAD MUTHUR - 638 105 ERODE DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MUTHUR",
@@ -5215,12 +5215,12 @@
         "MICR": "638056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "4/273, SALEM MAIN ROAD MANAMEDU - 621 209   TRICHY DT.   TAMIL NADU",
+        "ADDRESS": "4/273, SALEM MAIN ROAD MANAMEDU - 621 209   TRICHY DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MANAMEDU",
@@ -5233,7 +5233,7 @@
         "MICR": "620056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5256,7 +5256,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "27-B, TOWN EXTENSION ROAD P.B.NO. 78     MAYILADUTHURAI - 609 001 NAGAPATTINAM DT. TAMIL NADU",
+        "ADDRESS": "27-B, TOWN EXTENSION ROAD P.B.NO. 78     MAYILADUTHURAI - 609 001 NAGAPATTINAM DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MAYILADUTHURAI",
@@ -5269,12 +5269,12 @@
         "MICR": "609056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "43 D BAJANAI MUTT STREET MADUKKUR TOWN 614 903 THANJAVUR DT TAMIL NADU",
+        "ADDRESS": "43 D BAJANAI MUTT STREET MADUKKUR TOWN 614 903 THANJAVUR DT TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MADUKKUR TOWN",
@@ -5287,12 +5287,12 @@
         "MICR": "614056107",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1/49 E   MATHUR - 635 203   KRISHNAGIRI DT.   TAMIL NADU",
+        "ADDRESS": "1/49 E   MATHUR - 635 203   KRISHNAGIRI DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MATHUR",
@@ -5305,12 +5305,12 @@
         "MICR": "635056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1-2-85/A, EAST AGRAHARAM MAHADHANAPURAM - 639 106 KARUR DT. TAMIL NADU",
+        "ADDRESS": "1-2-85/A, EAST AGRAHARAM MAHADHANAPURAM - 639 106 KARUR DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MAHADHANAPURAM",
@@ -5323,12 +5323,12 @@
         "MICR": "639056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "6/41, MAIN ROAD MUTHUGAPATTY - 637 405 NAMAKKAL DT.  TAMIL NADU",
+        "ADDRESS": "6/41, MAIN ROAD MUTHUGAPATTY - 637 405 NAMAKKAL DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "MUTHUGAPATTY",
@@ -5341,7 +5341,7 @@
         "MICR": "636056021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5364,7 +5364,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "8/13, SQUARE MARKET ROAD 1ST FLOOR, R.K.P. COMPLEX P.B.NO. 13  METTUR DAM - 636 401 SALEM DT.  TAMIL NADU",
+        "ADDRESS": "8/13, SQUARE MARKET ROAD 1ST FLOOR, R.K.P. COMPLEX P.B.NO. 13  METTUR DAM - 636 401 SALEM DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "METTUR DAM",
@@ -5377,7 +5377,7 @@
         "MICR": "636056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5395,7 +5395,7 @@
         "MICR": "638056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5431,7 +5431,7 @@
         "MICR": "600056025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5467,7 +5467,7 @@
         "MICR": "625056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5485,7 +5485,7 @@
         "MICR": "636056023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5503,7 +5503,7 @@
         "MICR": "613056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5521,7 +5521,7 @@
         "MICR": "620056014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5539,7 +5539,7 @@
         "MICR": "600056030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5557,7 +5557,7 @@
         "MICR": "636056106",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5611,7 +5611,7 @@
         "MICR": "636056107",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5683,7 +5683,7 @@
         "MICR": "638056019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5755,7 +5755,7 @@
         "MICR": "625056017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5773,7 +5773,7 @@
         "MICR": "605056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5791,12 +5791,12 @@
         "MICR": "396056061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "41, NEELA SOUTH STREET  P.B.NO. 37   NAGAPATTINAM - 611 001 TAMIL NADU",
+        "ADDRESS": "41, NEELA SOUTH STREET  P.B.NO. 37   NAGAPATTINAM - 611 001 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NAGAPATTINAM",
@@ -5809,12 +5809,12 @@
         "MICR": "611056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.36/8-3, IST FLOOR   SOUTH CAR STREETNAGERCOIL - 629 001 KANYAKUMARI DT.TAMIL NADU",
+        "ADDRESS": "NO.36/8-3, IST FLOOR   SOUTH CAR STREETNAGERCOIL - 629 001 KANYAKUMARI DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NAGERCOIL",
@@ -5827,12 +5827,12 @@
         "MICR": "629056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "14, 1ST FLOOR, SALEM ROAD          P.B.NO. 3  NAMAKKAL - 637 001   TAMIL NADU",
+        "ADDRESS": "14, 1ST FLOOR, SALEM ROAD          P.B.NO. 3  NAMAKKAL - 637 001   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NAMAKKAL",
@@ -5845,12 +5845,12 @@
         "MICR": "636056014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO. 198  CUDDALORE MAIN ROAD   NEYVELI - 607 802   CUDDALORE DT. TAMIL NADU",
+        "ADDRESS": "NO. 198  CUDDALORE MAIN ROAD   NEYVELI - 607 802   CUDDALORE DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NEYVELI",
@@ -5863,12 +5863,12 @@
         "MICR": "607056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "2/302, MUTHUR ROAD NATHAKADAIYUR - 638 108 ERODE DT.   TAMIL NADU",
+        "ADDRESS": "2/302, MUTHUR ROAD NATHAKADAIYUR - 638 108 ERODE DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NATHAKADAIYUR",
@@ -5881,7 +5881,7 @@
         "MICR": "638056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5904,7 +5904,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "110-A, BHAVANI METTUR   MAIN ROAD NERINJIPETTAI-638 311  ERODE DT. TAMIL NADU",
+        "ADDRESS": "110-A, BHAVANI METTUR   MAIN ROAD NERINJIPETTAI-638 311  ERODE DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NERINJIPETTAI",
@@ -5917,7 +5917,7 @@
         "MICR": "638056016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5971,7 +5971,7 @@
         "MICR": "609056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6007,7 +6007,7 @@
         "MICR": "632056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6048,7 +6048,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "D NO  24 1 H C WARD 49 SHREE NITHI TOWER NATHAM MAIN ROAD NAGANAKULAM  NARAYANAPURAM MADURAI TAMIL NADU 625014",
+        "ADDRESS": "D NO  24 1 H C WARD 49 SHREE NITHI TOWER NATHAM MAIN ROAD NAGANAKULAM  NARAYANAPURAM MADURAI TAMILNADU 625014",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NAGANAKULAM",
@@ -6061,7 +6061,7 @@
         "MICR": "625056022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6102,7 +6102,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "25/509, SRINIVASA NAGAR NANDYAL \u2013 518 501 ANDHRAPRADESH",
+        "ADDRESS": "25/509, SRINIVASA NAGAR NANDYAL \u2013 518 501 ANDHRA PRADESH",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "NANDYAL",
@@ -6151,12 +6151,12 @@
         "MICR": "641056014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOORNO. 285-M 2A/9  KRS COMPLEX, MAIN ROAD   1ST FLOOR, P.B.NO. 2 ODDANCHATRAM - 624 619 DINDIGUL DT.  TAMIL NADU",
+        "ADDRESS": "DOORNO. 285-M 2A/9  KRS COMPLEX, MAIN ROAD   1ST FLOOR, P.B.NO. 2 ODDANCHATRAM - 624 619 DINDIGUL DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ODDANCHATRAM",
@@ -6169,12 +6169,12 @@
         "MICR": "624056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "14/51, UTHAMAPALAYAM ROAD KANGAYAM (VIA)        OLAPALAYAM - 638 701   ERODE DT.   TAMIL NADU",
+        "ADDRESS": "14/51, UTHAMAPALAYAM ROAD KANGAYAM (VIA)        OLAPALAYAM - 638 701   ERODE DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "OLAPALAYAM",
@@ -6187,7 +6187,7 @@
         "MICR": "638056013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6223,7 +6223,7 @@
         "MICR": "641056022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6259,7 +6259,7 @@
         "MICR": "636056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6282,7 +6282,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "76, 1ST FLOOR  TIRUCHENGODE ROAD PALLIPAYALAM - 638 006 NAMAKAL DT. TAMIL NADU",
+        "ADDRESS": "76, 1ST FLOOR  TIRUCHENGODE ROAD PALLIPAYALAM - 638 006 NAMAKAL DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PALLIPALAYAM",
@@ -6295,12 +6295,12 @@
         "MICR": "638056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "40, NEW DHARAPURAM ROAD PALANI - 624 601 DINDIGUL DT.  TAMIL NADU",
+        "ADDRESS": "40, NEW DHARAPURAM ROAD PALANI - 624 601 DINDIGUL DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PALANI",
@@ -6313,12 +6313,12 @@
         "MICR": "624056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "26/D-1, 1ST FLOOR KUMBAKONAM ROAD P.B.NO. 11PANRUTI - 607 106 CUDDALORE DT.   TAMIL NADU",
+        "ADDRESS": "26/D-1, 1ST FLOOR KUMBAKONAM ROAD P.B.NO. 11PANRUTI - 607 106 CUDDALORE DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PANRUTI",
@@ -6331,12 +6331,12 @@
         "MICR": "607056202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "4 BY 80 B 1 EAST STREETPAPANAD 614626 THANJAVUR DT TAMIL NADU",
+        "ADDRESS": "4 BY 80 B 1 EAST STREETPAPANAD 614626 THANJAVUR DT TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PAPANAD",
@@ -6349,12 +6349,12 @@
         "MICR": "614056106",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "45-D, 1ST FLOOR   BAZAAR STREETPAPANASAM - 614 205THANJAVUR DT.     TAMIL NADU",
+        "ADDRESS": "45-D, 1ST FLOOR   BAZAAR STREETPAPANASAM - 614 205THANJAVUR DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PAPANASAM",
@@ -6367,12 +6367,12 @@
         "MICR": "612056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "150, PALANIAPPAN STREET PATTUKOTTAI - 614 601 THANJAVUR DT.TAMIL NADU",
+        "ADDRESS": "150, PALANIAPPAN STREET PATTUKOTTAI - 614 601 THANJAVUR DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PATTUKOTTAI",
@@ -6385,12 +6385,12 @@
         "MICR": "614056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "27-A, VANIAR STEET PENNAGARAM - 636 810 DHARMAPURI DT.TAMIL NADU",
+        "ADDRESS": "27-A, VANIAR STEET PENNAGARAM - 636 810 DHARMAPURI DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PENNAGARAM",
@@ -6403,12 +6403,12 @@
         "MICR": "636056105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "42, C.V. LODGE BUILDING    SETHU ROAD, P.B.NO. 2 PERAVURANI - 614 804 THANJAVUR DT.  TAMIL NADU",
+        "ADDRESS": "42, C.V. LODGE BUILDING    SETHU ROAD, P.B.NO. 2 PERAVURANI - 614 804 THANJAVUR DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PERAVURANI",
@@ -6421,12 +6421,12 @@
         "MICR": "607056105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "68, BAZAAR STREET THENKARAI P.B.NO. 7 PERIYAKULAM - 625 601 THENI DT.    TAMIL NADU",
+        "ADDRESS": "68, BAZAAR STREET THENKARAI P.B.NO. 7 PERIYAKULAM - 625 601 THENI DT.    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PERIYAKULAM",
@@ -6439,12 +6439,12 @@
         "MICR": "625056202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "\u201cB\u201d BAZAAR, MAIN ROAD PODAKUDY - 614 103 TIRUVARUR DT.  TAMIL NADU",
+        "ADDRESS": "\u201cB\u201d BAZAAR, MAIN ROAD PODAKUDY - 614 103 TIRUVARUR DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PODAKODY",
@@ -6457,12 +6457,12 @@
         "MICR": "614056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "57, BALAGOPALAPURAM STREET P.B.NO. 44  POLLACHI - 642 001 COIMBATORE DT. TAMIL NADU",
+        "ADDRESS": "57, BALAGOPALAPURAM STREET P.B.NO. 44  POLLACHI - 642 001 COIMBATORE DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "POLLACHI",
@@ -6475,12 +6475,12 @@
         "MICR": "641056012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "232-234    JAWAHARLAL NEHRU STREET PUDUCHERRY - 605 001",
+        "ADDRESS": "232-234    JAWAHARLAL NEHRU STREET PONDICHERRY - 605 001",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PONDICHERRY",
@@ -6493,7 +6493,7 @@
         "MICR": "605056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -6516,7 +6516,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO. 21 / WARD NO. 14, MADURAI CUMBUM MAIN ROAD, C. PUDUPATTI - 625 556 THENI DT., TAMIL NADU",
+        "ADDRESS": "NO. 21 / WARD NO. 14, MADURAI CUMBUM MAIN ROAD, C. PUDUPATTI - 625 556 THENI DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "C.PUDUPATTI",
@@ -6529,12 +6529,12 @@
         "MICR": "625056104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "10/22 A,NORTH STREET BUNGALOW ROAD R. PUDUPATTI - 637 407 NAMAKKAL DT.,  TAMIL NADU",
+        "ADDRESS": "10/22 A,NORTH STREET BUNGALOW ROAD R. PUDUPATTI - 637 407 NAMAKKAL DT.,  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "R.PUDUPATTI",
@@ -6547,7 +6547,7 @@
         "MICR": "636056013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6588,7 +6588,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "EID PARRY INDIA LTD. SUGAR FACTORY, PUGALUR - 639 113 KARUR DT., TAMIL NADU",
+        "ADDRESS": "EID PARRY INDIA LTD. SUGAR FACTORY, PUGALUR - 639 113 KARUR DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "PUGALUR",
@@ -6601,7 +6601,7 @@
         "MICR": "639056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6619,7 +6619,7 @@
         "MICR": "621056302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6637,7 +6637,7 @@
         "MICR": "600056024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6673,7 +6673,7 @@
         "MICR": "621056153",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6727,7 +6727,7 @@
         "MICR": "600056028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6745,7 +6745,7 @@
         "MICR": "622056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6763,7 +6763,7 @@
         "MICR": "620056016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6781,7 +6781,7 @@
         "MICR": "627056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6835,7 +6835,7 @@
         "MICR": "613056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6889,7 +6889,7 @@
         "MICR": "641056021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6961,7 +6961,7 @@
         "MICR": "641056023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7033,7 +7033,7 @@
         "MICR": "639056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7092,7 +7092,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "418, TENKASI ROAD RAJAPALAYAM - 626 117 VIRUDHUNAGAR DT.TAMIL NADU",
+        "ADDRESS": "418, TENKASI ROAD RAJAPALAYAM - 626 117 VIRUDHUNAGAR DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "RAJAPALAYAM",
@@ -7105,12 +7105,12 @@
         "MICR": "626056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "48-E, KAVARAI STREETP.B.NO. 25  RASIPURAM - 637 408 NAMAKKAL DT.  TAMIL NADU",
+        "ADDRESS": "48-E, KAVARAI STREETP.B.NO. 25  RASIPURAM - 637 408 NAMAKKAL DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "RASIPURAM",
@@ -7123,12 +7123,12 @@
         "MICR": "636056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "5/658, AGRAHARAM  RAJENDRAM - 639 107 KULITHALAI KARUR DT.  TAMIL NADU",
+        "ADDRESS": "5/658, AGRAHARAM  RAJENDRAM - 639 107 KULITHALAI KARUR DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "RAJENDRAM",
@@ -7141,7 +7141,7 @@
         "MICR": "620056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7182,7 +7182,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOPNO. 101 TO 104  RONAK COMPLEX  GONDAL ROAD RAJKOT - 360 002 GUJARAT",
+        "ADDRESS": "SHOPNO. 101 TO 104  RONAK COMPLEX  GONDAL ROAD RAJKOT - 360 002 GUJRAT",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "RAJKOT",
@@ -7195,7 +7195,7 @@
         "MICR": "360056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7254,7 +7254,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO.4/323, \u00a0\u00a0 VALLUVAR SALAI,  RAMAPURAM  CHENNAI \u2013 89  TAMIL NADU.",
+        "ADDRESS": "NO.4/323, \u00a0\u00a0 VALLUVAR SALAI,  RAMAPURAM  CHENNAI \u2013 89  TAMILNADU.",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "RAMAPURAM",
@@ -7267,7 +7267,7 @@
         "MICR": "600056023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7321,7 +7321,7 @@
         "MICR": "635056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7339,7 +7339,7 @@
         "MICR": "623056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7362,20 +7362,20 @@
         "UPI": true
     },
     {
-        "ADDRESS": "96 VILLIANUR ROAD AZIZ NAGAR REDDIYARPALAYAM PUDUCHERRY 605010",
+        "ADDRESS": "96 VILLIANUR ROAD AZIZ NAGAR REDDIYARPALAYAM PONDICHERRY 605010",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "REDDIYARPALAYAM",
-        "CENTRE": "PUDUCHERRY",
-        "CITY": "PUDUCHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "00",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "LAVB0000617",
         "IMPS": true,
         "MICR": "605056012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -7393,7 +7393,7 @@
         "MICR": "638056402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7411,7 +7411,7 @@
         "MICR": "641056017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7429,12 +7429,12 @@
         "MICR": "611056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "M/S. JARI KONDALAMPATTI PURE SILK HANDLOOM MANUFACTURERS ASSOCIATION, 90, CALICUT MAIN ROAD, KONDALAMPATTI,SALEM - 636 010 SALEM DT., TAMIL NADU",
+        "ADDRESS": "M/S. JARI KONDALAMPATTI PURE SILK HANDLOOM MANUFACTURERS ASSOCIATION, 90, CALICUT MAIN ROAD, KONDALAMPATTI,SALEM - 636 010 SALEM DT., TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "KONDALAMPATTI - SALEM",
@@ -7447,12 +7447,12 @@
         "MICR": "636056007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "4/36, BHARATHI STREET SWARNAPURI \u2013 636 004SALEM DT.  TAMIL NADU",
+        "ADDRESS": "4/36, BHARATHI STREET SWARNAPURI \u2013 636 004SALEM DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SWARNAPURI - SALEM",
@@ -7465,12 +7465,12 @@
         "MICR": "636056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "62-63, BAZAAR STREET     P.B.NO. 111    SALEM TOWN - 636 001       SALEM DT.  TAMIL NADU",
+        "ADDRESS": "62-63, BAZAAR STREET     P.B.NO. 111    SALEM TOWN - 636 001       SALEM DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SALEM TOWN",
@@ -7483,12 +7483,12 @@
         "MICR": "636056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "175-177, II AGRAHARAM   P.B.NO. 13, C.K. STREET  SALEM - 636 001 SALEM DT. TAMIL NADU",
+        "ADDRESS": "175-177, II AGRAHARAM   P.B.NO. 13, C.K. STREET  SALEM - 636 001 SALEM DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "C.K.STREET - SALEM",
@@ -7501,12 +7501,12 @@
         "MICR": "636056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "12-B, PULIKUTHI MAIN ROAD     1ST FLOOR, P.B.NO. 611 GUGAI SALEM - 636 006SALEM DT.TAMIL NADU",
+        "ADDRESS": "12-B, PULIKUTHI MAIN ROAD     1ST FLOOR, P.B.NO. 611 GUGAI SALEM - 636 006SALEM DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "GUGAI - SALEM",
@@ -7519,12 +7519,12 @@
         "MICR": "636056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "60, ANDAL STREET   P.B.NO. 298     SHEVAPET  SALEM - 636 002   SALEM DT.  TAMIL NADU",
+        "ADDRESS": "60, ANDAL STREET   P.B.NO. 298     SHEVAPET  SALEM - 636 002   SALEM DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SHEVAPET - SALEM",
@@ -7537,12 +7537,12 @@
         "MICR": "636056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "J.K. COMPLEX, 3   BAZAAR STREET SANKARAPURAM - 606 401 VILLUPURAM DT.   TAMIL NADU",
+        "ADDRESS": "J.K. COMPLEX, 3   BAZAAR STREET SANKARAPURAM - 606 401 VILLUPURAM DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SANKARAPURAM",
@@ -7555,12 +7555,12 @@
         "MICR": "606056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SFNO.261/1A/1A     WARDNO.4  DOORNO. 1-15-17-JI  NEW EDAPPADI ROAD  SANKARI - 637 301 SALEM DT.TAMIL NADU",
+        "ADDRESS": "SFNO.261/1A/1A     WARDNO.4  DOORNO. 1-15-17-JI  NEW EDAPPADI ROAD  SANKARI - 637 301 SALEM DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SANKARI",
@@ -7573,12 +7573,12 @@
         "MICR": "636056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "100,NORTH CAR STREETP.B.NO. 8 SATTUR - 626 203     VIRUDHUNAGAR DT. TAMIL NADU",
+        "ADDRESS": "100,NORTH CAR STREETP.B.NO. 8 SATTUR - 626 203     VIRUDHUNAGAR DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SATTUR",
@@ -7591,7 +7591,7 @@
         "MICR": "626056402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7614,7 +7614,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "29-E, PSR ROAD    P.B.NO. 165     SIVAKASI - 626 123 VIRUDHUNAGAR DT.    TAMIL NADU",
+        "ADDRESS": "29-E, PSR ROAD    P.B.NO. 165     SIVAKASI - 626 123 VIRUDHUNAGAR DT.    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SIVAKASI",
@@ -7627,12 +7627,12 @@
         "MICR": "626056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "6-1-120, AGRAHARAM STREET SUNDARAPANDIAM - 626 126 VIRUDHUNAGAR DT.     TAMIL NADU",
+        "ADDRESS": "6-1-120, AGRAHARAM STREET SUNDARAPANDIAM - 626 126 VIRUDHUNAGAR DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SUNDARAPANDIAM",
@@ -7645,7 +7645,7 @@
         "MICR": "626056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7663,12 +7663,12 @@
         "MICR": "638056006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "25, SOUTH CHATHIRAM STREET SENDARAPATTI - 636 110 ATTUR TALUK SALEM DT.     TAMIL NADU",
+        "ADDRESS": "25, SOUTH CHATHIRAM STREET SENDARAPATTI - 636 110 ATTUR TALUK SALEM DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SENDARAPATTI",
@@ -7681,7 +7681,7 @@
         "MICR": "636056016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7704,7 +7704,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO. 1-13, P.B.NO. 404 BELGIUM TOWERSOPP. TO LINEAR BUS STAND SILVER PLAZA COMPLEX  RING ROADSURAT - 395 003GUJARAT",
+        "ADDRESS": "NO. 1-13, P.B.NO. 404 BELGIUM TOWERSOPP. TO LINEAR BUS STAND SILVER PLAZA COMPLEX  RING ROADSURAT - 395 003GUJRAT",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SURAT",
@@ -7717,7 +7717,7 @@
         "MICR": "395056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7740,7 +7740,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHREE GUJARATHI SEVA MANDAL, 1ST FLOOR, 1141, RASHTRAPATHI ROAD, SECUNDERABAD - 500 003 HYDERABAD ANDHRA PRADESH",
+        "ADDRESS": "SHREE GUJRATHI SEVA MANDAL, 1ST FLOOR, 1141, RASHTRAPATHI ROAD, SECUNDERABAD - 500 003 HYDERABAD ANDHRA PRADESH",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SECUNDERABAD",
@@ -7771,7 +7771,7 @@
         "MICR": "600056021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7789,7 +7789,7 @@
         "MICR": "395056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7825,7 +7825,7 @@
         "MICR": "639056012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7843,7 +7843,7 @@
         "MICR": "626056502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7861,7 +7861,7 @@
         "MICR": "600056029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7879,7 +7879,7 @@
         "MICR": "625056013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7915,7 +7915,7 @@
         "MICR": "627056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7933,7 +7933,7 @@
         "MICR": "625056019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7974,7 +7974,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ARS AVENUE NO 22 9 JUNCTION TO LEIGH BAZAAR ROAD SURAMANGALAM SALEM 636005 TAMIL NADU",
+        "ADDRESS": "ARS AVENUE NO 22 9 JUNCTION TO LEIGH BAZAAR ROAD SURAMANGALAM SALEM 636005 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SURAMANGALAM",
@@ -7987,7 +7987,7 @@
         "MICR": "636056028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8010,7 +8010,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO. 103 FIRST FLOOR AAKAR ARCADE SANAND AHAMEDABAD GUJARAT MUMBAI 382110",
+        "ADDRESS": "SHOP NO. 103 FIRST FLOOR AAKAR ARCADE SANAND AHAMEDABAD GUJRAT MUMBAI 382110",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": " SANAND ",
@@ -8023,7 +8023,7 @@
         "MICR": "380056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8059,7 +8059,7 @@
         "MICR": "627056010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8077,7 +8077,7 @@
         "MICR": "636056031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8131,7 +8131,7 @@
         "MICR": "600056050",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8203,7 +8203,7 @@
         "MICR": "600056044",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8257,12 +8257,12 @@
         "MICR": "620056017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1665-66, SOUTH MAIN STREET P.B.NO. 313 THANJAVUR-613 009       THANJAVUR DT.  TAMIL NADU",
+        "ADDRESS": "1665-66, SOUTH MAIN STREET P.B.NO. 313 THANJAVUR-613 009       THANJAVUR DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "THANJAVUR",
@@ -8275,12 +8275,12 @@
         "MICR": "613056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "129/33, ODATHURAI STREET THIRUVAIYARU - 613 204 THANJAVUR DT.   TAMIL NADU",
+        "ADDRESS": "129/33, ODATHURAI STREET THIRUVAIYARU - 613 204 THANJAVUR DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "THIRUVAIYARU",
@@ -8293,7 +8293,7 @@
         "MICR": "613056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8311,12 +8311,12 @@
         "MICR": "606056203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "K.R.S. COMPLEX  246/B, SALEM MAIN ROAD THOTTIYAM - 621 215   MUSIRI TALUKTRICHY DT.   TAMIL NADU",
+        "ADDRESS": "K.R.S. COMPLEX  246/B, SALEM MAIN ROAD THOTTIYAM - 621 215   MUSIRI TALUKTRICHY DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "THOTTIYAM",
@@ -8329,12 +8329,12 @@
         "MICR": "620056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "128, NEHRU STREET   TINDIVANAM - 604 001 VILLUPURAM DT.TAMIL NADU",
+        "ADDRESS": "128, NEHRU STREET   TINDIVANAM - 604 001 VILLUPURAM DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TINDIVANAM",
@@ -8347,12 +8347,12 @@
         "MICR": "605056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "104, THEPPAKULAM STREET SANKARI MAIN ROAD, 1ST FLOOR TIRUCHENGODE - 637 211 NAMAKKAL DT.TAMIL NADU",
+        "ADDRESS": "104, THEPPAKULAM STREET SANKARI MAIN ROAD, 1ST FLOOR TIRUCHENGODE - 637 211 NAMAKKAL DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TIRUCHENGODE",
@@ -8365,12 +8365,12 @@
         "MICR": "638056015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "81-D, 1ST FLOOR, NAGAI ROAD P.B.NO. 35     VIJAYAPURAM   TIRUVARUR - 610 001 TAMIL NADU",
+        "ADDRESS": "81-D, 1ST FLOOR, NAGAI ROAD P.B.NO. 35     VIJAYAPURAM   TIRUVARUR - 610 001 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TIRUVARUR",
@@ -8383,7 +8383,7 @@
         "MICR": "610056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8419,7 +8419,7 @@
         "MICR": "620056018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8437,12 +8437,12 @@
         "MICR": "620056052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "220-221, 1ST FLOOR BIG BAZAAR STREET   P.B.NO. 550TRICHY MAIN- 620 008   TAMIL NADU",
+        "ADDRESS": "220-221, 1ST FLOOR BIG BAZAAR STREET   P.B.NO. 550TRICHY MAIN- 620 008   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TRICHY MAIN",
@@ -8455,12 +8455,12 @@
         "MICR": "620056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "100/A, GANDHI ROAD   SRIRANGAM - 620 006   TRICHY DT.  TAMIL NADU",
+        "ADDRESS": "100/A, GANDHI ROAD   SRIRANGAM - 620 006   TRICHY DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SRIRANGAM - TRICHY.",
@@ -8473,12 +8473,12 @@
         "MICR": "620056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SVV COMPLEX   I BUILDING,NO. 55, IVTH CROSS P.B.NO. 939, M.S. MANI SALAI (MAIN ROAD)   THILLAINAGAR - 620 018 TRICHY DT. TAMIL NADU",
+        "ADDRESS": "SVV COMPLEX   I BUILDING,NO. 55, IVTH CROSS P.B.NO. 939, M.S. MANI SALAI (MAIN ROAD)   THILLAINAGAR - 620 018 TRICHY DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "THILLAINAGAR - TRICHY",
@@ -8491,7 +8491,7 @@
         "MICR": "620056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8509,12 +8509,12 @@
         "MICR": "600056019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "76, 50TH ROAD TIRUKKATTUPALLI - 613 104 THANJAVUR DT. TAMIL NADU",
+        "ADDRESS": "76, 50TH ROAD TIRUKKATTUPALLI - 613 104 THANJAVUR DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TIRUKKATTUPALLI",
@@ -8527,12 +8527,12 @@
         "MICR": "613056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEWNO. 104, OLDNO. 86NORTH STREET TIRUKOILUR - 605757 VILLUPURAM DT.  TAMIL NADU",
+        "ADDRESS": "NEWNO. 104, OLDNO. 86NORTH STREET TIRUKOILUR - 605757 VILLUPURAM DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TIRUKOILUR",
@@ -8545,12 +8545,12 @@
         "MICR": "606056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "112, EAST CAR STREET   P.B.NO. 20   TIRUNELVELI - 627 006 TIRUNELVELI DT.TAMIL NADU",
+        "ADDRESS": "112, EAST CAR STREET   P.B.NO. 20   TIRUNELVELI - 627 006 TIRUNELVELI DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TIRUNELVELI TOWN",
@@ -8563,12 +8563,12 @@
         "MICR": "627056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "A.P.K. TOWERS, 243  KUMARAN ROAD, P.B.NO. 40 TIRUPUR - 641 601  COIMBATORE DT.TAMIL NADU",
+        "ADDRESS": "A.P.K. TOWERS, 243  KUMARAN ROAD, P.B.NO. 40 TIRUPUR - 641 601  COIMBATORE DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TIRUPUR",
@@ -8581,12 +8581,12 @@
         "MICR": "941056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "CHURCH COMPLEX, 1ST FLOOR  12, RAILWAY STATION ROAD TIRUTHURAIPOONDI - 614 713 TIRUVARUR DT.TAMIL NADU",
+        "ADDRESS": "CHURCH COMPLEX, 1ST FLOOR  12, RAILWAY STATION ROAD TIRUTHURAIPOONDI - 614 713 TIRUVARUR DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TIRUTHARIPOONDI",
@@ -8599,12 +8599,12 @@
         "MICR": "614056202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "88, THIRUMANJANAGOPURAM STREET, P.B.NO. 6 TIRUVANNAMALAI-606 601 TAMIL NADU",
+        "ADDRESS": "88, THIRUMANJANAGOPURAM STREET, P.B.NO. 6 TIRUVANNAMALAI-606 601 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "THIRUVANNAMALAI",
@@ -8617,12 +8617,12 @@
         "MICR": "606056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "268, TRICHY ROADP.B.NO. 12TURAIYUR - 621 010  TRICHY DT.   TAMIL NADU",
+        "ADDRESS": "268, TRICHY ROADP.B.NO. 12TURAIYUR - 621 010  TRICHY DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TURAIYUR",
@@ -8635,12 +8635,12 @@
         "MICR": "620056012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "31, EMPEROR STREET P.B.NO. 80   TUTICORIN - 628 001   TAMIL NADU",
+        "ADDRESS": "31, EMPEROR STREET P.B.NO. 80   TUTICORIN - 628 001   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TUTICORIN",
@@ -8653,7 +8653,7 @@
         "MICR": "627056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8676,7 +8676,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "421/1, SANNATHI STREET TIRUKKADAIYUR - 609 311 NAGAPATTINAM DT.  TAMIL NADU",
+        "ADDRESS": "421/1, SANNATHI STREET TIRUKKADAIYUR - 609 311 NAGAPATTINAM DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TIRUKKADAIYUR",
@@ -8689,7 +8689,7 @@
         "MICR": "609056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8712,7 +8712,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO. 45-A, 1ST FLOOR KALIAMMAN KOIL STREET   P.B.NO. 7, PERIYAKULAM ROAD THENI - 625 531  THENI DT.   TAMIL NADU",
+        "ADDRESS": "NO. 45-A, 1ST FLOOR KALIAMMAN KOIL STREET   P.B.NO. 7, PERIYAKULAM ROAD THENI - 625 531  THENI DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "THENI",
@@ -8725,7 +8725,7 @@
         "MICR": "625056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8766,7 +8766,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "15, KANNI MARIAMMAN KOIL STREET, KOOLAKADAI BAZAAR  P.B.NO. 37   TENKASI - 627 811   TIRUNELVELI DT. TAMIL NADU",
+        "ADDRESS": "15, KANNI MARIAMMAN KOIL STREET, KOOLAKADAI BAZAAR  P.B.NO. 37   TENKASI - 627 811   TIRUNELVELI DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "TENKASI",
@@ -8779,12 +8779,12 @@
         "MICR": "627056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "K.S. RANGASAMY INSTITUTE OF TECHNOLOGY,ERODE MAIN ROAD, PARAMASIVA GOUNDAMPALAYAM, THOKKAVADI PO, TIRUCHENGODE - 637 209 TAMIL NADU",
+        "ADDRESS": "K.S. RANGASAMY INSTITUTE OF TECHNOLOGY,ERODE MAIN ROAD, PARAMASIVA GOUNDAMPALAYAM, THOKKAVADI PO, TIRUCHENGODE - 637 209 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "THOKKAVADI",
@@ -8797,7 +8797,7 @@
         "MICR": "638056014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8869,7 +8869,7 @@
         "MICR": "609056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8887,7 +8887,7 @@
         "MICR": "638056018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8923,7 +8923,7 @@
         "MICR": "609056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8941,7 +8941,7 @@
         "MICR": "605056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8977,7 +8977,7 @@
         "MICR": "600056049",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8995,7 +8995,7 @@
         "MICR": "641056104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9031,7 +9031,7 @@
         "MICR": "610056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9067,12 +9067,12 @@
         "MICR": "625056016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "44, PANCHAYAT OFFICE ROAD UNJALUR - 638 152   ERODE DT. TAMIL NADU",
+        "ADDRESS": "44, PANCHAYAT OFFICE ROAD UNJALUR - 638 152   ERODE DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "UNJALUR",
@@ -9085,12 +9085,12 @@
         "MICR": "638056017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "3/95, BAZAAR STREET     ULIPURAM - 636 118ATTUR TALUK   SALEM DT.     TAMIL NADU",
+        "ADDRESS": "3/95, BAZAAR STREET     ULIPURAM - 636 118ATTUR TALUK   SALEM DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ULIPURAM",
@@ -9103,12 +9103,12 @@
         "MICR": "636056017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "100, PALANI ROAD, P.B.NO. 31 UDUMALPET - 642 126 COIMBATORE DT.  TAMIL NADU",
+        "ADDRESS": "100, PALANI ROAD, P.B.NO. 31 UDUMALPET - 642 126 COIMBATORE DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "UDUMALPET",
@@ -9121,7 +9121,7 @@
         "MICR": "642056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9139,7 +9139,7 @@
         "MICR": "620056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9162,7 +9162,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "91,93,95,73,75,77, VELAYUTHASAMY COMPLEX MUTHUR ROADVELLAKOIL - 638 111   ERODE DT. TAMIL NADU",
+        "ADDRESS": "91,93,95,73,75,77, VELAYUTHASAMY COMPLEX MUTHUR ROADVELLAKOIL - 638 111   ERODE DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VELLAKOVIL",
@@ -9175,7 +9175,7 @@
         "MICR": "638056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9198,7 +9198,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "85-B, AMIN CHAMBERS SAMPATH RAO COLONY   P.B.NO. 3760  PRODUCTIVITY ROAD  ALKAPURI VADODARA - 390 007  GUJARATH",
+        "ADDRESS": "85-B, AMIN CHAMBERS SAMPATH RAO COLONY   P.B.NO. 3760  PRODUCTIVITY ROAD  ALKAPURI VADODARA - 390 007  GUJRATH",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VADODARA",
@@ -9211,12 +9211,12 @@
         "MICR": "390056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "JAYAMKONDAM MAIN ROAD V. KAIKATTITHELUR P.OVILANGUDI - 621 704 PERAMBALUR DT.TAMIL NADU",
+        "ADDRESS": "JAYAMKONDAM MAIN ROAD V. KAIKATTITHELUR P.OVILANGUDI - 621 704 PERAMBALUR DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VILANGUDI",
@@ -9229,12 +9229,12 @@
         "MICR": "621056003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "533, SALEM MAIN ROAD VENGAMEDU \u2013 639 006 KARUR DT.    TAMIL NADU",
+        "ADDRESS": "533, SALEM MAIN ROAD VENGAMEDU \u2013 639 006 KARUR DT.    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VENGAMEDU - KARUR",
@@ -9247,12 +9247,12 @@
         "MICR": "639056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "G, MAIN ROAD    VELLIYANAI - 639 118   KARUR DT.    TAMIL NADU",
+        "ADDRESS": "G, MAIN ROAD    VELLIYANAI - 639 118   KARUR DT.    TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VELLIYANAI",
@@ -9265,12 +9265,12 @@
         "MICR": "639056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "34-C,1ST FLOOR  KATPADI ROAD, P.B.NO. 417 VELLORE - 632 004  VELLORE DT. TAMIL NADU",
+        "ADDRESS": "34-C,1ST FLOOR  KATPADI ROAD, P.B.NO. 417 VELLORE - 632 004  VELLORE DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VELLORE",
@@ -9283,12 +9283,12 @@
         "MICR": "632056002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "2-C, THIRUVALLUVAR SALAI  VELUR  (SALEM) - 638 182   NAMAKKAL DT. TAMIL NADU",
+        "ADDRESS": "2-C, THIRUVALLUVAR SALAI  VELUR  (SALEM) - 638 182   NAMAKKAL DT. TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VELUR - SALEM",
@@ -9301,12 +9301,12 @@
         "MICR": "639056009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "22-C, VILLUPURAM ROAD VETTAVALAM - 606 754 TIRUVANNAMALAI DT.     TAMIL NADU",
+        "ADDRESS": "22-C, VILLUPURAM ROAD VETTAVALAM - 606 754 TIRUVANNAMALAI DT.     TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VETTAVALAM",
@@ -9319,7 +9319,7 @@
         "MICR": "606056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9342,7 +9342,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "186/6/158/E, 1ST FLOOR MAHATMA GANDHI ROAD  P.B.NO. 13 VILLUPURAM - 605 602 VILLUPURAM DT.  TAMIL NADU",
+        "ADDRESS": "186/6/158/E, 1ST FLOOR MAHATMA GANDHI ROAD  P.B.NO. 13 VILLUPURAM - 605 602 VILLUPURAM DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VILLUPURAM",
@@ -9355,12 +9355,12 @@
         "MICR": "605056005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "50-D, KATCHERI ROAD   P.B.NO. 46 VIRUDHUNAGAR - 626 001 VIRUDHUNAGAR DT.   TAMIL NADU",
+        "ADDRESS": "50-D, KATCHERI ROAD   P.B.NO. 46 VIRUDHUNAGAR - 626 001 VIRUDHUNAGAR DT.   TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VIRUDHUNAGAR",
@@ -9373,12 +9373,12 @@
         "MICR": "626056302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OLDNO. 105, (231)     BAZAAR STREET, P.B.NO. 11 VRIDHACHALAM - 606 001 CUDDALORE DT.  TAMIL NADU",
+        "ADDRESS": "OLDNO. 105, (231)     BAZAAR STREET, P.B.NO. 11 VRIDHACHALAM - 606 001 CUDDALORE DT.  TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VRIDHACHALAM",
@@ -9391,12 +9391,12 @@
         "MICR": "606056202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "4-175-1, PAWADI STREET    A. VADUGAPALAYAM - 641 654 AVINASHI TALUKCOIMBATORE DT.TAMIL NADU",
+        "ADDRESS": "4-175-1, PAWADI STREET    A. VADUGAPALAYAM - 641 654 AVINASHI TALUKCOIMBATORE DT.TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "A.VADUGAPALAYAM",
@@ -9409,12 +9409,12 @@
         "MICR": "641056103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "59-14-2, RING ROAD VIJAYAWADA \u2013520 008   KRISHNA DT.   ANDHRAPRADESH",
+        "ADDRESS": "59-14-2, RING ROAD VIJAYAWADA \u2013520 008   KRISHNA DT.   ANDHRA PRADESH",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "VIJAYAWADA II",
@@ -9499,7 +9499,7 @@
         "MICR": "600056032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9517,7 +9517,7 @@
         "MICR": "621056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9535,7 +9535,7 @@
         "MICR": "641056016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9553,7 +9553,7 @@
         "MICR": "606056105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9625,7 +9625,7 @@
         "MICR": "600056037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9643,7 +9643,7 @@
         "MICR": "625056018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9697,12 +9697,12 @@
         "MICR": "600056038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 37 TIRUPATI PLAZA VAPI DAMAN ROAD VALSAD DT GUJARAT 396195",
+        "ADDRESS": "NO 37 TIRUPATI PLAZA VAPI DAMAN ROAD VALSAD DT GUJRAT 396195",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": " VAPI ",
@@ -9715,7 +9715,7 @@
         "MICR": "396056031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9733,7 +9733,7 @@
         "MICR": "600056042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9751,7 +9751,7 @@
         "MICR": "600056043",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9828,7 +9828,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "12-B, PULIKUTHI MAIN ROAD  P.B.NO. 657, GUGAI   SALEM - 636 006   SALEM DT.      TAMIL NADU",
+        "ADDRESS": "12-B, PULIKUTHI MAIN ROAD  P.B.NO. 657, GUGAI   SALEM - 636 006   SALEM DT.      TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "SALEM - SERVICE BRANCH",
@@ -9841,7 +9841,7 @@
         "MICR": "636056001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9859,7 +9859,7 @@
         "MICR": "641056001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9949,7 +9949,7 @@
         "MICR": "625056014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9972,7 +9972,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "94, BAZAAR STREET     YETHAPUR - 636 117    SALEM DT.        TAMIL NADU",
+        "ADDRESS": "94, BAZAAR STREET     YETHAPUR - 636 117    SALEM DT.        TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "YETHAPUR",
@@ -9985,7 +9985,7 @@
         "MICR": "636056018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10021,7 +10021,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10044,7 +10044,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "LVB PLATINUM JUBILEE BUILDING 68, OPPANAKARA STREETIIND FLOOR   COIMBATORE - 641 001 TAMIL NADU",
+        "ADDRESS": "LVB PLATINUM JUBILEE BUILDING 68, OPPANAKARA STREETIIND FLOOR   COIMBATORE - 641 001 TAMILNADU",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "D.O. COIMBATORE",
@@ -10057,7 +10057,7 @@
         "MICR": "641056105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10075,7 +10075,7 @@
         "MICR": "639056203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10111,7 +10111,7 @@
         "MICR": "625056105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10183,7 +10183,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10201,12 +10201,12 @@
         "MICR": "631056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 30 - 122 AND  123 BUNGALOW ROAD ADDANKI ANDHRAPRADESH",
+        "ADDRESS": "NO 30 - 122 AND  123 BUNGALOW ROAD ADDANKI ANDHRA PRADESH",
         "BANK": "Laxmi Vilas Bank",
         "BANKCODE": "LAVB",
         "BRANCH": "ADDANKI",
@@ -10237,7 +10237,7 @@
         "MICR": "600056048",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10255,7 +10255,7 @@
         "MICR": "632056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10273,7 +10273,7 @@
         "MICR": "627056011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10345,7 +10345,7 @@
         "MICR": "625056023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10381,7 +10381,7 @@
         "MICR": "612056004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10417,7 +10417,7 @@
         "MICR": "620056019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10543,7 +10543,7 @@
         "MICR": "632056203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10615,7 +10615,7 @@
         "MICR": "613056008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10687,7 +10687,7 @@
         "MICR": "639056016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10705,7 +10705,7 @@
         "MICR": "641056024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10741,7 +10741,7 @@
         "MICR": "600056047",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10759,7 +10759,7 @@
         "MICR": "600056046",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10795,7 +10795,7 @@
         "MICR": "600056104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10813,7 +10813,7 @@
         "MICR": "600056102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     }

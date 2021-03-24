@@ -391,7 +391,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -499,7 +499,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1021,7 +1021,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1057,7 +1057,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1075,7 +1075,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1165,7 +1165,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1327,7 +1327,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1363,7 +1363,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1489,7 +1489,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1615,7 +1615,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1849,7 +1849,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1867,7 +1867,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2623,7 +2623,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2641,7 +2641,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2893,7 +2893,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7879,7 +7879,7 @@
         "MICR": "396013064",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8392,10 +8392,10 @@
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MUNGELI",
-        "CENTRE": "MUNGELI, CHATTISGARH",
-        "CITY": "MUNGELI, CHATTISGARH",
+        "CENTRE": "MUNGELI, CHHATTISGARH",
+        "CITY": "MUNGELI, CHHATTISGARH",
         "CONTACT": "09407600010",
-        "DISTRICT": "MUNGELI, CHATTISGARH",
+        "DISTRICT": "MUNGELI, CHHATTISGARH",
         "IFSC": "BKID0009430",
         "IMPS": true,
         "MICR": "495013503",
@@ -8568,7 +8568,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "HOUSE NO. 90, GUJARATI BAZAR, POST BOX NO. 5, SAGAR, MADHYA PRADESH - 470002",
+        "ADDRESS": "HOUSE NO. 90, GUJRATI BAZAR, POST BOX NO. 5, SAGAR, MADHYA PRADESH - 470002",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SAGAR",
@@ -9018,7 +9018,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BESIDE GAYATRI SHAKTI PEETH POST SARAIPALI TEHSIL/BLOCK SARAIPALI DISTRICT MAHASAMUND PIN 493558 STATE CHATTISGARH",
+        "ADDRESS": "BESIDE GAYATRI SHAKTI PEETH POST SARAIPALI TEHSIL/BLOCK SARAIPALI DISTRICT MAHASAMUND PIN 493558 STATE CHHATTISGARH",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SARAIPALI",
@@ -9418,10 +9418,10 @@
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KAWARDHA",
-        "CENTRE": "KAWARDHA (CHATTISGARH)",
-        "CITY": "KAWARDHA (CHATTISGARH)",
+        "CENTRE": "KAWARDHA (CHHATTISGARH)",
+        "CITY": "KAWARDHA (CHHATTISGARH)",
         "CONTACT": "077417741233601",
-        "DISTRICT": "KAWARDHA (CHATTISGARH)",
+        "DISTRICT": "KAWARDHA (CHHATTISGARH)",
         "IFSC": "BKID0009320",
         "IMPS": true,
         "MICR": "493013151",
@@ -13194,7 +13194,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAIN ROADAT & POST DAMUA, DIST - CHHINDWARA, MADHYAPRADESH. PIN- 480555",
+        "ADDRESS": "MAIN ROADAT & POST DAMUA, DIST - CHHINDWARA, MADHYA PRADESH. PIN- 480555",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DAMUA",
@@ -18216,7 +18216,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAHE DOOR NO II 624 GOVT HOSPITAL JUNCTION KANNUR KOZHIKODE MAHE PUDUCHERRY",
+        "ADDRESS": "MAHE DOOR NO II 624 GOVT HOSPITAL JUNCTION KANNUR KOZHIKODE MAHE PONDICHERRY",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MAHE",
@@ -18229,7 +18229,7 @@
         "MICR": "494013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -18324,7 +18324,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAHE DOOR NO II 624 GOVT HOSPITAL JUNCTION KANNUR KOZHIKODE MAHE PUDUCHERRY",
+        "ADDRESS": "MAHE DOOR NO II 624 GOVT HOSPITAL JUNCTION KANNUR KOZHIKODE MAHE PONDICHERRY",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MAHE",
@@ -21415,7 +21415,7 @@
         "MICR": "625013011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21433,7 +21433,7 @@
         "MICR": "605013017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21451,7 +21451,7 @@
         "MICR": "605013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21469,7 +21469,7 @@
         "MICR": "605013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21487,7 +21487,7 @@
         "MICR": "608013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21505,7 +21505,7 @@
         "MICR": "608013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21523,7 +21523,7 @@
         "MICR": "606013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21541,7 +21541,7 @@
         "MICR": "608013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21559,7 +21559,7 @@
         "MICR": "605013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21577,7 +21577,7 @@
         "MICR": "605013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21595,7 +21595,7 @@
         "MICR": "605013014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21613,7 +21613,7 @@
         "MICR": "605013015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21631,7 +21631,7 @@
         "MICR": "632013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21649,7 +21649,7 @@
         "MICR": "632013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21667,7 +21667,7 @@
         "MICR": "632013302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21685,7 +21685,7 @@
         "MICR": "612013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21703,7 +21703,7 @@
         "MICR": "631013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21721,7 +21721,7 @@
         "MICR": "632013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21739,7 +21739,7 @@
         "MICR": "635013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21757,7 +21757,7 @@
         "MICR": "632013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21775,7 +21775,7 @@
         "MICR": "606013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21793,7 +21793,7 @@
         "MICR": "606013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21811,7 +21811,7 @@
         "MICR": "635013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21829,12 +21829,12 @@
         "MICR": "606013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "26, KATPADI ROAD, POST BOX NO.445, VELLORE, DISTRICT VELLORE, TAMIL NADU - 632 004.",
+        "ADDRESS": "26, KATPADI ROAD, POST BOX NO.445, VELLORE, DISTRICT VELLORE, TAMILNADU - 632 004.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VELLORE",
@@ -21847,7 +21847,7 @@
         "MICR": "632013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21865,7 +21865,7 @@
         "MICR": "632013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21883,7 +21883,7 @@
         "MICR": "625013012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21901,12 +21901,12 @@
         "MICR": "625013018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "TAMIL NADU FOOD GRAINS MARKET YARD LTD, NR. SIKKANDAR CHAVADI, ALANGANALLUR ROAD, AANAIYUR POST, MADURAI",
+        "ADDRESS": "TAMILNADU FOOD GRAINS MARKET YARD LTD, NR. SIKKANDAR CHAVADI, ALANGANALLUR ROAD, AANAIYUR POST, MADURAI",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MILAKARANAI",
@@ -21919,12 +21919,12 @@
         "MICR": "625013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "9,EAST AVANI MOOLA STREET,POST BOX NO:208,MADURAI,TAMIL NADU-625001",
+        "ADDRESS": "9,EAST AVANI MOOLA STREET,POST BOX NO:208,MADURAI,TAMILNADU-625001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MADURAI SERVICE",
@@ -21937,7 +21937,7 @@
         "MICR": "625013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21991,7 +21991,7 @@
         "MICR": "620013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22009,7 +22009,7 @@
         "MICR": "620013511",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22027,7 +22027,7 @@
         "MICR": "620013009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22045,7 +22045,7 @@
         "MICR": "613013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22063,7 +22063,7 @@
         "MICR": "620013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22081,7 +22081,7 @@
         "MICR": "620013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22099,7 +22099,7 @@
         "MICR": "620013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22117,7 +22117,7 @@
         "MICR": "613013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22135,7 +22135,7 @@
         "MICR": "620013010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22153,7 +22153,7 @@
         "MICR": "639013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22171,7 +22171,7 @@
         "MICR": "620013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22189,7 +22189,7 @@
         "MICR": "639013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22207,7 +22207,7 @@
         "MICR": "620013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22225,7 +22225,7 @@
         "MICR": "620013510",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22243,7 +22243,7 @@
         "MICR": "626013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22261,7 +22261,7 @@
         "MICR": "620013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22279,7 +22279,7 @@
         "MICR": "620013011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22297,7 +22297,7 @@
         "MICR": "638013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22315,7 +22315,7 @@
         "MICR": "626013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22333,12 +22333,12 @@
         "MICR": "641013107",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VSA SCHOOL OF ENGINEERING & SCHOOL OF MANAGEMENT, NH 47, UTHAMASOLAPURAM POST, SALEMDISTRICT, TAMIL NADU PIN-636010",
+        "ADDRESS": "VSA SCHOOL OF ENGINEERING & SCHOOL OF MANAGEMENT, NH 47, UTHAMASOLAPURAM POST, SALEMDISTRICT, TAMILNADU PIN-636010",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "UTHAMASOLAPURAM",
@@ -22351,7 +22351,7 @@
         "MICR": "636013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22369,12 +22369,12 @@
         "MICR": "623013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Sri Vengalla Towers, 49, B/2, P.K.Vijayaram Street, Off. Madurai Road, Theni, Dist: Theni, Tamil Nadu, Pin 625 531",
+        "ADDRESS": "Sri Vengalla Towers, 49, B/2, P.K.Vijayaram Street, Off. Madurai Road, Theni, Dist: Theni, TAMILNADU, Pin 625 531",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Theni",
@@ -22387,7 +22387,7 @@
         "MICR": "625013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22405,7 +22405,7 @@
         "MICR": "630013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22423,7 +22423,7 @@
         "MICR": "639013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22441,7 +22441,7 @@
         "MICR": "629013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22459,7 +22459,7 @@
         "MICR": "627013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22477,7 +22477,7 @@
         "MICR": "627013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22495,7 +22495,7 @@
         "MICR": "627013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22513,7 +22513,7 @@
         "MICR": "627013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22531,7 +22531,7 @@
         "MICR": "627013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22549,12 +22549,12 @@
         "MICR": "625013014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Old No 72/ New No 128, Bypass Road, A.V.A.R.Plaza, Ponmeni, S.S.Colony, Madurai, Tamil Nadu, Pin: 625 010",
+        "ADDRESS": "Old No 72/ New No 128, Bypass Road, A.V.A.R.Plaza, Ponmeni, S.S.Colony, Madurai, TAMILNADU, Pin: 625 010",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "S S Colony",
@@ -22567,7 +22567,7 @@
         "MICR": "625013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22585,7 +22585,7 @@
         "MICR": "625013009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22603,12 +22603,12 @@
         "MICR": "626013302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "813, ANNAI INDIRA COMPLEX,1ST FLOOR,MAIN ROAD,KOVILPATTI, DIST. TUTICORIN,TAMIL NADU - 628 501",
+        "ADDRESS": "813, ANNAI INDIRA COMPLEX,1ST FLOOR,MAIN ROAD,KOVILPATTI, DIST. TUTICORIN,TAMILNADU - 628 501",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KOVILPATTI",
@@ -22621,7 +22621,7 @@
         "MICR": "627013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22639,7 +22639,7 @@
         "MICR": "639013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22657,7 +22657,7 @@
         "MICR": "625013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22675,7 +22675,7 @@
         "MICR": "626013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22693,7 +22693,7 @@
         "MICR": "627013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22711,7 +22711,7 @@
         "MICR": "600013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22729,7 +22729,7 @@
         "MICR": "625013013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22747,7 +22747,7 @@
         "MICR": "625013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22765,12 +22765,12 @@
         "MICR": "625013103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "408-A, Palani Road, Oddanchatram, District: Dindigul Anna, Tamil Nadu, PIN: 624 619",
+        "ADDRESS": "408-A, Palani Road, Oddanchatram, District: Dindigul Anna, TAMILNADU, PIN: 624 619",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Oddanchatram",
@@ -22783,7 +22783,7 @@
         "MICR": "625013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22801,7 +22801,7 @@
         "MICR": "625013017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22819,7 +22819,7 @@
         "MICR": "625013015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22837,7 +22837,7 @@
         "MICR": "639013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22855,7 +22855,7 @@
         "MICR": "625013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22873,7 +22873,7 @@
         "MICR": "625013010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22891,12 +22891,12 @@
         "MICR": "625013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA AT POST PALANI DIST DINDIGUL STATE:TAMIL NADU",
+        "ADDRESS": "BANK OF INDIA AT POST PALANI DIST DINDIGUL STATE:TAMILNADU",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PALANI",
@@ -22909,7 +22909,7 @@
         "MICR": "625013022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22927,7 +22927,7 @@
         "MICR": "630013205",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22945,7 +22945,7 @@
         "MICR": "638013402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22963,7 +22963,7 @@
         "MICR": "641013106",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22981,7 +22981,7 @@
         "MICR": "641013017",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22999,7 +22999,7 @@
         "MICR": "626013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23017,7 +23017,7 @@
         "MICR": "625013021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23035,12 +23035,12 @@
         "MICR": "641013009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "JAIHINDPURAM 2ND MAIN STREET, JAIHINDPURAM SKS BUILDINGS, 105/B JAIHINDPURAM  MADURAI TAMIL NADU 625011",
+        "ADDRESS": "JAIHINDPURAM 2ND MAIN STREET, JAIHINDPURAM SKS BUILDINGS, 105/B JAIHINDPURAM  MADURAI TAMILNADU 625011",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "JAIHINDPURAM",
@@ -23053,7 +23053,7 @@
         "MICR": "625013019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23071,7 +23071,7 @@
         "MICR": "643013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23089,7 +23089,7 @@
         "MICR": "600013041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23107,7 +23107,7 @@
         "MICR": "622013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23125,7 +23125,7 @@
         "MICR": "622013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23143,7 +23143,7 @@
         "MICR": "622013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23161,7 +23161,7 @@
         "MICR": "622013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23179,7 +23179,7 @@
         "MICR": "641013014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23197,7 +23197,7 @@
         "MICR": "643013302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23215,7 +23215,7 @@
         "MICR": "641013012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23233,7 +23233,7 @@
         "MICR": "641013099",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23251,7 +23251,7 @@
         "MICR": "630013204",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23269,7 +23269,7 @@
         "MICR": "641013011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23287,7 +23287,7 @@
         "MICR": "600013046",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23305,7 +23305,7 @@
         "MICR": "600013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23323,7 +23323,7 @@
         "MICR": "600013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23341,7 +23341,7 @@
         "MICR": "600013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23359,12 +23359,12 @@
         "MICR": "600013017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "30 - 31, GANDHI ROAD, KANCHEEPURAM, DIST. KANCHEEPURAM, TAMIL NADU. PIN 631 501.",
+        "ADDRESS": "30 - 31, GANDHI ROAD, KANCHEEPURAM, DIST. KANCHEEPURAM, TAMILNADU. PIN 631 501.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KANCHEEPURAM",
@@ -23377,12 +23377,12 @@
         "MICR": "600013033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "D NO 3./45 WARD NO.3  SHRINIVASAPURAM, AVINASHI, TAMIL NADU 641 654.",
+        "ADDRESS": "D NO 3./45 WARD NO.3  SHRINIVASAPURAM, AVINASHI, TAMILNADU 641 654.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "AVINASHI",
@@ -23395,12 +23395,12 @@
         "MICR": "641013105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "82/8, Jaya Complex, 2/1121, New Natham Road, Iyer Bunglow, Madurai, Tamil Nadu, Pin: 625 014",
+        "ADDRESS": "82/8, Jaya Complex, 2/1121, New Natham Road, Iyer Bunglow, Madurai, TAMILNADU, Pin: 625 014",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Iyer Bunglow",
@@ -23413,12 +23413,12 @@
         "MICR": "625013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "C.R.S. PLAZA, 185/24, BANGALORE ROAD, (OPP. TO GOVT. GIRLS HIGH SCHOOL), KRISHNAGIRI, DIST. KRISHNAGIRI, TAMIL NADU - 635001.",
+        "ADDRESS": "C.R.S. PLAZA, 185/24, BANGALORE ROAD, (OPP. TO GOVT. GIRLS HIGH SCHOOL), KRISHNAGIRI, DIST. KRISHNAGIRI, TAMILNADU - 635001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KRISHNAGIRI",
@@ -23431,12 +23431,12 @@
         "MICR": "635013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KRISHNA ARCADE,(HOTEL UDHAYAM COMPLEX) NO 444A,SEKKALAI ROAD,KARAIKUDI , TAMIL NADU, PIN: 630 001",
+        "ADDRESS": "KRISHNA ARCADE,(HOTEL UDHAYAM COMPLEX) NO 444A,SEKKALAI ROAD,KARAIKUDI , TAMILNADU, PIN: 630 001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KARAIKUDI",
@@ -23449,7 +23449,7 @@
         "MICR": "630013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23467,7 +23467,7 @@
         "MICR": "641013010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23485,7 +23485,7 @@
         "MICR": "641013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23503,7 +23503,7 @@
         "MICR": "638013403",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23521,7 +23521,7 @@
         "MICR": "641013103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23539,7 +23539,7 @@
         "MICR": "638013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23557,7 +23557,7 @@
         "MICR": "638013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23575,7 +23575,7 @@
         "MICR": "641013104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23593,12 +23593,12 @@
         "MICR": "638013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Mount Road, Post Bo. No. 27, Coonoor, District Nilgiris, Tamil Nadu, 643 102",
+        "ADDRESS": "Mount Road, Post Bo. No. 27, Coonoor, District Nilgiris, TAMILNADU, 643 102",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Coonoor",
@@ -23611,7 +23611,7 @@
         "MICR": "643013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23629,7 +23629,7 @@
         "MICR": "641013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23647,7 +23647,7 @@
         "MICR": "641013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23665,7 +23665,7 @@
         "MICR": "641013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23683,7 +23683,7 @@
         "MICR": "641013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23701,7 +23701,7 @@
         "MICR": "638013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23719,7 +23719,7 @@
         "MICR": "641013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23737,7 +23737,7 @@
         "MICR": "641013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23755,7 +23755,7 @@
         "MICR": "636013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23773,7 +23773,7 @@
         "MICR": "620013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23791,7 +23791,7 @@
         "MICR": "641013016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23809,12 +23809,12 @@
         "MICR": "641013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SFNO 690/1 MM REDDY CO, OLD BANGALORE ROAD, HOSUR, TAMIL NADU - 635109",
+        "ADDRESS": "SFNO 690/1 MM REDDY CO, OLD BANGALORE ROAD, HOSUR, TAMILNADU - 635109",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "HOSUR",
@@ -23827,7 +23827,7 @@
         "MICR": "635013402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23845,7 +23845,7 @@
         "MICR": "636013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23863,7 +23863,7 @@
         "MICR": "635013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23881,7 +23881,7 @@
         "MICR": "635013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23899,12 +23899,12 @@
         "MICR": "630013206",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "No. 29, Ward No. 9, Sivam Koil North Street, Sivaganga, Dist: Sivaganga, Tamil Nadu, Pin: 240907",
+        "ADDRESS": "No. 29, Ward No. 9, Sivam Koil North Street, Sivaganga, Dist: Sivaganga, TAMILNADU, Pin: 240907",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Sivaganga",
@@ -23917,12 +23917,12 @@
         "MICR": "630013202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PSR ENGINEERING COLLEGE PREMISE SEVELPATTI POST SATTUR TALUK VIRUDHUNAGAR DISTRICT PIN 626140 TAMIL NADU",
+        "ADDRESS": "PSR ENGINEERING COLLEGE PREMISE SEVELPATTI POST SATTUR TALUK VIRUDHUNAGAR DISTRICT PIN 626140 TAMILNADU",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PSR ENGINEERING COLLEGE",
@@ -23935,7 +23935,7 @@
         "MICR": "625013020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23953,7 +23953,7 @@
         "MICR": "626013306",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23971,7 +23971,7 @@
         "MICR": "623013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23989,7 +23989,7 @@
         "MICR": "626013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24007,7 +24007,7 @@
         "MICR": "626013304",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24025,12 +24025,12 @@
         "MICR": "623013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Chairman Shanmuga Nadar Road, Sivakasi, District: Virudhunagar, Tamil Nadu, Pin: 626 123",
+        "ADDRESS": "Chairman Shanmuga Nadar Road, Sivakasi, District: Virudhunagar, TAMILNADU, Pin: 626 123",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Sivakasi",
@@ -24043,7 +24043,7 @@
         "MICR": "626013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24061,7 +24061,7 @@
         "MICR": "626013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24079,7 +24079,7 @@
         "MICR": "641013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24097,7 +24097,7 @@
         "MICR": "614013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24115,7 +24115,7 @@
         "MICR": "613013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24133,12 +24133,12 @@
         "MICR": "612013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "22 & 23, PUDUKOTTAI MAIN ROAD, THANJAVUR, TAMIL NADU, PIN 613 005.",
+        "ADDRESS": "22 & 23, PUDUKOTTAI MAIN ROAD, THANJAVUR, TAMILNADU, PIN 613 005.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "THANJAVUR",
@@ -24151,7 +24151,7 @@
         "MICR": "613013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24169,12 +24169,12 @@
         "MICR": "614013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OLD NO. 32/NEW NO. 11-G, AYEEKULAM ROAD, KUMBAKONAM, DISTRICT THANJAVUR, TAMIL NADU - 612 001.",
+        "ADDRESS": "OLD NO. 32/NEW NO. 11-G, AYEEKULAM ROAD, KUMBAKONAM, DISTRICT THANJAVUR, TAMILNADU - 612 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KUMBAKONAM",
@@ -24187,12 +24187,12 @@
         "MICR": "612013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PUDHUCHERRY NRI BRANCH NO 21 BUSSY ST 1ST FLOOR OPP SARASWATHI THIRUMANAMAHAL PUDUCHERRY PINCODE 605001",
+        "ADDRESS": "PUDHUCHERRY NRI BRANCH NO 21 BUSSY ST 1ST FLOOR OPP SARASWATHI THIRUMANAMAHAL PONDICHERRY PINCODE 605001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PUDHUCHERRY NRI",
@@ -24205,7 +24205,7 @@
         "MICR": "605013018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -24223,7 +24223,7 @@
         "MICR": "611013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24241,7 +24241,7 @@
         "MICR": "611013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24259,7 +24259,7 @@
         "MICR": "609013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24277,7 +24277,7 @@
         "MICR": "609013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24295,7 +24295,7 @@
         "MICR": "609013607",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -24313,12 +24313,12 @@
         "MICR": "609013102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NALLAVADU ROAD THANAMPALAYAM THAVALAKUPAAM ABISEKAPAKKAM PO PUDUCHERRY TAMILNADU PIN 605007",
+        "ADDRESS": "NALLAVADU ROAD THANAMPALAYAM THAVALAKUPAAM ABISEKAPAKKAM PO PONDICHERRY TAMILNADU PIN 605007",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "THAVALAKUPPAM",
@@ -24331,12 +24331,12 @@
         "MICR": "605013016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "288, VAZHUDAVOOR ROAD,KADHIRKAMMAM,PUDUCHERRY - 605009.",
+        "ADDRESS": "288, VAZHUDAVOOR ROAD,KADHIRKAMMAM,PONDICHERRY - 605009.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KADHIRKAMAM",
@@ -24349,7 +24349,7 @@
         "MICR": "605013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -24367,7 +24367,7 @@
         "MICR": "605013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -24390,7 +24390,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DWARKA BLDG, VENKATAPURAM, PERAMBALUR  TAMIL NADU 621212",
+        "ADDRESS": "DWARKA BLDG, VENKATAPURAM, PERAMBALUR  TAMILNADU 621212",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PERAMBALUR",
@@ -24403,7 +24403,7 @@
         "MICR": "620013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24421,7 +24421,7 @@
         "MICR": "621013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24439,7 +24439,7 @@
         "MICR": "600013059",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24457,7 +24457,7 @@
         "MICR": "605013013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24475,7 +24475,7 @@
         "MICR": "605013012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24493,7 +24493,7 @@
         "MICR": "600013058",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24511,7 +24511,7 @@
         "MICR": "600013055",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24529,7 +24529,7 @@
         "MICR": "610013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24547,7 +24547,7 @@
         "MICR": "600013049",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24565,7 +24565,7 @@
         "MICR": "600013048",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24583,7 +24583,7 @@
         "MICR": "600013047",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24601,7 +24601,7 @@
         "MICR": "600013045",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24619,7 +24619,7 @@
         "MICR": "614013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24637,7 +24637,7 @@
         "MICR": "600013037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24655,7 +24655,7 @@
         "MICR": "600013038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24673,7 +24673,7 @@
         "MICR": "600013035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24691,12 +24691,12 @@
         "MICR": "600013031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PSK BUILDING COMPLEX, 595A SALEM ROAD, NAMAKKAL, TAMIL NADU 637 001.",
+        "ADDRESS": "PSK BUILDING COMPLEX, 595A SALEM ROAD, NAMAKKAL, TAMILNADU 637 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "NAMAKKAL",
@@ -24709,12 +24709,12 @@
         "MICR": "636013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "91/ RAJAJI ROAD, TAMBARAM WEST, CHENNAI, TAMIL NADU",
+        "ADDRESS": "91/ RAJAJI ROAD, TAMBARAM WEST, CHENNAI, TAMILNADU",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "TAMBARAM",
@@ -24727,12 +24727,12 @@
         "MICR": "600013028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "5/465, VALAYAPATHI SALAI, J.J.NAGAR, MOGAPPAIR, EAST, DIS: THIRUVALIUS, TAMIL NADU, PIN: 37",
+        "ADDRESS": "5/465, VALAYAPATHI SALAI, J.J.NAGAR, MOGAPPAIR, EAST, DIS: THIRUVALIUS, TAMILNADU, PIN: 37",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MOGAPPAIR",
@@ -24745,12 +24745,12 @@
         "MICR": "600013026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHAKTI TOWER, 1ST FLOOR, 'E'  BLOCK, 766, ANNA SALVI, POST BOX NO.2704, CHENNAI, TAMIL NADU - 600 002.",
+        "ADDRESS": "SHAKTI TOWER, 1ST FLOOR, 'E'  BLOCK, 766, ANNA SALVI, POST BOX NO.2704, CHENNAI, TAMILNADU - 600 002.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "CHENNAI SERVICE BR.",
@@ -24763,7 +24763,7 @@
         "MICR": "600013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24781,7 +24781,7 @@
         "MICR": "600013060",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24799,7 +24799,7 @@
         "MICR": "600013057",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24817,7 +24817,7 @@
         "MICR": "600013056",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24835,7 +24835,7 @@
         "MICR": "600013054",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24853,7 +24853,7 @@
         "MICR": "600013043",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24871,7 +24871,7 @@
         "MICR": "600013042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24889,7 +24889,7 @@
         "MICR": "600013036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24907,7 +24907,7 @@
         "MICR": "600013034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24925,7 +24925,7 @@
         "MICR": "600013032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24943,7 +24943,7 @@
         "MICR": "600013030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24961,7 +24961,7 @@
         "MICR": "600013029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24979,12 +24979,12 @@
         "MICR": "600013027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "25/A, Red Hill High Road, Kolathur, Chennai, Tamil Nadu, Pin: 600099",
+        "ADDRESS": "25/A, Red Hill High Road, Kolathur, Chennai, TAMILNADU, Pin: 600099",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Kolathur",
@@ -24997,7 +24997,7 @@
         "MICR": "600013025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25015,7 +25015,7 @@
         "MICR": "600013020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25033,7 +25033,7 @@
         "MICR": "600013024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25051,7 +25051,7 @@
         "MICR": "600013039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25069,7 +25069,7 @@
         "MICR": "600013040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25087,7 +25087,7 @@
         "MICR": "600013023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25105,7 +25105,7 @@
         "MICR": "600013022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25123,7 +25123,7 @@
         "MICR": "600013021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25141,7 +25141,7 @@
         "MICR": "637013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25159,7 +25159,7 @@
         "MICR": "636013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25177,7 +25177,7 @@
         "MICR": "600013019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25195,7 +25195,7 @@
         "MICR": "600013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25213,7 +25213,7 @@
         "MICR": "600013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25231,7 +25231,7 @@
         "MICR": "600013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25249,7 +25249,7 @@
         "MICR": "600013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25267,7 +25267,7 @@
         "MICR": "600013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25285,7 +25285,7 @@
         "MICR": "600013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25303,7 +25303,7 @@
         "MICR": "600013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25321,7 +25321,7 @@
         "MICR": "636013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25339,7 +25339,7 @@
         "MICR": "600013012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25357,7 +25357,7 @@
         "MICR": "600013015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25375,7 +25375,7 @@
         "MICR": "600013013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25393,7 +25393,7 @@
         "MICR": "600013014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25411,7 +25411,7 @@
         "MICR": "600013018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25429,7 +25429,7 @@
         "MICR": "600013011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25447,7 +25447,7 @@
         "MICR": "600013010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25465,7 +25465,7 @@
         "MICR": "600013009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -32562,7 +32562,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE PANDEYPUR POST PACHAKHAR TEHSIL DISTT CHANDAULI UTTARPRADESH 232101",
+        "ADDRESS": "VILLAGE PANDEYPUR POST PACHAKHAR TEHSIL DISTT CHANDAULI UTTAR PRADESH 232101",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PANDEYPUR",
@@ -32598,7 +32598,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE SADHANGANJ BARA LALPUR POST LAMHI TEHSIL VARANASI SADAR DISTT VARANASI UTTARPRADESH 221007",
+        "ADDRESS": "VILLAGE SADHANGANJ BARA LALPUR POST LAMHI TEHSIL VARANASI SADAR DISTT VARANASI UTTAR PRADESH 221007",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BARA LALPUR",
@@ -33210,7 +33210,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "B-32, SECTOR 62, NOIDA, DIST : GAUTAM BUDH NAGAR, NOIDA, UTTARPRADESH \u2013 201307.",
+        "ADDRESS": "B-32, SECTOR 62, NOIDA, DIST : GAUTAM BUDH NAGAR, NOIDA, UTTAR PRADESH \u2013 201307.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SECTOR-62",
@@ -33462,7 +33462,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SUPERTECH RAMESHWAR ORCHID, H-1, KAUSHAMBI, DIST: GHAZIABAD, UTTARPRADESH, PIN: 201010",
+        "ADDRESS": "SUPERTECH RAMESHWAR ORCHID, H-1, KAUSHAMBI, DIST: GHAZIABAD, UTTAR PRADESH, PIN: 201010",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KAUSHAMBI",
@@ -33750,7 +33750,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SMT. SANJU SINGH, W/O OM PRAKASH SINGH, MOHALLA- DILAWALPUR, VILLAGE & POST- RATSAR, DISTT- BALIA, UTTARPRADESH.",
+        "ADDRESS": "SMT. SANJU SINGH, W/O OM PRAKASH SINGH, MOHALLA- DILAWALPUR, VILLAGE & POST- RATSAR, DISTT- BALIA, UTTAR PRADESH.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "RATSAR(KHURD)",
@@ -33768,7 +33768,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO-1989, NEAR PLOICE STATION, AT & POSTOFFICE- MARDAH, GHAZIPUR, UTTARPRADESH.",
+        "ADDRESS": "PLOT NO-1989, NEAR PLOICE STATION, AT & POSTOFFICE- MARDAH, GHAZIPUR, UTTAR PRADESH.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MARDAH",
@@ -33804,7 +33804,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VILL & POST JETHWARA BLOCK LAXMANPUR, TEHSIL LALGANJ AJHARA DISTT PRATAPGARH. UTTARPRADESH 230129",
+        "ADDRESS": "VILL & POST JETHWARA BLOCK LAXMANPUR, TEHSIL LALGANJ AJHARA DISTT PRATAPGARH. UTTAR PRADESH 230129",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "JETHWARA",
@@ -33822,7 +33822,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "362, SHITAL MAU, LALGANJ AJHARA, LALGANJ, DISTT PRATAPGARH. UTTARPRADESH 230132",
+        "ADDRESS": "362, SHITAL MAU, LALGANJ AJHARA, LALGANJ, DISTT PRATAPGARH. UTTAR PRADESH 230132",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "LALGANJ AJHARA",
@@ -34182,7 +34182,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "244 A, 244A/1, MUIR ROAD, ASHOK NAGAR, ALLAHABAD, UTTARPRADESH-211001",
+        "ADDRESS": "244 A, 244A/1, MUIR ROAD, ASHOK NAGAR, ALLAHABAD, UTTAR PRADESH-211001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "ASHOK NAGAR(VARANASI)",
@@ -34200,7 +34200,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE- KAAZISARAI, POST- HARHUA DISTT-VARANASI- UTTARPRADESH-221205",
+        "ADDRESS": "VILLAGE- KAAZISARAI, POST- HARHUA DISTT-VARANASI- UTTAR PRADESH-221205",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KAAZI SARAI",
@@ -51601,7 +51601,7 @@
         "MICR": "533013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -68670,7 +68670,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "KHAN VILLA TATAMETALIKS ROAD  BESIDE TATA METALIKS LTD  WARD NO 4, KALAIKUNDA G P PASCHIM MIDNAPORE  WESTBENGAL 721301",
+        "ADDRESS": "KHAN VILLA TATAMETALIKS ROAD  BESIDE TATA METALIKS LTD  WARD NO 4, KALAIKUNDA G P PASCHIM MIDNAPORE  WEST BENGAL 721301",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MAHESHPUR",
@@ -75109,12 +75109,12 @@
         "MICR": "370013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO. 1,SECTOR NO. 9, POST  BOX  NO.38,GANDHIDHAM, DISTRICT KUTCH,GUJARAT - 370 201.",
+        "ADDRESS": "PLOT NO. 1,SECTOR NO. 9, POST  BOX  NO.38,GANDHIDHAM, DISTRICT KUTCH,GUJRAT - 370 201.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "GANDHIDHAM",
@@ -75127,12 +75127,12 @@
         "MICR": "370013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT & PO: RAV MOTI, TALUKA-RAPAR, DISTRICT-KUTCH, GUJARAT-370165",
+        "ADDRESS": "AT & PO: RAV MOTI, TALUKA-RAPAR, DISTRICT-KUTCH, GUJRAT-370165",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "RAV MOTI",
@@ -75145,7 +75145,7 @@
         "MICR": "370013509",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75163,7 +75163,7 @@
         "MICR": "370013140",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75181,12 +75181,12 @@
         "MICR": "370013081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VAYOR BRANCH,  C/O JAYPRAKASH ASSOCIATES LTD., \"SEWAGRAM\",    VILLAGE - VAYOR , TA- ABDASA, DIST - KUTCH GUJARAT,  PINCODE - 370 511",
+        "ADDRESS": "VAYOR BRANCH,  C/O JAYPRAKASH ASSOCIATES LTD., \"SEWAGRAM\",    VILLAGE - VAYOR , TA- ABDASA, DIST - KUTCH GUJRAT,  PINCODE - 370 511",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VAYOR",
@@ -75199,12 +75199,12 @@
         "MICR": "370013121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RAPAR BRANCH , 'ARIHANT', NR. TRAMBO NIVAS, OPP- VIKASWADI, TA- RAPAR, DIST - KUTCH GUJARAT, PIN CODE - 370 165",
+        "ADDRESS": "RAPAR BRANCH , 'ARIHANT', NR. TRAMBO NIVAS, OPP- VIKASWADI, TA- RAPAR, DIST - KUTCH GUJRAT, PIN CODE - 370 165",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "RAPAR",
@@ -75217,12 +75217,12 @@
         "MICR": "370013040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, HOTEL PRISHA, OPP OLD PETROL PUMP, BEHIND POST OFFICE, BHACHAU - 370140  DIST-KUTCH,  GUJARAT",
+        "ADDRESS": "GROUND FLOOR, HOTEL PRISHA, OPP OLD PETROL PUMP, BEHIND POST OFFICE, BHACHAU - 370140  DIST-KUTCH,  GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BHACHAU",
@@ -75235,12 +75235,12 @@
         "MICR": "370013210",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT-19, GHANSHYAMNAGAR, SAVASAR NAKA, NR KHODIYAR TEMPLE, ANJAR- 370110  DIST-KUTCH,  GUJARAT",
+        "ADDRESS": "PLOT-19, GHANSHYAMNAGAR, SAVASAR NAKA, NR KHODIYAR TEMPLE, ANJAR- 370110  DIST-KUTCH,  GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "ANJAR",
@@ -75253,12 +75253,12 @@
         "MICR": "370013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PANJRAPOLE COMPLEX, OPP ST BUS STAND, AT- MUNDRA, DIST-KUTCH, GUJARAT - 370 421",
+        "ADDRESS": "PANJRAPOLE COMPLEX, OPP ST BUS STAND, AT- MUNDRA, DIST-KUTCH, GUJRAT - 370 421",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MUNDRA",
@@ -75271,12 +75271,12 @@
         "MICR": "370013101",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SUKHPAR, TALUKA BHUJ, DISTRICT KUTCH, GUJARAT - 370 040.",
+        "ADDRESS": "SUKHPAR, TALUKA BHUJ, DISTRICT KUTCH, GUJRAT - 370 040.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SUKHPAR",
@@ -75289,12 +75289,12 @@
         "MICR": "370013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA BUILDING,NEAR HOTEL SEA ROCK,NEW KANDLA,DISTRICT KUTCH,GUJARAT - 370 210.",
+        "ADDRESS": "BANK OF INDIA BUILDING,NEAR HOTEL SEA ROCK,NEW KANDLA,DISTRICT KUTCH,GUJRAT - 370 210.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KANDLA PORT",
@@ -75307,12 +75307,12 @@
         "MICR": "370013430",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT & POST : NIRONA, TALUKA-NAKHATRANA, DISTRICT-KUTCH, GUJARAT- 370 001",
+        "ADDRESS": "AT & POST : NIRONA, TALUKA-NAKHATRANA, DISTRICT-KUTCH, GUJRAT- 370 001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "NIRONA",
@@ -75325,12 +75325,12 @@
         "MICR": "370013056",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KALYAN BHAVAN,BUNDER ROAD, KUTCH MANDVI,DISTRICT KUTCH,GUJARAT - 370 465.",
+        "ADDRESS": "KALYAN BHAVAN,BUNDER ROAD, KUTCH MANDVI,DISTRICT KUTCH,GUJRAT - 370 465.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KUTCH MANDVI",
@@ -75343,12 +75343,12 @@
         "MICR": "370013052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR BUS STAND, AT & POST : MOTI VIRANI, TALUKA- NAKHATRANA,  DIST- KUTCH, (GUJARAT ) PIN - 370 665",
+        "ADDRESS": "NEAR BUS STAND, AT & POST : MOTI VIRANI, TALUKA- NAKHATRANA,  DIST- KUTCH, (GUJRAT ) PIN - 370 665",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MOTI VIRANI",
@@ -75361,12 +75361,12 @@
         "MICR": "370013055",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OPP. S. T. BUS STAND, KERA, DISTRICT KUTCH, GUJARAT - 370 430.",
+        "ADDRESS": "OPP. S. T. BUS STAND, KERA, DISTRICT KUTCH, GUJRAT - 370 430.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KERA",
@@ -75379,12 +75379,12 @@
         "MICR": "370013054",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "P. O. GODPAR,TALUKA BHUJ,DISTRICT KUTCH,GUJARAT - 370 485.",
+        "ADDRESS": "P. O. GODPAR,TALUKA BHUJ,DISTRICT KUTCH,GUJRAT - 370 485.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "GODPAR",
@@ -75397,12 +75397,12 @@
         "MICR": "370013053",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MADHAPAR,TALUKA BHUJ,DISTRICT KUTCH,GUJARAT - 370 020.",
+        "ADDRESS": "MADHAPAR,TALUKA BHUJ,DISTRICT KUTCH,GUJRAT - 370 020.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MADHAPUR",
@@ -75415,12 +75415,12 @@
         "MICR": "370013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BHARASAR,VIA MANKUVA,TALUKA BHUJ, DISTRICT KUTCH,GUJARAT - 370 030.",
+        "ADDRESS": "BHARASAR,VIA MANKUVA,TALUKA BHUJ, DISTRICT KUTCH,GUJRAT - 370 030.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BHARASAR",
@@ -75433,12 +75433,12 @@
         "MICR": "370013427",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NARANPAR, TALUKA BHUJ, DISTTRICT KUTCH, GUJARAT - 370 430.",
+        "ADDRESS": "NARANPAR, TALUKA BHUJ, DISTTRICT KUTCH, GUJRAT - 370 430.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "NARANPAR (KUTCH)",
@@ -75451,12 +75451,12 @@
         "MICR": "370013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DAHISARA, TALUKA BHUJ, DISTRICT KUTCH, GUJARAT - 370 485.",
+        "ADDRESS": "DAHISARA, TALUKA BHUJ, DISTRICT KUTCH, GUJRAT - 370 485.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DAHISARA",
@@ -75469,12 +75469,12 @@
         "MICR": "370013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE: DESALPAR (WANDAY), TALUKA BHUJ, DIST., KUTCH, GUJARAT-370 040",
+        "ADDRESS": "VILLAGE: DESALPAR (WANDAY), TALUKA BHUJ, DIST., KUTCH, GUJRAT-370 040",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DESALPAR",
@@ -75487,7 +75487,7 @@
         "MICR": "370013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75510,7 +75510,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BALADIA,TALUKA BHUJ,DISTRICT KUTCH,GUJARAT - 370 427.",
+        "ADDRESS": "BALADIA,TALUKA BHUJ,DISTRICT KUTCH,GUJRAT - 370 427.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BALADIA",
@@ -75523,12 +75523,12 @@
         "MICR": "362013620",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SAHJANAND BHAWAN, GARBI CHOWK, BEHIND SWAMINARAYAN MANDIR,  AT & POST- SAMATRA,  DIST.- KUTCH,   GUJARAT -382 305",
+        "ADDRESS": "SAHJANAND BHAWAN, GARBI CHOWK, BEHIND SWAMINARAYAN MANDIR,  AT & POST- SAMATRA,  DIST.- KUTCH,   GUJRAT -382 305",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SAMATRA",
@@ -75541,12 +75541,12 @@
         "MICR": "360013122",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "N.K. TOWERS,OPP. DISTRICT PANCHAYAT OFFICE,S.T. ROAD,BHUJ 370 001 (KUTCH). GUJARAT",
+        "ADDRESS": "N.K. TOWERS,OPP. DISTRICT PANCHAYAT OFFICE,S.T. ROAD,BHUJ 370 001 (KUTCH). GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BHUJ NRI",
@@ -75559,12 +75559,12 @@
         "MICR": "362013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Swaminarayan Sankul, Hospital Road, Bhuj, Kutch,Gujarat-370001",
+        "ADDRESS": "Swaminarayan Sankul, Hospital Road, Bhuj, Kutch,GUJRAT-370001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Bhuj",
@@ -75577,7 +75577,7 @@
         "MICR": "362013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75600,7 +75600,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "KAMLABAUG AREA, NEAR INCOME TAX OFFICE, M.G. ROAD, PORBANDAR,\n GUJARAT-360 675.",
+        "ADDRESS": "KAMLABAUG AREA, NEAR INCOME TAX OFFICE, M.G. ROAD, PORBANDAR,\n GUJRAT-360 675.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KAMLA BAUG",
@@ -75613,12 +75613,12 @@
         "MICR": "362013560",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "\"PURNIMA\",OPP. T.V.STATION, AT GANDHIGRAM, DIST. JUNAGADH, GUJARAT - 362 001.",
+        "ADDRESS": "\"PURNIMA\",OPP. T.V.STATION, AT GANDHIGRAM, DIST. JUNAGADH, GUJRAT - 362 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "GANDHIGRAM",
@@ -75631,7 +75631,7 @@
         "MICR": "362013091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75649,7 +75649,7 @@
         "MICR": "362013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75667,7 +75667,7 @@
         "MICR": "360013510",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75685,7 +75685,7 @@
         "MICR": "360013511",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75703,7 +75703,7 @@
         "MICR": "362013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75721,7 +75721,7 @@
         "MICR": "362013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75739,7 +75739,7 @@
         "MICR": "362013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75757,12 +75757,12 @@
         "MICR": "360013121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "JOSHIPARA, DISTRICT JUNAGADH, GUJARAT - 362 002.",
+        "ADDRESS": "JOSHIPARA, DISTRICT JUNAGADH, GUJRAT - 362 002.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "JOSHIPURA",
@@ -75775,7 +75775,7 @@
         "MICR": "362013071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75793,7 +75793,7 @@
         "MICR": "362013508",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75811,12 +75811,12 @@
         "MICR": "362013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KEDARESHWAR ROAD, OPP.SHRI RANCHHODRAY HAVELI, POST BOX NO. 18, PORBANDAR, GUJARAT - 360 575.",
+        "ADDRESS": "KEDARESHWAR ROAD, OPP.SHRI RANCHHODRAY HAVELI, POST BOX NO. 18, PORBANDAR, GUJRAT - 360 575.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PORBANDAR",
@@ -75829,7 +75829,7 @@
         "MICR": "362013131",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75847,7 +75847,7 @@
         "MICR": "362013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75865,12 +75865,12 @@
         "MICR": "361013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "C/O DR PRAVINBHAI KOTHARI, STATION ROAD, OPP SCHOOL, AT & PO TALALA GUJARAT 362150",
+        "ADDRESS": "C/O DR PRAVINBHAI KOTHARI, STATION ROAD, OPP SCHOOL, AT & PO TALALA GUJRAT 362150",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "TALALA",
@@ -75883,7 +75883,7 @@
         "MICR": "361013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75901,7 +75901,7 @@
         "MICR": "361013071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75919,12 +75919,12 @@
         "MICR": "364013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "JANTA CHOWK, POST BOX NO. 3, JUNAGADH, GUJARAT - 362 001.",
+        "ADDRESS": "JANTA CHOWK, POST BOX NO. 3, JUNAGADH, GUJRAT - 362 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "JUNAGADH",
@@ -75937,7 +75937,7 @@
         "MICR": "360013509",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75955,7 +75955,7 @@
         "MICR": "360013161",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75973,7 +75973,7 @@
         "MICR": "361013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -75991,7 +75991,7 @@
         "MICR": "363013022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76009,7 +76009,7 @@
         "MICR": "361013508",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76027,7 +76027,7 @@
         "MICR": "361013081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76045,7 +76045,7 @@
         "MICR": "361013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76063,7 +76063,7 @@
         "MICR": "361013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76081,7 +76081,7 @@
         "MICR": "361013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76099,12 +76099,12 @@
         "MICR": "361013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA   POST BED TAKULA JAMNAGAR  DISST JAMNAGAR PIN CODE 361006 GUJARAT",
+        "ADDRESS": "BANK OF INDIA   POST BED TAKULA JAMNAGAR  DISST JAMNAGAR PIN CODE 361006 GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BED",
@@ -76117,7 +76117,7 @@
         "MICR": "361013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76135,12 +76135,12 @@
         "MICR": "361013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PATEL SAMAJ SHOPPING CENTER, SHOP NO 70, 1 ST FLOOR, JAMNAGAR ROAD, AT & POST DHROL JAMNAGAR GUJARAT 361210",
+        "ADDRESS": "PATEL SAMAJ SHOPPING CENTER, SHOP NO 70, 1 ST FLOOR, JAMNAGAR ROAD, AT & POST DHROL JAMNAGAR GUJRAT 361210",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DHROL",
@@ -76153,7 +76153,7 @@
         "MICR": "361013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76171,7 +76171,7 @@
         "MICR": "361013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76189,12 +76189,12 @@
         "MICR": "364013509",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHED NO. 442, GIDC INDUSTRIAL ESTATE, SHANKAR TEKRI, JAMNAGAR, GUJARAT - 361 004.",
+        "ADDRESS": "SHED NO. 442, GIDC INDUSTRIAL ESTATE, SHANKAR TEKRI, JAMNAGAR, GUJRAT - 361 004.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SHANKAR TEKRI SSI",
@@ -76207,12 +76207,12 @@
         "MICR": "364013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OPP. MEDICAL COLLLEGE, PANDIT NEHRU MARG, POST BAG NO.7, JAMNAGAR, GUJARAT - 361 008.",
+        "ADDRESS": "OPP. MEDICAL COLLLEGE, PANDIT NEHRU MARG, POST BAG NO.7, JAMNAGAR, GUJRAT - 361 008.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "HOSPITAL ROAD",
@@ -76225,12 +76225,12 @@
         "MICR": "364013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RANJIT ROAD, POST BOX NO. 503, JAMNAGAR, GUJARAT - 361 001.",
+        "ADDRESS": "RANJIT ROAD, POST BOX NO. 503, JAMNAGAR, GUJRAT - 361 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "JAMNAGAR",
@@ -76243,7 +76243,7 @@
         "MICR": "364013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76261,7 +76261,7 @@
         "MICR": "364013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76279,7 +76279,7 @@
         "MICR": "364013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76297,7 +76297,7 @@
         "MICR": "364013111",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76315,7 +76315,7 @@
         "MICR": "364013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76333,7 +76333,7 @@
         "MICR": "364013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76351,7 +76351,7 @@
         "MICR": "364013071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76369,7 +76369,7 @@
         "MICR": "364013290",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76387,7 +76387,7 @@
         "MICR": "364013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76405,7 +76405,7 @@
         "MICR": "364013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76423,12 +76423,12 @@
         "MICR": "364013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BHOOMI COMPLEX, RAJKOT GONDAL HIGHWAY, NH NO 8, SHAPAR VERAVAL. DIST - RAJKOT GUJARAT",
+        "ADDRESS": "BHOOMI COMPLEX, RAJKOT GONDAL HIGHWAY, NH NO 8, SHAPAR VERAVAL. DIST - RAJKOT GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MAHUVA",
@@ -76441,7 +76441,7 @@
         "MICR": "364013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76459,7 +76459,7 @@
         "MICR": "364013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76477,7 +76477,7 @@
         "MICR": "364013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76495,7 +76495,7 @@
         "MICR": "363013091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76513,12 +76513,12 @@
         "MICR": "360013141",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO. 1885/B2, ATABHAI AVENUE ROAD, KRISHNANAGAR, BHAVNAGAR, GUJARAT - 364 002.",
+        "ADDRESS": "PLOT NO. 1885/B2, ATABHAI AVENUE ROAD, KRISHNANAGAR, BHAVNAGAR, GUJRAT - 364 002.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KRISHNANAGAR",
@@ -76531,12 +76531,12 @@
         "MICR": "360013513",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AMBA CHOWK, POST BOX NO. 37, BHAVNAGAR, GUJARAT - 364 001.",
+        "ADDRESS": "AMBA CHOWK, POST BOX NO. 37, BHAVNAGAR, GUJRAT - 364 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BHAVNAGAR",
@@ -76549,7 +76549,7 @@
         "MICR": "360013014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76567,7 +76567,7 @@
         "MICR": "363013071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76585,7 +76585,7 @@
         "MICR": "360013012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76603,7 +76603,7 @@
         "MICR": "360013081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76621,7 +76621,7 @@
         "MICR": "360013011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76639,7 +76639,7 @@
         "MICR": "360013101",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76657,7 +76657,7 @@
         "MICR": "360013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76675,7 +76675,7 @@
         "MICR": "360013061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76693,7 +76693,7 @@
         "MICR": "360013010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76711,7 +76711,7 @@
         "MICR": "360013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76729,7 +76729,7 @@
         "MICR": "360013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76747,7 +76747,7 @@
         "MICR": "360013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76765,7 +76765,7 @@
         "MICR": "360013042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76783,12 +76783,12 @@
         "MICR": "364013508",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ANAND MANGAL',7/11, BHAKTINAGAR STATION PLOT,RAJKOT,GUJARAT - 360 002.",
+        "ADDRESS": "ANAND MANGAL',7/11, BHAKTINAGAR STATION PLOT,RAJKOT,GUJRAT - 360 002.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BAKTI NAGAR SSI",
@@ -76801,7 +76801,7 @@
         "MICR": "363013021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76819,12 +76819,12 @@
         "MICR": "360013041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SARDAR MARKET YARD, OPP. BUS STATION, GONDOL, DISTRICT RAJKOT, GUJARAT - 360 311.",
+        "ADDRESS": "SARDAR MARKET YARD, OPP. BUS STATION, GONDOL, DISTRICT RAJKOT, GUJRAT - 360 311.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MARKET YARD (GONDAL)",
@@ -76837,7 +76837,7 @@
         "MICR": "360013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76855,12 +76855,12 @@
         "MICR": "360013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR VEGETABLE MARKET, POST BOX NO. 51, MORVI, GUJARAT - 363 641.",
+        "ADDRESS": "NEAR VEGETABLE MARKET, POST BOX NO. 51, MORVI, GUJRAT - 363 641.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MORVI",
@@ -76873,12 +76873,12 @@
         "MICR": "360013508",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR TOWN HALL,P. B. NO. 20,GONDAL,DIST.RAJKOT,GUJARAT - 360 311.",
+        "ADDRESS": "NEAR TOWN HALL,P. B. NO. 20,GONDAL,DIST.RAJKOT,GUJRAT - 360 311.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "GONDAL",
@@ -76891,7 +76891,7 @@
         "MICR": "360013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76909,7 +76909,7 @@
         "MICR": "360013009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76927,7 +76927,7 @@
         "MICR": "360013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76945,7 +76945,7 @@
         "MICR": "360013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76963,12 +76963,12 @@
         "MICR": "363013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "TITAN' NEAR G.T.SHETH SCHOOL, KALAWAD ROAD, RAJKOT, GUJARAT, PIN: 360 005,",
+        "ADDRESS": "TITAN' NEAR G.T.SHETH SCHOOL, KALAWAD ROAD, RAJKOT, GUJRAT, PIN: 360 005,",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KALWAD ROAD",
@@ -76981,7 +76981,7 @@
         "MICR": "360013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -76999,12 +76999,12 @@
         "MICR": "360013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GURU KRUPA CHAMBERS,KUVADAVA ROAD, BEDIPARA,RAJKOT,GUJARAT - 360 003.",
+        "ADDRESS": "GURU KRUPA CHAMBERS,KUVADAVA ROAD, BEDIPARA,RAJKOT,GUJRAT - 360 003.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BEDIPARA",
@@ -77017,7 +77017,7 @@
         "MICR": "360013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77035,7 +77035,7 @@
         "MICR": "360013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77053,12 +77053,12 @@
         "MICR": "360013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DARBAR GOPALDAS ROAD, NEAR SORATHIAWADI CHOWK, RAJKOT, GUJARAT, PIN: 360 002",
+        "ADDRESS": "DARBAR GOPALDAS ROAD, NEAR SORATHIAWADI CHOWK, RAJKOT, GUJRAT, PIN: 360 002",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SORATHIAWADI",
@@ -77071,7 +77071,7 @@
         "MICR": "360013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77089,12 +77089,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR GENERAL POST OFFICE,RAJKOT,GUJARAT - 360 001.",
+        "ADDRESS": "NEAR GENERAL POST OFFICE,RAJKOT,GUJRAT - 360 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PANCHNATH",
@@ -77107,12 +77107,12 @@
         "MICR": "392013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MALAVIYA ROAD,RAJKOT,GUJARAT - 360 002.",
+        "ADDRESS": "MALAVIYA ROAD,RAJKOT,GUJRAT - 360 002.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MALAVIYA ROAD",
@@ -77125,12 +77125,12 @@
         "MICR": "393013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SIR LAKHAJIRAJ ROAD,POST BOX NO. 268,RAJKOT,GUJARAT - 360 001.",
+        "ADDRESS": "SIR LAKHAJIRAJ ROAD,POST BOX NO. 268,RAJKOT,GUJRAT - 360 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "LAKHAJIRAJ ROAD",
@@ -77143,12 +77143,12 @@
         "MICR": "392013071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Post Box No-133, Para Bazar,M G Road, Rajokot,Gujarat-360 001",
+        "ADDRESS": "Post Box No-133, Para Bazar,M G Road, Rajokot,GUJRAT-360 001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Rajkot",
@@ -77161,7 +77161,7 @@
         "MICR": "393013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77179,12 +77179,12 @@
         "MICR": "392013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PRERNA PARK COMPLEX ANKLESHWAR RAJPIPLA ROAD AT POST JHADADIA,DIST BHARUCH PIN 393110(GUJARAT)",
+        "ADDRESS": "PRERNA PARK COMPLEX ANKLESHWAR RAJPIPLA ROAD AT POST JHADADIA,DIST BHARUCH PIN 393110(GUJRAT)",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "JHAGADIA",
@@ -77197,12 +77197,12 @@
         "MICR": "393013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA\u00a0,DAHEJ BRANCH,\"SHALIGRAM COMPLEX\",IPCL ROAD,DAHEJ-392015\u00a0,DIST. BHARUCH,GUJARAT",
+        "ADDRESS": "BANK OF INDIA\u00a0,DAHEJ BRANCH,\"SHALIGRAM COMPLEX\",IPCL ROAD,DAHEJ-392015\u00a0,DIST. BHARUCH,GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DAHEJ",
@@ -77215,7 +77215,7 @@
         "MICR": "392013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77233,7 +77233,7 @@
         "MICR": "392013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77251,7 +77251,7 @@
         "MICR": "395013024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77269,7 +77269,7 @@
         "MICR": "389013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77287,7 +77287,7 @@
         "MICR": "388013519",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77305,12 +77305,12 @@
         "MICR": "390013025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO.C/3/10-B,GIDC, OPP. ASHOPALAV GUEST HOUSE, OLD NATIONAL HIGHWAY NO.8, ANKLESHWAR, DIST. BHARUCH,GUJARAT 393 002.",
+        "ADDRESS": "PLOT NO.C/3/10-B,GIDC, OPP. ASHOPALAV GUEST HOUSE, OLD NATIONAL HIGHWAY NO.8, ANKLESHWAR, DIST. BHARUCH,GUJRAT 393 002.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "ANKLESHWAR - IND ESTATE",
@@ -77323,7 +77323,7 @@
         "MICR": "388013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77341,7 +77341,7 @@
         "MICR": "396013171",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77359,12 +77359,12 @@
         "MICR": "396013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHIVAM CHAMBERS, 1ST FLOOR, OPP. BOMBAY SHOPPING CENTRE, STATION ROAD, BHARUCH, GUJARAT - 392 001.",
+        "ADDRESS": "SHIVAM CHAMBERS, 1ST FLOOR, OPP. BOMBAY SHOPPING CENTRE, STATION ROAD, BHARUCH, GUJRAT - 392 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BHARUCH",
@@ -77377,7 +77377,7 @@
         "MICR": "396013131",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77395,7 +77395,7 @@
         "MICR": "396013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77413,7 +77413,7 @@
         "MICR": "396013063",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77449,7 +77449,7 @@
         "MICR": "396013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77467,7 +77467,7 @@
         "MICR": "396013032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77485,12 +77485,12 @@
         "MICR": "396013091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO. CM/16, SILVASA ROAD, POST BOX NO. 36, G.I.D.C. INDUSTRIAL ESTATE, VAPI, DIST.VALSAD, GUJARAT - 396 195.",
+        "ADDRESS": "PLOT NO. CM/16, SILVASA ROAD, POST BOX NO. 36, G.I.D.C. INDUSTRIAL ESTATE, VAPI, DIST.VALSAD, GUJRAT - 396 195.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VAPI SSI",
@@ -77503,12 +77503,12 @@
         "MICR": "396013031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "STATION ROAD, BILIMORA,DIST.VALSAD, GUJARAT.PIN 396 321",
+        "ADDRESS": "STATION ROAD, BILIMORA,DIST.VALSAD, GUJRAT.PIN 396 321",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BILIMORA",
@@ -77521,12 +77521,12 @@
         "MICR": "396013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ZANDA CHOWK,P. B. NO. 39,VAPI,GUJARAT - 396 191.",
+        "ADDRESS": "ZANDA CHOWK,P. B. NO. 39,VAPI,GUJRAT - 396 191.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VAPI",
@@ -77539,7 +77539,7 @@
         "MICR": "396013092",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77557,7 +77557,7 @@
         "MICR": "396013061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77575,12 +77575,12 @@
         "MICR": "396013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Near Clock Tower, P B No - 25, Navsari, Gujarat - 396445",
+        "ADDRESS": "Near Clock Tower, P B No - 25, Navsari, GUJRAT - 396445",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Navsari",
@@ -77593,12 +77593,12 @@
         "MICR": "388013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, SHRI DIXIT FALIA ANAVIL PANCH WADI, DIXIT STREET, P.B.NO.68, VALSAD, GUJARAT - 396001.",
+        "ADDRESS": "GROUND FLOOR, SHRI DIXIT FALIA ANAVIL PANCH WADI, DIXIT STREET, P.B.NO.68, VALSAD, GUJRAT - 396001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VALSAD",
@@ -77611,12 +77611,12 @@
         "MICR": "387013511",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA,PETLAD BRANCH, RADHE II COMPLEX,SHOP NO. 1-A,COLLEGE ROAD,OPP. LIONS,  NR.CROSSING,PETLAD, DIST. : ANAND,GUJARAT.-388450",
+        "ADDRESS": "BANK OF INDIA,PETLAD BRANCH, RADHE II COMPLEX,SHOP NO. 1-A,COLLEGE ROAD,OPP. LIONS,  NR.CROSSING,PETLAD, DIST. : ANAND,GUJRAT.-388450",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PETLAD",
@@ -77629,12 +77629,12 @@
         "MICR": "387013512",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "HIMMAT BHUVANMUKHI NI KHADKI, OPP GUJARATI SCHOOL, AT: ALINDRA, TAL NADIAD, DIST KHEDA, PIN 387 115",
+        "ADDRESS": "HIMMAT BHUVANMUKHI NI KHADKI, OPP GUJRATI SCHOOL, AT: ALINDRA, TAL NADIAD, DIST KHEDA, PIN 387 115",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "ALINDRA",
@@ -77647,7 +77647,7 @@
         "MICR": "388013515",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77665,7 +77665,7 @@
         "MICR": "388013516",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77683,7 +77683,7 @@
         "MICR": "388013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77701,12 +77701,12 @@
         "MICR": "388013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KALP VRUKH,DR. COOK ROAD,OPP. SHASTRI BAUG CORNER,ANAND, GUJARAT 388 001.",
+        "ADDRESS": "KALP VRUKH,DR. COOK ROAD,OPP. SHASTRI BAUG CORNER,ANAND, GUJRAT 388 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "ANAND NRI",
@@ -77719,7 +77719,7 @@
         "MICR": "387013509",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77737,7 +77737,7 @@
         "MICR": "387013508",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77755,7 +77755,7 @@
         "MICR": "388013514",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77773,7 +77773,7 @@
         "MICR": "388013513",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77791,7 +77791,7 @@
         "MICR": "388013091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77809,7 +77809,7 @@
         "MICR": "388013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77827,7 +77827,7 @@
         "MICR": "388013512",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77845,7 +77845,7 @@
         "MICR": "387013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77863,7 +77863,7 @@
         "MICR": "388013511",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77881,7 +77881,7 @@
         "MICR": "387013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77899,12 +77899,12 @@
         "MICR": "387013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR BAZAR, HALDARVAS, HALDARVAS, TAL. MEHMEDABAD, DIST. KHEDA, GUJARAT 387140",
+        "ADDRESS": "NEAR BAZAR, HALDARVAS, HALDARVAS, TAL. MEHMEDABAD, DIST. KHEDA, GUJRAT 387140",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "HALDARVAS",
@@ -77917,7 +77917,7 @@
         "MICR": "388013510",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77935,7 +77935,7 @@
         "MICR": "388013509",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77953,7 +77953,7 @@
         "MICR": "387013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -77971,12 +77971,12 @@
         "MICR": "387013510",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT & PO. CHHIPDI, TAL. KATHLAL, DIST KHEDA, GUJARAT - 387635",
+        "ADDRESS": "AT & PO. CHHIPDI, TAL. KATHLAL, DIST KHEDA, GUJRAT - 387635",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "CHHIPDI",
@@ -77989,7 +77989,7 @@
         "MICR": "388013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78007,12 +78007,12 @@
         "MICR": "388013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OPP. BAPESHWAR MAHADEO, KARAMSAD, DISTRICT ANAND, GUJARAT - 388 325.",
+        "ADDRESS": "OPP. BAPESHWAR MAHADEO, KARAMSAD, DISTRICT ANAND, GUJRAT - 388 325.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KARAMSAD",
@@ -78025,7 +78025,7 @@
         "MICR": "388013171",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78043,12 +78043,12 @@
         "MICR": "388013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR POST OFFICE,DHARMAJ,DISTRICT ANAND,GUJARAT - 388 430.",
+        "ADDRESS": "NEAR POST OFFICE,DHARMAJ,DISTRICT ANAND,GUJRAT - 388 430.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DHARMAJ",
@@ -78061,7 +78061,7 @@
         "MICR": "388013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78079,7 +78079,7 @@
         "MICR": "387013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78097,7 +78097,7 @@
         "MICR": "387013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78115,12 +78115,12 @@
         "MICR": "387013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VADTAL , DISTT KHEDA, GUJARAT 387375.",
+        "ADDRESS": "VADTAL , DISTT KHEDA, GUJRAT 387375.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VADTAL",
@@ -78133,7 +78133,7 @@
         "MICR": "388013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78151,7 +78151,7 @@
         "MICR": "388013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78169,12 +78169,12 @@
         "MICR": "387013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "STATION ROAD, POST BOX NO. 20, ANAND, DISTRICT ANAND, GUJARAT - 388 001.",
+        "ADDRESS": "STATION ROAD, POST BOX NO. 20, ANAND, DISTRICT ANAND, GUJRAT - 388 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "ANAND",
@@ -78187,7 +78187,7 @@
         "MICR": "396013191",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78223,7 +78223,7 @@
         "MICR": "396013191",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78259,7 +78259,7 @@
         "MICR": "396013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78277,12 +78277,12 @@
         "MICR": "395013023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA,PANDESARA BRANCH NAGAR GUJARAT HOUSING BOARD, PANDESARA MAIN ROAD,SURAT.PIN CODE: 394221",
+        "ADDRESS": "BANK OF INDIA,PANDESARA BRANCH NAGAR GUJRAT HOUSING BOARD, PANDESARA MAIN ROAD,SURAT.PIN CODE: 394221",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PANDESARA",
@@ -78295,12 +78295,12 @@
         "MICR": "395013022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "C 1  C 2 VARDHMANPARK SOCIETY NEAR SATADHAR CHOKDI AMROLI  KOSAD ROAD AMROLI SURAT 394105 GUJARAT",
+        "ADDRESS": "C 1  C 2 VARDHMANPARK SOCIETY NEAR SATADHAR CHOKDI AMROLI  KOSAD ROAD AMROLI SURAT 394105 GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "AMROLI",
@@ -78313,12 +78313,12 @@
         "MICR": "394013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA,UDHNA BRANCH,DREAM HONDA SHOW ROOM, JIVAN JYOT THEATER COMPOUND, UDHNA MAIN ROAD, UDHNA,SURAT-394 210,GUJARAT",
+        "ADDRESS": "BANK OF INDIA,UDHNA BRANCH,DREAM HONDA SHOW ROOM, JIVAN JYOT THEATER COMPOUND, UDHNA MAIN ROAD, UDHNA,SURAT-394 210,GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "UDHNA",
@@ -78331,7 +78331,7 @@
         "MICR": "394013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78349,7 +78349,7 @@
         "MICR": "394013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78367,12 +78367,12 @@
         "MICR": "395013012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "HOUSE NO.37, SARDAR BAUG, STATION ROAD, DISTRICT SURAT, GUJARAT - 394 601",
+        "ADDRESS": "HOUSE NO.37, SARDAR BAUG, STATION ROAD, DISTRICT SURAT, GUJRAT - 394 601",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "BARDOLI",
@@ -78385,12 +78385,12 @@
         "MICR": "395013011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KAMREJ CHAR RASTA,VILLAGE NAVAGAM,POST KAMREJ CHAR RASTA,DISTRICT SURAT,GUJARAT - 394 185.",
+        "ADDRESS": "KAMREJ CHAR RASTA,VILLAGE NAVAGAM,POST KAMREJ CHAR RASTA,DISTRICT SURAT,GUJRAT - 394 185.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "NAVAGAM KCR",
@@ -78403,7 +78403,7 @@
         "MICR": "395013018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78421,7 +78421,7 @@
         "MICR": "394013071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78439,7 +78439,7 @@
         "MICR": "395013010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78457,12 +78457,12 @@
         "MICR": "395013013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Piplod, District: Surat, Gujarat, Pin: 395 007",
+        "ADDRESS": "Piplod, District: Surat, GUJRAT, Pin: 395 007",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Piplod",
@@ -78475,7 +78475,7 @@
         "MICR": "395013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78493,12 +78493,12 @@
         "MICR": "364013081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "WARD NO. 17-A,154, AGYARI STREET,ADAJAN, SURAT,GUJARAT - 395 001.",
+        "ADDRESS": "WARD NO. 17-A,154, AGYARI STREET,ADAJAN, SURAT,GUJRAT - 395 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "ADAJAN",
@@ -78511,7 +78511,7 @@
         "MICR": "365013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78529,7 +78529,7 @@
         "MICR": "365013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78547,7 +78547,7 @@
         "MICR": "365013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78565,7 +78565,7 @@
         "MICR": "395013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78583,12 +78583,12 @@
         "MICR": "365013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Kakadia Complex, Ghoddod Road, Surat, Gujarat, Pin: 395 007",
+        "ADDRESS": "Kakadia Complex, Ghoddod Road, Surat, GUJRAT, Pin: 395 007",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Ghoddod Road",
@@ -78601,7 +78601,7 @@
         "MICR": "365013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78619,7 +78619,7 @@
         "MICR": "365013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78637,12 +78637,12 @@
         "MICR": "395013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "LOHANA VIDYARTHI BHAVAN,HARI ROAD, AMRELI,DISTRICT AMRELI,GUJARAT - 365 601.",
+        "ADDRESS": "LOHANA VIDYARTHI BHAVAN,HARI ROAD, AMRELI,DISTRICT AMRELI,GUJRAT - 365 601.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "AMRELI",
@@ -78655,7 +78655,7 @@
         "MICR": "395013019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78673,7 +78673,7 @@
         "MICR": "395013017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78691,7 +78691,7 @@
         "MICR": "395013016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78709,7 +78709,7 @@
         "MICR": "395013015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78727,7 +78727,7 @@
         "MICR": "395013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78745,12 +78745,12 @@
         "MICR": "395013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "7/3412, Swaminarayan Mandir Road, Rampura, Surat, Gujarat, Pin: 395 003",
+        "ADDRESS": "7/3412, Swaminarayan Mandir Road, Rampura, Surat, GUJRAT, Pin: 395 003",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Rampura",
@@ -78763,12 +78763,12 @@
         "MICR": "395013009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Bombay Market Building, Banking Block No. 1, Umarwada, Surat, Gujarat, Pin: 395 010",
+        "ADDRESS": "Bombay Market Building, Banking Block No. 1, Umarwada, Surat, GUJRAT, Pin: 395 010",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Bombay Market",
@@ -78781,12 +78781,12 @@
         "MICR": "395013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Surat Textile Market Building,, Bank Block, 2nd Floor, Ring Road, Surat, Gujarat, Pin: 395 002",
+        "ADDRESS": "Surat Textile Market Building,, Bank Block, 2nd Floor, Ring Road, Surat, GUJRAT, Pin: 395 002",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Textile Market",
@@ -78799,12 +78799,12 @@
         "MICR": "395013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Kundan', Mezzanine Fl., 10/1330, Chandla Gali, Near Kamnath Mahadev, P.B.No. 154, Gopipura , Surat, Gujarat Pin: 395 002",
+        "ADDRESS": "Kundan', Mezzanine Fl., 10/1330, Chandla Gali, Near Kamnath Mahadev, P.B.No. 154, Gopipura , Surat, GUJRAT Pin: 395 002",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Gopipura",
@@ -78817,12 +78817,12 @@
         "MICR": "395013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OPP. MASKATI HOSPITAL,POST BOX NO. 250,STATION ROAD, SURAT,GUJARAT - 395 003.",
+        "ADDRESS": "OPP. MASKATI HOSPITAL,POST BOX NO. 250,STATION ROAD, SURAT,GUJRAT - 395 003.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "CLOCK TOWER",
@@ -78835,12 +78835,12 @@
         "MICR": "391013509",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Kanpith Lalgate, P B No-226, Surat, Gujarat - 395003",
+        "ADDRESS": "Kanpith Lalgate, P B No-226, Surat, GUJRAT - 395003",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Surat Main",
@@ -78853,12 +78853,12 @@
         "MICR": "391013508",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GOPINATH COMPLEX NR POLICE STATION  AT  POST SAVLI TA SAVLI DIST VADODARA GUJARAT-391770",
+        "ADDRESS": "GOPINATH COMPLEX NR POLICE STATION  AT  POST SAVLI TA SAVLI DIST VADODARA GUJRAT-391770",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SAVALI",
@@ -78871,12 +78871,12 @@
         "MICR": "391013509",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 11 TO 14 OMKAR CHAMBERS NAVA BAZAR MAIN ROAD OPP MAHADEV TEMPLE AT KARJAN TA KARJAN DIST VADODARA GUJARAT 391240",
+        "ADDRESS": "SHOP NO 11 TO 14 OMKAR CHAMBERS NAVA BAZAR MAIN ROAD OPP MAHADEV TEMPLE AT KARJAN TA KARJAN DIST VADODARA GUJRAT 391240",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KARJAN",
@@ -78889,7 +78889,7 @@
         "MICR": "391013508",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78907,7 +78907,7 @@
         "MICR": "391013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78925,7 +78925,7 @@
         "MICR": "391013081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78943,12 +78943,12 @@
         "MICR": "391013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE DHOKALIA,P.B.NO.17,POST BODELI,TALUKA-SANKHEDA,DIST-VADODARA,GUJARAT,PIN-391135",
+        "ADDRESS": "VILLAGE DHOKALIA,P.B.NO.17,POST BODELI,TALUKA-SANKHEDA,DIST-VADODARA,GUJRAT,PIN-391135",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DHOKALIA",
@@ -78961,7 +78961,7 @@
         "MICR": "391013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78979,7 +78979,7 @@
         "MICR": "391013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -78997,7 +78997,7 @@
         "MICR": "390013022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79015,7 +79015,7 @@
         "MICR": "394013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79033,12 +79033,12 @@
         "MICR": "393013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA,SONGADH BRANCH,GROUND FLOOR 11-12-13, AASHIRWAD RESIDENCY,JUNAGAM,SONGADH, DIST.: TAPI,GUJARAT.-394670",
+        "ADDRESS": "BANK OF INDIA,SONGADH BRANCH,GROUND FLOOR 11-12-13, AASHIRWAD RESIDENCY,JUNAGAM,SONGADH, DIST.: TAPI,GUJRAT.-394670",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SONGADH",
@@ -79051,12 +79051,12 @@
         "MICR": "390013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA\u00a0,RAJPIPLA BRANCH,\"SANTOSH COMPLEX\", NR. HANUMANJI TEMPLE,SANTOSH CHAR RASTA,RAJPIPLA-393145\u00a0,DIST. NARMADA,GUJARAT",
+        "ADDRESS": "BANK OF INDIA\u00a0,RAJPIPLA BRANCH,\"SANTOSH COMPLEX\", NR. HANUMANJI TEMPLE,SANTOSH CHAR RASTA,RAJPIPLA-393145\u00a0,DIST. NARMADA,GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "RAJPIPLA",
@@ -79069,7 +79069,7 @@
         "MICR": "390013024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79087,12 +79087,12 @@
         "MICR": "390013023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA, NEW VIP ROAD BRANCH, SHOP NO 1 & 2, GROUND FLOOR, PROFIT CENTRE,RANCHOD PARK CO-OP HOUSING SOCIETY LTD., AMIT NAGAR CIRCLE, NEW VIP ROAD, VADODARA, GUJARAT-390018",
+        "ADDRESS": "BANK OF INDIA, NEW VIP ROAD BRANCH, SHOP NO 1 & 2, GROUND FLOOR, PROFIT CENTRE,RANCHOD PARK CO-OP HOUSING SOCIETY LTD., AMIT NAGAR CIRCLE, NEW VIP ROAD, VADODARA, GUJRAT-390018",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "NEW VIP ROAD",
@@ -79105,7 +79105,7 @@
         "MICR": "390013024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79123,7 +79123,7 @@
         "MICR": "390013020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79141,7 +79141,7 @@
         "MICR": "390013019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79159,7 +79159,7 @@
         "MICR": "390013018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79177,7 +79177,7 @@
         "MICR": "390013017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79195,7 +79195,7 @@
         "MICR": "390013014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79213,7 +79213,7 @@
         "MICR": "395013014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79231,12 +79231,12 @@
         "MICR": "391013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NAND NIKETAN SHOPPING COMPLEX, ESSAR TOWNSHIP, 27 K.M., SURAT - HAZIRA ROAD, DIST. SURAT, GUJARAT.",
+        "ADDRESS": "NAND NIKETAN SHOPPING COMPLEX, ESSAR TOWNSHIP, 27 K.M., SURAT - HAZIRA ROAD, DIST. SURAT, GUJRAT.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "HAZIRA",
@@ -79249,7 +79249,7 @@
         "MICR": "390013009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79267,12 +79267,12 @@
         "MICR": "390013013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KUTCH GURJAR SEWA SAMAJ BUILDING, JALARAM MARG, KARELIBAUG, VADODARA, GUJARAT, PIN: 390 018",
+        "ADDRESS": "KUTCH GURJAR SEWA SAMAJ BUILDING, JALARAM MARG, KARELIBAUG, VADODARA, GUJRAT, PIN: 390 018",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KARELIBAUG",
@@ -79285,12 +79285,12 @@
         "MICR": "391013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Himja Niwas, Opp. Lalbaug Society, Majalpur Main Road, Manjalpur, Vadodara, Gujarat, Pin: 390 011",
+        "ADDRESS": "Himja Niwas, Opp. Lalbaug Society, Majalpur Main Road, Manjalpur, Vadodara, GUJRAT, Pin: 390 011",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Manjalpur",
@@ -79303,7 +79303,7 @@
         "MICR": "390013011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79321,12 +79321,12 @@
         "MICR": "390013007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Bank of India Building, Ellora Park, Subhanpura, Vadodara,  Gujarat, Pin: 390 007",
+        "ADDRESS": "Bank of India Building, Ellora Park, Subhanpura, Vadodara,  GUJRAT, Pin: 390 007",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Ellora Park",
@@ -79339,12 +79339,12 @@
         "MICR": "390013012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Lusaka House, Near Lmp showroom, Sayajigunj, Vadodara, Gujarat, Pin: 390 005",
+        "ADDRESS": "Lusaka House, Near Lmp showroom, Sayajigunj, Vadodara, GUJRAT, Pin: 390 005",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Sayajigunj",
@@ -79357,12 +79357,12 @@
         "MICR": "390013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Old Padra Road, Vadodara, Gujarat, Pin: 390 015",
+        "ADDRESS": "Old Padra Road, Vadodara, GUJRAT, Pin: 390 015",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Vidyut Nagar",
@@ -79375,12 +79375,12 @@
         "MICR": "390013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "UNIVERSITY ROAD, POST BOX NO.2, VADODARA, GUJARAT - 390 002.",
+        "ADDRESS": "UNIVERSITY ROAD, POST BOX NO.2, VADODARA, GUJRAT - 390 002.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "UNIVERSITY ROAD",
@@ -79393,12 +79393,12 @@
         "MICR": "390013005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "CITY PLAZA COMPLEX, 1ST FLOOR, OPP. MADHYAVARTI SCHOOL, PROF. MANEKRAO ROAD, GUJARAT, PIN: 390 001",
+        "ADDRESS": "CITY PLAZA COMPLEX, 1ST FLOOR, OPP. MADHYAVARTI SCHOOL, PROF. MANEKRAO ROAD, GUJRAT, PIN: 390 001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "RAJMAHAL ROAD",
@@ -79411,12 +79411,12 @@
         "MICR": "390013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ATHITHI GRUH', R.V. DESAI ROAD,PRATAPNAGAR,VADODARA,GUJARAT - 390 004.",
+        "ADDRESS": "ATHITHI GRUH', R.V. DESAI ROAD,PRATAPNAGAR,VADODARA,GUJRAT - 390 004.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "R.V.DESAI ROAD",
@@ -79429,12 +79429,12 @@
         "MICR": "390013010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MAHATMA GANDHI ROAD, POST BOX NO. 34, VADODARA, GUJARAT - 390 001.",
+        "ADDRESS": "MAHATMA GANDHI ROAD, POST BOX NO. 34, VADODARA, GUJRAT - 390 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MAHATMA GANDHI ROAD",
@@ -79447,12 +79447,12 @@
         "MICR": "390013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "46,Gautamnagar Society,Race Course Circle,Alkapuri,Vadodara,Gujarat-390007",
+        "ADDRESS": "46,Gautamnagar Society,Race Course Circle,Alkapuri,Vadodara,GUJRAT-390007",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Alkapuri",
@@ -79465,12 +79465,12 @@
         "MICR": "383013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "P B No-132, Raopura, Vadodara, Gujarat - 390001",
+        "ADDRESS": "P B No-132, Raopura, Vadodara, GUJRAT - 390001",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Vadodara Main",
@@ -79483,12 +79483,12 @@
         "MICR": "383013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KESHAV COMPLEX,OPP. SBI, BAYAD KAPADVANJ ROAD,TA: DHANSURA, DISTT: SABARKANTHA,\nPIN 383310, GUJARAT",
+        "ADDRESS": "KESHAV COMPLEX,OPP. SBI, BAYAD KAPADVANJ ROAD,TA: DHANSURA, DISTT: SABARKANTHA,\nPIN 383310, GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DHANSURA",
@@ -79501,7 +79501,7 @@
         "MICR": "383013091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79519,12 +79519,12 @@
         "MICR": "383013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MAIN  BAZAR  NAGAR PALIKA  TALOD  DIST SABARKANTHA PIN  383215 GUJARAT",
+        "ADDRESS": "MAIN  BAZAR  NAGAR PALIKA  TALOD  DIST SABARKANTHA PIN  383215 GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "TALOD",
@@ -79537,7 +79537,7 @@
         "MICR": "383013111",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79555,7 +79555,7 @@
         "MICR": "383013071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79573,12 +79573,12 @@
         "MICR": "383013031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA, KHEDBRAHMA BRANCH, SHIVAJI ROAD, MAIN BAZAR ,SARDAR CHOWK, KHEDBRAHMA, DIST - SABARKANTHA, STATE- GUJARAT , PIN  383 255",
+        "ADDRESS": "BANK OF INDIA, KHEDBRAHMA BRANCH, SHIVAJI ROAD, MAIN BAZAR ,SARDAR CHOWK, KHEDBRAHMA, DIST - SABARKANTHA, STATE- GUJRAT , PIN  383 255",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KHEDBRAHMA",
@@ -79591,7 +79591,7 @@
         "MICR": "383013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79609,12 +79609,12 @@
         "MICR": "383013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BALAJI COMPLEX, MALPUR ROAD, OPP TALUKA PANCHAYAT, MODASA- 383315 , GUJARAT",
+        "ADDRESS": "BALAJI COMPLEX, MALPUR ROAD, OPP TALUKA PANCHAYAT, MODASA- 383315 , GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MODASA",
@@ -79627,7 +79627,7 @@
         "MICR": "383013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79645,12 +79645,12 @@
         "MICR": "385013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GANDHI BHAVAN, SALAL BAZAR, AT & POST  SALAL, TALUKA PRANTIJ, DIST., SABARKANTHA, GUJARAT- 383 120",
+        "ADDRESS": "GANDHI BHAVAN, SALAL BAZAR, AT & POST  SALAL, TALUKA PRANTIJ, DIST., SABARKANTHA, GUJRAT- 383 120",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SALAL",
@@ -79663,7 +79663,7 @@
         "MICR": "385013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79681,7 +79681,7 @@
         "MICR": "385013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79699,12 +79699,12 @@
         "MICR": "385013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BUS  STAND VADGAM DIST BANASKANTHA GUJARAT PIN 385410",
+        "ADDRESS": "BUS  STAND VADGAM DIST BANASKANTHA GUJRAT PIN 385410",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VADGAM",
@@ -79717,12 +79717,12 @@
         "MICR": "385013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA, CHHAPI BRANCH, SHOP NO. 7 TO 11, DIAMOND COMPLEX, HIGHWAY ROAD, AT & PO - CHHAPI, DIST. BANASKANTHA PIN -385 210, STATE: GUJARAT",
+        "ADDRESS": "BANK OF INDIA, CHHAPI BRANCH, SHOP NO. 7 TO 11, DIAMOND COMPLEX, HIGHWAY ROAD, AT & PO - CHHAPI, DIST. BANASKANTHA PIN -385 210, STATE: GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "CHHAPI",
@@ -79735,7 +79735,7 @@
         "MICR": "385013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79753,12 +79753,12 @@
         "MICR": "384013508",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RAJGADHI, PALANPUR,DIST. BANASKANTHA, GUJARAT - 385 001.",
+        "ADDRESS": "RAJGADHI, PALANPUR,DIST. BANASKANTHA, GUJRAT - 385 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PALANPUR",
@@ -79771,7 +79771,7 @@
         "MICR": "384013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79780,16 +79780,16 @@
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MEDA ADRAJ",
-        "CENTRE": "MEDA ADRAJ(GUJARAT)",
-        "CITY": "MEDA ADRAJ(GUJARAT)",
+        "CENTRE": "MEDA ADRAJ(GUJRAT)",
+        "CITY": "MEDA ADRAJ(GUJRAT)",
         "CONTACT": "00",
-        "DISTRICT": "MEDA ADRAJ(GUJARAT)",
+        "DISTRICT": "MEDA ADRAJ(GUJRAT)",
         "IFSC": "BKID0002224",
         "IMPS": true,
         "MICR": "382013505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79807,7 +79807,7 @@
         "MICR": "384013507",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79825,12 +79825,12 @@
         "MICR": "384013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA, PRAMUKH PLAZA, S J ROAD, SIDDHPUR, DIST PATAN, GUJARAT PIN 384 151",
+        "ADDRESS": "BANK OF INDIA, PRAMUKH PLAZA, S J ROAD, SIDDHPUR, DIST PATAN, GUJRAT PIN 384 151",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SIDDHPUR",
@@ -79843,12 +79843,12 @@
         "MICR": "382013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VEDANT ARCADE MAIN BAZAR TA HARIJ DIST PATAN GUJARAT PIN 384240",
+        "ADDRESS": "VEDANT ARCADE MAIN BAZAR TA HARIJ DIST PATAN GUJRAT PIN 384240",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "HARIJ",
@@ -79861,12 +79861,12 @@
         "MICR": "384013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "A B  COMPLEX  STATE HIGHWAY  GOZARIA TA  DIST MEHSANA GUJARAT PIN 382 825",
+        "ADDRESS": "A B  COMPLEX  STATE HIGHWAY  GOZARIA TA  DIST MEHSANA GUJRAT PIN 382 825",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "GOZARIA",
@@ -79879,7 +79879,7 @@
         "MICR": "382013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79897,7 +79897,7 @@
         "MICR": "384013504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79915,7 +79915,7 @@
         "MICR": "384013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -79933,12 +79933,12 @@
         "MICR": "384013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DEEP COMPLEX, BEHIND RAILWAY STATION, AT & PO VADNAGAR, DIST. MEHSANA 384355 GUJARAT",
+        "ADDRESS": "DEEP COMPLEX, BEHIND RAILWAY STATION, AT & PO VADNAGAR, DIST. MEHSANA 384355 GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VADNAGAR",
@@ -79951,12 +79951,12 @@
         "MICR": "380013070",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VISHWAKARMA SHOPPING CENTRE, KHERALU-AMBAJI HIGHWAY, NEAR JIVANDHARA HOSPITAL, AT & PO -  SATLASANA, DIST. MEHSANA 384 330 GUJARAT",
+        "ADDRESS": "VISHWAKARMA SHOPPING CENTRE, KHERALU-AMBAJI HIGHWAY, NEAR JIVANDHARA HOSPITAL, AT & PO -  SATLASANA, DIST. MEHSANA 384 330 GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SATLASANA",
@@ -79969,12 +79969,12 @@
         "MICR": "385013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AMBIKA NAGAR BRANCH,  SHOP - 50 TO 53,  SHUBH COMPLEX, NEAR AMBEDKAR THREE RASTA, KALOL - MEHSANA HIGHWAY ,   TA- KALOL, DIST - GANDHINAGAR GUJARAT, PIN CODE - 382 721",
+        "ADDRESS": "AMBIKA NAGAR BRANCH,  SHOP - 50 TO 53,  SHUBH COMPLEX, NEAR AMBEDKAR THREE RASTA, KALOL - MEHSANA HIGHWAY ,   TA- KALOL, DIST - GANDHINAGAR GUJRAT, PIN CODE - 382 721",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "AMBIKA NAGAR",
@@ -79987,12 +79987,12 @@
         "MICR": "384013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RADHANPUR BRANCH  LAXMI NIWAS, \u00a0GANDHI CHOWK, RADHANPUR,  DIST - PATAN        GUJARAT \u2013 PIN CODE 385340",
+        "ADDRESS": "RADHANPUR BRANCH  LAXMI NIWAS, \u00a0GANDHI CHOWK, RADHANPUR,  DIST - PATAN        GUJRAT \u2013 PIN CODE 385340",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "RADHANPUR",
@@ -80005,12 +80005,12 @@
         "MICR": "384013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MODHERA ROAD BRANCH, SOMESHWAR SHOPPING MALL ,OPP- POOJAN COMPLEX, NR. IBP PETROL PUMP, MODHERA ROAD, MEHSANA    PIN- 384002  GUJARAT",
+        "ADDRESS": "MODHERA ROAD BRANCH, SOMESHWAR SHOPPING MALL ,OPP- POOJAN COMPLEX, NR. IBP PETROL PUMP, MODHERA ROAD, MEHSANA    PIN- 384002  GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MODHERA ROAD",
@@ -80023,12 +80023,12 @@
         "MICR": "384013121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "HOUSE NO. 9/9/104 & 105, ZAVERI PURA, NEAT LIC OF INDIA, STATION ROAD, UNJHA, DIST. MEHSANA, GUJARAT - 384 170.",
+        "ADDRESS": "HOUSE NO. 9/9/104 & 105, ZAVERI PURA, NEAT LIC OF INDIA, STATION ROAD, UNJHA, DIST. MEHSANA, GUJRAT - 384 170.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "UNJHA",
@@ -80041,7 +80041,7 @@
         "MICR": "384013082",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80059,12 +80059,12 @@
         "MICR": "380013057",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT & POST KAMLIWADA, PATAN - SIDHPUR ROAD, DIST., PATAN, GUJARAT-384 265",
+        "ADDRESS": "AT & POST KAMLIWADA, PATAN - SIDHPUR ROAD, DIST., PATAN, GUJRAT-384 265",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KAMLIWADA",
@@ -80077,12 +80077,12 @@
         "MICR": "384013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT & POST - THOL, TALUKA- KADI,  DIST.,- MEHSANA,  GUJARAT- 382 721",
+        "ADDRESS": "AT & POST - THOL, TALUKA- KADI,  DIST.,- MEHSANA,  GUJRAT- 382 721",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "THOL",
@@ -80095,12 +80095,12 @@
         "MICR": "384013083",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE & POST:MANUND, TALUKA & DISRICT: PATAN, GUJARAT-384260",
+        "ADDRESS": "VILLAGE & POST:MANUND, TALUKA & DISRICT: PATAN, GUJRAT-384260",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MANUND",
@@ -80113,7 +80113,7 @@
         "MICR": "380013072",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80131,7 +80131,7 @@
         "MICR": "380013058",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80149,12 +80149,12 @@
         "MICR": "384013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NILKANTHESHWAR MAHADEV TEMPLE TRUST BUILDING, NEAR S.T.BUS STAND, TALUKA KADI, DIST., MEHSANA, GUJARAT- 382 721",
+        "ADDRESS": "NILKANTHESHWAR MAHADEV TEMPLE TRUST BUILDING, NEAR S.T.BUS STAND, TALUKA KADI, DIST., MEHSANA, GUJRAT- 382 721",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VAMAJ",
@@ -80167,12 +80167,12 @@
         "MICR": "384013081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR LIONS GENERAL HOSPITAL,JAIL ROAD,MEHSANA,GUJARAT - 384 002.",
+        "ADDRESS": "NEAR LIONS GENERAL HOSPITAL,JAIL ROAD,MEHSANA,GUJRAT - 384 002.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "MEHSANA",
@@ -80185,12 +80185,12 @@
         "MICR": "384013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR CHATURBHUJ GARDEN,PATAN (N.G.),DISTRICT PATAN,GUJARAT.PIN 384 265.",
+        "ADDRESS": "NEAR CHATURBHUJ GARDEN,PATAN (N.G.),DISTRICT PATAN,GUJRAT.PIN 384 265.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PATAN",
@@ -80203,7 +80203,7 @@
         "MICR": "380013045",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80221,12 +80221,12 @@
         "MICR": "380013093",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT & POST PILVAI, TALUKA-VIJAPUR, DIST.- MEHSANA, GUJARAT - 382 850",
+        "ADDRESS": "AT & POST PILVAI, TALUKA-VIJAPUR, DIST.- MEHSANA, GUJRAT - 382 850",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "PILVAI",
@@ -80239,12 +80239,12 @@
         "MICR": "380013092",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR VEPARI GIN, KALOL, DISTRICT GANDHINAGAR, GUJARAT - 382 721.",
+        "ADDRESS": "NEAR VEPARI GIN, KALOL, DISTRICT GANDHINAGAR, GUJRAT - 382 721.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KALOL",
@@ -80257,12 +80257,12 @@
         "MICR": "384013509",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA AAMJA BRANCH AT POST AAMJA TALUKA KALOL DISTT GANDHINAGAR GUJARAT 382735",
+        "ADDRESS": "BANK OF INDIA AAMJA BRANCH AT POST AAMJA TALUKA KALOL DISTT GANDHINAGAR GUJRAT 382735",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "AAMJA",
@@ -80275,7 +80275,7 @@
         "MICR": "380013091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80293,7 +80293,7 @@
         "MICR": "380013092",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80311,7 +80311,7 @@
         "MICR": "382013506",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80329,7 +80329,7 @@
         "MICR": "382013141",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80347,12 +80347,12 @@
         "MICR": "380013073",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA, DEHGAM BRANCH, NEAR BUS STOP, DEHGAM MODASA ROAD, TA DEHGAM, DIST GANDHINAGAR, GUJARAT PIN 382305",
+        "ADDRESS": "BANK OF INDIA, DEHGAM BRANCH, NEAR BUS STOP, DEHGAM MODASA ROAD, TA DEHGAM, DIST GANDHINAGAR, GUJRAT PIN 382305",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DEHGAM",
@@ -80365,7 +80365,7 @@
         "MICR": "380013052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80383,12 +80383,12 @@
         "MICR": "380013051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO.37, SUPER MALL 2, INFOCITY, GANDHINAGAR, GUJARAT 382009",
+        "ADDRESS": "SHOP NO.37, SUPER MALL 2, INFOCITY, GANDHINAGAR, GUJRAT 382009",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "INFOCITY",
@@ -80401,7 +80401,7 @@
         "MICR": "380013046",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80419,7 +80419,7 @@
         "MICR": "363013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80437,7 +80437,7 @@
         "MICR": "382013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80455,7 +80455,7 @@
         "MICR": "380013059",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80473,7 +80473,7 @@
         "MICR": "382013502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80491,12 +80491,12 @@
         "MICR": "380013056",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT & POST- SANODA, TALUKA- DEHGAUM, DIST.- GANDHINAGAR, GUJARAT -382 305",
+        "ADDRESS": "AT & POST- SANODA, TALUKA- DEHGAUM, DIST.- GANDHINAGAR, GUJRAT -382 305",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SANODA",
@@ -80509,7 +80509,7 @@
         "MICR": "382013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80527,7 +80527,7 @@
         "MICR": "380013047",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80545,7 +80545,7 @@
         "MICR": "380013038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80563,12 +80563,12 @@
         "MICR": "380013060",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BAZAR, AT & POST SADRA, TALUKA & DIST.-GANDHINAGAR, GUJARAT- 382 320.",
+        "ADDRESS": "BAZAR, AT & POST SADRA, TALUKA & DIST.-GANDHINAGAR, GUJRAT- 382 320.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SADRA",
@@ -80581,12 +80581,12 @@
         "MICR": "380013021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Opp. Anand Cinema, Naroda, District Ahmedabad, Gujarat, Pin: 382325",
+        "ADDRESS": "Opp. Anand Cinema, Naroda, District Ahmedabad, GUJRAT, Pin: 382325",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "NARODA",
@@ -80599,12 +80599,12 @@
         "MICR": "380013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA BUILDING, 2ND FLOOR, RTGS CELL, NEAR SANYAS ASHRAM, OPP. TOWN HALL, ASHRAM ROAD, AHMEDABAD, GUJARAT - 380 009.",
+        "ADDRESS": "BANK OF INDIA BUILDING, 2ND FLOOR, RTGS CELL, NEAR SANYAS ASHRAM, OPP. TOWN HALL, ASHRAM ROAD, AHMEDABAD, GUJRAT - 380 009.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "AHMEDABAD SERVICE BRANCH",
@@ -80617,12 +80617,12 @@
         "MICR": "363013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA, WADHWAN GIDC AREA BRANCH, BHAKTINANDAN CIRCLE, MADHUVAS COMPLEX 80 FT ROAD WADHWAN PIN CODE 363035 SURENDRANAGAR GUJARAT",
+        "ADDRESS": "BANK OF INDIA, WADHWAN GIDC AREA BRANCH, BHAKTINANDAN CIRCLE, MADHUVAS COMPLEX 80 FT ROAD WADHWAN PIN CODE 363035 SURENDRANAGAR GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "WADHWAN GIDC",
@@ -80635,7 +80635,7 @@
         "MICR": "363013111",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80653,7 +80653,7 @@
         "MICR": "363013503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80671,12 +80671,12 @@
         "MICR": "363013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "S.L.CHAMBERS, MEHTA MARKET,SURENDRANAGAR,GUJARAT - 363 001.",
+        "ADDRESS": "S.L.CHAMBERS, MEHTA MARKET,SURENDRANAGAR,GUJRAT - 363 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SURENDRA NAGAR",
@@ -80689,12 +80689,12 @@
         "MICR": "389013501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "STATION SHERI, NR.M. C. MODI HIGHSCHOOL  DEVGADHBARIA DI.DAHOD GUJARAT",
+        "ADDRESS": "STATION SHERI, NR.M. C. MODI HIGHSCHOOL  DEVGADHBARIA DI.DAHOD GUJRAT",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DEVGADHBARIA",
@@ -80707,7 +80707,7 @@
         "MICR": "389013041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80725,7 +80725,7 @@
         "MICR": "389013061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80743,7 +80743,7 @@
         "MICR": "389013021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80761,12 +80761,12 @@
         "MICR": "389013002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "\"SUPER MARKET\" CHITRA CINEMA ROAD, GODHRA, DISTRICT PANCHMAHAL, GUJARAT - 389 001.",
+        "ADDRESS": "\"SUPER MARKET\" CHITRA CINEMA ROAD, GODHRA, DISTRICT PANCHMAHAL, GUJRAT - 389 001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "GODHRA",
@@ -80779,7 +80779,7 @@
         "MICR": "388013518",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80797,7 +80797,7 @@
         "MICR": "387013001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80815,7 +80815,7 @@
         "MICR": "387013514",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80833,7 +80833,7 @@
         "MICR": "380013090",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80851,7 +80851,7 @@
         "MICR": "380013089",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80869,7 +80869,7 @@
         "MICR": "387013513",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80887,7 +80887,7 @@
         "MICR": "380013088",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80905,7 +80905,7 @@
         "MICR": "380013086",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80923,7 +80923,7 @@
         "MICR": "380013085",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80941,7 +80941,7 @@
         "MICR": "380013084",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80959,7 +80959,7 @@
         "MICR": "380013083",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -80977,12 +80977,12 @@
         "MICR": "380013082",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 35 36 37  GROUND FLOOR  PLATINUM PLAZA OPP KUNJ MALL  NAVA NIKOL ROAD AHMEDABAD GUJARAT PIN 382350",
+        "ADDRESS": "SHOP NO 35 36 37  GROUND FLOOR  PLATINUM PLAZA OPP KUNJ MALL  NAVA NIKOL ROAD AHMEDABAD GUJRAT PIN 382350",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "NEW NIKOL",
@@ -80995,12 +80995,12 @@
         "MICR": "380013081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "LAXMI COTTON GINNING FACTORY COLLEGE ROAD TALUKA DHANDHUKADIST AHMEDABAD GUJARAT PIN 382460",
+        "ADDRESS": "LAXMI COTTON GINNING FACTORY COLLEGE ROAD TALUKA DHANDHUKADIST AHMEDABAD GUJRAT PIN 382460",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "DHANDHUKA",
@@ -81013,7 +81013,7 @@
         "MICR": "382013101",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81031,12 +81031,12 @@
         "MICR": "380013080",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "LAXMI PRINTING PRESS BEHIND SBI THASRA DIST KHEDA GUJARAT PIN 388250",
+        "ADDRESS": "LAXMI PRINTING PRESS BEHIND SBI THASRA DIST KHEDA GUJRAT PIN 388250",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "THASRA",
@@ -81049,12 +81049,12 @@
         "MICR": "388013517",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MANDAL ROAD OPP SARVODAYA GINNING VIRAMGAM DIST AHMEDABAD GUJARAT PIN 382150",
+        "ADDRESS": "MANDAL ROAD OPP SARVODAYA GINNING VIRAMGAM DIST AHMEDABAD GUJRAT PIN 382150",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "VIRAMGAM",
@@ -81067,7 +81067,7 @@
         "MICR": "380013079",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81085,12 +81085,12 @@
         "MICR": "380013078",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "LAXMI NIVAS, MEENA BAZAR, NATRAJ CINEMA KAPADWANJ, DISTT KHEDA GUJARAT 387620",
+        "ADDRESS": "LAXMI NIVAS, MEENA BAZAR, NATRAJ CINEMA KAPADWANJ, DISTT KHEDA GUJRAT 387620",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "KAPADWANJ",
@@ -81103,7 +81103,7 @@
         "MICR": "387013031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81121,7 +81121,7 @@
         "MICR": "380013077",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81139,12 +81139,12 @@
         "MICR": "380013076",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 40 TO 44, NAKSHATRA COMPLEX, GROUND FLOOR, IOC ROAD, CHANDKHEDA, AHMEDABAD, GUJARAT PIN NO. 382424",
+        "ADDRESS": "SHOP NO 40 TO 44, NAKSHATRA COMPLEX, GROUND FLOOR, IOC ROAD, CHANDKHEDA, AHMEDABAD, GUJRAT PIN NO. 382424",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "CHANDKHEDA",
@@ -81157,12 +81157,12 @@
         "MICR": "380013075",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 4,5, AND 6, SARJAN COMPLEX, GROUND FLOOR, SCIENCE CITY ROAD, SOLA, AHMEDABAD, GUJARAT PIN 380060",
+        "ADDRESS": "SHOP NO 4,5, AND 6, SARJAN COMPLEX, GROUND FLOOR, SCIENCE CITY ROAD, SOLA, AHMEDABAD, GUJRAT PIN 380060",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SCIENCE CITY",
@@ -81175,12 +81175,12 @@
         "MICR": "380013074",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 3 TO 10, KALASH - II, OPP LAKE, NR. GHUMA BUS STAND, TAL.. DASKROI ,DIST. AHMEDABAD, GUJARAT, PIN 380 058.",
+        "ADDRESS": "SHOP NO 3 TO 10, KALASH - II, OPP LAKE, NR. GHUMA BUS STAND, TAL.. DASKROI ,DIST. AHMEDABAD, GUJRAT, PIN 380 058.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "GHUMA",
@@ -81193,7 +81193,7 @@
         "MICR": "380013071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81211,12 +81211,12 @@
         "MICR": "380013068",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BANK OF INDIA, 3RD FLOOR , BHADRA, AHMEDABAD GUJARAT 380001.",
+        "ADDRESS": "BANK OF INDIA, 3RD FLOOR , BHADRA, AHMEDABAD GUJRAT 380001.",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "AHMEDABAD ARB",
@@ -81229,7 +81229,7 @@
         "MICR": "380013043",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81247,12 +81247,12 @@
         "MICR": "380013041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Super Market Bldg., Opp. H.k.Arts College, Ashram Road, Ahmedabad, Gujarat, Pin: 380 009",
+        "ADDRESS": "Super Market Bldg., Opp. H.k.Arts College, Ashram Road, Ahmedabad, GUJRAT, Pin: 380 009",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "Ahmedabad NRI",
@@ -81265,7 +81265,7 @@
         "MICR": "380013042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81283,7 +81283,7 @@
         "MICR": "380013065",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81301,7 +81301,7 @@
         "MICR": "380013066",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81319,12 +81319,12 @@
         "MICR": "380013064",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "11, SARVODAYA SOCIETY, GHADIA CHAR RASTA, NEAR DISTRICT COURT, SANAND, AHMEDABAD-372110 (GUJARAT)",
+        "ADDRESS": "11, SARVODAYA SOCIETY, GHADIA CHAR RASTA, NEAR DISTRICT COURT, SANAND, AHMEDABAD-372110 (GUJRAT)",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "SANAND",
@@ -81337,7 +81337,7 @@
         "MICR": "380013063",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81355,7 +81355,7 @@
         "MICR": "380013062",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81373,7 +81373,7 @@
         "MICR": "380013061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81391,7 +81391,7 @@
         "MICR": "380013054",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81409,7 +81409,7 @@
         "MICR": "380013055",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81427,7 +81427,7 @@
         "MICR": "380013053",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81445,7 +81445,7 @@
         "MICR": "380013050",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81463,7 +81463,7 @@
         "MICR": "380013049",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81481,7 +81481,7 @@
         "MICR": "380013048",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81499,7 +81499,7 @@
         "MICR": "380013035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81517,7 +81517,7 @@
         "MICR": "380013011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81535,7 +81535,7 @@
         "MICR": "380013004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81553,7 +81553,7 @@
         "MICR": "380013012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81571,7 +81571,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81589,7 +81589,7 @@
         "MICR": "380013033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81607,7 +81607,7 @@
         "MICR": "380013067",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81625,7 +81625,7 @@
         "MICR": "380013015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81643,7 +81643,7 @@
         "MICR": "380013019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81661,7 +81661,7 @@
         "MICR": "380013037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81679,7 +81679,7 @@
         "MICR": "380013014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81697,7 +81697,7 @@
         "MICR": "380013039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81715,7 +81715,7 @@
         "MICR": "380013010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81733,7 +81733,7 @@
         "MICR": "380013036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81751,7 +81751,7 @@
         "MICR": "380013030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81769,7 +81769,7 @@
         "MICR": "380013025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81787,12 +81787,12 @@
         "MICR": "380013013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Sector 16, Bank of India Building, Near Pantnagar Yojana Bhavan, Gandhinagar, Gujarat, Pin: 382 016",
+        "ADDRESS": "Sector 16, Bank of India Building, Near Pantnagar Yojana Bhavan, Gandhinagar, GUJRAT, Pin: 382 016",
         "BANK": "Bank of India",
         "BANKCODE": "BKID",
         "BRANCH": "GANDHINAGAR",
@@ -81805,7 +81805,7 @@
         "MICR": "380013044",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81823,7 +81823,7 @@
         "MICR": "380013032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81841,7 +81841,7 @@
         "MICR": "380013020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81859,7 +81859,7 @@
         "MICR": "380013034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81877,7 +81877,7 @@
         "MICR": "380013031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81895,7 +81895,7 @@
         "MICR": "380013029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81913,7 +81913,7 @@
         "MICR": "380013028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81931,7 +81931,7 @@
         "MICR": "380013027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81949,7 +81949,7 @@
         "MICR": "380013026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81967,7 +81967,7 @@
         "MICR": "380013024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -81985,7 +81985,7 @@
         "MICR": "380013023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -82003,7 +82003,7 @@
         "MICR": "380013022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -82021,7 +82021,7 @@
         "MICR": "380013018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -82039,7 +82039,7 @@
         "MICR": "380013017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -82057,7 +82057,7 @@
         "MICR": "380013008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -82075,7 +82075,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -82093,7 +82093,7 @@
         "MICR": "380013006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -82111,7 +82111,7 @@
         "MICR": "380013040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -82129,7 +82129,7 @@
         "MICR": "380013003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

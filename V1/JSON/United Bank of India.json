@@ -72,7 +72,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "117,AMERICAN STREET,CHENNAI-600001,TAMIL NADU",
+        "ADDRESS": "117,AMERICAN STREET,CHENNAI-600001,TAMILNADU",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "CORPORATE FINANCE BR-CHENNAI",
@@ -85,7 +85,7 @@
         "MICR": "600027014",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -319,7 +319,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -805,7 +805,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -990,7 +990,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "United Bank of India ,\nCM/11\nGunjan Cinema Building,\nKoparli Road\nGIDC, VAPI, Gujarat\nPin 396195",
+        "ADDRESS": "United Bank of India ,\nCM/11\nGunjan Cinema Building,\nKoparli Road\nGIDC, VAPI, GUJRAT\nPin 396195",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "VAPI",
@@ -1003,7 +1003,7 @@
         "MICR": "396",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1093,7 +1093,7 @@
         "MICR": "632027002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1129,7 +1129,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1237,12 +1237,12 @@
         "MICR": "395027003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SUBHAS ROAD, VERAVAL, DIST-JUNAGARH, GUJARAT, PIN - 362265",
+        "ADDRESS": "SUBHAS ROAD, VERAVAL, DIST-JUNAGARH, GUJRAT, PIN - 362265",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "VERAVAL",
@@ -1255,7 +1255,7 @@
         "MICR": "362",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1273,7 +1273,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1291,7 +1291,7 @@
         "MICR": "641027006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1813,7 +1813,7 @@
         "MICR": "600027015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1921,7 +1921,7 @@
         "MICR": "627027002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1993,7 +1993,7 @@
         "MICR": "627027003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2083,7 +2083,7 @@
         "MICR": "641",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "UTBIINBBTRP",
         "UPI": true
     },
@@ -2263,7 +2263,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2862,7 +2862,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "43, HEBER ROAD, BEEMANAGAR, TIRUCHIRAPALLI - 620001, TAMIL NADU",
+        "ADDRESS": "43, HEBER ROAD, BEEMANAGAR, TIRUCHIRAPALLI - 620001, TAMILNADU",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "TIRUCHIRAPALLI (BEEMANAGAR)",
@@ -2875,7 +2875,7 @@
         "MICR": "620",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2893,12 +2893,12 @@
         "MICR": "700",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OLD NO.39,NEW NO. 28,SHANMUGAM ROAD,TAMBARAM WEST,CHENNAI-600045,TAMIL NADU",
+        "ADDRESS": "OLD NO.39,NEW NO. 28,SHANMUGAM ROAD,TAMBARAM WEST,CHENNAI-600045,TAMILNADU",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "TAMBARAM",
@@ -2911,7 +2911,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3721,7 +3721,7 @@
         "MICR": "395",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3847,7 +3847,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4050,7 +4050,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "135, SARDAR PATEL COLONY, STADIUM ROAD, AHMEDABAD - 380014, GUJARAT",
+        "ADDRESS": "135, SARDAR PATEL COLONY, STADIUM ROAD, AHMEDABAD - 380014, GUJRAT",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "SARDAR PATEL COLONY",
@@ -4063,7 +4063,7 @@
         "MICR": "380",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4729,7 +4729,7 @@
         "MICR": "636",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5791,7 +5791,7 @@
         "MICR": "380027011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5953,7 +5953,7 @@
         "MICR": "641027005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6133,7 +6133,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7375,7 +7375,7 @@
         "MICR": "360",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8221,7 +8221,7 @@
         "MICR": "384027081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8262,7 +8262,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "32, NEW BRAHMAKSHTRIYA SOCIETY, ELLIS BRIDGE, PRITAMNAGAR, AHMEDABAD - 380006, GUJARAT",
+        "ADDRESS": "32, NEW BRAHMAKSHTRIYA SOCIETY, ELLIS BRIDGE, PRITAMNAGAR, AHMEDABAD - 380006, GUJRAT",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "PRITAMNAGAR",
@@ -8275,7 +8275,7 @@
         "MICR": "380",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8689,7 +8689,7 @@
         "MICR": "638",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8851,7 +8851,7 @@
         "MICR": "605",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -8905,7 +8905,7 @@
         "MICR": "360027121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9157,7 +9157,7 @@
         "MICR": "641",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9211,7 +9211,7 @@
         "MICR": "385027001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9751,7 +9751,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10219,7 +10219,7 @@
         "MICR": "390",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10615,7 +10615,7 @@
         "MICR": "396",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10651,7 +10651,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10741,7 +10741,7 @@
         "MICR": "630027204",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11263,7 +11263,7 @@
         "MICR": "600027017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11695,7 +11695,7 @@
         "MICR": "629027002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12433,7 +12433,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12505,7 +12505,7 @@
         "MICR": "600027014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13027,7 +13027,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "UTBIINBBMRD",
         "UPI": true
     },
@@ -13680,7 +13680,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "KADIAKUI, 13, RELIEF ROAD, AHMEDABAD - 380001, GUJARAT",
+        "ADDRESS": "KADIAKUI, 13, RELIEF ROAD, AHMEDABAD - 380001, GUJRAT",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "MASKATI MARKET",
@@ -13693,7 +13693,7 @@
         "MICR": "380",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14544,7 +14544,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Raj Kamal Highway Road, Opp. Prabhu Complex, PO. & Dist. Mehesana, Pin-384002, Gujarat",
+        "ADDRESS": "Raj Kamal Highway Road, Opp. Prabhu Complex, PO. & Dist. Mehesana, Pin-384002, GUJRAT",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "Mehesana",
@@ -14557,7 +14557,7 @@
         "MICR": "384",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14737,7 +14737,7 @@
         "MICR": "630027203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14755,7 +14755,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "UTBIINBBMDS",
         "UPI": true
     },
@@ -14778,7 +14778,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "295, WEST MASI STREET, MADURAI, DIST-MADURAI, TAMIL NADU, PIN - 625001",
+        "ADDRESS": "295, WEST MASI STREET, MADURAI, DIST-MADURAI, TAMILNADU, PIN - 625001",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "MADURAI",
@@ -14791,7 +14791,7 @@
         "MICR": "625",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14971,7 +14971,7 @@
         "MICR": "630027206",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16987,7 +16987,7 @@
         "MICR": "639027002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17185,7 +17185,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17329,7 +17329,7 @@
         "MICR": "641027007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17532,7 +17532,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO. 404, EVR ROAD, K K NAGAR, TIRUCHIRAPALLI, DIST - TIRUCHIRAPALLI, TAMIL NADU, PIN620021",
+        "ADDRESS": "PLOT NO. 404, EVR ROAD, K K NAGAR, TIRUCHIRAPALLI, DIST - TIRUCHIRAPALLI, TAMILNADU, PIN620021",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "K K NAGAR",
@@ -17545,7 +17545,7 @@
         "MICR": "620",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -18031,7 +18031,7 @@
         "MICR": "630027202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -18157,7 +18157,7 @@
         "MICR": "370",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19111,7 +19111,7 @@
         "MICR": "605",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -19327,7 +19327,7 @@
         "MICR": "612027002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19386,7 +19386,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "55 TR.NAGAR MAIN RD,CHATTISGARH",
+        "ADDRESS": "55 TR.NAGAR MAIN RD,CHHATTISGARH",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "KORBA",
@@ -19741,7 +19741,7 @@
         "MICR": "362027001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -20191,7 +20191,7 @@
         "MICR": "361",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21505,7 +21505,7 @@
         "MICR": "630027205",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21636,7 +21636,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO.5-9-211/1,CHIRAG ALI LANE,ABIDS,HYDERABAD,TELENGANA,PIN-500001",
+        "ADDRESS": "NO.5-9-211/1,CHIRAG ALI LANE,ABIDS,HYDERABAD,TELANGANA,PIN-500001",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "HYDERABAD REGIONAL OFFICE",
@@ -21811,7 +21811,7 @@
         "MICR": "635027402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22153,7 +22153,7 @@
         "MICR": "382027501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22266,7 +22266,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Gr. Floor, Galaxy Towers, Opp. S.T Bus Stand, PO. Himatnagar, Dist. Sabarkanta, Pin-383001, Gujarat",
+        "ADDRESS": "Gr. Floor, Galaxy Towers, Opp. S.T Bus Stand, PO. Himatnagar, Dist. Sabarkanta, Pin-383001, GUJRAT",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "Himatnagar",
@@ -22279,7 +22279,7 @@
         "MICR": "383",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23490,7 +23490,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "201, SATHY ROAD,RAMAKRISHNAPURAM,, GANAPATHY P.O., COIMBATORE-641 006,TAMILNADU, COIMBATORE - 641 006, TAMIL NADU",
+        "ADDRESS": "201, SATHY ROAD,RAMAKRISHNAPURAM,, GANAPATHY P.O., COIMBATORE-641 006,TAMILNADU, COIMBATORE - 641 006, TAMILNADU",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "GANAPATHY",
@@ -23503,7 +23503,7 @@
         "MICR": "641",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24223,7 +24223,7 @@
         "MICR": "389027041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -24637,7 +24637,7 @@
         "MICR": "380",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25321,7 +25321,7 @@
         "MICR": "396027501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28417,7 +28417,7 @@
         "MICR": "643027102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28525,7 +28525,7 @@
         "MICR": "641",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "UTBIINBBCOI",
         "UPI": true
     },
@@ -30037,7 +30037,7 @@
         "MICR": "370",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -32526,7 +32526,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BANERJEEHAT, CHATTA CHARIAL ROAD, MAHESHTALA, KOLKATA-700141,WESTBENGAL",
+        "ADDRESS": "BANERJEEHAT, CHATTA CHARIAL ROAD, MAHESHTALA, KOLKATA-700141,WEST BENGAL",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "BANERJEEHAT",
@@ -33043,7 +33043,7 @@
         "MICR": "364",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34321,7 +34321,7 @@
         "MICR": "390",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35298,7 +35298,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SADURAM CHAMBERS, OPPSITE-GUJARAT VIDYAPITH, ASHRAM ROAD, AHMEDABAD - 380014, GUJARAT",
+        "ADDRESS": "SADURAM CHAMBERS, OPPSITE-GUJRAT VIDYAPITH, ASHRAM ROAD, AHMEDABAD - 380014, GUJRAT",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
         "BRANCH": "ASHRAM ROAD",
@@ -35311,7 +35311,7 @@
         "MICR": "380",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35455,7 +35455,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35851,7 +35851,7 @@
         "MICR": "393027051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35941,7 +35941,7 @@
         "MICR": "600",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36103,7 +36103,7 @@
         "MICR": "365027001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -36463,7 +36463,7 @@
         "MICR": "390",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -36643,7 +36643,7 @@
         "MICR": "380",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "UTBIINBBAHB",
         "UPI": true
     },
@@ -36990,10 +36990,10 @@
         "UPI": true
     },
     {
-        "ADDRESS": "S K CHAMBERS, GAMDIWAD STATION ROAD, ANAND, DIST-KHODA, GUJARAT, PIN - 388001",
+        "ADDRESS": "S K CHAMBERS, GAMDIWAD STATION ROAD, ANAND, DIST-KHODA, GUJRAT, PIN - 388001",
         "BANK": "United Bank of India",
         "BANKCODE": "UTBI",
-        "BRANCH": "ANAND (GUJARAT)",
+        "BRANCH": "ANAND (GUJRAT)",
         "CENTRE": "ANAND",
         "CITY": "ANAND",
         "CONTACT": "",
@@ -37003,7 +37003,7 @@
         "MICR": "388",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     }

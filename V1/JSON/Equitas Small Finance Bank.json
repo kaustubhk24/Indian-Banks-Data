@@ -522,7 +522,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "O-8,ASHOKAGAR,BHAWARKUARAOD,INDORE,MADHYAPRADESH",
+        "ADDRESS": "O-8,ASHOKAGAR,BHAWARKUARAOD,INDORE,MADHYA PRADESH",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "BHAWARKUA INDORE",
@@ -864,7 +864,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "1ST FLOOR,MARUTI BUSINESS PARK,OPPOSITE TO NEW COURT,PATAN - 384265,AHMEDABAD,GUJARAT",
+        "ADDRESS": "1ST FLOOR,MARUTI BUSINESS PARK,OPPOSITE TO NEW COURT,PATAN - 384265,AHMEDABAD,GUJRAT",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "PATAN MAIN",
@@ -877,7 +877,7 @@
         "MICR": "384756081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -895,12 +895,12 @@
         "MICR": "362756001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "V3,SHOP NO -1,NR GOPINATHJI CHEVROLET SHOWROOM,PADRA ROAD,VADODARA,GUJARAT",
+        "ADDRESS": "V3,SHOP NO -1,NR GOPINATHJI CHEVROLET SHOWROOM,PADRA ROAD,VADODARA,GUJRAT",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "VADODARA MAIN",
@@ -913,7 +913,7 @@
         "MICR": "390756001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -931,12 +931,12 @@
         "MICR": "395756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Rivaa House, Near Udhna Darwaja, Surat, Gujarat",
+        "ADDRESS": "Rivaa House, Near Udhna Darwaja, Surat, GUJRAT",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "MAIN - UDHANA , SURAT",
@@ -949,7 +949,7 @@
         "MICR": "395756001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -967,12 +967,12 @@
         "MICR": "384756001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SARTHAK COMPLEX,GROUND FLOOR,NR.SWASTIK CHAR RASTA,SWASTIK CROSS ROAD - CG ROAD,AHMEDABAD,GUJARAT",
+        "ADDRESS": "SARTHAK COMPLEX,GROUND FLOOR,NR.SWASTIK CHAR RASTA,SWASTIK CROSS ROAD - CG ROAD,AHMEDABAD,GUJRAT",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "MAIN - C G ROAD",
@@ -985,7 +985,7 @@
         "MICR": "380756001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1044,7 +1044,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "D.NO 6-4-108/2,ARUNDULPET,4/3,GUNTUR-522002,ANDHRAPRADESH",
+        "ADDRESS": "D.NO 6-4-108/2,ARUNDULPET,4/3,GUNTUR-522002,ANDHRA PRADESH",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "GUNTUR",
@@ -1417,12 +1417,12 @@
         "MICR": "636756006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO-20/81,LINK ROAD,PANRUTI - 607106,TAMIL NADU",
+        "ADDRESS": "NO-20/81,LINK ROAD,PANRUTI - 607106,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "PANRUTI",
@@ -1435,7 +1435,7 @@
         "MICR": "607756202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1453,7 +1453,7 @@
         "MICR": "625756302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1471,7 +1471,7 @@
         "MICR": "605756011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1489,7 +1489,7 @@
         "MICR": "638756008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1507,7 +1507,7 @@
         "MICR": "614756202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1525,7 +1525,7 @@
         "MICR": "636756005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1543,7 +1543,7 @@
         "MICR": "606756102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1561,7 +1561,7 @@
         "MICR": "632756202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1579,7 +1579,7 @@
         "MICR": "605756010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1597,7 +1597,7 @@
         "MICR": "613756004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1615,7 +1615,7 @@
         "MICR": "600756022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1633,12 +1633,12 @@
         "MICR": "636756004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO -1C,VVD ROAD,TUTICORIN,TAMIL NADU - 628003",
+        "ADDRESS": "NO -1C,VVD ROAD,TUTICORIN,TAMILNADU - 628003",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "TUTICORIN",
@@ -1651,7 +1651,7 @@
         "MICR": "627756008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1669,12 +1669,12 @@
         "MICR": "606756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO - 13/3,GREEN ROAD,KARAIKUDI - 630001,TAMIL NADU",
+        "ADDRESS": "NO - 13/3,GREEN ROAD,KARAIKUDI - 630001,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "KARIKUDI",
@@ -1687,7 +1687,7 @@
         "MICR": "630756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1705,7 +1705,7 @@
         "MICR": "600756020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1723,12 +1723,12 @@
         "MICR": "620756009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OLD S NO.94/4,WARD D,BLOCK 4,MELKRISHNAPURAM VILLAGE,AMBUR MUNICIPAL TOWN LIMIT,VELLORE DIST,TAMIL NADU",
+        "ADDRESS": "OLD S NO.94/4,WARD D,BLOCK 4,MELKRISHNAPURAM VILLAGE,AMBUR MUNICIPAL TOWN LIMIT,VELLORE DIST,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "AMBUR",
@@ -1741,12 +1741,12 @@
         "MICR": "635756302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 2,VADIVEL MUDALI STREET,VENKATAPURAM,AMBATTUR,CHENNAI -600 053,TAMIL NADU",
+        "ADDRESS": "NO 2,VADIVEL MUDALI STREET,VENKATAPURAM,AMBATTUR,CHENNAI -600 053,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "AMBATTUR",
@@ -1759,7 +1759,7 @@
         "MICR": "600756019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1777,7 +1777,7 @@
         "MICR": "638756004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1795,7 +1795,7 @@
         "MICR": "600756018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1813,12 +1813,12 @@
         "MICR": "605756009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.166 A JUNCTION ROAD,VIRUDHACHALAM - 606001,TAMIL NADU",
+        "ADDRESS": "NO.166 A JUNCTION ROAD,VIRUDHACHALAM - 606001,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "VIRUDHACHALAM",
@@ -1831,12 +1831,12 @@
         "MICR": "606756202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Raja Timbers Building, 30/132 K.K Road, Villupuram - 605602, Tamil Nadu.",
+        "ADDRESS": "Raja Timbers Building, 30/132 K.K Road, Villupuram - 605602, TAMILNADU.",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "VILLUPURAM",
@@ -1849,7 +1849,7 @@
         "MICR": "605756008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1867,7 +1867,7 @@
         "MICR": "600756017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1885,12 +1885,12 @@
         "MICR": "625756010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO-21,NEW MOSQUE STREET,NEAR RAMADOSS CLINIC,TINDIVANAM - 604001,TAMIL NADU",
+        "ADDRESS": "NO-21,NEW MOSQUE STREET,NEAR RAMADOSS CLINIC,TINDIVANAM - 604001,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "TINDIVANAM",
@@ -1903,12 +1903,12 @@
         "MICR": "605756007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO -1287,KNY COMPLEX,GROUND FLOOR,THENI PERIYAKULAM MAIN ROAD,THENI,TAMIL NADU",
+        "ADDRESS": "NO -1287,KNY COMPLEX,GROUND FLOOR,THENI PERIYAKULAM MAIN ROAD,THENI,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "THENI",
@@ -1921,12 +1921,12 @@
         "MICR": "625756102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO -20&21,VELAYUTHAM ROAD,SIVAKASI - 626123,TAMIL NADU",
+        "ADDRESS": "NO -20&21,VELAYUTHAM ROAD,SIVAKASI - 626123,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "SIVAKASI",
@@ -1939,12 +1939,12 @@
         "MICR": "626756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO-25/B,KATCHERY ROAD,SIRKALI-609110,TAMIL NADU",
+        "ADDRESS": "NO-25/B,KATCHERY ROAD,SIRKALI-609110,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "SIRKALI",
@@ -1957,7 +1957,7 @@
         "MICR": "609756202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1975,12 +1975,12 @@
         "MICR": "627756005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO-9A,M.F.ROAD,RANIPET,MUNICIPAL LIMIT,VELLORE DIST,TAMIL NADU",
+        "ADDRESS": "NO-9A,M.F.ROAD,RANIPET,MUNICIPAL LIMIT,VELLORE DIST,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "RANIPET",
@@ -1993,7 +1993,7 @@
         "MICR": "632756102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2011,12 +2011,12 @@
         "MICR": "600756016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO - 48A,P.H ROAD,KUMANANCHAVADY SIGNAL,SEENEERKUPPAM,NEAR EVP KALYANA MANDAPAM,POONAMALLE,KATTUPAKKAM - 600056,TAMIL NADU",
+        "ADDRESS": "NO - 48A,P.H ROAD,KUMANANCHAVADY SIGNAL,SEENEERKUPPAM,NEAR EVP KALYANA MANDAPAM,POONAMALLE,KATTUPAKKAM - 600056,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "KATTUPAKKAM",
@@ -2029,7 +2029,7 @@
         "MICR": "600756015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2047,12 +2047,12 @@
         "MICR": "621756302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DINDIGUL ROAD,NEAR BY CTC DEPO,OPP VASANTHA BHAVAN HOTEL,PALANI,TAMIL NADU",
+        "ADDRESS": "DINDIGUL ROAD,NEAR BY CTC DEPO,OPP VASANTHA BHAVAN HOTEL,PALANI,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "PALANI",
@@ -2065,7 +2065,7 @@
         "MICR": "624756102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2083,7 +2083,7 @@
         "MICR": "620756008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2101,7 +2101,7 @@
         "MICR": "609756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2119,12 +2119,12 @@
         "MICR": "620756007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OLD NO -59,NEW NO -113,PUDHUROAD,KOVILPATTY,TAMIL NADU",
+        "ADDRESS": "OLD NO -59,NEW NO -113,PUDHUROAD,KOVILPATTY,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "KOVILPATTI",
@@ -2137,7 +2137,7 @@
         "MICR": "627756004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2155,7 +2155,7 @@
         "MICR": "605756006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2173,7 +2173,7 @@
         "MICR": "639756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2191,12 +2191,12 @@
         "MICR": "632756302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OLD NO - 46,NEW NO - 11,DOCTOR VARADHARAJAN STREET,VEDHACHALAM NAGAR,CHENGALPATTU-603001,TAMIL NADU",
+        "ADDRESS": "OLD NO - 46,NEW NO - 11,DOCTOR VARADHARAJAN STREET,VEDHACHALAM NAGAR,CHENGALPATTU-603001,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "CHENGALPATTU",
@@ -2209,12 +2209,12 @@
         "MICR": "600756014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO -60 A,NAGALPURAM,NEAR VETERINARY HOSPITAL,MADURAI MAIN ROAD,BATLAGUNDU -624202,TAMIL NADU",
+        "ADDRESS": "NO -60 A,NAGALPURAM,NEAR VETERINARY HOSPITAL,MADURAI MAIN ROAD,BATLAGUNDU -624202,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "BATLAGUNDU",
@@ -2227,12 +2227,12 @@
         "MICR": "625756202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KONGU NAGAR,MUHUR ROAD,SENATHIPALAYAM VILLGE,VELLAKOIL - 638111,TAMIL NADU",
+        "ADDRESS": "KONGU NAGAR,MUHUR ROAD,SENATHIPALAYAM VILLGE,VELLAKOIL - 638111,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "SENATHIPALAYAM",
@@ -2245,12 +2245,12 @@
         "MICR": "638756003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT N0 -48(P),49(P),ASTALAKSHMI NAGAR,MULLAI NAGAR BUS STOP,OPP ANNS CARE CENTRE,THANAKKANKULAM,MADURAI 625006,TAMIL NADU",
+        "ADDRESS": "PLOT N0 -48(P),49(P),ASTALAKSHMI NAGAR,MULLAI NAGAR BUS STOP,OPP ANNS CARE CENTRE,THANAKKANKULAM,MADURAI 625006,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "THANAKKANKULAM",
@@ -2263,7 +2263,7 @@
         "MICR": "625756008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2281,12 +2281,12 @@
         "MICR": "605756004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 30,CYLONE OFFICE,PERUMAL MALAI ADIVARAM PO.THURAIYUR -621010. ( NEAR LM HOSPITAL ),TAMIL NADU",
+        "ADDRESS": "NO 30,CYLONE OFFICE,PERUMAL MALAI ADIVARAM PO.THURAIYUR -621010. ( NEAR LM HOSPITAL ),TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "PERUMAL MALAI ADIVARAM",
@@ -2299,12 +2299,12 @@
         "MICR": "620756005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO -37/ 6,7,8,9,MAYILADUTHURAI MAIN ROAD,NARASINGAMPETTAI ( PO).ADUTHURAI 612101,TAMIL NADU",
+        "ADDRESS": "NO -37/ 6,7,8,9,MAYILADUTHURAI MAIN ROAD,NARASINGAMPETTAI ( PO).ADUTHURAI 612101,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "NARASINGAMPETTAI",
@@ -2317,7 +2317,7 @@
         "MICR": "612756005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2335,12 +2335,12 @@
         "MICR": "624756103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO -2/1,KEEZHAYUR,MELUR,MADURAI 625102,TAMIL NADU",
+        "ADDRESS": "DOOR NO -2/1,KEEZHAYUR,MELUR,MADURAI 625102,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "KEEZHAYUR, MADURAI",
@@ -2353,7 +2353,7 @@
         "MICR": "625756005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2371,7 +2371,7 @@
         "MICR": "641756005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2389,7 +2389,7 @@
         "MICR": "621756003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2407,7 +2407,7 @@
         "MICR": "600756012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2425,7 +2425,7 @@
         "MICR": "600756011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2443,12 +2443,12 @@
         "MICR": "641756004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "80 FEET ROAD,K.K.NAGAR,MADURAI-20,TAMIL NADU",
+        "ADDRESS": "80 FEET ROAD,K.K.NAGAR,MADURAI-20,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "K K NAGAR, MADURAI",
@@ -2461,7 +2461,7 @@
         "MICR": "625756004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2479,7 +2479,7 @@
         "MICR": "600756010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2497,12 +2497,12 @@
         "MICR": "641756003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO.4/7,HIG TYPE,FIRST FLOOR,MOGAPPAIR WEST,NOLAMBUR,CHENNAI - 600037,TAMIL NADU",
+        "ADDRESS": "PLOT NO.4/7,HIG TYPE,FIRST FLOOR,MOGAPPAIR WEST,NOLAMBUR,CHENNAI - 600037,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "MOGAPPAIR",
@@ -2515,7 +2515,7 @@
         "MICR": "600756009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2533,12 +2533,12 @@
         "MICR": "600756008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO -246,MADIPAKKAM MAIN ROAD,MADIPAKKAM,CHENNAI -91,TAMIL NADU",
+        "ADDRESS": "NO -246,MADIPAKKAM MAIN ROAD,MADIPAKKAM,CHENNAI -91,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "MADIBAKKAM",
@@ -2551,12 +2551,12 @@
         "MICR": "600756007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "No 13A, Nethaji Road, Manjakuppam, Cuddalore - 607001, Tamil Nadu.",
+        "ADDRESS": "No 13A, Nethaji Road, Manjakuppam, Cuddalore - 607001, TAMILNADU.",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "MANJAKUPPAM CUDDALORE",
@@ -2569,7 +2569,7 @@
         "MICR": "605756003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2587,12 +2587,12 @@
         "MICR": "612756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO - 14,G-1,EVS STREET,RENGANATHAPURAM,SRIRANGAM,TRICHY - 620006,TAMIL NADU",
+        "ADDRESS": "NO - 14,G-1,EVS STREET,RENGANATHAPURAM,SRIRANGAM,TRICHY - 620006,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "SRIRANGAM TRICHY",
@@ -2605,12 +2605,12 @@
         "MICR": "620756003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OLD NO -C55,NEW NO -C 15,ANANDAMS PLAZA,THILLAI NAGAR,10TH B CROSS,TRICHY,620018 TAMIL NADU",
+        "ADDRESS": "OLD NO -C55,NEW NO -C 15,ANANDAMS PLAZA,THILLAI NAGAR,10TH B CROSS,TRICHY,620018 TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "THILLAI NAGAR TRICHY",
@@ -2623,7 +2623,7 @@
         "MICR": "620756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2641,7 +2641,7 @@
         "MICR": "622756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2659,12 +2659,12 @@
         "MICR": "625756003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO -103/1,MADURAI ROAD,VIRUDHUNAGAR,626001 TAMIL NADU",
+        "ADDRESS": "NO -103/1,MADURAI ROAD,VIRUDHUNAGAR,626001 TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "VIRUDHUNAGAR",
@@ -2677,7 +2677,7 @@
         "MICR": "626756302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2695,12 +2695,12 @@
         "MICR": "626756102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO - 9L/10/1,THATCHANALLURROAD,THILAK NAGAR,TIRUNELVELI -627006,TAMIL NADU",
+        "ADDRESS": "NO - 9L/10/1,THATCHANALLURROAD,THILAK NAGAR,TIRUNELVELI -627006,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "THILAK NAGAR TIRUNELVELI",
@@ -2713,7 +2713,7 @@
         "MICR": "627756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2731,7 +2731,7 @@
         "MICR": "636756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2749,7 +2749,7 @@
         "MICR": "638756402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2767,12 +2767,12 @@
         "MICR": "641756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO - 8/442,ARULPURAM PO,KARAIPUDHUR VILLAGE,PALLADAM TK,TRIPPUR - 641605,TAMIL NADU",
+        "ADDRESS": "NO - 8/442,ARULPURAM PO,KARAIPUDHUR VILLAGE,PALLADAM TK,TRIPPUR - 641605,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "PALLADAM RURAL",
@@ -2785,7 +2785,7 @@
         "MICR": "641756102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2803,7 +2803,7 @@
         "MICR": "625756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2821,7 +2821,7 @@
         "MICR": "600756006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2839,12 +2839,12 @@
         "MICR": "605756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO-9/71,8TH AVENUE,7TH MAIN ROAD,DHANDEESWAR NAGAR EXTENSION,VELACHERRY,CHENNAI-600 042,TAMIL NADU",
+        "ADDRESS": "NO-9/71,8TH AVENUE,7TH MAIN ROAD,DHANDEESWAR NAGAR EXTENSION,VELACHERRY,CHENNAI-600 042,TAMILNADU",
         "BANK": "Equitas Small Finance Bank",
         "BANKCODE": "ESFB",
         "BRANCH": "VELACHERY",
@@ -2857,7 +2857,7 @@
         "MICR": "600756005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2875,7 +2875,7 @@
         "MICR": "600756004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2893,7 +2893,7 @@
         "MICR": "600756003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2911,7 +2911,7 @@
         "MICR": "600756002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2929,7 +2929,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     }

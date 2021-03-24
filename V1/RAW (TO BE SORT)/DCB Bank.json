@@ -86,7 +86,7 @@
         "MICR": "627072002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -176,7 +176,7 @@
         "MICR": "361072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -194,7 +194,7 @@
         "MICR": "364072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -519,7 +519,7 @@
         "MICR": "384072102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1419,7 +1419,7 @@
         "MICR": "612072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1545,7 +1545,7 @@
         "MICR": "636072003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1689,12 +1689,12 @@
         "MICR": "380072008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DCB BANK LTD , SURVEY NO. 160/1 , PLOT NO. 29, BELOW GRAMSHAKTI ( FULLERTON ), OPP SWAMINARAYAN SCHOOL , SIDC MAIN ROAD, VERAVAL, SHAPAR, GUJARAT- 360024",
+        "ADDRESS": "DCB BANK LTD , SURVEY NO. 160/1 , PLOT NO. 29, BELOW GRAMSHAKTI ( FULLERTON ), OPP SWAMINARAYAN SCHOOL , SIDC MAIN ROAD, VERAVAL, SHAPAR, GUJRAT- 360024",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "SHAPAR",
@@ -1707,7 +1707,7 @@
         "MICR": "360072003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1910,7 +1910,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DCB BANK LTD,KAWARDHA BRANCH,TAKUR DEV CHOWK,RAIPUR NAKA,KAWARDHA,DISTRICT-KAWARDHA,STATE-CHATTISGARH,PIN-491995",
+        "ADDRESS": "DCB BANK LTD,KAWARDHA BRANCH,TAKUR DEV CHOWK,RAIPUR NAKA,KAWARDHA,DISTRICT-KAWARDHA,STATE-CHHATTISGARH,PIN-491995",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "KAWARDHA",
@@ -2265,7 +2265,7 @@
         "MICR": "625072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2288,7 +2288,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DCB BANK LTD,OLD NO. 445 NEW NO. 409,BROUGH ROAD, PERUNDURAI RAOD,ERODE,TAMIL NADU-638011",
+        "ADDRESS": "DCB BANK LTD,OLD NO. 445 NEW NO. 409,BROUGH ROAD, PERUNDURAI RAOD,ERODE,TAMILNADU-638011",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "ERODE",
@@ -2301,7 +2301,7 @@
         "MICR": "638072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2319,7 +2319,7 @@
         "MICR": "636072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2355,7 +2355,7 @@
         "MICR": "635072402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3327,7 +3327,7 @@
         "MICR": "600072006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3345,7 +3345,7 @@
         "MICR": "632072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3363,7 +3363,7 @@
         "MICR": "390072003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3489,7 +3489,7 @@
         "MICR": "387072001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3507,7 +3507,7 @@
         "MICR": "641072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3579,7 +3579,7 @@
         "MICR": "388072001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3710,7 +3710,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DCB BANK LTD. 101, 104 ,SURYADEEP ENCLAVE BAREJA KHEDA ROAD  DASKOI AHMEDABAD  GUJARAT  382425",
+        "ADDRESS": "DCB BANK LTD. 101, 104 ,SURYADEEP ENCLAVE BAREJA KHEDA ROAD  DASKOI AHMEDABAD  GUJRAT  382425",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "BAREJA",
@@ -3723,7 +3723,7 @@
         "MICR": "380072007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3741,7 +3741,7 @@
         "MICR": "620072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3759,7 +3759,7 @@
         "MICR": "600072005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3998,7 +3998,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "368,NADIAD \u2013 PETLAD ROAD, NEAR PARAS STEEL, RANGAIPURA, TALUKA \u2013 PETLAD,ANAND, STATE \u2013 GUJARATPIN CODE 388450",
+        "ADDRESS": "368,NADIAD \u2013 PETLAD ROAD, NEAR PARAS STEEL, RANGAIPURA, TALUKA \u2013 PETLAD,ANAND, STATE \u2013 GUJRATPIN CODE 388450",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "RANGAIPURA",
@@ -4011,7 +4011,7 @@
         "MICR": "388072051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4106,7 +4106,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "OLD BUS STAND ROAD, BERLA, DISTRICT \u2013 BEMETARA, STATE \u2013 CHATTISGARH, PIN \u2013 491332",
+        "ADDRESS": "OLD BUS STAND ROAD, BERLA, DISTRICT \u2013 BEMETARA, STATE \u2013 CHHATTISGARH, PIN \u2013 491332",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "BERLA",
@@ -4124,7 +4124,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DURG ROAD, BEMETARA, DISTRICT \u2013 BEMETARA, STATE \u2013 CHATTISGARH, PIN \u2013 491335",
+        "ADDRESS": "DURG ROAD, BEMETARA, DISTRICT \u2013 BEMETARA, STATE \u2013 CHHATTISGARH, PIN \u2013 491335",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "BEMETARA",
@@ -4173,7 +4173,7 @@
         "MICR": "600072004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4466,7 +4466,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DEESA PALANPUR HIGHWAY, TALUKA: DEESA, DISTRICT: BANASKANTHA, GUJARAT 385535",
+        "ADDRESS": "DEESA PALANPUR HIGHWAY, TALUKA: DEESA, DISTRICT: BANASKANTHA, GUJRAT 385535",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "NANA RASANA",
@@ -4479,7 +4479,7 @@
         "MICR": "385072031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4520,7 +4520,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO. 384, NEAR SBI, BRAHMIN FALIYA NAVAGAM POST SONGADH, DIST TAPI,  GUJARAT \u2013 394670",
+        "ADDRESS": "PLOT NO. 384, NEAR SBI, BRAHMIN FALIYA NAVAGAM POST SONGADH, DIST TAPI,  GUJRAT \u2013 394670",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "SONGADH",
@@ -4533,12 +4533,12 @@
         "MICR": "394072501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT & POST VASAD, YASH WAY BRIDGE, BORSAD ROAD, VASAD, TAL & DIST.  ANAND, GUJARAT \u2013 388306",
+        "ADDRESS": "AT & POST VASAD, YASH WAY BRIDGE, BORSAD ROAD, VASAD, TAL & DIST.  ANAND, GUJRAT \u2013 388306",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "VASAD",
@@ -4551,7 +4551,7 @@
         "MICR": "388072501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4641,7 +4641,7 @@
         "MICR": "395072003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4754,7 +4754,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 7, GURJARI TALKIES COMPLEX, JAWAHAR BAZAR CHAR RASTA, DEDIAPADA ROAD, NETRANG, TALUKA - VALIYA, DIST - BHARUCH, GUJARAT 393 601",
+        "ADDRESS": "SHOP NO 7, GURJARI TALKIES COMPLEX, JAWAHAR BAZAR CHAR RASTA, DEDIAPADA ROAD, NETRANG, TALUKA - VALIYA, DIST - BHARUCH, GUJRAT 393 601",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "NETRANG",
@@ -4767,12 +4767,12 @@
         "MICR": "72102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BHANRAJPOONAMCHAND DALWALA COMPOUND, OPP S T BUS STOP, KIM MANDVI ROAD, MANDVI , DIST - SURAT - 394160, GUJARAT",
+        "ADDRESS": "BHANRAJPOONAMCHAND DALWALA COMPOUND, OPP S T BUS STOP, KIM MANDVI ROAD, MANDVI , DIST - SURAT - 394160, GUJRAT",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "MANDVI",
@@ -4785,7 +4785,7 @@
         "MICR": "394072091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4803,7 +4803,7 @@
         "MICR": "390072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4839,7 +4839,7 @@
         "MICR": "600072003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4988,7 +4988,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DEDIAPADA CHAR RASTA, NEXT TO DENA BANK BR, DEDIAPADA MAIN ROAD, DEDIAPADA, DIST - NARMADA, GUJARAT - 393040",
+        "ADDRESS": "DEDIAPADA CHAR RASTA, NEXT TO DENA BANK BR, DEDIAPADA MAIN ROAD, DEDIAPADA, DIST - NARMADA, GUJRAT - 393040",
         "BANK": "DCB Bank",
         "BANKCODE": "DCBL",
         "BRANCH": "DEDIAPADA",
@@ -5001,7 +5001,7 @@
         "MICR": "72088",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5091,7 +5091,7 @@
         "MICR": "380072005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5145,7 +5145,7 @@
         "MICR": "380072005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5307,7 +5307,7 @@
         "MICR": "600072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5577,7 +5577,7 @@
         "MICR": "72045",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5631,7 +5631,7 @@
         "MICR": "72042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5649,7 +5649,7 @@
         "MICR": "380072004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5667,7 +5667,7 @@
         "MICR": "360072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5739,7 +5739,7 @@
         "MICR": "380072003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5757,7 +5757,7 @@
         "MICR": "72035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5775,7 +5775,7 @@
         "MICR": "72034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5793,7 +5793,7 @@
         "MICR": "395072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5883,7 +5883,7 @@
         "MICR": "380072002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

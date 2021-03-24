@@ -5634,7 +5634,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BC 23,SECTOR 1,SHATABDI NAGAR,DELHI ROAD,MEERUT,UTTARPRADESH,250103",
+        "ADDRESS": "BC 23,SECTOR 1,SHATABDI NAGAR,DELHI ROAD,MEERUT,UTTAR PRADESH,250103",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "\u00fdSHATABDI NAGAR",
@@ -6007,7 +6007,7 @@
         "MICR": "641011028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6025,7 +6025,7 @@
         "MICR": "641011027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6043,7 +6043,7 @@
         "MICR": "600011076",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6061,7 +6061,7 @@
         "MICR": "600011077",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6493,7 +6493,7 @@
         "MICR": "641011026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7033,12 +7033,12 @@
         "MICR": "636011008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ARUPPUKKOTTAI,TRD COMPLEX,FIRST FLOOR,630,632,THIRUCHULI ROAD,ARUPPUKOTTAI,TAMIL NADU,626106",
+        "ADDRESS": "ARUPPUKKOTTAI,TRD COMPLEX,FIRST FLOOR,630,632,THIRUCHULI ROAD,ARUPPUKOTTAI,TAMILNADU,626106",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "ARUPPUKKOTTAI",
@@ -7051,7 +7051,7 @@
         "MICR": "626011202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7123,7 +7123,7 @@
         "MICR": "626011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7267,7 +7267,7 @@
         "MICR": "600011075",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7560,7 +7560,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 798 C,NEHRUJI ROAD,VILLUPURAM,TAMIL NADU,605602",
+        "ADDRESS": "NO 798 C,NEHRUJI ROAD,VILLUPURAM,TAMILNADU,605602",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "VILLUPURAM",
@@ -7573,12 +7573,12 @@
         "MICR": "605011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 178,BAZAR STREET,AMMOOR,VELLORE DIST,TAMIL NADU,632501",
+        "ADDRESS": "NO 178,BAZAR STREET,AMMOOR,VELLORE DIST,TAMILNADU,632501",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "AMMOOR",
@@ -7591,7 +7591,7 @@
         "MICR": "632011007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7933,7 +7933,7 @@
         "MICR": "641011025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7951,7 +7951,7 @@
         "MICR": "641011024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7969,7 +7969,7 @@
         "MICR": "641011023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8797,7 +8797,7 @@
         "MICR": "625011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9697,12 +9697,12 @@
         "MICR": "631011204",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "E 55,AMBEDKAR ROAD,BLOCK 20,NEYVELI TOWNSHIP,CUDDALORE DISTRICT,TAMIL NADU,607801",
+        "ADDRESS": "E 55,AMBEDKAR ROAD,BLOCK 20,NEYVELI TOWNSHIP,CUDDALORE DISTRICT,TAMILNADU,607801",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "NEYVELI",
@@ -9715,12 +9715,12 @@
         "MICR": "607011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "9 14A,SENGENI AMMAN KOIL STREET,MADUVANKARAI,GUINDY,TAMIL NADU,600032",
+        "ADDRESS": "9 14A,SENGENI AMMAN KOIL STREET,MADUVANKARAI,GUINDY,TAMILNADU,600032",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "GUINDY",
@@ -9733,7 +9733,7 @@
         "MICR": "600011074",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9841,12 +9841,12 @@
         "MICR": "620011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO 2 AND 11,VIGNESH NAGAR,TANJORE MAIN ROAD,KATTUR,TRICHY,620019,TAMIL NADU",
+        "ADDRESS": "PLOT NO 2 AND 11,VIGNESH NAGAR,TANJORE MAIN ROAD,KATTUR,TRICHY,620019,TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "TIRUVERUMBUR",
@@ -9859,12 +9859,12 @@
         "MICR": "620011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 7,KOVILUR ROAD,TIRUPATTUR,VELLORE DISTRICT,635601,TAMIL NADU",
+        "ADDRESS": "NO 7,KOVILUR ROAD,TIRUPATTUR,VELLORE DISTRICT,635601,TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "TIRUPATTUR",
@@ -9877,12 +9877,12 @@
         "MICR": "635011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO4,NOCHILI ROAD,K G KANDIGAI,THIRUVALLUR DIST,TAMIL NADU,631205",
+        "ADDRESS": "PLOT NO4,NOCHILI ROAD,K G KANDIGAI,THIRUVALLUR DIST,TAMILNADU,631205",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "K G KANDIGAI",
@@ -9895,7 +9895,7 @@
         "MICR": "631011205",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9931,7 +9931,7 @@
         "MICR": "641011108",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9949,7 +9949,7 @@
         "MICR": "638011009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9967,7 +9967,7 @@
         "MICR": "641011022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10075,7 +10075,7 @@
         "MICR": "641011021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10093,7 +10093,7 @@
         "MICR": "638011008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10111,7 +10111,7 @@
         "MICR": "627011007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10129,7 +10129,7 @@
         "MICR": "641011020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10170,7 +10170,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "6 2A,THIRUPPARKADAL ROAD,THIRUPPARKADAL,VELLORE DIST,TAMIL NADU,632508",
+        "ADDRESS": "6 2A,THIRUPPARKADAL ROAD,THIRUPPARKADAL,VELLORE DIST,TAMILNADU,632508",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "THIRUPPARKADAL",
@@ -10183,7 +10183,7 @@
         "MICR": "632011104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10543,7 +10543,7 @@
         "MICR": "600011073",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10656,7 +10656,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SRI RANGANATHAR COMPLEX,FIRST FLOOR,VEERAPANDI PIRIVU,PRESS COLONY POST,COIMBATORE,641019,TAMIL NADU",
+        "ADDRESS": "SRI RANGANATHAR COMPLEX,FIRST FLOOR,VEERAPANDI PIRIVU,PRESS COLONY POST,COIMBATORE,641019,TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "VEERAPANDI PIRIVU",
@@ -10669,7 +10669,7 @@
         "MICR": "641011019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10687,7 +10687,7 @@
         "MICR": "641011018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10782,7 +10782,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "HOTEL GRAND BASANT,BESIDE BASANT TALKIES,KHARSIA ROAD,AMBIKAPUR,SARGUJA DISTRICT,CHATTISGARH,497001",
+        "ADDRESS": "HOTEL GRAND BASANT,BESIDE BASANT TALKIES,KHARSIA ROAD,AMBIKAPUR,SARGUJA DISTRICT,CHHATTISGARH,497001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "AMBIKAPUR",
@@ -10818,7 +10818,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VIJ COMPLEX,INFRONT OF LUNKAD PETROL PUMP,RING ROAD 2,TATIBANDH,RAIPUR DIST,CHATTISGARH,492099",
+        "ADDRESS": "VIJ COMPLEX,INFRONT OF LUNKAD PETROL PUMP,RING ROAD 2,TATIBANDH,RAIPUR DIST,CHHATTISGARH,492099",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "TATIBANDH",
@@ -10849,7 +10849,7 @@
         "MICR": "632011202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10867,7 +10867,7 @@
         "MICR": "636011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11232,7 +11232,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "H NO 2 39,NARMADA NAGAR,RING ROAD NO 2,GAURAV PATH,MUNGELINAKA,BILASPUR DIST,CHATTISGARH,495001",
+        "ADDRESS": "H NO 2 39,NARMADA NAGAR,RING ROAD NO 2,GAURAV PATH,MUNGELINAKA,BILASPUR DIST,CHHATTISGARH,495001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MUNGELINAKA",
@@ -11299,7 +11299,7 @@
         "MICR": "641011017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11317,7 +11317,7 @@
         "MICR": "630011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11371,7 +11371,7 @@
         "MICR": "636011007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11988,7 +11988,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR,MAIN ROAD,K KP COMPLEX, NEAR BUS STAND,MADDUR,631206,TAMIL NADU",
+        "ADDRESS": "FIRST FLOOR,MAIN ROAD,K KP COMPLEX, NEAR BUS STAND,MADDUR,631206,TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MADDUR",
@@ -12001,7 +12001,7 @@
         "MICR": "631011203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12037,7 +12037,7 @@
         "MICR": "638011007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12055,7 +12055,7 @@
         "MICR": "639011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12240,7 +12240,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "37,SUBBA RAO STREET,SHOLINGAR,WALAJA TALUK,VELLORE DIST,631102,TAMIL NADU",
+        "ADDRESS": "37,SUBBA RAO STREET,SHOLINGAR,WALAJA TALUK,VELLORE DIST,631102,TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "SHOLINGAR",
@@ -12253,7 +12253,7 @@
         "MICR": "632011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12271,7 +12271,7 @@
         "MICR": "600011069",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12289,7 +12289,7 @@
         "MICR": "600011072",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12757,7 +12757,7 @@
         "MICR": "606011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13117,7 +13117,7 @@
         "MICR": "641011107",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13333,7 +13333,7 @@
         "MICR": "638011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13351,7 +13351,7 @@
         "MICR": "641011106",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13621,7 +13621,7 @@
         "MICR": "635011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13729,7 +13729,7 @@
         "MICR": "624011103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13819,7 +13819,7 @@
         "MICR": "600011071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14323,7 +14323,7 @@
         "MICR": "641011016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14341,7 +14341,7 @@
         "MICR": "641011015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14359,7 +14359,7 @@
         "MICR": "627011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14814,7 +14814,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHUBHAM COMPLEX,IST FLOOR,OPP DIST COURT,AKAHWANI ROAD,NAYAPARA,JAGDALPUR,BASTAR,CHATTISGARH,494001",
+        "ADDRESS": "SHUBHAM COMPLEX,IST FLOOR,OPP DIST COURT,AKAHWANI ROAD,NAYAPARA,JAGDALPUR,BASTAR,CHHATTISGARH,494001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "JAGDALPUR",
@@ -14832,7 +14832,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "OPP JYOTHI VIDHYALAYA,ENGLISH MEDIUM SCHOOL,GE ROAD,CHARODA,DURG DIST,CHATTISGARH,493229",
+        "ADDRESS": "OPP JYOTHI VIDHYALAYA,ENGLISH MEDIUM SCHOOL,GE ROAD,CHARODA,DURG DIST,CHHATTISGARH,493229",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "CHARODA",
@@ -14850,7 +14850,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "CITY MEDICALS,INFRONT OF MEHRO GARDEN,GOVT HOSPITAL ROAD,DHAMTARI DIST,CHATTISGARH,493773",
+        "ADDRESS": "CITY MEDICALS,INFRONT OF MEHRO GARDEN,GOVT HOSPITAL ROAD,DHAMTARI DIST,CHHATTISGARH,493773",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "DHAMTARI",
@@ -14868,7 +14868,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAIN ROAD,NH 30,KESHKAL VILLAGE AND TEHSIL,BASTAR DISTRICT,CHATTISGARH 494331",
+        "ADDRESS": "MAIN ROAD,NH 30,KESHKAL VILLAGE AND TEHSIL,BASTAR DISTRICT,CHHATTISGARH 494331",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "KESHKAL",
@@ -14971,7 +14971,7 @@
         "MICR": "600011070",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15007,12 +15007,12 @@
         "MICR": "600011060",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SALEM,CHINNA TIRUPATHI,GROUND FLR,NEW ANNAMALAI NAGAR,1ST CROSS,KANNAN KURICHI MAIN ROAD,SALEM,TAMIL NADU,636008",
+        "ADDRESS": "SALEM,CHINNA TIRUPATHI,GROUND FLR,NEW ANNAMALAI NAGAR,1ST CROSS,KANNAN KURICHI MAIN ROAD,SALEM,TAMILNADU,636008",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "CHINNA TIRUPATHI",
@@ -15025,12 +15025,12 @@
         "MICR": "636011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GOBICHETTIPALAYAM,PUDUPALAYAM,KAMALA RICE MILL STREET,ERODE DIST,TAMIL NADU,638452",
+        "ADDRESS": "GOBICHETTIPALAYAM,PUDUPALAYAM,KAMALA RICE MILL STREET,ERODE DIST,TAMILNADU,638452",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "GOBICHETTIPALAYAM",
@@ -15043,7 +15043,7 @@
         "MICR": "638011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15241,7 +15241,7 @@
         "MICR": "632011103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15259,7 +15259,7 @@
         "MICR": "605011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -15277,7 +15277,7 @@
         "MICR": "635011302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15295,7 +15295,7 @@
         "MICR": "632011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16051,7 +16051,7 @@
         "MICR": "632011302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16159,7 +16159,7 @@
         "MICR": "642011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16195,7 +16195,7 @@
         "MICR": "638011302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16213,7 +16213,7 @@
         "MICR": "641011105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16231,7 +16231,7 @@
         "MICR": "600011068",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16501,7 +16501,7 @@
         "MICR": "610011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16519,7 +16519,7 @@
         "MICR": "641011013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16573,7 +16573,7 @@
         "MICR": "600011067",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16699,7 +16699,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16717,7 +16717,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16843,12 +16843,12 @@
         "MICR": "638011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "P N ROAD TIRUPPUR ROAD NO 17 SAKTHI NAGAR P N ROAD TIRUPPUR 641602 TAMIL NADU",
+        "ADDRESS": "P N ROAD TIRUPPUR ROAD NO 17 SAKTHI NAGAR P N ROAD TIRUPPUR 641602 TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "P N ROAD",
@@ -16861,7 +16861,7 @@
         "MICR": "641011104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17005,7 +17005,7 @@
         "MICR": "605011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17023,12 +17023,12 @@
         "MICR": "600011066",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OPP TO BHARAT PEROLEUM,665,T H TOAD,TIRUVOTTIYUR,CHENNAI,600019,TAMIL NADU",
+        "ADDRESS": "OPP TO BHARAT PEROLEUM,665,T H TOAD,TIRUVOTTIYUR,CHENNAI,600019,TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "TIRUVOTTIYUR",
@@ -17041,7 +17041,7 @@
         "MICR": "600011065",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17779,7 +17779,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17815,7 +17815,7 @@
         "MICR": "600011057",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17833,7 +17833,7 @@
         "MICR": "632011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -18535,7 +18535,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -18607,7 +18607,7 @@
         "MICR": "641011012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -18931,7 +18931,7 @@
         "MICR": "641011011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19201,12 +19201,12 @@
         "MICR": "600011064",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ARUPADAL PALACE,NO.553/A,T,K.M.ROAD,CHENGALPATTU,TAMIL NADU-603001",
+        "ADDRESS": "ARUPADAL PALACE,NO.553/A,T,K.M.ROAD,CHENGALPATTU,TAMILNADU-603001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "CHENGALPATTU",
@@ -19219,7 +19219,7 @@
         "MICR": "600011059",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19476,7 +19476,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "3/535C,BYE PASS ROAD,KOVILPATTI,TAMIL NADU",
+        "ADDRESS": "3/535C,BYE PASS ROAD,KOVILPATTI,TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "INAM MANIYACHI",
@@ -19489,7 +19489,7 @@
         "MICR": "627011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19507,7 +19507,7 @@
         "MICR": "626011302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20430,7 +20430,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO.6/1168,PARAMATHI ROAD,NAMAKKAL,TAMIL NADU-637001",
+        "ADDRESS": "NO.6/1168,PARAMATHI ROAD,NAMAKKAL,TAMILNADU-637001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "NAMAKKAL",
@@ -20443,12 +20443,12 @@
         "MICR": "636011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.27,MAIN ROAD,PALLIPATTU,THIRUVALLUR DT,TAMIL NADU-631207",
+        "ADDRESS": "NO.27,MAIN ROAD,PALLIPATTU,THIRUVALLUR DT,TAMILNADU-631207",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "PALLIPPATTU",
@@ -20461,7 +20461,7 @@
         "MICR": "600011062",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20790,7 +20790,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO.98,RAJENDRA PRASAD ROAD,HASTHINAPURAM,CHROMPET,DIST KANCHEEPURAM,TAMIL NADU-600044",
+        "ADDRESS": "NO.98,RAJENDRA PRASAD ROAD,HASTHINAPURAM,CHROMPET,DIST KANCHEEPURAM,TAMILNADU-600044",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "HASTHINAPURAM",
@@ -20803,7 +20803,7 @@
         "MICR": "600011058",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21145,7 +21145,7 @@
         "MICR": "600011061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21361,7 +21361,7 @@
         "MICR": "600011063",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21397,7 +21397,7 @@
         "MICR": "631011202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22135,7 +22135,7 @@
         "MICR": "600011055",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22261,7 +22261,7 @@
         "MICR": "613011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22351,7 +22351,7 @@
         "MICR": "600011056",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23179,7 +23179,7 @@
         "MICR": "624011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23382,7 +23382,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 65, H.NO. 262,T.N.H.B., ARAKKONAM,VELLORE DT, TAMIL NADU - 631001",
+        "ADDRESS": "NO 65, H.NO. 262,T.N.H.B., ARAKKONAM,VELLORE DT, TAMILNADU - 631001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "ARAKKONAM",
@@ -23395,7 +23395,7 @@
         "MICR": "600011055",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23485,7 +23485,7 @@
         "MICR": "630011203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25051,12 +25051,12 @@
         "MICR": "641011009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "CFNO 610, METTU PALAYAM ROAD, THOPAMPATTI PIRIVU, KURUDAMPALAYAM PANCHAYAT, COIMBATORE, TAMIL NADU 641017",
+        "ADDRESS": "CFNO 610, METTU PALAYAM ROAD, THOPAMPATTI PIRIVU, KURUDAMPALAYAM PANCHAYAT, COIMBATORE, TAMILNADU 641017",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "THOPAMPATTI",
@@ -25069,7 +25069,7 @@
         "MICR": "641011010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25087,7 +25087,7 @@
         "MICR": "620011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25488,7 +25488,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PO BAKHIRA,MEDRAPUR VILLAGE, BAGHAULI BLOCK, KHALILABAD, UTTARPRADESH",
+        "ADDRESS": "PO BAKHIRA,MEDRAPUR VILLAGE, BAGHAULI BLOCK, KHALILABAD, UTTAR PRADESH",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MEDRAPAR",
@@ -25524,7 +25524,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DNO 1/16 K M NAGAR, MOOVALUR, NAGAPATNAM, TAMIL NADU",
+        "ADDRESS": "DNO 1/16 K M NAGAR, MOOVALUR, NAGAPATNAM, TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MOOVALUR",
@@ -25537,7 +25537,7 @@
         "MICR": "609011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25789,7 +25789,7 @@
         "MICR": "635011432",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25969,12 +25969,12 @@
         "MICR": "632011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "496 21 VEMBAKKAM ROAD PONNERI THIRUVALLUR DIST TAMIL NADU",
+        "ADDRESS": "496 21 VEMBAKKAM ROAD PONNERI THIRUVALLUR DIST TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "VEMBAKKAM",
@@ -25987,7 +25987,7 @@
         "MICR": "600011053",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26136,7 +26136,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SAKKOTTAI BR, DOOR NO 1496 C, PLOT NO.22 RAJAMEENA NAGAR, NEEDAMANGALAM MAIN ROAD, SAKKOTAI, KUMAKONAM, THANJAVUR, TAMIL NADU",
+        "ADDRESS": "SAKKOTTAI BR, DOOR NO 1496 C, PLOT NO.22 RAJAMEENA NAGAR, NEEDAMANGALAM MAIN ROAD, SAKKOTAI, KUMAKONAM, THANJAVUR, TAMILNADU",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "SAKKOTTAI",
@@ -26149,7 +26149,7 @@
         "MICR": "612011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26203,7 +26203,7 @@
         "MICR": "600011052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26365,7 +26365,7 @@
         "MICR": "600011050",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26419,7 +26419,7 @@
         "MICR": "600011051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27049,7 +27049,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27265,7 +27265,7 @@
         "MICR": "625011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27283,7 +27283,7 @@
         "MICR": "636011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27301,7 +27301,7 @@
         "MICR": "620011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27396,7 +27396,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VASANT VILAS DON 9/10 SHESH BADA TATYAPARA RAIPUR 492 001 CHATTISGARH",
+        "ADDRESS": "VASANT VILAS DON 9/10 SHESH BADA TATYAPARA RAIPUR 492 001 CHHATTISGARH",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "G E ROAD BR RAIPUR",
@@ -27535,7 +27535,7 @@
         "MICR": "600011048",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27985,7 +27985,7 @@
         "MICR": "600011046",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28021,7 +28021,7 @@
         "MICR": "600011047",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28093,7 +28093,7 @@
         "MICR": "600011054",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29502,7 +29502,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NAYAGANJ, ITWARI BAZAAR, RAIGARH, CHATTISGARH-496001",
+        "ADDRESS": "NAYAGANJ, ITWARI BAZAAR, RAIGARH, CHHATTISGARH-496001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "RAIGARH",
@@ -30019,12 +30019,12 @@
         "MICR": "600011045",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SPL NRI BRANCH 168, LINGI CHETTI STREET, CHENNAI, TAMIL NADU-600001",
+        "ADDRESS": "SPL NRI BRANCH 168, LINGI CHETTI STREET, CHENNAI, TAMILNADU-600001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "SPL NRI BRANCH -  CHENNAI",
@@ -30037,7 +30037,7 @@
         "MICR": "600011043",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -30150,7 +30150,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "30 1ST MAIN ROAD,ADYAR, GANDHI NAGAR,CHENNAI, CHENNAI, TAMIL NADU-600020",
+        "ADDRESS": "30 1ST MAIN ROAD,ADYAR, GANDHI NAGAR,CHENNAI, CHENNAI, TAMILNADU-600020",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "RETAIL CREDIT BRANCH - CHENNAI",
@@ -30163,7 +30163,7 @@
         "MICR": "600011044",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -30402,7 +30402,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAIN ROAD, FIRST FLOOR, FRESH & FISH SUPER MAR, CHENNAI, TAMIL NADU-600073",
+        "ADDRESS": "MAIN ROAD, FIRST FLOOR, FRESH & FISH SUPER MAR, CHENNAI, TAMILNADU-600073",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MADAMBAKKAM",
@@ -30415,12 +30415,12 @@
         "MICR": "600011041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO-3&4 PAPER MILLS RD, PERAMBUR KOLATHUR, CHENNAI, TAMIL NADU-600099",
+        "ADDRESS": "NO-3&4 PAPER MILLS RD, PERAMBUR KOLATHUR, CHENNAI, TAMILNADU-600099",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "PERAMBUR",
@@ -30433,7 +30433,7 @@
         "MICR": "600011040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -30474,7 +30474,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO32 1ST MAIN ROAD, THIRUMALAINAGAR ANNEX, CHENNAI, TAMIL NADU-600096",
+        "ADDRESS": "NO32 1ST MAIN ROAD, THIRUMALAINAGAR ANNEX, CHENNAI, TAMILNADU-600096",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "PERUNGUDI",
@@ -30487,7 +30487,7 @@
         "MICR": "600011039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -30991,7 +30991,7 @@
         "MICR": "533011537",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -31891,12 +31891,12 @@
         "MICR": "632011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "31 VGP SALAI HOSPITAL, ROAD SAIDAPET WEST, CHENNAI, TAMIL NADU-600015",
+        "ADDRESS": "31 VGP SALAI HOSPITAL, ROAD SAIDAPET WEST, CHENNAI, TAMILNADU-600015",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "JAFFERKHANPET BRANCH",
@@ -31909,7 +31909,7 @@
         "MICR": "600011042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -31927,12 +31927,12 @@
         "MICR": "641011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "INNACIARPURAM,TUTICORI, TUTICORIN DISTRICT, TUTICORIN, TAMIL NADU-628001",
+        "ADDRESS": "INNACIARPURAM,TUTICORI, TUTICORIN DISTRICT, TUTICORIN, TAMILNADU-628001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MUTHUNAGAR",
@@ -31945,7 +31945,7 @@
         "MICR": "627011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -31981,7 +31981,7 @@
         "MICR": "600011049",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -32418,7 +32418,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "KRISHNA NAGAR,MUDICHOR, ROAD,TAMBARAM WEST, CHENNAI, TAMIL NADU-600045",
+        "ADDRESS": "KRISHNA NAGAR,MUDICHOR, ROAD,TAMBARAM WEST, CHENNAI, TAMILNADU-600045",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "TAMBARAM",
@@ -32431,12 +32431,12 @@
         "MICR": "600011038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KALIAMMAN STREET, VIRUGAMBAKKAM, CHENNAI, TAMIL NADU-",
+        "ADDRESS": "KALIAMMAN STREET, VIRUGAMBAKKAM, CHENNAI, TAMILNADU-",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "VIRUGAMBAKKAM",
@@ -32449,12 +32449,12 @@
         "MICR": "600011037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KAMARAJAR ROAD, ILAYANGUDI SIVAGANGA D, ILAYANGUDI, TAMIL NADU-630702",
+        "ADDRESS": "KAMARAJAR ROAD, ILAYANGUDI SIVAGANGA D, ILAYANGUDI, TAMILNADU-630702",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "ILAYANGUDI",
@@ -32467,7 +32467,7 @@
         "MICR": "630011202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -33858,7 +33858,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO.13 & 14, MEDAVAKKAM, HIGH ROAD, SHOLINGANALLUR CHECK POST, SHOLINGANALLUR,KANCHIPURAM, TAMIL NADU CHENNAI-600119",
+        "ADDRESS": "PLOT NO.13 & 14, MEDAVAKKAM, HIGH ROAD, SHOLINGANALLUR CHECK POST, SHOLINGANALLUR,KANCHIPURAM, TAMILNADU CHENNAI-600119",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "SHOLINGANALLUR",
@@ -33871,7 +33871,7 @@
         "MICR": "600011035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -34465,7 +34465,7 @@
         "MICR": "630011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -34488,7 +34488,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "POONAMALLEE HIGH ROAD, TIRUVALLUR, TIRUVUR, TAMIL NADU-602001",
+        "ADDRESS": "POONAMALLEE HIGH ROAD, TIRUVALLUR, TIRUVUR, TAMILNADU-602001",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MANAVALNAGAR",
@@ -34501,7 +34501,7 @@
         "MICR": "600011036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -34776,7 +34776,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ALAPAKKAM MAIN ROAD, MADURAVOYAL CHENNAI, CHENNAI, TAMIL NADU-600095",
+        "ADDRESS": "ALAPAKKAM MAIN ROAD, MADURAVOYAL CHENNAI, CHENNAI, TAMILNADU-600095",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MADHURAVOYAL",
@@ -34789,7 +34789,7 @@
         "MICR": "600011033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -34902,7 +34902,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 321,KARUNANIDI, SALAI, SRI KAPALISWARA, CHENNAI, TAMIL NADU-600041",
+        "ADDRESS": "NO 321,KARUNANIDI, SALAI, SRI KAPALISWARA, CHENNAI, TAMILNADU-600041",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "NEELANGARAI",
@@ -34915,7 +34915,7 @@
         "MICR": "600011032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -34974,7 +34974,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "93, NORTH REDHILLS ROA, VILLIVAKKAM, CHENNAI, TAMIL NADU-600049",
+        "ADDRESS": "93, NORTH REDHILLS ROA, VILLIVAKKAM, CHENNAI, TAMILNADU-600049",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "VILLIVAKKAM",
@@ -34987,7 +34987,7 @@
         "MICR": "600011034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35010,7 +35010,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "12-C, E.B. OFFICE ROAD, MOGAPPAIR EAST,CHENNAI, CHENNAI, TAMIL NADU-600037",
+        "ADDRESS": "12-C, E.B. OFFICE ROAD, MOGAPPAIR EAST,CHENNAI, CHENNAI, TAMILNADU-600037",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "MOGAPPAIR",
@@ -35023,7 +35023,7 @@
         "MICR": "600011031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35316,7 +35316,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "LINK ROAD, OPPOSITE DEEP HOTEL, BILASPUR, CHATTISGARH",
+        "ADDRESS": "LINK ROAD, OPPOSITE DEEP HOTEL, BILASPUR, CHHATTISGARH",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "BILASPUR",
@@ -35725,7 +35725,7 @@
         "MICR": "638011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35743,7 +35743,7 @@
         "MICR": "600011030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35779,7 +35779,7 @@
         "MICR": "600011029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35797,7 +35797,7 @@
         "MICR": "600011028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35887,7 +35887,7 @@
         "MICR": "609011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -36103,7 +36103,7 @@
         "MICR": "629011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36499,7 +36499,7 @@
         "MICR": "600011026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36553,7 +36553,7 @@
         "MICR": "600011027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36859,7 +36859,7 @@
         "MICR": "641011007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37039,7 +37039,7 @@
         "MICR": "600011025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37075,7 +37075,7 @@
         "MICR": "625011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37093,7 +37093,7 @@
         "MICR": "600011024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37237,7 +37237,7 @@
         "MICR": "627011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37345,7 +37345,7 @@
         "MICR": "643011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37399,7 +37399,7 @@
         "MICR": "500011079",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37458,7 +37458,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "TIRUPUR TEXTILE MILL COMPANY, AVINASHI ROAD, PEELAMEDU, COIMBATORE, TAMIL NADU-641004",
+        "ADDRESS": "TIRUPUR TEXTILE MILL COMPANY, AVINASHI ROAD, PEELAMEDU, COIMBATORE, TAMILNADU-641004",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "SPECIAL HOUSING FINANACE",
@@ -37471,7 +37471,7 @@
         "MICR": "641011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37507,7 +37507,7 @@
         "MICR": "600011022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38299,7 +38299,7 @@
         "MICR": "600011023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38749,7 +38749,7 @@
         "MICR": "600011020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39145,7 +39145,7 @@
         "MICR": "600011019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39163,7 +39163,7 @@
         "MICR": "641011103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39847,7 +39847,7 @@
         "MICR": "641011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40189,7 +40189,7 @@
         "MICR": "600011018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40207,7 +40207,7 @@
         "MICR": "605011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -42007,7 +42007,7 @@
         "MICR": "600011001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -42799,7 +42799,7 @@
         "MICR": "600011007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -43087,7 +43087,7 @@
         "MICR": "636011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -43447,7 +43447,7 @@
         "MICR": "600011006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -43933,7 +43933,7 @@
         "MICR": "600011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -45301,7 +45301,7 @@
         "MICR": "600011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -45553,7 +45553,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46219,7 +46219,7 @@
         "MICR": "600011016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46471,7 +46471,7 @@
         "MICR": "600011017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47407,7 +47407,7 @@
         "MICR": "627011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47479,7 +47479,7 @@
         "MICR": "600011013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47551,7 +47551,7 @@
         "MICR": "641011102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47605,7 +47605,7 @@
         "MICR": "600011012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47839,7 +47839,7 @@
         "MICR": "600011009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -48415,7 +48415,7 @@
         "MICR": "600011011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -48523,7 +48523,7 @@
         "MICR": "600011010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -48631,7 +48631,7 @@
         "MICR": "636011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -48744,7 +48744,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "FAFADI CHOWK, OPP.GANJ POLICE STATION, RAIPUR,CHATTISGARH 492 009",
+        "ADDRESS": "FAFADI CHOWK, OPP.GANJ POLICE STATION, RAIPUR,CHHATTISGARH 492 009",
         "BANK": "Andhra Bank",
         "BANKCODE": "ANDB",
         "BRANCH": "RAIPUR",
@@ -48883,7 +48883,7 @@
         "MICR": "641011003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -51079,7 +51079,7 @@
         "MICR": "600011008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -51277,7 +51277,7 @@
         "MICR": "625011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -51295,7 +51295,7 @@
         "MICR": "600011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -52249,7 +52249,7 @@
         "MICR": "625011005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -52933,7 +52933,7 @@
         "MICR": "600011015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -53437,7 +53437,7 @@
         "MICR": "600011014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -53851,7 +53851,7 @@
         "MICR": "605011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -53869,7 +53869,7 @@
         "MICR": "620011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -55129,7 +55129,7 @@
         "MICR": "638011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -55903,7 +55903,7 @@
         "MICR": "641011002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -57001,7 +57001,7 @@
         "MICR": "600011004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },

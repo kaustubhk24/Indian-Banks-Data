@@ -607,7 +607,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -625,7 +625,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1183,7 +1183,7 @@
         "MICR": "625059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1512,7 +1512,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO22, WARD NO9, M DEIVAKIAMMAL BUILDING, ECR MAIN ROAD, VELANKANNI PO, NAGAPATTINAM, TAMIL NADU-611111",
+        "ADDRESS": "DONO22, WARD NO9, M DEIVAKIAMMAL BUILDING, ECR MAIN ROAD, VELANKANNI PO, NAGAPATTINAM, TAMILNADU-611111",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "VELANKANNI",
@@ -1525,7 +1525,7 @@
         "MICR": "611059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1543,7 +1543,7 @@
         "MICR": "600059042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1566,7 +1566,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO352, WARD NO1, KPS COMPLEX, THIRUVATHUR, PAVUNJUR PO, KANCHEEPURAM DISTRICT, TAMIL NADU-603312",
+        "ADDRESS": "DONO352, WARD NO1, KPS COMPLEX, THIRUVATHUR, PAVUNJUR PO, KANCHEEPURAM DISTRICT, TAMILNADU-603312",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "THIRUVATHUR",
@@ -1579,7 +1579,7 @@
         "MICR": "600059041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1777,7 +1777,7 @@
         "MICR": "636059008",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1818,7 +1818,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MONEY ARCADE, G D GOYANKA SCHOOL CANAL ROAD, VESU BHARATHANA, VESU, SURAT, GUJARAT 395007",
+        "ADDRESS": "MONEY ARCADE, G D GOYANKA SCHOOL CANAL ROAD, VESU BHARATHANA, VESU, SURAT, GUJRAT 395007",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "VESU SURAT",
@@ -1831,7 +1831,7 @@
         "MICR": "395059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1903,7 +1903,7 @@
         "MICR": "600059040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1921,7 +1921,7 @@
         "MICR": "605059006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -1998,7 +1998,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "6,18, A BLOCK, ST MARYS COLLEGE (AUTONOMOUS), 104 NORTH BEACH ROAD, TUTICORIN, TAMIL NADU 628001",
+        "ADDRESS": "6,18, A BLOCK, ST MARYS COLLEGE (AUTONOMOUS), 104 NORTH BEACH ROAD, TUTICORIN, TAMILNADU 628001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ST MARYS COLLEGE EC TUTICORIN",
@@ -2011,7 +2011,7 @@
         "MICR": "627059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2101,7 +2101,7 @@
         "MICR": "600059039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2173,7 +2173,7 @@
         "MICR": "641059025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2191,7 +2191,7 @@
         "MICR": "636059103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2227,7 +2227,7 @@
         "MICR": "641059106",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2533,7 +2533,7 @@
         "MICR": "380059011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2551,7 +2551,7 @@
         "MICR": "627059005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2569,7 +2569,7 @@
         "MICR": "380059010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2736,7 +2736,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO33 TO 36, GROUND FLOOR, RADHE CRYSTAL, B-H SWAGAT RAINFOREST II, KUDASAN PO, GANDHINAGAR, GUJARAT-382421",
+        "ADDRESS": "SHOP NO33 TO 36, GROUND FLOOR, RADHE CRYSTAL, B-H SWAGAT RAINFOREST II, KUDASAN PO, GANDHINAGAR, GUJRAT-382421",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KUDASAN",
@@ -2749,7 +2749,7 @@
         "MICR": "380059009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2767,7 +2767,7 @@
         "MICR": "380059008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3001,7 +3001,7 @@
         "MICR": "380059007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3199,7 +3199,7 @@
         "MICR": "621059302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3217,7 +3217,7 @@
         "MICR": "614059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3235,7 +3235,7 @@
         "MICR": "623059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3253,7 +3253,7 @@
         "MICR": "630059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3271,7 +3271,7 @@
         "MICR": "609059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3289,12 +3289,12 @@
         "MICR": "614059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR, VANDEMATHARAM ARCADE, GOTA, AHMEDABAD, GUJARAT-382481",
+        "ADDRESS": "FIRST FLOOR, VANDEMATHARAM ARCADE, GOTA, AHMEDABAD, GUJRAT-382481",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "GOTA",
@@ -3307,7 +3307,7 @@
         "MICR": "380059006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3325,7 +3325,7 @@
         "MICR": "629059005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3577,7 +3577,7 @@
         "MICR": "380059005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3667,7 +3667,7 @@
         "MICR": "641059024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3973,7 +3973,7 @@
         "MICR": "643059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3991,7 +3991,7 @@
         "MICR": "643059203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4009,7 +4009,7 @@
         "MICR": "641059023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4027,7 +4027,7 @@
         "MICR": "636059007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4045,7 +4045,7 @@
         "MICR": "380059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4243,7 +4243,7 @@
         "MICR": "641059022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4261,7 +4261,7 @@
         "MICR": "625059008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4279,7 +4279,7 @@
         "MICR": "630059202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4320,7 +4320,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO12-686A, WARD NO3, SANGU NAGAR, VADAKKANKULAM PO, TIRUNELVELI, TAMIL NADU-627116",
+        "ADDRESS": "DONO12-686A, WARD NO3, SANGU NAGAR, VADAKKANKULAM PO, TIRUNELVELI, TAMILNADU-627116",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "VADAKKANKULAM",
@@ -4333,7 +4333,7 @@
         "MICR": "627059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4369,7 +4369,7 @@
         "MICR": "380059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4482,7 +4482,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO129-1A-1B, KACHERI ROAD MADURAI ROAD, VIRUDHUNAGAR, TAMIL NADU-626001",
+        "ADDRESS": "DONO129-1A-1B, KACHERI ROAD MADURAI ROAD, VIRUDHUNAGAR, TAMILNADU-626001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "VIRUDHUNAGAR",
@@ -4495,7 +4495,7 @@
         "MICR": "626059302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4603,7 +4603,7 @@
         "MICR": "388059001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4621,12 +4621,12 @@
         "MICR": "361059001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "B A BHAGAT COMPLEX, OPP. DENA BANK, LAL TEKRY, BHUJ-370001,KUTCH,GUJARAT",
+        "ADDRESS": "B A BHAGAT COMPLEX, OPP. DENA BANK, LAL TEKRY, BHUJ-370001,KUTCH,GUJRAT",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "BHUJ",
@@ -4639,7 +4639,7 @@
         "MICR": "370059051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4657,7 +4657,7 @@
         "MICR": "625059103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4675,7 +4675,7 @@
         "MICR": "626059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4693,7 +4693,7 @@
         "MICR": "626059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5089,7 +5089,7 @@
         "MICR": "600059035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5125,7 +5125,7 @@
         "MICR": "600059036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5143,12 +5143,12 @@
         "MICR": "600059037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DONO3-81, SHANKAR COMPLEX, VETTUVANKENI, EAST COAST ROAD, CHENNAI, KANCHEEPURAM, TAMIL NADU-600115",
+        "ADDRESS": "DONO3-81, SHANKAR COMPLEX, VETTUVANKENI, EAST COAST ROAD, CHENNAI, KANCHEEPURAM, TAMILNADU-600115",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "NEELANKARAI",
@@ -5161,7 +5161,7 @@
         "MICR": "600059038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5503,7 +5503,7 @@
         "MICR": "641059021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5521,7 +5521,7 @@
         "MICR": "641059105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5634,7 +5634,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "59/107, 4TH AVENUE, ASHOK NAGAR CHENNAI TAMIL NADU - 600 083",
+        "ADDRESS": "59/107, 4TH AVENUE, ASHOK NAGAR CHENNAI TAMILNADU - 600 083",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-ASHOK NAGAR",
@@ -5647,7 +5647,7 @@
         "MICR": "600059027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5706,7 +5706,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, SNS HOUSE, OOP. SILICON SHOPPER COMPLEX, UDHNA TEEN RASTA, UDHNA SURAT GUJARAT-394 210",
+        "ADDRESS": "GROUND FLOOR, SNS HOUSE, OOP. SILICON SHOPPER COMPLEX, UDHNA TEEN RASTA, UDHNA SURAT GUJRAT-394 210",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "SURAT UDHNA",
@@ -5719,7 +5719,7 @@
         "MICR": "395059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6025,7 +6025,7 @@
         "MICR": "370059001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6061,12 +6061,12 @@
         "MICR": "600059028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "#2-6-299,GROUND FLOOR, A K ESTATES, OPP.AXIS BANK, NEAR MANAIR HOTEL, MUKARAMPURA,KARIMNAGAR DISTRICT, ANDHRAPRADESH-505 001",
+        "ADDRESS": "#2-6-299,GROUND FLOOR, A K ESTATES, OPP.AXIS BANK, NEAR MANAIR HOTEL, MUKARAMPURA,KARIMNAGAR DISTRICT, ANDHRA PRADESH-505 001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KARIMNAGAR",
@@ -6120,7 +6120,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "HIG 19, 80 FEET ROAD, ANNANAGAR PO, MADURAI, TAMIL NADU \u2013 625020",
+        "ADDRESS": "HIG 19, 80 FEET ROAD, ANNANAGAR PO, MADURAI, TAMILNADU \u2013 625020",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "MADURAI- ANNA NAGAR",
@@ -6133,7 +6133,7 @@
         "MICR": "625059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6552,7 +6552,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO21, DHARMAPURI MAIN ROAD OMALUR, SALEM, TAMIL NADU-636455",
+        "ADDRESS": "DONO21, DHARMAPURI MAIN ROAD OMALUR, SALEM, TAMILNADU-636455",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "OMALUR",
@@ -6565,7 +6565,7 @@
         "MICR": "636059502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6583,7 +6583,7 @@
         "MICR": "636059501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6601,7 +6601,7 @@
         "MICR": "600059026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6907,7 +6907,7 @@
         "MICR": "622059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7105,7 +7105,7 @@
         "MICR": "635059402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7177,7 +7177,7 @@
         "MICR": "600059025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7195,7 +7195,7 @@
         "MICR": "629059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7213,7 +7213,7 @@
         "MICR": "641059015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7231,7 +7231,7 @@
         "MICR": "600059024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7663,7 +7663,7 @@
         "MICR": "600059023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8077,7 +8077,7 @@
         "MICR": "600059022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8149,7 +8149,7 @@
         "MICR": "605059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8167,7 +8167,7 @@
         "MICR": "636059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8185,7 +8185,7 @@
         "MICR": "600059020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8203,7 +8203,7 @@
         "MICR": "600059019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8455,7 +8455,7 @@
         "MICR": "600059017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8550,7 +8550,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "CHRISTIAN MATRICULATION HS BLDG DINDIGUL-PALANI MAIN ROAD, ODDANCHATRAM, DINDIGUL, TAMIL NADU-624619",
+        "ADDRESS": "CHRISTIAN MATRICULATION HS BLDG DINDIGUL-PALANI MAIN ROAD, ODDANCHATRAM, DINDIGUL, TAMILNADU-624619",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ODDANCHATHRAM",
@@ -8563,7 +8563,7 @@
         "MICR": "624059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8712,7 +8712,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MARTHANDAM,KANYAKUMARI,TAMIL NADU",
+        "ADDRESS": "MARTHANDAM,KANYAKUMARI,TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "MARTHANDAM",
@@ -8725,7 +8725,7 @@
         "MICR": "629059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8802,7 +8802,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ST JOSEPHS SHP CPLX, AA RD,GNANAVOLIVAPURAM MADURAI TAMIL NADU 625016",
+        "ADDRESS": "ST JOSEPHS SHP CPLX, AA RD,GNANAVOLIVAPURAM MADURAI TAMILNADU 625016",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "GNANAVOLIVAPURAM",
@@ -8815,7 +8815,7 @@
         "MICR": "625059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8946,7 +8946,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "G-4A, SOLITAIRE BUILDING, AMIN MARG JUNCTION 150 FT RING ROAD, RAJKOT, GUJARAT \u2013 360005",
+        "ADDRESS": "G-4A, SOLITAIRE BUILDING, AMIN MARG JUNCTION 150 FT RING ROAD, RAJKOT, GUJRAT \u2013 360005",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "RAJKOT",
@@ -8959,7 +8959,7 @@
         "MICR": "360059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9090,7 +9090,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PSG MILLS PREMISES, PERUNDURAI,ERODE PERIYAR TAMIL NADU 638052",
+        "ADDRESS": "PSG MILLS PREMISES, PERUNDURAI,ERODE PERIYAR TAMILNADU 638052",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "PERUNDURAI",
@@ -9103,12 +9103,12 @@
         "MICR": "638059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KANCHEEPURAM HIGH ROAD,CHENGALPATTU,KANCHEEPURAM,TAMIL NADU,603002",
+        "ADDRESS": "KANCHEEPURAM HIGH ROAD,CHENGALPATTU,KANCHEEPURAM,TAMILNADU,603002",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENGALPATTU",
@@ -9121,7 +9121,7 @@
         "MICR": "600059018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9414,7 +9414,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "111,BB STREET COIMBATORE - 641 001 COIMBATORE TAMIL NADU",
+        "ADDRESS": "111,BB STREET COIMBATORE - 641 001 COIMBATORE TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "COIMBATORE-BIG BAZAAR STREET",
@@ -9427,7 +9427,7 @@
         "MICR": "641059012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10008,7 +10008,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "70,IBAYAM COMPLEX,,TRUNK RD,KARAYANCHAVAD,CHENNAI,TAMIL NADU,600056",
+        "ADDRESS": "70,IBAYAM COMPLEX,,TRUNK RD,KARAYANCHAVAD,CHENNAI,TAMILNADU,600056",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-POONAMALLEE",
@@ -10021,7 +10021,7 @@
         "MICR": "600059014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10332,7 +10332,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 1 1ST FLOO,PAVALAM BLOCK, ST PAULS SMRYCO TIRUCHIRAPALLI TAMIL NADU",
+        "ADDRESS": "NO 1 1ST FLOO,PAVALAM BLOCK, ST PAULS SMRYCO TIRUCHIRAPALLI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "TRICHY CANTONMENT",
@@ -10345,7 +10345,7 @@
         "MICR": "620059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10386,7 +10386,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "TRICHY ROAD SUNGAM, COIMBATORE COIMBATORE TAMIL NADU",
+        "ADDRESS": "TRICHY ROAD SUNGAM, COIMBATORE COIMBATORE TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "COIMBATORE-TRICHY ROAD",
@@ -10399,7 +10399,7 @@
         "MICR": "641059010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10656,7 +10656,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "CMS MATRICULATION HSS SATHY ROAD,GANAPATHY COIMBATORE TAMIL NADU",
+        "ADDRESS": "CMS MATRICULATION HSS SATHY ROAD,GANAPATHY COIMBATORE TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "COIMBATORE-GANAPATHY",
@@ -10669,7 +10669,7 @@
         "MICR": "641059009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10854,7 +10854,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "KENCEEY'S TOWERS,NO.1 R.K ROAD,N,U ROAD,T.NA CHENNAI TAMIL NADU",
+        "ADDRESS": "KENCEEY'S TOWERS,NO.1 R.K ROAD,N,U ROAD,T.NA CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-T.NAGAR",
@@ -10867,7 +10867,7 @@
         "MICR": "600059013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10962,7 +10962,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MK COMPLEX(I FLR), 4-A VENKITAKRISHNA RD COIMBATORE TAMIL NADU 642146",
+        "ADDRESS": "MK COMPLEX(I FLR), 4-A VENKITAKRISHNA RD COIMBATORE TAMILNADU 642146",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "UDUMALPET",
@@ -10975,7 +10975,7 @@
         "MICR": "642059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11142,7 +11142,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "OVERSEAS BRANCH ,K M A 1 A, EASWARAN KOIL ST. COIMBATORE TAMIL NADU",
+        "ADDRESS": "OVERSEAS BRANCH ,K M A 1 A, EASWARAN KOIL ST. COIMBATORE TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "THIRUPUR",
@@ -11155,7 +11155,7 @@
         "MICR": "641059103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11340,7 +11340,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SENGUNTHAPURAM,I CROSS RD,NR AJANTHA THEATRE TIRUCHIRAPALLI TAMIL NADU",
+        "ADDRESS": "SENGUNTHAPURAM,I CROSS RD,NR AJANTHA THEATRE TIRUCHIRAPALLI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KARUR",
@@ -11353,7 +11353,7 @@
         "MICR": "639059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11484,7 +11484,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PB NO: 2568, I FLOOR, ORIENT BUSINESS VADODARA GUJARAT",
+        "ADDRESS": "PB NO: 2568, I FLOOR, ORIENT BUSINESS VADODARA GUJRAT",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "VADODARA (BARODA)",
@@ -11497,7 +11497,7 @@
         "MICR": "390059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -11592,7 +11592,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "110, RAHEJA TOWERS MOUNT ROAD, CHENNAI CHENNAI TAMIL NADU",
+        "ADDRESS": "110, RAHEJA TOWERS MOUNT ROAD, CHENNAI CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-MOUNT ROAD (IF)",
@@ -11605,7 +11605,7 @@
         "MICR": "600059010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11641,7 +11641,7 @@
         "MICR": "641059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11700,7 +11700,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GURUKRIPA HOUSE, 21ST CENTURY BUSINESS CENTRE, RING ROAD, NEAR UDHNA DARWAJA, RUSTAMPURA SURAT, GUJARAT-395002",
+        "ADDRESS": "GURUKRIPA HOUSE, 21ST CENTURY BUSINESS CENTRE, RING ROAD, NEAR UDHNA DARWAJA, RUSTAMPURA SURAT, GUJRAT-395002",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "SURAT",
@@ -11713,12 +11713,12 @@
         "MICR": "395059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "2ND FLOOR 37 MOUNT ROAD CHENNAI TAMIL NADU",
+        "ADDRESS": "2ND FLOOR 37 MOUNT ROAD CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-MOUNT ROAD (SERVICE)",
@@ -11731,12 +11731,12 @@
         "MICR": "600059001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "2/285G,CHINNATHOTTIPAL AYAM,BELLADI COIMBATORE TAMIL NADU 641104",
+        "ADDRESS": "2/285G,CHINNATHOTTIPAL AYAM,BELLADI COIMBATORE TAMILNADU 641104",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "BELLADI",
@@ -11749,7 +11749,7 @@
         "MICR": "641059014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11772,7 +11772,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SREE LAKSHMI COMPLEX 4/33 OMALLUR MAIN RD SALEM TAMIL NADU",
+        "ADDRESS": "SREE LAKSHMI COMPLEX 4/33 OMALLUR MAIN RD SALEM TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "SALEM-LEIGH BAZAR",
@@ -11785,12 +11785,12 @@
         "MICR": "636059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SURVEY NO 407-2A, WARD NOII, MAIN ROAD, T SUBBULAPURAM PO, THENI DISTRICT, TAMIL NADU-625536",
+        "ADDRESS": "SURVEY NO 407-2A, WARD NOII, MAIN ROAD, T SUBBULAPURAM PO, THENI DISTRICT, TAMILNADU-625536",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "T. SUBBULAPURAM",
@@ -11803,12 +11803,12 @@
         "MICR": "625059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "7/41-2,POST OFFICE RD ANANDAVADI PERAMBALUR TAMIL NADU 621718",
+        "ADDRESS": "7/41-2,POST OFFICE RD ANANDAVADI PERAMBALUR TAMILNADU 621718",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ANANDAVADI",
@@ -11821,7 +11821,7 @@
         "MICR": "621059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11862,7 +11862,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "6/70,AVANASHI TALUK POGALUR COIMBATORE TAMIL NADU 638697",
+        "ADDRESS": "6/70,AVANASHI TALUK POGALUR COIMBATORE TAMILNADU 638697",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "POGALUR",
@@ -11875,12 +11875,12 @@
         "MICR": "641059013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DONO116, MAIN ROAD, JAVADUPATTY DINDIGUL, TAMIL NADU-624704",
+        "ADDRESS": "DONO116, MAIN ROAD, JAVADUPATTY DINDIGUL, TAMILNADU-624704",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "JAVADUPATTY",
@@ -11893,12 +11893,12 @@
         "MICR": "624059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "155,GANDHI NAGAR,PALLAPALAYAM,ONDIPUDUR,COIMBATORE,TAMIL NADU,641016",
+        "ADDRESS": "155,GANDHI NAGAR,PALLAPALAYAM,ONDIPUDUR,COIMBATORE,TAMILNADU,641016",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "PALLAPALAYAM",
@@ -11911,12 +11911,12 @@
         "MICR": "641059006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DONO13-329, WARD NO13, SIPCOT-KAMPLIAMPATTI ROAD, INGUR WEST, INGUR PO, ERODE DISTRICT, TAMIL NADU-638052",
+        "ADDRESS": "DONO13-329, WARD NO13, SIPCOT-KAMPLIAMPATTI ROAD, INGUR WEST, INGUR PO, ERODE DISTRICT, TAMILNADU-638052",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "INGUR",
@@ -11929,12 +11929,12 @@
         "MICR": "638059005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "WARD NO1, NKNCOMPLEX, UTHIRAMERUR MAIN ROAD, NELVOY PO, KANCHEEPURAM, TAMIL NADU-603107",
+        "ADDRESS": "WARD NO1, NKNCOMPLEX, UTHIRAMERUR MAIN ROAD, NELVOY PO, KANCHEEPURAM, TAMILNADU-603107",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "NELVOY",
@@ -11947,12 +11947,12 @@
         "MICR": "600059505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 190-110, WARD NO10, GANDHI ROAD, SRIPERUMBUDUR, KANCHEEPURAM, TAMIL NADU-602105",
+        "ADDRESS": "NO 190-110, WARD NO10, GANDHI ROAD, SRIPERUMBUDUR, KANCHEEPURAM, TAMILNADU-602105",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "SRIPERUMBUDUR",
@@ -11965,12 +11965,12 @@
         "MICR": "600059016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "CHURCH BUILDINGS,1/131 MAIN ROAD,DHEEVANUR VILLUPURAM-RAMASAMY TAMIL NADU 604206",
+        "ADDRESS": "CHURCH BUILDINGS,1/131 MAIN ROAD,DHEEVANUR VILLUPURAM-RAMASAMY TAMILNADU 604206",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "DHEEVANUR",
@@ -11983,7 +11983,7 @@
         "MICR": "604059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12037,12 +12037,12 @@
         "MICR": "638059011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEW BUILDING, MANI IYER, GST ROAD, PADUR PO, VILLUPURAM DISTRICT, TAMIL NADU -606115",
+        "ADDRESS": "NEW BUILDING, MANI IYER, GST ROAD, PADUR PO, VILLUPURAM DISTRICT, TAMILNADU -606115",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "PADUR",
@@ -12055,12 +12055,12 @@
         "MICR": "606059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AB-3, PLOT NO 4896,  , ANNA NAGAR CHENNAI TAMIL NADU",
+        "ADDRESS": "AB-3, PLOT NO 4896,  , ANNA NAGAR CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-ANNA NAGAR",
@@ -12073,7 +12073,7 @@
         "MICR": "600059009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12096,7 +12096,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO : 2 CAR STREET,TIRUPPAPULIYUR,CUDDALORE,TAMIL NADU,607002",
+        "ADDRESS": "NO : 2 CAR STREET,TIRUPPAPULIYUR,CUDDALORE,TAMILNADU,607002",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CUDDALORE",
@@ -12109,7 +12109,7 @@
         "MICR": "607059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12150,7 +12150,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P.B.NO: 2703,   159, SAI BABA COLONY COIMBATORE TAMIL NADU",
+        "ADDRESS": "P.B.NO: 2703,   159, SAI BABA COLONY COIMBATORE TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "COIMBATORE-SAI BABA CLNY",
@@ -12163,7 +12163,7 @@
         "MICR": "641059005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12186,7 +12186,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "4/36,A-3,MAIN ROAD KARUR (DIST) TIRUCHIRAPALLI TAMIL NADU 621301",
+        "ADDRESS": "4/36,A-3,MAIN ROAD KARUR (DIST) TIRUCHIRAPALLI TAMILNADU 621301",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KANIYALAMPATTI",
@@ -12199,7 +12199,7 @@
         "MICR": "639059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12276,7 +12276,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "4-3/54-B,AMMANKOIL ST, ENNAMANGALAM,ERODE PERIYAR TAMIL NADU 638501",
+        "ADDRESS": "4-3/54-B,AMMANKOIL ST, ENNAMANGALAM,ERODE PERIYAR TAMILNADU 638501",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ENNAMANGALAM",
@@ -12289,7 +12289,7 @@
         "MICR": "638059008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12492,7 +12492,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ST GEORGE CHURCH BLDG, UPATTI BAZAR,UPPATTI NILGIRI TAMIL NADU 643241",
+        "ADDRESS": "ST GEORGE CHURCH BLDG, UPATTI BAZAR,UPPATTI NILGIRI TAMILNADU 643241",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "UPPATTI",
@@ -12505,12 +12505,12 @@
         "MICR": "643059202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KVR BUILDING,MARAPPARA P.O VAILPPAMALAI,NAMAK SALEM TAMIL NADU 637410",
+        "ADDRESS": "KVR BUILDING,MARAPPARA P.O VAILPPAMALAI,NAMAK SALEM TAMILNADU 637410",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "MARAPPARAI",
@@ -12523,12 +12523,12 @@
         "MICR": "637059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DONO2G-2, WARD NO5, RMKG BUILDING, MADURAI ROAD, TIRUNELVELI JUNCTION PO, TIRUNELVELI, TAMIL NADU-627001",
+        "ADDRESS": "DONO2G-2, WARD NO5, RMKG BUILDING, MADURAI ROAD, TIRUNELVELI JUNCTION PO, TIRUNELVELI, TAMILNADU-627001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "TIRUNELVELI",
@@ -12541,12 +12541,12 @@
         "MICR": "627059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "40-43,SARANGAPANI ST,KUMBAKONAM,THANJAVUR,TAMIL NADU,612001",
+        "ADDRESS": "40-43,SARANGAPANI ST,KUMBAKONAM,THANJAVUR,TAMILNADU,612001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KUMBAKONAM",
@@ -12559,7 +12559,7 @@
         "MICR": "612059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12690,7 +12690,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PM COMPLEX, 1ST FLOOR, 1-120, BUS STAND, PASUMATHUR VIA GUDIYATTAM, VELLORE, TAMIL NADU-635803",
+        "ADDRESS": "PM COMPLEX, 1ST FLOOR, 1-120, BUS STAND, PASUMATHUR VIA GUDIYATTAM, VELLORE, TAMILNADU-635803",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "PASUMATHUR",
@@ -12703,7 +12703,7 @@
         "MICR": "635059302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12744,7 +12744,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PILLAYARKOVIL STREET, VIA MANANACHANALLUR TIRUCHIRAPALLI TAMIL NADU 621005",
+        "ADDRESS": "PILLAYARKOVIL STREET, VIA MANANACHANALLUR TIRUCHIRAPALLI TAMILNADU 621005",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KARIAMANICKAM",
@@ -12757,7 +12757,7 @@
         "MICR": "620059501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12906,7 +12906,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "277,SANTHAPET,GUDIYATTAM,VELLORE-AMBEDKAR,TAMIL NADU,632602",
+        "ADDRESS": "277,SANTHAPET,GUDIYATTAM,VELLORE-AMBEDKAR,TAMILNADU,632602",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "GUDIYATTAM",
@@ -12919,7 +12919,7 @@
         "MICR": "632059302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12960,7 +12960,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P.B.NO: 2765, 20 WOODS EXPRESS ESTATE,ANNASAL CHENNAI TAMIL NADU",
+        "ADDRESS": "P.B.NO: 2765, 20 WOODS EXPRESS ESTATE,ANNASAL CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-WOODS ROAD",
@@ -12973,7 +12973,7 @@
         "MICR": "600059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12996,7 +12996,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "229/3,MAIN ROAD DAMAL,KANCHEEPURAM DT KANCHEEPURAM TAMIL NADU 631551",
+        "ADDRESS": "229/3,MAIN ROAD DAMAL,KANCHEEPURAM DT KANCHEEPURAM TAMILNADU 631551",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "DAMAL",
@@ -13009,12 +13009,12 @@
         "MICR": "600059503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "7A, P K CHETTY STREET,ARUMUGHAPETTAI,KANCHEEPURAM,TAMIL NADU,631605",
+        "ADDRESS": "7A, P K CHETTY STREET,ARUMUGHAPETTAI,KANCHEEPURAM,TAMILNADU,631605",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ARUMUGHAPETTAI",
@@ -13027,7 +13027,7 @@
         "MICR": "600059502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13176,7 +13176,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO2-334, GOLDEN NAGAR, MADURAI-RAMESWARAM MAIN ROAD, SILAIMAN, MADURAI, TAMIL NADU-625201",
+        "ADDRESS": "DONO2-334, GOLDEN NAGAR, MADURAI-RAMESWARAM MAIN ROAD, SILAIMAN, MADURAI, TAMILNADU-625201",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "SILAIMAN",
@@ -13189,12 +13189,12 @@
         "MICR": "625059007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SETHUMADAI RD,VETTAIKA RANPUDUR PO,ODAYAKULAM COIMBATORE TAMIL NADU 642129",
+        "ADDRESS": "SETHUMADAI RD,VETTAIKA RANPUDUR PO,ODAYAKULAM COIMBATORE TAMILNADU 642129",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ODAYAKULAM",
@@ -13207,7 +13207,7 @@
         "MICR": "641059020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13284,7 +13284,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DO NO 312-1, PKR COMPLEX, GANDHI ROAD, BANAVARAM PO, VELLORE DISTRICT, TAMIL NADU-632505",
+        "ADDRESS": "DO NO 312-1, PKR COMPLEX, GANDHI ROAD, BANAVARAM PO, VELLORE DISTRICT, TAMILNADU-632505",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "BANAVARAM",
@@ -13297,7 +13297,7 @@
         "MICR": "632059303",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13320,7 +13320,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "4/81,BIKSHANDAR KOVIL, NOCHIAM TIRUCHIRAPALLI TAMIL NADU 621216",
+        "ADDRESS": "4/81,BIKSHANDAR KOVIL, NOCHIAM TIRUCHIRAPALLI TAMILNADU 621216",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "NOCHIAM",
@@ -13333,12 +13333,12 @@
         "MICR": "621059202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1/42 , AGRAHARAM, MUTHARASANALLUR TIRUCHIRAPALLI TAMIL NADU 620101",
+        "ADDRESS": "1/42 , AGRAHARAM, MUTHARASANALLUR TIRUCHIRAPALLI TAMILNADU 620101",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "MUTHRASSANELLUR",
@@ -13351,7 +13351,7 @@
         "MICR": "620059502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13374,7 +13374,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NGGO COLONY, KURUDAMPALAYAM COIMBATORE TAMIL NADU",
+        "ADDRESS": "NGGO COLONY, KURUDAMPALAYAM COIMBATORE TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "COIMBATORE-NGGO COLONY",
@@ -13387,7 +13387,7 @@
         "MICR": "641059007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13405,12 +13405,12 @@
         "MICR": "600059501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "2/410,BAZAR STREET,PADAPPAI,KANCHEEPURAM,TAMIL NADU,601301",
+        "ADDRESS": "2/410,BAZAR STREET,PADAPPAI,KANCHEEPURAM,TAMILNADU,601301",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "PADAPPAI",
@@ -13423,7 +13423,7 @@
         "MICR": "600059015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13446,7 +13446,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "10/53,SENTHILKUMAR BLD,POLLACHI MAIN RD,COIMBATORE,TAMIL NADU,641032",
+        "ADDRESS": "10/53,SENTHILKUMAR BLD,POLLACHI MAIN RD,COIMBATORE,TAMILNADU,641032",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "OTHAKALMANDAPAM",
@@ -13459,12 +13459,12 @@
         "MICR": "641059011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DONO42 , WARD NO: 22, DRVASUDEVAN BUILDING, UTHAMAPALAYAM ROAD, OPP BODINAYAKANNUR BUS STAND, BODINAYAKANNUR, THENI, TAMIL NADU-625513",
+        "ADDRESS": "DONO42 , WARD NO: 22, DRVASUDEVAN BUILDING, UTHAMAPALAYAM ROAD, OPP BODINAYAKANNUR BUS STAND, BODINAYAKANNUR, THENI, TAMILNADU-625513",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "BODINAYAKANUR",
@@ -13477,7 +13477,7 @@
         "MICR": "600059099",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13536,7 +13536,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO5-104, WARD NO 5, MAIN ROAD, ORATHY PO, KANCHEEPURAM, TAMIL NADU-603307",
+        "ADDRESS": "DONO5-104, WARD NO 5, MAIN ROAD, ORATHY PO, KANCHEEPURAM, TAMILNADU-603307",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ORATHI",
@@ -13549,12 +13549,12 @@
         "MICR": "600059034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MAIN ROAD,PINNAPOONDI ELAPAKKAM THIRUVALLUR TAMIL NADU 603201",
+        "ADDRESS": "MAIN ROAD,PINNAPOONDI ELAPAKKAM THIRUVALLUR TAMILNADU 603201",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ELAPPAKAM",
@@ -13567,7 +13567,7 @@
         "MICR": "600059032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13590,7 +13590,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "6/31 KALLAPALAYAM RD,ONDIPUDUR(VIA),COIMBATORE,TAMIL NADU,641016",
+        "ADDRESS": "6/31 KALLAPALAYAM RD,ONDIPUDUR(VIA),COIMBATORE,TAMILNADU,641016",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "PAPPAMPATI",
@@ -13603,7 +13603,7 @@
         "MICR": "641059008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13801,12 +13801,12 @@
         "MICR": "605059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "5/21X,NR SUB-REGISTRY,OFF,KVK NGR,NEGAMAM PO,COIMBATORE,TAMIL NADU,642120",
+        "ADDRESS": "5/21X,NR SUB-REGISTRY,OFF,KVK NGR,NEGAMAM PO,COIMBATORE,TAMILNADU,642120",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "GOPANURPUDUR",
@@ -13819,7 +13819,7 @@
         "MICR": "641059019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13842,7 +13842,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BJ HOUSE,I FLR,ASHRAM RD,NAVRANGPURA. AHMEDABAD GUJARAT",
+        "ADDRESS": "BJ HOUSE,I FLR,ASHRAM RD,NAVRANGPURA. AHMEDABAD GUJRAT",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "AHMEDABAD",
@@ -13855,7 +13855,7 @@
         "MICR": "380059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13878,7 +13878,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO123-6, WARD NO: 3, KOVAI MAIN ROAD, KURUMANDUR, ERODE, TAMIL NADU-638457",
+        "ADDRESS": "DONO123-6, WARD NO: 3, KOVAI MAIN ROAD, KURUMANDUR, ERODE, TAMILNADU-638457",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KURUMANDUR",
@@ -13891,7 +13891,7 @@
         "MICR": "638059009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14022,7 +14022,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BAZAR ST,WANDIWASH TALUK, MARUDADU CUDDALORE TAMIL NADU 604405",
+        "ADDRESS": "BAZAR ST,WANDIWASH TALUK, MARUDADU CUDDALORE TAMILNADU 604405",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "MARUDADU",
@@ -14035,7 +14035,7 @@
         "MICR": "604059001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14076,7 +14076,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PB NO.2,277-H,SSP CMPX,THAVITTUPALAYAM,PERIYAR,TAMIL NADU,638501",
+        "ADDRESS": "PB NO.2,277-H,SSP CMPX,THAVITTUPALAYAM,PERIYAR,TAMILNADU,638501",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "THAVITTUPALAYAM",
@@ -14089,7 +14089,7 @@
         "MICR": "638059007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14382,7 +14382,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "OMS LAKSHMANA,146, ROYEPETTA HIGHROAD,LUZ CHENNAI TAMIL NADU",
+        "ADDRESS": "OMS LAKSHMANA,146, ROYEPETTA HIGHROAD,LUZ CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-MYLAPORE",
@@ -14395,7 +14395,7 @@
         "MICR": "600059005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14580,7 +14580,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PRINCE TOWERS, 94, PURUSAWLKAM HIGH ROAD KELLYS, CHENNAI, TAMIL NADU-600010",
+        "ADDRESS": "PRINCE TOWERS, 94, PURUSAWLKAM HIGH ROAD KELLYS, CHENNAI, TAMILNADU-600010",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI KELLYS",
@@ -14593,7 +14593,7 @@
         "MICR": "600059006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14706,7 +14706,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO. 52, JAYALAKSHMI CO KATPADI ROAD, VELLORE VELLORE-AMBEDKAR TAMIL NADU 632004",
+        "ADDRESS": "NO. 52, JAYALAKSHMI CO KATPADI ROAD, VELLORE VELLORE-AMBEDKAR TAMILNADU 632004",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "VELLORE",
@@ -14719,7 +14719,7 @@
         "MICR": "632059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14868,7 +14868,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "THEVAR BUILDING, COIMBATORE-POLLACHI MAIN ROAD, KOVILPALAYAM, TAMIL NADU-642110",
+        "ADDRESS": "THEVAR BUILDING, COIMBATORE-POLLACHI MAIN ROAD, KOVILPALAYAM, TAMILNADU-642110",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KOVILPALAYAM",
@@ -14881,12 +14881,12 @@
         "MICR": "641059018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEW PHARMACY BUILDING, 1ST FLOOR, 15-7, MOUNT ROAD, COONOOR, NILGIRIS, TAMIL NADU-643102",
+        "ADDRESS": "NEW PHARMACY BUILDING, 1ST FLOOR, 15-7, MOUNT ROAD, COONOOR, NILGIRIS, TAMILNADU-643102",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "COONOOR",
@@ -14899,7 +14899,7 @@
         "MICR": "643059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15048,7 +15048,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "289, RR.NATESAN ROAD, OPP.ICE HSE POLICE STN CHENNAI TAMIL NADU",
+        "ADDRESS": "289, RR.NATESAN ROAD, OPP.ICE HSE POLICE STN CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-TRIPLICANE",
@@ -15061,12 +15061,12 @@
         "MICR": "600059007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "P.B.NO:  2933, NO:83, CROSS CUT ROAD,GANDHIP COIMBATORE TAMIL NADU",
+        "ADDRESS": "P.B.NO:  2933, NO:83, CROSS CUT ROAD,GANDHIP COIMBATORE TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "COIMBATORE-GANDHIPURAM",
@@ -15079,12 +15079,12 @@
         "MICR": "641059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "#1,STERLING ROAD NUNGAMBAKKAM CHENNAI TAMIL NADU",
+        "ADDRESS": "#1,STERLING ROAD NUNGAMBAKKAM CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-NUNGAMBAKKAM",
@@ -15097,7 +15097,7 @@
         "MICR": "600059008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15282,7 +15282,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "RAJALAKSHMI COMPLEX, MAIN RD,KODUVAI COIMBATORE TAMIL NADU 638660",
+        "ADDRESS": "RAJALAKSHMI COMPLEX, MAIN RD,KODUVAI COIMBATORE TAMILNADU 638660",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KODUVAI",
@@ -15295,7 +15295,7 @@
         "MICR": "641059104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15318,7 +15318,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "385-14, JS PLAZA, KAMARAJAR SALAI, ATHANI PO, ERODE, TAMIL NADU-638502",
+        "ADDRESS": "385-14, JS PLAZA, KAMARAJAR SALAI, ATHANI PO, ERODE, TAMILNADU-638502",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ATHANI",
@@ -15331,7 +15331,7 @@
         "MICR": "638059010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15444,7 +15444,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P.B.NO: 102,  40/41 PERIARA STREET T.KATTABOMMAN TAMIL NADU",
+        "ADDRESS": "P.B.NO: 102,  40/41 PERIARA STREET T.KATTABOMMAN TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "TUTICORIN",
@@ -15457,7 +15457,7 @@
         "MICR": "628059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15570,7 +15570,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO256-158, OPP TO TALUK OFFICE, KUMARAN ROAD, TIRUPUR, TAMIL NADU-641601",
+        "ADDRESS": "DONO256-158, OPP TO TALUK OFFICE, KUMARAN ROAD, TIRUPUR, TAMILNADU-641601",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "TIRUPUR",
@@ -15583,12 +15583,12 @@
         "MICR": "641059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GATE NO3, ST JOSEPHS COLLEGE CAMPUS, COLLEGE ROAD, TEPPAKULAM PO, TIRUCHIRAPPALLI, TAMIL NADU-620002",
+        "ADDRESS": "GATE NO3, ST JOSEPHS COLLEGE CAMPUS, COLLEGE ROAD, TEPPAKULAM PO, TIRUCHIRAPPALLI, TAMILNADU-620002",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "TIRUCHIRAPALLI",
@@ -15601,7 +15601,7 @@
         "MICR": "620059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15696,7 +15696,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO941, SAVITHRI SWAGATH BUILDING, EAST MAIN STREET, THANJAVUR WEST PO, THANJAVUR DISTRICT, TAMIL NADU-613009",
+        "ADDRESS": "DONO941, SAVITHRI SWAGATH BUILDING, EAST MAIN STREET, THANJAVUR WEST PO, THANJAVUR DISTRICT, TAMILNADU-613009",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "THANJAVUR",
@@ -15709,12 +15709,12 @@
         "MICR": "613059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "17/50 FORT MAIN ROAD SHEVAPET SALEM TAMIL NADU 636002",
+        "ADDRESS": "17/50 FORT MAIN ROAD SHEVAPET SALEM TAMILNADU 636002",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "SALEM-MAIN",
@@ -15727,7 +15727,7 @@
         "MICR": "636059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15804,7 +15804,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO42-3, WARD NO5, NEW SCHEME ROAD, POLLACHI, MAHALINGAPURAM PO, COIMBATORE, TAMIL NADU-642002",
+        "ADDRESS": "DONO42-3, WARD NO5, NEW SCHEME ROAD, POLLACHI, MAHALINGAPURAM PO, COIMBATORE, TAMILNADU-642002",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "POLLACHI",
@@ -15817,7 +15817,7 @@
         "MICR": "642059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16110,7 +16110,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "1 FLOOR, XAVIER BLDG ASSISSI CAMPUS,PWD RD KANYAKUMARI TAMIL NADU",
+        "ADDRESS": "1 FLOOR, XAVIER BLDG ASSISSI CAMPUS,PWD RD KANYAKUMARI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "NAGERCOIL",
@@ -16123,12 +16123,12 @@
         "MICR": "629059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ASAM&MA ANNUAL COMPLEX NO-1,C,NEELA SOUTH ST NAGAPATTINAM_Q_E_M TAMIL NADU 611001",
+        "ADDRESS": "ASAM&MA ANNUAL COMPLEX NO-1,C,NEELA SOUTH ST NAGAPATTINAM_Q_E_M TAMILNADU 611001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "NAGAPATTINAM",
@@ -16141,7 +16141,7 @@
         "MICR": "611059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16267,12 +16267,12 @@
         "MICR": "673059052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DONO3, LIC BUILDING, GROUND FLOOR, WEST MARRET STREET, MADURAI, TAMIL NADU \u2013 625001",
+        "ADDRESS": "DONO3, LIC BUILDING, GROUND FLOOR, WEST MARRET STREET, MADURAI, TAMILNADU \u2013 625001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "MADURAI",
@@ -16285,12 +16285,12 @@
         "MICR": "625059000",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEW#19,OLD#40 ANNA THTR CMPLX,MT RD CHENNAI TAMIL NADU",
+        "ADDRESS": "NEW#19,OLD#40 ANNA THTR CMPLX,MT RD CHENNAI TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "CHENNAI-MOUNT ROAD",
@@ -16303,7 +16303,7 @@
         "MICR": "600059003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16321,7 +16321,7 @@
         "MICR": "600059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16452,7 +16452,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "62,MAINROAD,KINATTUKADAVU,COIMBATORE,TAMIL NADU,642109",
+        "ADDRESS": "62,MAINROAD,KINATTUKADAVU,COIMBATORE,TAMILNADU,642109",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KINATTUKADAVU",
@@ -16465,7 +16465,7 @@
         "MICR": "641059017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16542,7 +16542,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "8-A,VALLAI PACHAIYAPAN ST,KANCHEEPURAM SOUTH_ARCOT/VALLALAR TAMIL NADU",
+        "ADDRESS": "8-A,VALLAI PACHAIYAPAN ST,KANCHEEPURAM SOUTH_ARCOT/VALLALAR TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "KANCHEEPURAM",
@@ -16555,7 +16555,7 @@
         "MICR": "600059021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16578,7 +16578,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO63-63A, WARD NO24, KARPAHAM COMPLEX, MODACHUR ROAD, GOBICHETTIPALAYAM, MODACHUR POST OFFICE, ERODE, TAMIL NADU-638452",
+        "ADDRESS": "DONO63-63A, WARD NO24, KARPAHAM COMPLEX, MODACHUR ROAD, GOBICHETTIPALAYAM, MODACHUR POST OFFICE, ERODE, TAMILNADU-638452",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "GOBICHETTIPALAYAM",
@@ -16591,7 +16591,7 @@
         "MICR": "638059004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16650,7 +16650,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "TS NO16, WARD NO29, VETERINARY HOSPITAL ROAD, NEAR GANDHIJI ROAD, ERODE, TAMIL NADU \u2013 638001",
+        "ADDRESS": "TS NO16, WARD NO29, VETERINARY HOSPITAL ROAD, NEAR GANDHIJI ROAD, ERODE, TAMILNADU \u2013 638001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ERODE",
@@ -16663,7 +16663,7 @@
         "MICR": "638059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16686,7 +16686,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DONO6-1A, WARD NO19, JKTOWERS, SPENCERS COMPOUND, 13TH CROSS ROAD, THIRUVALLUVAR SALAI, NAGAL NAGAR PO, DINDIGUL, TAMIL NADU-624003",
+        "ADDRESS": "DONO6-1A, WARD NO19, JKTOWERS, SPENCERS COMPOUND, 13TH CROSS ROAD, THIRUVALLUVAR SALAI, NAGAL NAGAR PO, DINDIGUL, TAMILNADU-624003",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "DINDIGUL",
@@ -16699,7 +16699,7 @@
         "MICR": "624059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16722,7 +16722,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P.B.NO: 25, 26/482 RAJA STREET COIMBATORE TAMIL NADU",
+        "ADDRESS": "P.B.NO: 25, 26/482 RAJA STREET COIMBATORE TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "COIMBATORE-RAJA STREET",
@@ -16735,7 +16735,7 @@
         "MICR": "641059002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16866,7 +16866,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PB NO: 56 , K G R MEM,,VARNAPURAM, BHAVANI,PERIYAR,TAMIL NADU,638302",
+        "ADDRESS": "PB NO: 56 , K G R MEM,,VARNAPURAM, BHAVANI,PERIYAR,TAMILNADU,638302",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "BHAVANI",
@@ -16879,7 +16879,7 @@
         "MICR": "638059006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16974,7 +16974,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P.B NO:8,DR NO:386,387 KASUKKADAI BAZAAR RAMANATHAPURAM TAMIL NADU",
+        "ADDRESS": "P.B NO:8,DR NO:386,387 KASUKKADAI BAZAAR RAMANATHAPURAM TAMILNADU",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ARUPPUKOTTAI",
@@ -16987,12 +16987,12 @@
         "MICR": "626059202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PB NO.6, 198,,GANDHI ROAD,ARKONAM,VELLORE-AMBEDKAR,TAMIL NADU,631001",
+        "ADDRESS": "PB NO.6, 198,,GANDHI ROAD,ARKONAM,VELLORE-AMBEDKAR,TAMILNADU,631001",
         "BANK": "South Indian Bank",
         "BANKCODE": "SIBL",
         "BRANCH": "ARKONAM",
@@ -17005,7 +17005,7 @@
         "MICR": "631059102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },

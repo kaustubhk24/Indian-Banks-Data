@@ -85,7 +85,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -535,7 +535,7 @@
         "MICR": "600048011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -553,7 +553,7 @@
         "MICR": "629048003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -571,7 +571,7 @@
         "MICR": "600048013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -589,7 +589,7 @@
         "MICR": "641048006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -607,7 +607,7 @@
         "MICR": "600048012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -625,7 +625,7 @@
         "MICR": "600048010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -882,7 +882,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ANUGRAH COMMERCIAL COMPLEX, 1ST FLOOR, OPP. VERAVAL MUNICIPALITY, RAJMAHEL ROAD, VERAVAL, GUJARAT 362 266",
+        "ADDRESS": "ANUGRAH COMMERCIAL COMPLEX, 1ST FLOOR, OPP. VERAVAL MUNICIPALITY, RAJMAHEL ROAD, VERAVAL, GUJRAT 362 266",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "VERAVAL",
@@ -895,12 +895,12 @@
         "MICR": "362048051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, NO. 2, PRINCE MAHAL, JAWAHAR STREET, CHIDAMBARAM, CUDDALORE DISTRICT, TAMIL NADU - 608 001\u00a0",
+        "ADDRESS": "GROUND FLOOR, NO. 2, PRINCE MAHAL, JAWAHAR STREET, CHIDAMBARAM, CUDDALORE DISTRICT, TAMILNADU - 608 001\u00a0",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "CHIDAMBARAM",
@@ -913,7 +913,7 @@
         "MICR": "608048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -954,7 +954,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, 18/71, OLD POLICE LANE STREET, VEERABADRASWAMY KOIL/STREET, RAMESWARAM, RAMANATHAPURAM DISTRICT, TAMIL NADU - 623 526",
+        "ADDRESS": "GROUND FLOOR, 18/71, OLD POLICE LANE STREET, VEERABADRASWAMY KOIL/STREET, RAMESWARAM, RAMANATHAPURAM DISTRICT, TAMILNADU - 623 526",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "RAMESWARAM",
@@ -967,7 +967,7 @@
         "MICR": "232048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1111,7 +1111,7 @@
         "MICR": "385048001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1237,7 +1237,7 @@
         "MICR": "636048003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1260,7 +1260,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, SHRI RANG PLAZA, SARDAR CHOWK, NEAR POLICE STATION, BARDOLI, GUJARAT - 394 601",
+        "ADDRESS": "GROUND FLOOR, SHRI RANG PLAZA, SARDAR CHOWK, NEAR POLICE STATION, BARDOLI, GUJRAT - 394 601",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "BARDOLI",
@@ -1273,7 +1273,7 @@
         "MICR": "394048051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1296,7 +1296,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHINE PLAZA, OPP. PASABHAI PARK, NEAR NATUBHAI CIRCLE, RACE COURSE ROAD, VADODARA, GUJARAT - 390 007",
+        "ADDRESS": "SHINE PLAZA, OPP. PASABHAI PARK, NEAR NATUBHAI CIRCLE, RACE COURSE ROAD, VADODARA, GUJRAT - 390 007",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "VADODARA",
@@ -1309,7 +1309,7 @@
         "MICR": "390048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1476,7 +1476,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, VAISHNAVI PLAZA, 17 & 18, WEST RAJA STREET, KANCHEEPURAM, TAMIL NADU - 631 502.",
+        "ADDRESS": "GROUND FLOOR, VAISHNAVI PLAZA, 17 & 18, WEST RAJA STREET, KANCHEEPURAM, TAMILNADU - 631 502.",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "KANCHEEPURAM",
@@ -1489,12 +1489,12 @@
         "MICR": "600048008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, ANGURAJ COMPLEX, NO. 41, NEW DHARAMPURAM ROAD, PALANI, TAMIL NADU - 624 601.",
+        "ADDRESS": "GROUND FLOOR, ANGURAJ COMPLEX, NO. 41, NEW DHARAMPURAM ROAD, PALANI, TAMILNADU - 624 601.",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "PALANI",
@@ -1507,7 +1507,7 @@
         "MICR": "624048001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1939,7 +1939,7 @@
         "MICR": "600048007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2209,7 +2209,7 @@
         "MICR": "600048009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2245,7 +2245,7 @@
         "MICR": "641048004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2443,7 +2443,7 @@
         "MICR": "600048006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2551,12 +2551,12 @@
         "MICR": "380048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "3RD FLOOR,THE SURAT       VANKAR SAHAKARI SANGH BLG OPP.RESHAMWALA MARKET     RING ROAD, SURAT,GUJARAT",
+        "ADDRESS": "3RD FLOOR,THE SURAT       VANKAR SAHAKARI SANGH BLG OPP.RESHAMWALA MARKET     RING ROAD, SURAT,GUJRAT",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "SURAT",
@@ -2569,7 +2569,7 @@
         "MICR": "395048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2587,7 +2587,7 @@
         "MICR": "600048001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2628,7 +2628,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "021044, GROUND FLOOR,     KOVAI ROAD,               KARUR.                    TAMIL NADU",
+        "ADDRESS": "021044, GROUND FLOOR,     KOVAI ROAD,               KARUR.                    TAMILNADU",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "KARUR",
@@ -2641,7 +2641,7 @@
         "MICR": "639048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2659,7 +2659,7 @@
         "MICR": "600048005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2803,7 +2803,7 @@
         "MICR": "642048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2839,7 +2839,7 @@
         "MICR": "641048003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2862,7 +2862,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "10/210, SATHY ROAD,  VEERAPANCHATRAM,  ERODE,   TAMIL NADU",
+        "ADDRESS": "10/210, SATHY ROAD,  VEERAPANCHATRAM,  ERODE,   TAMILNADU",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "VEERAPANCHATRAM",
@@ -2875,7 +2875,7 @@
         "MICR": "638048003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2911,7 +2911,7 @@
         "MICR": "641048102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3042,7 +3042,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "27 B AND C, POST OFFICE ROAD ADIRAMPATTINAM TANJORE DIST, TAMIL NADU, 614701",
+        "ADDRESS": "27 B AND C, POST OFFICE ROAD ADIRAMPATTINAM TANJORE DIST, TAMILNADU, 614701",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "ADIRAMAPATTANAM",
@@ -3055,7 +3055,7 @@
         "MICR": "620048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3109,7 +3109,7 @@
         "MICR": "638048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3181,12 +3181,12 @@
         "MICR": "636048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "216-A.                    NETAJI ROAD               MADURAI                   TAMIL NADU",
+        "ADDRESS": "216-A.                    NETAJI ROAD               MADURAI                   TAMILNADU",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "MADURAI",
@@ -3199,7 +3199,7 @@
         "MICR": "625048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3217,7 +3217,7 @@
         "MICR": "620048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3361,12 +3361,12 @@
         "MICR": "600048004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SRI L N PERUMAL KOIL STREET, VAZHAIPANDAL NORTH ARCOT DIST ,VELLORE , TAMIL NADU, 600001",
+        "ADDRESS": "SRI L N PERUMAL KOIL STREET, VAZHAIPANDAL NORTH ARCOT DIST ,VELLORE , TAMILNADU, 600001",
         "BANK": "Dhanlaxmi Bank",
         "BANKCODE": "DLXB",
         "BRANCH": "VAZHAIPANDAL",
@@ -3379,7 +3379,7 @@
         "MICR": "632048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3451,7 +3451,7 @@
         "MICR": "632048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3469,7 +3469,7 @@
         "MICR": "632048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3487,7 +3487,7 @@
         "MICR": "632048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3577,7 +3577,7 @@
         "MICR": "629048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3865,7 +3865,7 @@
         "MICR": "600048003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3955,7 +3955,7 @@
         "MICR": "641048005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3973,7 +3973,7 @@
         "MICR": "641048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4117,7 +4117,7 @@
         "MICR": "600048002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },

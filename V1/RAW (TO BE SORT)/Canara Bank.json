@@ -1,6 +1,6 @@
 [
     {
-        "ADDRESS": "P B NO.243, ST.MARY'S CAMPUS, EAST VELI STREET, MADURAI (TAMIL NADU),",
+        "ADDRESS": "P B NO.243, ST.MARY'S CAMPUS, EAST VELI STREET, MADURAI (TAMILNADU),",
         "BANK": "Canara Bank",
         "BANKCODE": "CNRB",
         "BRANCH": "PREMISES & ESTATE SECTION, CO, MADURAI",
@@ -13,7 +13,7 @@
         "MICR": "625015025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -67,7 +67,7 @@
         "MICR": "600015400",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -103,7 +103,7 @@
         "MICR": "800015998",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

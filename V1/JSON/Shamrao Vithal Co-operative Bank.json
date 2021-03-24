@@ -6637,12 +6637,12 @@
         "MICR": "636089002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Gr. Floor, Plot No.1176, Trichy Road, Sungam Circle, Ramnathpuram, Coimbatore, Tamil Nadu-641045.",
+        "ADDRESS": "Gr. Floor, Plot No.1176, Trichy Road, Sungam Circle, Ramnathpuram, Coimbatore, TAMILNADU-641045.",
         "BANK": "Shamrao Vithal Co-operative Bank",
         "BANKCODE": "SVCB",
         "BRANCH": "Coimbatore",
@@ -6655,7 +6655,7 @@
         "MICR": "641089002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6673,7 +6673,7 @@
         "MICR": "600089003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6691,7 +6691,7 @@
         "MICR": "600089002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7123,7 +7123,7 @@
         "MICR": "390089002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7141,7 +7141,7 @@
         "MICR": "395089002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7159,7 +7159,7 @@
         "MICR": "380089002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7177,7 +7177,7 @@
         "MICR": "396089031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7195,7 +7195,7 @@
         "MICR": "360089002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7213,7 +7213,7 @@
         "MICR": "390089003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7231,7 +7231,7 @@
         "MICR": "392089001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7249,7 +7249,7 @@
         "MICR": "380089003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

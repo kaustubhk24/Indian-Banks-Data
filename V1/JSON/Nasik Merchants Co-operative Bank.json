@@ -756,7 +756,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "C.S.NO 868, TP 6, FP 264/P , SHRI JAI MARUTI COMPLEX,UDHANA DARWAJA, RING ROAD,NEAR GUJRAT SAMACHAR PRESS, SURAT DIST.-SURAT (GUJARAT) 395002",
+        "ADDRESS": "C.S.NO 868, TP 6, FP 264/P , SHRI JAI MARUTI COMPLEX,UDHANA DARWAJA, RING ROAD,NEAR GUJRAT SAMACHAR PRESS, SURAT DIST.-SURAT (GUJRAT) 395002",
         "BANK": "Nasik Merchants Co-operative Bank",
         "BANKCODE": "NMCB",
         "BRANCH": "SURAT",
@@ -769,7 +769,7 @@
         "MICR": "395369002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },

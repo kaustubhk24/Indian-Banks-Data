@@ -481,12 +481,12 @@
         "MICR": "400085102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "GROUND FLOOR, CTC TOWER, VARACCHA MAIN ROAD, SURAT (GUJARAT STATE) 395 006.",
+        "ADDRESS": "GROUND FLOOR, CTC TOWER, VARACCHA MAIN ROAD, SURAT (GUJRAT STATE) 395 006.",
         "BANK": "New India Co-operative Bank",
         "BANKCODE": "NICB",
         "BRANCH": "VARACCHA ROAD",
@@ -499,7 +499,7 @@
         "MICR": "400085104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },

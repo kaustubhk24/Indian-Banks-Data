@@ -589,7 +589,7 @@
         "MICR": "600176025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -643,7 +643,7 @@
         "MICR": "600176024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -679,7 +679,7 @@
         "MICR": "600176018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -697,7 +697,7 @@
         "MICR": "600176023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -715,7 +715,7 @@
         "MICR": "600176017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -805,7 +805,7 @@
         "MICR": "600176016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -859,7 +859,7 @@
         "MICR": "600176022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -967,7 +967,7 @@
         "MICR": "600176021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1075,7 +1075,7 @@
         "MICR": "600176020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1111,7 +1111,7 @@
         "MICR": "641176005",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1255,7 +1255,7 @@
         "MICR": "600176019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1273,7 +1273,7 @@
         "MICR": "390176005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1471,7 +1471,7 @@
         "MICR": "600176015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1489,7 +1489,7 @@
         "MICR": "600176014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1597,7 +1597,7 @@
         "MICR": "600176013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1890,7 +1890,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO. 9(OLD NO.8) AND 9(1), GROUND FLOOR,UNIVERSAL THEATRE ROAD, TIRUPUR,TAMIL NADU-642601",
+        "ADDRESS": "SHOP NO. 9(OLD NO.8) AND 9(1), GROUND FLOOR,UNIVERSAL THEATRE ROAD, TIRUPUR,TAMILNADU-642601",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "TIRUPUR BRANCH",
@@ -1903,7 +1903,7 @@
         "MICR": "641176103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2011,7 +2011,7 @@
         "MICR": "600176012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2137,7 +2137,7 @@
         "MICR": "395176004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2155,7 +2155,7 @@
         "MICR": "390176004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2232,20 +2232,20 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO.12(OLD NO.6), GROUND FLOOR, PADMINI COMPLEX, 100FT ROAD, VILLAGE NO.37, PUDUPALAYAM REVENUE VILLAGE, ELLAIPILLAICHAVADY, NELLITHOPE, PUDUCHERRY-605005",
+        "ADDRESS": "SHOP NO.12(OLD NO.6), GROUND FLOOR, PADMINI COMPLEX, 100FT ROAD, VILLAGE NO.37, PUDUPALAYAM REVENUE VILLAGE, ELLAIPILLAICHAVADY, NELLITHOPE, PONDICHERRY-605005",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "PONDICHERRY BRANCH",
-        "CENTRE": "PUDUCHERRY",
-        "CITY": "PUDUCHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "00",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "RATN0000307",
         "IMPS": true,
         "MICR": "605176003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2263,7 +2263,7 @@
         "MICR": "600176011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2299,7 +2299,7 @@
         "MICR": "600176010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2371,7 +2371,7 @@
         "MICR": "600176009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2772,7 +2772,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAIN ROAD, INFRONT OF HAAT BAZAR, KOLAWALI, BLOCK-BAKAWAND, DISTT-BASTER, CHATTISGARH-494222",
+        "ADDRESS": "MAIN ROAD, INFRONT OF HAAT BAZAR, KOLAWALI, BLOCK-BAKAWAND, DISTT-BASTER, CHHATTISGARH-494222",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "KOLAWALI",
@@ -2934,7 +2934,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "RBL BANK LTD,43,JYOTI PARK SOCIETY,SURAT-KAMREJ ROAD,KAMREJ,DIST SURAT GUJARAT-394185",
+        "ADDRESS": "RBL BANK LTD,43,JYOTI PARK SOCIETY,SURAT-KAMREJ ROAD,KAMREJ,DIST SURAT GUJRAT-394185",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "KAMREJ",
@@ -2947,7 +2947,7 @@
         "MICR": "395176003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3145,7 +3145,7 @@
         "MICR": "638176004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3163,7 +3163,7 @@
         "MICR": "380176007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3271,7 +3271,7 @@
         "MICR": "641176004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3343,7 +3343,7 @@
         "MICR": "600176008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3361,7 +3361,7 @@
         "MICR": "380176006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3379,7 +3379,7 @@
         "MICR": "360176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3451,7 +3451,7 @@
         "MICR": "606176102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3469,7 +3469,7 @@
         "MICR": "635176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3487,7 +3487,7 @@
         "MICR": "388176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3577,7 +3577,7 @@
         "MICR": "360176041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3667,7 +3667,7 @@
         "MICR": "393176051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3685,7 +3685,7 @@
         "MICR": "380176005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3721,12 +3721,12 @@
         "MICR": "600176007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RBL BANK LIMITED SHOP NO 16 AND 17 GROUND FLOOR SANSKRUTI COMPLEX NR SHUYOG PETROL PUMP MALPUR ROAD KHALIKPUR DIST ARAVALI GUJARAT 383315",
+        "ADDRESS": "RBL BANK LIMITED SHOP NO 16 AND 17 GROUND FLOOR SANSKRUTI COMPLEX NR SHUYOG PETROL PUMP MALPUR ROAD KHALIKPUR DIST ARAVALI GUJRAT 383315",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "KHALIKPUR BRANCH",
@@ -3739,12 +3739,12 @@
         "MICR": "383176051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RBL BANK LIMITED SHOP NO 7 AND 8 FIRST FLOOR SAKAL AVENUE KAMALPUR TAL PRANTIJ DIST SABARKANTHA GUJARAT 383205",
+        "ADDRESS": "RBL BANK LIMITED SHOP NO 7 AND 8 FIRST FLOOR SAKAL AVENUE KAMALPUR TAL PRANTIJ DIST SABARKANTHA GUJRAT 383205",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "KAMALPUR BRANCH",
@@ -3757,12 +3757,12 @@
         "MICR": "383176131",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RBL BANL LIMITED 49 A MANALKATTU THOTTAM ELLAKADAI KAGAM ERODE TAMIL NADU PIN CODE 638109",
+        "ADDRESS": "RBL BANL LIMITED 49 A MANALKATTU THOTTAM ELLAKADAI KAGAM ERODE TAMILNADU PIN CODE 638109",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "KAGAM ERODE",
@@ -3775,7 +3775,7 @@
         "MICR": "638176003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3811,7 +3811,7 @@
         "MICR": "530176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4035,7 +4035,7 @@
         "ADDRESS": "RBL BANK LIMITED, NO.98, VAKIL NEW STREET, MADURAI 625001",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
-        "BRANCH": "MADURAI - TAMIL NADU",
+        "BRANCH": "MADURAI - TAMILNADU",
         "CENTRE": "MADURAI",
         "CITY": "MADURAI",
         "CONTACT": "018001238040",
@@ -4045,7 +4045,7 @@
         "MICR": "625176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4063,7 +4063,7 @@
         "MICR": "635176302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4122,7 +4122,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "RBL BANK LIMITED FORMERLY THE RATNAKAR BANK LTD 2 139 SREE MAHALAKSHMI AMMAN COMPLEX RASAKAPALAYAM PULIAMPATTI PO POLLACHI TK POLLACHI TAMIL NADU 642002",
+        "ADDRESS": "RBL BANK LIMITED FORMERLY THE RATNAKAR BANK LTD 2 139 SREE MAHALAKSHMI AMMAN COMPLEX RASAKAPALAYAM PULIAMPATTI PO POLLACHI TK POLLACHI TAMILNADU 642002",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "RBL BANK LTD",
@@ -4135,12 +4135,12 @@
         "MICR": "641176003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RBL BANK LIMITED FORMERLY THE RATNAKAR BANK LTD 121 A SATHY ERODE HIGHWAYS ARIYAPPAMPALAYAM SATHYAMANGALAM TK ERODE DT SATHYAMANGALAM, TAMIL NADU 638402",
+        "ADDRESS": "RBL BANK LIMITED FORMERLY THE RATNAKAR BANK LTD 121 A SATHY ERODE HIGHWAYS ARIYAPPAMPALAYAM SATHYAMANGALAM TK ERODE DT SATHYAMANGALAM, TAMILNADU 638402",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "RBL BANK LTD",
@@ -4153,7 +4153,7 @@
         "MICR": "638176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4387,7 +4387,7 @@
         "MICR": "600176006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4405,7 +4405,7 @@
         "MICR": "600176005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4423,7 +4423,7 @@
         "MICR": "600176004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4446,7 +4446,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "RBL BANK LTD,SHOP NO 1&2,FRIST FLOOR ATIMIYA ENCLAVE,VELETVA CROSS ROAD,NADIAD PETLAD ROAD,VELETVA,NADIAD TALUK,KHEDA DISTRICT,GUJARAT-388440",
+        "ADDRESS": "RBL BANK LTD,SHOP NO 1&2,FRIST FLOOR ATIMIYA ENCLAVE,VELETVA CROSS ROAD,NADIAD PETLAD ROAD,VELETVA,NADIAD TALUK,KHEDA DISTRICT,GUJRAT-388440",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "VELETVA",
@@ -4459,7 +4459,7 @@
         "MICR": "388176501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4482,20 +4482,20 @@
         "UPI": true
     },
     {
-        "ADDRESS": "THE RATNAKAR BANK LTD, SHOP NO 7,8,9, ASHOK VATIKA BLOCK NO A GROUND FLOOR SAHKARI JIN ROAD HIMAT NAGAR GUJARAT",
+        "ADDRESS": "THE RATNAKAR BANK LTD, SHOP NO 7,8,9, ASHOK VATIKA BLOCK NO A GROUND FLOOR SAHKARI JIN ROAD HIMAT NAGAR GUJRAT",
         "BANK": "RBL Bank",
         "BANKCODE": "RATN",
         "BRANCH": "HIMAT NAGAR",
         "CENTRE": "NA",
         "CITY": "SABAR KANTHA",
         "CONTACT": "43020600",
-        "DISTRICT": "GUJARAT",
+        "DISTRICT": "GUJRAT",
         "IFSC": "RATN0000181",
         "IMPS": true,
         "MICR": "383176001",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4513,7 +4513,7 @@
         "MICR": "600176003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4639,7 +4639,7 @@
         "MICR": "360176501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4657,7 +4657,7 @@
         "MICR": "370176501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4675,7 +4675,7 @@
         "MICR": "641176002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4693,7 +4693,7 @@
         "MICR": "614176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4711,7 +4711,7 @@
         "MICR": "620176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4729,7 +4729,7 @@
         "MICR": "639176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4909,7 +4909,7 @@
         "MICR": "380176004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5107,7 +5107,7 @@
         "MICR": "636176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5179,7 +5179,7 @@
         "MICR": "390176003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5341,7 +5341,7 @@
         "MICR": "384176051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5359,7 +5359,7 @@
         "MICR": "390176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5377,7 +5377,7 @@
         "MICR": "385176031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5395,7 +5395,7 @@
         "MICR": "394176051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5449,7 +5449,7 @@
         "MICR": "380176003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5485,7 +5485,7 @@
         "MICR": "396176031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5503,7 +5503,7 @@
         "MICR": "641176102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5557,7 +5557,7 @@
         "MICR": "605176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5719,7 +5719,7 @@
         "MICR": "600176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5809,7 +5809,7 @@
         "MICR": "395176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6601,7 +6601,7 @@
         "MICR": "380176002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

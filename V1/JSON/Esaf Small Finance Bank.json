@@ -648,7 +648,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "WEST WOODS NEW NO 32 OLD NO 205 5TH AVENUE Y BLOCK ANNA NAGAR CHENNAI TAMIL NADU 600040",
+        "ADDRESS": "WEST WOODS NEW NO 32 OLD NO 205 5TH AVENUE Y BLOCK ANNA NAGAR CHENNAI TAMILNADU 600040",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "CHENNAI ANNANAGAR",
@@ -661,7 +661,7 @@
         "MICR": "600760017",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -967,12 +967,12 @@
         "MICR": "390760002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "DOOR NO 15, PRAHLAD NAGAR, CAMPUS CORNER 2, PRAHLAD NAGAR P O, AHMEDABAD, GUJARAT 380015",
+        "ADDRESS": "DOOR NO 15, PRAHLAD NAGAR, CAMPUS CORNER 2, PRAHLAD NAGAR P O, AHMEDABAD, GUJRAT 380015",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "AHMEDABAD PRAHLAD NAGAR",
@@ -985,7 +985,7 @@
         "MICR": "380760004",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -1183,7 +1183,7 @@
         "MICR": "380760003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -1471,7 +1471,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": false
     },
@@ -1759,7 +1759,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -1782,7 +1782,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "NO 3630,PARATH COMPLEX,NASSRULLAGANJ P O,SEHORE,MADHYAPRADESH 466331",
+        "ADDRESS": "NO 3630,PARATH COMPLEX,NASSRULLAGANJ P O,SEHORE,MADHYA PRADESH 466331",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "NASSRULLAGANJ",
@@ -1921,7 +1921,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -1962,7 +1962,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "NO 4 270 HIGH SCHOOL,ROAD,NO 4 270 HIGH SCHOOL ROAD,COIMBATORE,TAMIL NADU,641022",
+        "ADDRESS": "NO 4 270 HIGH SCHOOL,ROAD,NO 4 270 HIGH SCHOOL ROAD,COIMBATORE,TAMILNADU,641022",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "THUDIYALUR",
@@ -1975,7 +1975,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -1993,7 +1993,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -2515,7 +2515,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -2700,7 +2700,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "NO 29,NELLIKUPPAM MAIN ROAD,S N CHAVADI,CUDDALORE DISTRICT,TAMIL NADU 607002,607002",
+        "ADDRESS": "NO 29,NELLIKUPPAM MAIN ROAD,S N CHAVADI,CUDDALORE DISTRICT,TAMILNADU 607002,607002",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "CUDDALORE",
@@ -2713,7 +2713,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3145,7 +3145,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3163,7 +3163,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3181,7 +3181,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3199,7 +3199,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3217,7 +3217,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3235,7 +3235,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3253,7 +3253,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3271,7 +3271,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3289,7 +3289,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3307,7 +3307,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3325,7 +3325,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3343,7 +3343,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3361,7 +3361,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3379,7 +3379,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3397,7 +3397,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3415,7 +3415,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3433,7 +3433,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3451,7 +3451,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3469,7 +3469,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3487,7 +3487,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3505,7 +3505,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3523,12 +3523,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 65K 1 1 A,D TEX COMPLEX,VADAMDURAI ROAD,DINDIGUL,TAMIL NADU 624710",
+        "ADDRESS": "NO 65K 1 1 A,D TEX COMPLEX,VADAMDURAI ROAD,DINDIGUL,TAMILNADU 624710",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "VEDASANDUR",
@@ -3541,12 +3541,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "OPP GOVT GIRLS SCHOOL,GOPALPATTI VEMBARPATTI PO,DINDIGUL DISTRICT,TAMIL NADU,624308",
+        "ADDRESS": "OPP GOVT GIRLS SCHOOL,GOPALPATTI VEMBARPATTI PO,DINDIGUL DISTRICT,TAMILNADU,624308",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "SANARPATTI",
@@ -3559,7 +3559,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3577,7 +3577,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3955,7 +3955,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3973,7 +3973,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -3991,7 +3991,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4009,7 +4009,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4027,7 +4027,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4045,7 +4045,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4063,7 +4063,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4369,25 +4369,25 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 11,FIRST FLOOR,MAIN ROAD,MARIYAMMAN NAGAR,KARAMANIKUPPAM,PUDUCHERRY 605004,605004",
+        "ADDRESS": "NO 11,FIRST FLOOR,MAIN ROAD,MARIYAMMAN NAGAR,KARAMANIKUPPAM,PONDICHERRY 605004,605004",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
-        "BRANCH": "PUDUCHERRY",
-        "CENTRE": "PUDUCHERRY",
-        "CITY": "PUDUCHERRY",
+        "BRANCH": "PONDICHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "00",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "ESMF0001403",
         "IMPS": true,
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4405,7 +4405,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4423,7 +4423,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4729,12 +4729,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 15,PSK NAGAR,IST MAIN ROAD,IST FLOOR,SEVILIMEDU VILLAGE AND POST,KANCHIPURAM,TAMIL NADU 631501",
+        "ADDRESS": "NO 15,PSK NAGAR,IST MAIN ROAD,IST FLOOR,SEVILIMEDU VILLAGE AND POST,KANCHIPURAM,TAMILNADU 631501",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "KANCHIPURAM",
@@ -4747,12 +4747,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 330 A,POLUR ROAD SELVA NAGAR,VENGIKAL,THRIVANNAMALAI,TAMIL NADU 606604",
+        "ADDRESS": "NO 330 A,POLUR ROAD SELVA NAGAR,VENGIKAL,THRIVANNAMALAI,TAMILNADU 606604",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "THIRUVANNAMALAI",
@@ -4765,12 +4765,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "RAVI COMPLEX,JEEVA NAGAR,THEVARAM ROAD,BODINAYAKANUR,THENI,TAMIL NADU 625513",
+        "ADDRESS": "RAVI COMPLEX,JEEVA NAGAR,THEVARAM ROAD,BODINAYAKANUR,THENI,TAMILNADU 625513",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "BODINAYAKANUR",
@@ -4783,12 +4783,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "ANGEL COMPLEX,THAKKALAI,METTUKADAI ROAD,PADMANABAPURAM MUNCIPALITY,KALKULAM TALUK,KANYAKUMARI,TAMIL NADU 629175",
+        "ADDRESS": "ANGEL COMPLEX,THAKKALAI,METTUKADAI ROAD,PADMANABAPURAM MUNCIPALITY,KALKULAM TALUK,KANYAKUMARI,TAMILNADU 629175",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "THAKKALAI",
@@ -4801,12 +4801,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 46,2ND FLOOR,ASP COMPLEX,OPPOSITE TO BUS STAND,KANGEYAM,TIRUPPUR,TAMIL NADU 638701",
+        "ADDRESS": "NO 46,2ND FLOOR,ASP COMPLEX,OPPOSITE TO BUS STAND,KANGEYAM,TIRUPPUR,TAMILNADU 638701",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "KANGEYAM",
@@ -4819,12 +4819,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 20 C,KATTUR ROAD,MINJUR,THIRUVALLUR,TAMIL NADU 601203",
+        "ADDRESS": "NO 20 C,KATTUR ROAD,MINJUR,THIRUVALLUR,TAMILNADU 601203",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "MINJUR",
@@ -4837,7 +4837,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4855,12 +4855,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "DOOR NO 17 13 B,17 11D,SLAEM COMPLEX,OPPO NALAVAHVU CHURCH,NIHRAVILAI,KANYAKUMARI,TAMIL NADU 629176",
+        "ADDRESS": "DOOR NO 17 13 B,17 11D,SLAEM COMPLEX,OPPO NALAVAHVU CHURCH,NIHRAVILAI,KANYAKUMARI,TAMILNADU 629176",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "THOOTHUR",
@@ -4873,12 +4873,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "DOOR NO 13 28,IST FLOOR,ARUMUGANADAR COMPLEX,SALAIPUDUR,LEVINJIPURAM POST,TIRUNELVELI,TAMIL NADU 627114",
+        "ADDRESS": "DOOR NO 13 28,IST FLOOR,ARUMUGANADAR COMPLEX,SALAIPUDUR,LEVINJIPURAM POST,TIRUNELVELI,TAMILNADU 627114",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "KANYAKUMARI",
@@ -4891,12 +4891,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "SUGUNA COMPLEX,OPP TO POST OFFICE,CHETTIYARPEATTAI,ANDIPATI,THENI,TAMIL NADU 625512",
+        "ADDRESS": "SUGUNA COMPLEX,OPP TO POST OFFICE,CHETTIYARPEATTAI,ANDIPATI,THENI,TAMILNADU 625512",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "ANDIPATTI",
@@ -4909,12 +4909,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 22,VASANTHNAGAR,DEEPAM COMPLEX,SINGANALLUR,COIMBATORE,TAMIL NADU 641005",
+        "ADDRESS": "NO 22,VASANTHNAGAR,DEEPAM COMPLEX,SINGANALLUR,COIMBATORE,TAMILNADU 641005",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "ONDI PUTHUR",
@@ -4927,7 +4927,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -4950,7 +4950,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "5 290,DESAI CHETTY STREET,NEAR BSNL OFFICE,KOVALAM,KANCHIPURAM,TAMIL NADU 442603",
+        "ADDRESS": "5 290,DESAI CHETTY STREET,NEAR BSNL OFFICE,KOVALAM,KANCHIPURAM,TAMILNADU 442603",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "KOVALAM",
@@ -4963,7 +4963,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -5436,7 +5436,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "MOHANA PLAZA,PLOT NO733,ROADNO36,JUBILEE HILLS,HYDERABAD,TELENGANA 500 033,50033",
+        "ADDRESS": "MOHANA PLAZA,PLOT NO733,ROADNO36,JUBILEE HILLS,HYDERABAD,TELANGANA 500 033,50033",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "HYDERABAD",
@@ -5454,7 +5454,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "BLOCK NO 32,KUTTY COMPLEX,DINDIGUL ROAD,TIRUCHIRAPALLI,TIRUCHIRAPALLI DIST,TAMIL NADU 620001,6201",
+        "ADDRESS": "BLOCK NO 32,KUTTY COMPLEX,DINDIGUL ROAD,TIRUCHIRAPALLI,TIRUCHIRAPALLI DIST,TAMILNADU 620001,6201",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "TIRUCHIRAPALLI",
@@ -5467,12 +5467,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "RS 615,1B2,ELUMATHUR,B VILLAGE,ELUMATHUR PO,MUTHUR,ERODE ROAD,TAMIL NADU,638104",
+        "ADDRESS": "RS 615,1B2,ELUMATHUR,B VILLAGE,ELUMATHUR PO,MUTHUR,ERODE ROAD,TAMILNADU,638104",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "ELUMATHUR",
@@ -5485,7 +5485,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -5688,7 +5688,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "NO 640 3, KARIYAMPALAYAM VILLAGE,NEAR AMMAN TEMPLE, SILAYAPPAN PALAYAM ROAD, COIMBATORE DIST, TAMIL NADU 641653",
+        "ADDRESS": "NO 640 3, KARIYAMPALAYAM VILLAGE,NEAR AMMAN TEMPLE, SILAYAPPAN PALAYAM ROAD, COIMBATORE DIST, TAMILNADU 641653",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "KARIYAMPALAYAM",
@@ -5701,12 +5701,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO3 2 1,2,R R COMPLEX,NEAR P A M SCHOOL,ARASUR ROAD,VELLANAIPATTI VILLAGE,COIMBATORE,TAMIL NADU 641048",
+        "ADDRESS": "NO3 2 1,2,R R COMPLEX,NEAR P A M SCHOOL,ARASUR ROAD,VELLANAIPATTI VILLAGE,COIMBATORE,TAMILNADU 641048",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "VELLANAIPATTI",
@@ -5719,12 +5719,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "DOOR NO 58,GROUND FLOOR,IVY TOWERS,TRIVANDRUM MAIN ROAD,PALAYAMKOTTAI,TIRUNELVELI,TAMIL NADU,627002",
+        "ADDRESS": "DOOR NO 58,GROUND FLOOR,IVY TOWERS,TRIVANDRUM MAIN ROAD,PALAYAMKOTTAI,TIRUNELVELI,TAMILNADU,627002",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "PALAYAMKOTTAI TIRUNELVELI",
@@ -5737,12 +5737,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "SYNO 229,NEAR SELLAP PANPALAYAM BUS STOP,COIMBATORE SATHYAMANGALAM ROAD,COIMBATORE,TAMIL NADU 638459",
+        "ADDRESS": "SYNO 229,NEAR SELLAP PANPALAYAM BUS STOP,COIMBATORE SATHYAMANGALAM ROAD,COIMBATORE,TAMILNADU 638459",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "AMBODI",
@@ -5755,7 +5755,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -5814,7 +5814,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "NO 5,6,7,S V SQUARE MALL,RANIP,GODREJ CITY ROAD,AHMEDABAD,GUJARAT,382470",
+        "ADDRESS": "NO 5,6,7,S V SQUARE MALL,RANIP,GODREJ CITY ROAD,AHMEDABAD,GUJRAT,382470",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "AHMEDABAD",
@@ -5827,7 +5827,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -5868,7 +5868,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "SY NO 284 17,ELAVAMALAI VILLAGE,NEAR GRACE HSS,BHAWANI KAVUNDAPADI ROAD,ERODE,TAMIL NADU 638316",
+        "ADDRESS": "SY NO 284 17,ELAVAMALAI VILLAGE,NEAR GRACE HSS,BHAWANI KAVUNDAPADI ROAD,ERODE,TAMILNADU 638316",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "ELAVAMALI",
@@ -5881,7 +5881,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -5917,12 +5917,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 14 5,GANDHINAGAR,BATLAGUNDU,NILAKOTAI TK,DINDIGUL,TAMIL NADU 624202",
+        "ADDRESS": "NO 14 5,GANDHINAGAR,BATLAGUNDU,NILAKOTAI TK,DINDIGUL,TAMILNADU 624202",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "BATLAGUNDU",
@@ -5935,7 +5935,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -5953,12 +5953,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "NO 70 22,70 21,VELAKANNI BUS STOP,OPP IYAPPAN KOVIL KARAMADAI ROAD,MATTUPALAYAM,COIMBATORE,TAMIL NADU 641601",
+        "ADDRESS": "NO 70 22,70 21,VELAKANNI BUS STOP,OPP IYAPPAN KOVIL KARAMADAI ROAD,MATTUPALAYAM,COIMBATORE,TAMILNADU 641601",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "METTUPALAYAM",
@@ -5971,7 +5971,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -6012,7 +6012,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "ARCHANA COMPLEX,GROUND FLOOR,NO 355A 2,MADURAI BY PASS ROAD,DHARAPURAM,DIST TIRUPUR,TAMIL NADU",
+        "ADDRESS": "ARCHANA COMPLEX,GROUND FLOOR,NO 355A 2,MADURAI BY PASS ROAD,DHARAPURAM,DIST TIRUPUR,TAMILNADU",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "DHARAPURAM",
@@ -6025,7 +6025,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -6043,7 +6043,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -6282,7 +6282,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "BLDNG NO 932 2 3,NEAR BHAGAT SINGH SQUARE,DONGARGARH,RAJNANDGAON,CHATTISGARH 491445",
+        "ADDRESS": "BLDNG NO 932 2 3,NEAR BHAGAT SINGH SQUARE,DONGARGARH,RAJNANDGAON,CHHATTISGARH 491445",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "DONAGARGARH",
@@ -6300,7 +6300,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "NO 13,1,6 VSB THE NEST,POST OFFICE ROAD,SATHYAMANGALAM,ERODE,TAMIL NADU,638401",
+        "ADDRESS": "NO 13,1,6 VSB THE NEST,POST OFFICE ROAD,SATHYAMANGALAM,ERODE,TAMILNADU,638401",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "SATHYAMANGALAM",
@@ -6318,7 +6318,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "DOOR NO 2 185 4,IST FLOOR,ARANIVILAI,NEAR JAYA HOSPITAL,KULASEKARAM,KANYAKUMARI,TAMIL NADU 629161",
+        "ADDRESS": "DOOR NO 2 185 4,IST FLOOR,ARANIVILAI,NEAR JAYA HOSPITAL,KULASEKARAM,KANYAKUMARI,TAMILNADU 629161",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "KULASEKARAM",
@@ -6331,12 +6331,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "KANWAR HEIGHTS,KHASRA NI80 14,86 19,KOURIN BHATHA VILLAGE,RAJNANDGAON,CHATTISGARH 491441",
+        "ADDRESS": "KANWAR HEIGHTS,KHASRA NI80 14,86 19,KOURIN BHATHA VILLAGE,RAJNANDGAON,CHHATTISGARH 491441",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "RAJNANDGAON",
@@ -6498,7 +6498,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "RAJPUT TOWER,RAIPUR ROAD,MAHASAMUND,CHATTISGARH 493445",
+        "ADDRESS": "RAJPUT TOWER,RAIPUR ROAD,MAHASAMUND,CHHATTISGARH 493445",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "MAHASAMUND",
@@ -6516,7 +6516,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "NO 12,WARD NO 47,BUS STAND ROAD,PITHORA,MAHASAMUND,CHATTISGARH 493551",
+        "ADDRESS": "NO 12,WARD NO 47,BUS STAND ROAD,PITHORA,MAHASAMUND,CHHATTISGARH 493551",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "PITHORA",
@@ -6583,12 +6583,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "4 5,RAJAPPA MUTHALIYAR STREET,NEAR S R LODGE,ANAMALAI,COIMABTORE,TAMIL NADU 642104",
+        "ADDRESS": "4 5,RAJAPPA MUTHALIYAR STREET,NEAR S R LODGE,ANAMALAI,COIMABTORE,TAMILNADU 642104",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "ANAMALAI",
@@ -6601,7 +6601,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -6642,7 +6642,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "58 3A,OPP ATSC THEATER,MUNCIPAL BOYS HSS STREET,POLLACHI,COIMBATORE,TAMIL NADU 642001",
+        "ADDRESS": "58 3A,OPP ATSC THEATER,MUNCIPAL BOYS HSS STREET,POLLACHI,COIMBATORE,TAMILNADU 642001",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "POLLACHI",
@@ -6655,7 +6655,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -6804,7 +6804,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "BALAJI PLAZA,PLOT NO43 1,43 4,GROUND AND FIRST FLOOR,MOTOR STAND WARD,DHAMTARI,CHATTISGARH 493773",
+        "ADDRESS": "BALAJI PLAZA,PLOT NO43 1,43 4,GROUND AND FIRST FLOOR,MOTOR STAND WARD,DHAMTARI,CHHATTISGARH 493773",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "DHAMTARI",
@@ -6858,7 +6858,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "DOOR NO 419 A,GROUND FLOOR,4 20,NEAR ANNASILAI JN,ANNASILAI BEACH ROAD,COLACHEL,KANYAKUMARI,TAMIL NADU 629251",
+        "ADDRESS": "DOOR NO 419 A,GROUND FLOOR,4 20,NEAR ANNASILAI JN,ANNASILAI BEACH ROAD,COLACHEL,KANYAKUMARI,TAMILNADU 629251",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "COLACHEL",
@@ -6871,7 +6871,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -6930,7 +6930,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "643 1 D,RKG MANOR,OPP TRAFFIC POLICE STN,BANGALORE BYPASS ROAD,HOSUR,TAMIL NADU 635109",
+        "ADDRESS": "643 1 D,RKG MANOR,OPP TRAFFIC POLICE STN,BANGALORE BYPASS ROAD,HOSUR,TAMILNADU 635109",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "HOSUR",
@@ -6943,7 +6943,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7002,7 +7002,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "GROUND FLOOR,VELMURUGAN COMPLEX,NEAR DINA THANTHI OFFICE,NACHIAPPA STREET,ERODE,TAMIL NADU 638001",
+        "ADDRESS": "GROUND FLOOR,VELMURUGAN COMPLEX,NEAR DINA THANTHI OFFICE,NACHIAPPA STREET,ERODE,TAMILNADU 638001",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "ERODE",
@@ -7015,7 +7015,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7038,7 +7038,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "PREMA PERUMAL TRINITY COMMERCIAL COMPLEX,NEAR KEERTHANA THEATRE,SALEM JUNCTION,SALEM,TAMIL NADU 636005",
+        "ADDRESS": "PREMA PERUMAL TRINITY COMMERCIAL COMPLEX,NEAR KEERTHANA THEATRE,SALEM JUNCTION,SALEM,TAMILNADU 636005",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "SALEM",
@@ -7051,7 +7051,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7074,7 +7074,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "NO C,21ST CENTURY BUSINESS CENTER,RING ROAD,SURAT,GUJARAT 395002",
+        "ADDRESS": "NO C,21ST CENTURY BUSINESS CENTER,RING ROAD,SURAT,GUJRAT 395002",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "SURAT",
@@ -7087,7 +7087,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -7146,7 +7146,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "DOOR NO2 104,NAGULAGOUNDANPATTY VILLAGE AND P O MOTTANUTHU,THENI DISCTRICT,TAMIL NADU,625512",
+        "ADDRESS": "DOOR NO2 104,NAGULAGOUNDANPATTY VILLAGE AND P O MOTTANUTHU,THENI DISCTRICT,TAMILNADU,625512",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "MOTTANUTHU",
@@ -7159,7 +7159,7 @@
         "MICR": "625760104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7218,7 +7218,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "P P S Complex, 452,Periyakulam road, Unjampatty Village, Theni District, Tamil Nadu. Pin 625531",
+        "ADDRESS": "P P S Complex, 452,Periyakulam road, Unjampatty Village, Theni District, TAMILNADU. Pin 625531",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "Unjampatty",
@@ -7231,7 +7231,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7375,7 +7375,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7411,7 +7411,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7447,7 +7447,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7465,7 +7465,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7519,7 +7519,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7537,7 +7537,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -7555,7 +7555,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -8185,7 +8185,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -8784,7 +8784,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "No 5/328 & 328A, Ground Floor, Near Ration Shop,Thuneri, Ooty, Nilgiri District,Tamil Nadu  PIN 643002",
+        "ADDRESS": "No 5/328 & 328A, Ground Floor, Near Ration Shop,Thuneri, Ooty, Nilgiri District,TAMILNADU  PIN 643002",
         "BANK": "Esaf Small Finance Bank",
         "BANKCODE": "ESMF",
         "BRANCH": "Thuneri",
@@ -8797,7 +8797,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -8869,7 +8869,7 @@
         "MICR": "686760304",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -8887,7 +8887,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },

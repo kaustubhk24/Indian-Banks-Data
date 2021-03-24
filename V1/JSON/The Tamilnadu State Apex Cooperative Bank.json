@@ -1,19 +1,19 @@
 [
     {
-        "ADDRESS": "204,EAST COAST ROAD,OLANDAIKEERAPALAYAM,MUDALIARPET POST,PUDUCHERRY - 605 004",
+        "ADDRESS": "204,EAST COAST ROAD,OLANDAIKEERAPALAYAM,MUDALIARPET POST,PONDICHERRY - 605 004",
         "BANK": "Pondicherry State Co-operative Bank",
         "BANKCODE": "PCSX",
         "BRANCH": "Pondicherry State Co-operative Bank IMPS",
-        "CENTRE": "PUDUCHERRY",
-        "CITY": "PUDUCHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "04132285303",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "TNSC0160101",
         "IMPS": true,
         "MICR": "605632001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": false
     },
@@ -31,7 +31,7 @@
         "MICR": "600091001",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -49,7 +49,7 @@
         "MICR": "600411001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -67,7 +67,7 @@
         "MICR": "605800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -85,7 +85,7 @@
         "MICR": "627805002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -103,7 +103,7 @@
         "MICR": "606800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -121,7 +121,7 @@
         "MICR": "630800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -139,7 +139,7 @@
         "MICR": "626800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -157,7 +157,7 @@
         "MICR": "625800001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -175,7 +175,7 @@
         "MICR": "632800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -193,7 +193,7 @@
         "MICR": "627803002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -211,7 +211,7 @@
         "MICR": "620547002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -229,7 +229,7 @@
         "MICR": "613800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -247,7 +247,7 @@
         "MICR": "607816002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -265,7 +265,7 @@
         "MICR": "636624002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -283,7 +283,7 @@
         "MICR": "623800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -301,7 +301,7 @@
         "MICR": "622800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -319,7 +319,7 @@
         "MICR": "638572002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -337,7 +337,7 @@
         "MICR": "643800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -355,7 +355,7 @@
         "MICR": "625306002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -373,7 +373,7 @@
         "MICR": "600092002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -391,7 +391,7 @@
         "MICR": "612800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -409,7 +409,7 @@
         "MICR": "629800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -427,7 +427,7 @@
         "MICR": "600091276",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -445,7 +445,7 @@
         "MICR": "636800002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -463,7 +463,7 @@
         "MICR": "641464002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -481,7 +481,7 @@
         "MICR": "600091001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     }

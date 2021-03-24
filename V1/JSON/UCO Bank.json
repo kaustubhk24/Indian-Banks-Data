@@ -216,7 +216,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO1,SHRI RANG HEIGHTS, NEAR CHEHAR MATA MANDIR, MANINAGAR EAST, AHMEDABAD GUJARAT 380008",
+        "ADDRESS": "NO1,SHRI RANG HEIGHTS, NEAR CHEHAR MATA MANDIR, MANINAGAR EAST, AHMEDABAD GUJRAT 380008",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "MANINAGAR EAST",
@@ -229,7 +229,7 @@
         "MICR": "380028037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -247,7 +247,7 @@
         "MICR": "600028042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -265,7 +265,7 @@
         "MICR": "600028043",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -355,7 +355,7 @@
         "MICR": "625028007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -391,7 +391,7 @@
         "MICR": "385028032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -463,7 +463,7 @@
         "MICR": "641028008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -702,7 +702,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "G13 G14 RAJMAHAL COMPLEX VESU SURAT GUJARAT",
+        "ADDRESS": "G13 G14 RAJMAHAL COMPLEX VESU SURAT GUJRAT",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "VESU",
@@ -715,7 +715,7 @@
         "MICR": "395028012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2389,7 +2389,7 @@
         "MICR": "636028102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2407,7 +2407,7 @@
         "MICR": "635028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3096,7 +3096,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "HO NO 29 29 BY 1, MAIN ROAD, MANDVIDIST SURAT, GUJARAT",
+        "ADDRESS": "HO NO 29 29 BY 1, MAIN ROAD, MANDVIDIST SURAT, GUJRAT",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "MANDVI",
@@ -3109,7 +3109,7 @@
         "MICR": "394028091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3415,7 +3415,7 @@
         "MICR": "600028041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3685,7 +3685,7 @@
         "MICR": "389028021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3865,7 +3865,7 @@
         "MICR": "623028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4765,7 +4765,7 @@
         "MICR": "600028040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5418,7 +5418,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "FLOT NO.401,BOATSTREET,VISWASSURYAMANSION,YANAM,PONDICHERY 533464 TAMIL NADU",
+        "ADDRESS": "FLOT NO.401,BOATSTREET,VISWASSURYAMANSION,YANAM,PONDICHERY 533464 TAMILNADU",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "YANAM",
@@ -5431,7 +5431,7 @@
         "MICR": "533028152",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -5521,7 +5521,7 @@
         "MICR": "393028051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5994,7 +5994,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "HAZIRA BRANCH,SHOP NO 1,2,3 AND 4,SHRI HA ICHHAPUR,HAZIRA,SURAT,GUJARAT 394510",
+        "ADDRESS": "HAZIRA BRANCH,SHOP NO 1,2,3 AND 4,SHRI HA ICHHAPUR,HAZIRA,SURAT,GUJRAT 394510",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "HAZIRA BRANCH",
@@ -6007,7 +6007,7 @@
         "MICR": "395028011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6151,12 +6151,12 @@
         "MICR": "393028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK,VYARA BRANCH,SIDHA SHILA,VYARAVYARA,DIST TAPI,GUJARAT,PIN 294650",
+        "ADDRESS": "UCO BANK,VYARA BRANCH,SIDHA SHILA,VYARAVYARA,DIST TAPI,GUJRAT,PIN 294650",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "VYARA BRANCH",
@@ -6169,7 +6169,7 @@
         "MICR": "394028071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6565,7 +6565,7 @@
         "MICR": "620028012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6619,7 +6619,7 @@
         "MICR": "641028007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7771,7 +7771,7 @@
         "MICR": "600028039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7951,7 +7951,7 @@
         "MICR": "607028102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8707,7 +8707,7 @@
         "MICR": "380028035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8820,7 +8820,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO67, KALYANI NAGAR, PALANI ROAD, UDUMALTIRUPUR DISTRICT, TAMIL NADU,PINCODE-642154 642154",
+        "ADDRESS": "PLOT NO67, KALYANI NAGAR, PALANI ROAD, UDUMALTIRUPUR DISTRICT, TAMILNADU,PINCODE-642154 642154",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "UDUMALAIPETTAI",
@@ -8833,7 +8833,7 @@
         "MICR": "642028154",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9031,7 +9031,7 @@
         "MICR": "362028141",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9247,7 +9247,7 @@
         "MICR": "396028062",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9265,7 +9265,7 @@
         "MICR": "370028121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9427,7 +9427,7 @@
         "MICR": "396028321",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9445,7 +9445,7 @@
         "MICR": "390028010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9463,7 +9463,7 @@
         "MICR": "382028501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9931,7 +9931,7 @@
         "MICR": "362028051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9949,7 +9949,7 @@
         "MICR": "388028540",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9967,7 +9967,7 @@
         "MICR": "363028021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10453,7 +10453,7 @@
         "MICR": "361028071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10471,7 +10471,7 @@
         "MICR": "385028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10525,7 +10525,7 @@
         "MICR": "394028230",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10543,7 +10543,7 @@
         "MICR": "382028715",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10561,7 +10561,7 @@
         "MICR": "392028150",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10579,7 +10579,7 @@
         "MICR": "389028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -11659,7 +11659,7 @@
         "MICR": "600028038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11677,7 +11677,7 @@
         "MICR": "600028037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12361,7 +12361,7 @@
         "MICR": "600028036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12523,7 +12523,7 @@
         "MICR": "380028034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12685,7 +12685,7 @@
         "MICR": "394028051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12739,7 +12739,7 @@
         "MICR": "641028104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13153,7 +13153,7 @@
         "MICR": "382028041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13243,7 +13243,7 @@
         "MICR": "625028103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13333,7 +13333,7 @@
         "MICR": "600028035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13423,7 +13423,7 @@
         "MICR": "363028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13441,7 +13441,7 @@
         "MICR": "600028034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13729,7 +13729,7 @@
         "MICR": "606028202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13747,7 +13747,7 @@
         "MICR": "624028102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14400,7 +14400,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "1 ,PRABHU ESTAT ,CHANGODAR CHAR RASTA,TALUK-SANAND,DISTT-AHMEDABAD,GUJARAT 382210",
+        "ADDRESS": "1 ,PRABHU ESTAT ,CHANGODAR CHAR RASTA,TALUK-SANAND,DISTT-AHMEDABAD,GUJRAT 382210",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "CHANGODAR",
@@ -14413,7 +14413,7 @@
         "MICR": "380028033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14431,7 +14431,7 @@
         "MICR": "382028141",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14503,7 +14503,7 @@
         "MICR": "641028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15241,7 +15241,7 @@
         "MICR": "380028032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -15264,7 +15264,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VAPI,VAISHALI COMPLEX,VAISHALICINEMA,KOPRALI ROAD,VAPI,GUJARAT 396191",
+        "ADDRESS": "VAPI,VAISHALI COMPLEX,VAISHALICINEMA,KOPRALI ROAD,VAPI,GUJRAT 396191",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "VAPI",
@@ -15277,7 +15277,7 @@
         "MICR": "396028031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -15295,7 +15295,7 @@
         "MICR": "621028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15313,7 +15313,7 @@
         "MICR": "625028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15457,7 +15457,7 @@
         "MICR": "383028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -15817,7 +15817,7 @@
         "MICR": "384028081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16033,7 +16033,7 @@
         "MICR": "600028033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16195,7 +16195,7 @@
         "MICR": "600028032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17563,7 +17563,7 @@
         "MICR": "384028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17581,7 +17581,7 @@
         "MICR": "370028051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18643,7 +18643,7 @@
         "MICR": "638028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -18697,7 +18697,7 @@
         "MICR": "625028102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -18715,7 +18715,7 @@
         "MICR": "606028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -18985,7 +18985,7 @@
         "MICR": "622028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20263,7 +20263,7 @@
         "MICR": "600028027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20281,7 +20281,7 @@
         "MICR": "600028031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20479,7 +20479,7 @@
         "MICR": "630028203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20641,7 +20641,7 @@
         "MICR": "600028026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20749,7 +20749,7 @@
         "MICR": "630028202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20821,7 +20821,7 @@
         "MICR": "641028103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20839,7 +20839,7 @@
         "MICR": "600028024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21019,7 +21019,7 @@
         "MICR": "395028007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21631,7 +21631,7 @@
         "MICR": "641028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21649,7 +21649,7 @@
         "MICR": "600028023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21811,7 +21811,7 @@
         "MICR": "390028009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22266,7 +22266,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, PO: ADHARTAL, DIST: JABALPUR, MADHYAPRADESH PINCODE: 482004",
+        "ADDRESS": "UCO BANK, PO: ADHARTAL, DIST: JABALPUR, MADHYA PRADESH PINCODE: 482004",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "JNKVV",
@@ -22333,7 +22333,7 @@
         "MICR": "380028030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22423,7 +22423,7 @@
         "MICR": "380028029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22441,7 +22441,7 @@
         "MICR": "641028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22459,7 +22459,7 @@
         "MICR": "626028102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22747,7 +22747,7 @@
         "MICR": "641028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22765,7 +22765,7 @@
         "MICR": "605028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -22819,7 +22819,7 @@
         "MICR": "600028022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23035,7 +23035,7 @@
         "MICR": "380028028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23053,7 +23053,7 @@
         "MICR": "390028008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23935,7 +23935,7 @@
         "MICR": "639028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24853,7 +24853,7 @@
         "MICR": "638028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25411,7 +25411,7 @@
         "MICR": "600028020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25429,7 +25429,7 @@
         "MICR": "626028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25591,7 +25591,7 @@
         "MICR": "641028102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26293,7 +26293,7 @@
         "MICR": "600028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26689,7 +26689,7 @@
         "MICR": "600028019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27049,7 +27049,7 @@
         "MICR": "625028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27139,7 +27139,7 @@
         "MICR": "395028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27157,7 +27157,7 @@
         "MICR": "380028024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27679,7 +27679,7 @@
         "MICR": "620028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27895,7 +27895,7 @@
         "MICR": "360028502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28597,7 +28597,7 @@
         "MICR": "620028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28633,7 +28633,7 @@
         "MICR": "605028010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29569,7 +29569,7 @@
         "MICR": "605028008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29965,7 +29965,7 @@
         "MICR": "625028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -31531,7 +31531,7 @@
         "MICR": "600028018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -32611,7 +32611,7 @@
         "MICR": "643028102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -32845,7 +32845,7 @@
         "MICR": "605028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -33727,7 +33727,7 @@
         "MICR": "643028202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35185,7 +35185,7 @@
         "MICR": "625028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35437,7 +35437,7 @@
         "MICR": "632028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36967,7 +36967,7 @@
         "MICR": "392028162",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -37201,7 +37201,7 @@
         "MICR": "365028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -37759,7 +37759,7 @@
         "MICR": "380028017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -37903,7 +37903,7 @@
         "MICR": "361028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -38353,7 +38353,7 @@
         "MICR": "380028026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -38821,7 +38821,7 @@
         "MICR": "600028007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38880,7 +38880,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, 4 MOUNT ROAF, SAIDAPET,CHENNAI (TAMIL NADU) - 600015",
+        "ADDRESS": "UCO BANK, 4 MOUNT ROAF, SAIDAPET,CHENNAI (TAMILNADU) - 600015",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "SAIDAPET",
@@ -38893,7 +38893,7 @@
         "MICR": "600028012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39811,7 +39811,7 @@
         "MICR": "380028027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -39865,7 +39865,7 @@
         "MICR": "643028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40189,7 +40189,7 @@
         "MICR": "627028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40657,7 +40657,7 @@
         "MICR": "380028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -40842,7 +40842,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, 11 E V N ROAD,ERODE 638011(TAMIL NADU)",
+        "ADDRESS": "UCO BANK, 11 E V N ROAD,ERODE 638011(TAMILNADU)",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "ERODE",
@@ -40855,7 +40855,7 @@
         "MICR": "638028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40927,7 +40927,7 @@
         "MICR": "600028008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41035,7 +41035,7 @@
         "MICR": "380028020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -41575,7 +41575,7 @@
         "MICR": "380028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -41971,7 +41971,7 @@
         "MICR": "600028017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -42241,7 +42241,7 @@
         "MICR": "620028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -42331,7 +42331,7 @@
         "MICR": "370028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -42529,7 +42529,7 @@
         "MICR": "390028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -42835,7 +42835,7 @@
         "MICR": "380028013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -43411,7 +43411,7 @@
         "MICR": "380028021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -43465,7 +43465,7 @@
         "MICR": "613028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -43663,7 +43663,7 @@
         "MICR": "380028016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -43699,7 +43699,7 @@
         "MICR": "629028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -44005,7 +44005,7 @@
         "MICR": "362028071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -44221,7 +44221,7 @@
         "MICR": "396028463",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -44743,7 +44743,7 @@
         "MICR": "605028007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -44779,7 +44779,7 @@
         "MICR": "390028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -44797,7 +44797,7 @@
         "MICR": "396028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -45175,7 +45175,7 @@
         "MICR": "630028204",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -45319,7 +45319,7 @@
         "MICR": "600028010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -45481,7 +45481,7 @@
         "MICR": "609028102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -45630,7 +45630,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, KONNUR HIGH ROAD, ICF COLONY, CHENNAI (TAMIL NADU) - 600038",
+        "ADDRESS": "UCO BANK, KONNUR HIGH ROAD, ICF COLONY, CHENNAI (TAMILNADU) - 600038",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "ICF COLONY",
@@ -45643,7 +45643,7 @@
         "MICR": "600028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -45985,7 +45985,7 @@
         "MICR": "365028501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -46039,7 +46039,7 @@
         "MICR": "626028302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46093,7 +46093,7 @@
         "MICR": "627028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46345,7 +46345,7 @@
         "MICR": "362028501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -46363,7 +46363,7 @@
         "MICR": "627028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46507,7 +46507,7 @@
         "MICR": "627028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46525,7 +46525,7 @@
         "MICR": "600028030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46543,7 +46543,7 @@
         "MICR": "600028029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46651,7 +46651,7 @@
         "MICR": "360028501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -46687,7 +46687,7 @@
         "MICR": "627028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -46777,7 +46777,7 @@
         "MICR": "613028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47137,7 +47137,7 @@
         "MICR": "620028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47191,7 +47191,7 @@
         "MICR": "600028025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47209,7 +47209,7 @@
         "MICR": "362028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -47245,7 +47245,7 @@
         "MICR": "636028006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47263,7 +47263,7 @@
         "MICR": "636028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -47299,7 +47299,7 @@
         "MICR": "605028009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -48024,7 +48024,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UCOBANK,-KHIRPAI, VILL POST-KHIRPAI, WESTBENGAL DIST-WEST-MIDNAPUR,PIN-721232",
+        "ADDRESS": "UCOBANK,-KHIRPAI, VILL POST-KHIRPAI, WEST BENGAL DIST-WEST-MIDNAPUR,PIN-721232",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "KHIRPAI",
@@ -48091,7 +48091,7 @@
         "MICR": "605028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -48451,7 +48451,7 @@
         "MICR": "380028012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -48937,7 +48937,7 @@
         "MICR": "636028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -48955,7 +48955,7 @@
         "MICR": "636028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -49261,7 +49261,7 @@
         "MICR": "360028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49279,7 +49279,7 @@
         "MICR": "390028007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49297,7 +49297,7 @@
         "MICR": "388028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49369,7 +49369,7 @@
         "MICR": "394028250",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49441,7 +49441,7 @@
         "MICR": "388028410",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49459,7 +49459,7 @@
         "MICR": "387028610",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49477,7 +49477,7 @@
         "MICR": "380028018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49495,7 +49495,7 @@
         "MICR": "384028170",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49549,7 +49549,7 @@
         "MICR": "396028350",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49567,7 +49567,7 @@
         "MICR": "395028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49765,7 +49765,7 @@
         "MICR": "380028008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -49842,7 +49842,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, \"DHEN MAHAL', 107, LATTICE BRIDGE ROAD, ADYAR,CHENNAI (TAMIL NADU) - 600020",
+        "ADDRESS": "UCO BANK, \"DHEN MAHAL', 107, LATTICE BRIDGE ROAD, ADYAR,CHENNAI (TAMILNADU) - 600020",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "SHASTRINAGAR",
@@ -49855,7 +49855,7 @@
         "MICR": "600028014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -50143,7 +50143,7 @@
         "MICR": "605028011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -50161,7 +50161,7 @@
         "MICR": "392028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -50197,7 +50197,7 @@
         "MICR": "393028030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -50701,7 +50701,7 @@
         "MICR": "390028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -50809,7 +50809,7 @@
         "MICR": "380028015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -50863,7 +50863,7 @@
         "MICR": "600028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -50953,7 +50953,7 @@
         "MICR": "395028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -51007,7 +51007,7 @@
         "MICR": "364028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -51151,7 +51151,7 @@
         "MICR": "380028010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -51169,7 +51169,7 @@
         "MICR": "387028315",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -51439,7 +51439,7 @@
         "MICR": "600028013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -51637,7 +51637,7 @@
         "MICR": "390028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -51835,7 +51835,7 @@
         "MICR": "380028011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -51871,7 +51871,7 @@
         "MICR": "396028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -52159,7 +52159,7 @@
         "MICR": "605028012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -52339,7 +52339,7 @@
         "MICR": "380028014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -52465,7 +52465,7 @@
         "MICR": "395028005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -52555,7 +52555,7 @@
         "MICR": "388028099",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -52776,7 +52776,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, 85/1 FIRST MAIN ROAD, GANDHINAGAR, ADYAR,CHENNAI (TAMIL NADU) - 600020",
+        "ADDRESS": "UCO BANK, 85/1 FIRST MAIN ROAD, GANDHINAGAR, ADYAR,CHENNAI (TAMILNADU) - 600020",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "ADYAR",
@@ -52789,12 +52789,12 @@
         "MICR": "600028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, 372 POONAMALLEE HIGH ROAD, CHENNAI (TAMIL NADU) - 600010",
+        "ADDRESS": "UCO BANK, 372 POONAMALLEE HIGH ROAD, CHENNAI (TAMILNADU) - 600010",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "CHETPUT",
@@ -52807,7 +52807,7 @@
         "MICR": "600028004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -52825,7 +52825,7 @@
         "MICR": "387028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -53149,7 +53149,7 @@
         "MICR": "611028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -53275,7 +53275,7 @@
         "MICR": "605028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -53293,7 +53293,7 @@
         "MICR": "360028121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -53545,7 +53545,7 @@
         "MICR": "612028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -53563,12 +53563,12 @@
         "MICR": "622028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, SREE COMPLEX D BLOCK,18 & 21 MADURAI ROAD, TIRUCHIRAPALLI,CHENNAI (TAMIL NADU) - 620008",
+        "ADDRESS": "UCO BANK, SREE COMPLEX D BLOCK,18 & 21 MADURAI ROAD, TIRUCHIRAPALLI,CHENNAI (TAMILNADU) - 620008",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "TIRUCHIRAPPALLI",
@@ -53581,7 +53581,7 @@
         "MICR": "620028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -53635,7 +53635,7 @@
         "MICR": "385028031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -53743,7 +53743,7 @@
         "MICR": "600028009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -53761,7 +53761,7 @@
         "MICR": "600028011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -53851,7 +53851,7 @@
         "MICR": "396028061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54031,7 +54031,7 @@
         "MICR": "388028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54049,7 +54049,7 @@
         "MICR": "361028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54103,7 +54103,7 @@
         "MICR": "396028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54157,7 +54157,7 @@
         "MICR": "364028001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54175,7 +54175,7 @@
         "MICR": "360028081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54193,7 +54193,7 @@
         "MICR": "360028041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54283,7 +54283,7 @@
         "MICR": "360028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54427,7 +54427,7 @@
         "MICR": "605028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -54535,7 +54535,7 @@
         "MICR": "360028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -54684,7 +54684,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UCO BANK, 18 DEVRAJA MUDALI ST., SOWCARPET,CHENNAI (TAMIL NADU) - 600003",
+        "ADDRESS": "UCO BANK, 18 DEVRAJA MUDALI ST., SOWCARPET,CHENNAI (TAMILNADU) - 600003",
         "BANK": "UCO Bank",
         "BANKCODE": "UCBA",
         "BRANCH": "SOWCARPET",
@@ -54697,7 +54697,7 @@
         "MICR": "600028015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -54715,7 +54715,7 @@
         "MICR": "600028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -54787,7 +54787,7 @@
         "MICR": "630028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -54877,7 +54877,7 @@
         "MICR": "641028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -54895,7 +54895,7 @@
         "MICR": "625028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -55075,7 +55075,7 @@
         "MICR": "395028003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -55219,7 +55219,7 @@
         "MICR": "380028002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

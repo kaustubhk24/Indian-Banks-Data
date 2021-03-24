@@ -13,7 +13,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -103,12 +103,12 @@
         "MICR": "635047103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "D NO 11 1 7, FIRST FLOOR,KOVVURI NARASAREDDY BLDG,K N ROAD,TADEPALLIGUDEM,WEST GODAVARI, ANDHRAPRADESH-534102",
+        "ADDRESS": "D NO 11 1 7, FIRST FLOOR,KOVVURI NARASAREDDY BLDG,K N ROAD,TADEPALLIGUDEM,WEST GODAVARI, ANDHRA PRADESH-534102",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "TADEPALLIGUDEM",
@@ -144,7 +144,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR,MIG-I-125,VUDA COLONY,VINAYAK NAGAR,GAJUWAKA, VISAKHAPATNAM,ANDHRAPRADESH-530026",
+        "ADDRESS": "FIRST FLOOR,MIG-I-125,VUDA COLONY,VINAYAK NAGAR,GAJUWAKA, VISAKHAPATNAM,ANDHRA PRADESH-530026",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "GAJUWAKA",
@@ -175,7 +175,7 @@
         "MICR": "625047006",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -193,7 +193,7 @@
         "MICR": "625047005",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -211,7 +211,7 @@
         "MICR": "600047025",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -229,7 +229,7 @@
         "MICR": "638047006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -265,12 +265,12 @@
         "MICR": "625047004",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "D NO 30-3/2,FIRST FLOOR,JEYPORE ROAD (MANI ROAD),SALUR,VIZIANAGARAM,ANDHRAPRADESH-535591",
+        "ADDRESS": "D NO 30-3/2,FIRST FLOOR,JEYPORE ROAD (MANI ROAD),SALUR,VIZIANAGARAM,ANDHRA PRADESH-535591",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "SALUR",
@@ -319,7 +319,7 @@
         "MICR": "600047024",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -337,7 +337,7 @@
         "MICR": "605047004",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -355,7 +355,7 @@
         "MICR": "600047023",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -396,7 +396,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR , BANYAN TREE BUILDING, BALAJI ROAD,TUNI, EAST GODAVARI, ANDHRAPRADESH _x0013_ 533401",
+        "ADDRESS": "FIRST FLOOR , BANYAN TREE BUILDING, BALAJI ROAD,TUNI, EAST GODAVARI, ANDHRA PRADESH _x0013_ 533401",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "TUNI",
@@ -481,7 +481,7 @@
         "MICR": "600047021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -517,7 +517,7 @@
         "MICR": "600047022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -553,7 +553,7 @@
         "MICR": "380047003",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -571,7 +571,7 @@
         "MICR": "360047002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -594,7 +594,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, D.NO 6-1-22, GROUND FLOOR, VAJJULAVARI STREET, PEDDAPURAM, EAST GODAVARI, ANDHRAPRADESH-533437",
+        "ADDRESS": "GROUND FLOOR, D.NO 6-1-22, GROUND FLOOR, VAJJULAVARI STREET, PEDDAPURAM, EAST GODAVARI, ANDHRA PRADESH-533437",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "PEDDAPURAM",
@@ -715,7 +715,7 @@
         "MICR": "641047014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -769,12 +769,12 @@
         "MICR": "641047106",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "EDARA SQUARE BUILDING , GROUND FLOOR, DNO.23B-5-2-3, EDARAVARI STREET, RR PET, ELURU, WEST GODAVARY, ANDHRAPRADESH - 534002",
+        "ADDRESS": "EDARA SQUARE BUILDING , GROUND FLOOR, DNO.23B-5-2-3, EDARAVARI STREET, RR PET, ELURU, WEST GODAVARY, ANDHRA PRADESH - 534002",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "ELURU",
@@ -805,7 +805,7 @@
         "MICR": "600047020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -823,12 +823,12 @@
         "MICR": "600047019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,WOMENS COLLEGE ROAD,NIDADAVOLE,PATIMEDA,WEST GODAVARI,ANDHRAPRADESH-534301",
+        "ADDRESS": "GROUND FLOOR,WOMENS COLLEGE ROAD,NIDADAVOLE,PATIMEDA,WEST GODAVARI,ANDHRA PRADESH-534301",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "NIDADAVOLU",
@@ -918,7 +918,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, WARD NO 4-20, S NO 109 PART, TELAGA VEEDHI, RAJAM MAIN ROAD, RAJAM, SREEKAKULAM, ANDHRAPRADESH - 532 127",
+        "ADDRESS": "GROUND FLOOR, WARD NO 4-20, S NO 109 PART, TELAGA VEEDHI, RAJAM MAIN ROAD, RAJAM, SREEKAKULAM, ANDHRA PRADESH - 532 127",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "RAJAM",
@@ -1021,7 +1021,7 @@
         "MICR": "600047018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1080,7 +1080,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UPPER GROUND FLOOR, NO 22-2-10/4/1,R S NO 465,KAKINADA ROAD, RAMACHANDRAPURAM,EAST GODAVARI, ANDHRAPRADESH- 533255",
+        "ADDRESS": "UPPER GROUND FLOOR, NO 22-2-10/4/1,R S NO 465,KAKINADA ROAD, RAMACHANDRAPURAM,EAST GODAVARI, ANDHRA PRADESH- 533255",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "RAMACHANDRAPURAM",
@@ -1116,7 +1116,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR , PLOT NO 35 ,SRINIVASA COLONY,NCS THEATRE ROAD, VIJAYANAGARAM,ANDHRAPRADESH-535001",
+        "ADDRESS": "GROUND FLOOR , PLOT NO 35 ,SRINIVASA COLONY,NCS THEATRE ROAD, VIJAYANAGARAM,ANDHRA PRADESH-535001",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "VIZIANAGARAM",
@@ -1152,7 +1152,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, DOOR NO 8-1-188, RAMARAOPETA 1ST LANE , NARSIPATNAM, VISAKHAPATNAM, ANDHRAPRADESH-531116",
+        "ADDRESS": "GROUND FLOOR, DOOR NO 8-1-188, RAMARAOPETA 1ST LANE , NARSIPATNAM, VISAKHAPATNAM, ANDHRA PRADESH-531116",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "NARSIPATNAM",
@@ -1183,7 +1183,7 @@
         "MICR": "641047105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1471,7 +1471,7 @@
         "MICR": "641047013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1633,7 +1633,7 @@
         "MICR": "625047302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1651,7 +1651,7 @@
         "MICR": "625047102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1687,7 +1687,7 @@
         "MICR": "627047003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1795,7 +1795,7 @@
         "MICR": "641047008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1813,7 +1813,7 @@
         "MICR": "600047017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2466,7 +2466,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, PLOT NO-C-6, C-12 PART , BLOCK NO-1, WARD NO-2, T.N.H.B, WALAJAPET-632513, VELLORE DISTRICT, TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR, PLOT NO-C-6, C-12 PART , BLOCK NO-1, WARD NO-2, T.N.H.B, WALAJAPET-632513, VELLORE DISTRICT, TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "WALAJAPET",
@@ -2479,7 +2479,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2641,7 +2641,7 @@
         "MICR": "600047016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2664,7 +2664,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, KRISHNA  DARSHAN, PARIMAL  CHOWK, WAGHAWADI  ROAD, BHAVNAGAR, GUJARAT-364001",
+        "ADDRESS": "GROUND FLOOR, KRISHNA  DARSHAN, PARIMAL  CHOWK, WAGHAWADI  ROAD, BHAVNAGAR, GUJRAT-364001",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "BHAVNAGAR",
@@ -2677,7 +2677,7 @@
         "MICR": "364047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2713,7 +2713,7 @@
         "MICR": "364047001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2731,7 +2731,7 @@
         "MICR": "641047011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2772,7 +2772,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,ORBIT,MAHALAKSHMI SOCIETY,VAPI-DAMAN ROAD,CHALA,VAPI,GUJARAT-396191",
+        "ADDRESS": "GROUND FLOOR,ORBIT,MAHALAKSHMI SOCIETY,VAPI-DAMAN ROAD,CHALA,VAPI,GUJRAT-396191",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "VAPI",
@@ -2785,7 +2785,7 @@
         "MICR": "396047031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2929,7 +2929,7 @@
         "MICR": "636047005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2983,7 +2983,7 @@
         "MICR": "641047104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3001,7 +3001,7 @@
         "MICR": "641047012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3019,7 +3019,7 @@
         "MICR": "629047102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3060,7 +3060,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHIV' P N MARG OPP.DHANAVANTRY, UNIVERSITY OF AYURVEDA JAM NAGAR 361 008  GUJARAT",
+        "ADDRESS": "SHIV' P N MARG OPP.DHANAVANTRY, UNIVERSITY OF AYURVEDA JAM NAGAR 361 008  GUJRAT",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "JAMNAGAR",
@@ -3073,7 +3073,7 @@
         "MICR": "361047001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3127,7 +3127,7 @@
         "MICR": "605047003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3145,7 +3145,7 @@
         "MICR": "612047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3235,7 +3235,7 @@
         "MICR": "600047015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3307,7 +3307,7 @@
         "MICR": "635047402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3703,7 +3703,7 @@
         "MICR": "600047013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3991,7 +3991,7 @@
         "MICR": "600047012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4207,7 +4207,7 @@
         "MICR": "641047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4225,7 +4225,7 @@
         "MICR": "600047011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4585,7 +4585,7 @@
         "MICR": "641047007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4680,7 +4680,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "1ST FLOOR, PRIYADHARSHINI TOWERS, EAST CAR STREET, AVANASHI 641654, COIMBATORE DT., TAMIL NADU",
+        "ADDRESS": "1ST FLOOR, PRIYADHARSHINI TOWERS, EAST CAR STREET, AVANASHI 641654, COIMBATORE DT., TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "AVANASHI",
@@ -4693,7 +4693,7 @@
         "MICR": "641047103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4765,7 +4765,7 @@
         "MICR": "642047102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4783,7 +4783,7 @@
         "MICR": "600047010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4819,7 +4819,7 @@
         "MICR": "638047004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4855,7 +4855,7 @@
         "MICR": "641047005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4909,7 +4909,7 @@
         "MICR": "600047009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4927,7 +4927,7 @@
         "MICR": "626047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4963,7 +4963,7 @@
         "MICR": "641047006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4981,7 +4981,7 @@
         "MICR": "380047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4999,7 +4999,7 @@
         "MICR": "638047003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5035,7 +5035,7 @@
         "MICR": "600047008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5287,12 +5287,12 @@
         "MICR": "600047007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.50, MOTILAL STREET, THIRUVALLUR - 602001 TAMIL NADU",
+        "ADDRESS": "NO.50, MOTILAL STREET, THIRUVALLUR - 602001 TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "TIRUVALLUR",
@@ -5305,7 +5305,7 @@
         "MICR": "600047014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5359,7 +5359,7 @@
         "MICR": "395047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5377,7 +5377,7 @@
         "MICR": "390047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5503,7 +5503,7 @@
         "MICR": "600047001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5575,7 +5575,7 @@
         "MICR": "605047001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -5665,7 +5665,7 @@
         "MICR": "600047006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5755,7 +5755,7 @@
         "MICR": "600047005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5863,7 +5863,7 @@
         "MICR": "613047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5917,7 +5917,7 @@
         "MICR": "641047102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6079,12 +6079,12 @@
         "MICR": "632047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "5/90, DHARMAPURI MAIN ROAD KOVIL, VELLAR-636451 SALEM DT., TAMIL NADU",
+        "ADDRESS": "5/90, DHARMAPURI MAIN ROAD KOVIL, VELLAR-636451 SALEM DT., TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "VELLAR",
@@ -6097,7 +6097,7 @@
         "MICR": "636047004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6115,7 +6115,7 @@
         "MICR": "600047003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6138,7 +6138,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAIN ROAD, AMMAPALAYAM-621 101 PERAMBALUR DT., TAMIL NADU",
+        "ADDRESS": "MAIN ROAD, AMMAPALAYAM-621 101 PERAMBALUR DT., TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "AMMAPALAYAM",
@@ -6151,7 +6151,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6169,7 +6169,7 @@
         "MICR": "636047003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6354,7 +6354,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "38-A, SUNDER LODGE BUILDING,GROUND FLOOR KRISHNAGIRI ROAD, TIRUPATTUR - 635601 NORTH ARCOT DT., TAMIL NADU",
+        "ADDRESS": "38-A, SUNDER LODGE BUILDING,GROUND FLOOR KRISHNAGIRI ROAD, TIRUPATTUR - 635601 NORTH ARCOT DT., TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "TIRUPATTUR",
@@ -6367,12 +6367,12 @@
         "MICR": "635047102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MANUEL TOWERS, 52/B EAST CAR STREET, TUTICORIN-628002 TAMIL NADU",
+        "ADDRESS": "MANUEL TOWERS, 52/B EAST CAR STREET, TUTICORIN-628002 TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "TUTICORIN",
@@ -6385,7 +6385,7 @@
         "MICR": "627047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6529,7 +6529,7 @@
         "MICR": "625047003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7128,7 +7128,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P.B.NO.178, NO.1, CNS PLAZA NEAR BUS STAND, CNA ROAD, VANIYAMBADI-635751VELLORE DT.,TAMIL NADU",
+        "ADDRESS": "P.B.NO.178, NO.1, CNS PLAZA NEAR BUS STAND, CNA ROAD, VANIYAMBADI-635751VELLORE DT.,TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "VANIYAMBADI",
@@ -7141,7 +7141,7 @@
         "MICR": "635047202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7321,7 +7321,7 @@
         "MICR": "629047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7465,7 +7465,7 @@
         "MICR": "641047003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7501,7 +7501,7 @@
         "MICR": "625047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7573,7 +7573,7 @@
         "MICR": "620047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8149,7 +8149,7 @@
         "MICR": "641047004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8185,7 +8185,7 @@
         "MICR": "636047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8257,7 +8257,7 @@
         "MICR": "641047009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8617,7 +8617,7 @@
         "MICR": "600047004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8635,7 +8635,7 @@
         "MICR": "600047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9013,7 +9013,7 @@
         "MICR": "638047005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9103,7 +9103,7 @@
         "MICR": "639047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9247,7 +9247,7 @@
         "MICR": "643047202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9270,7 +9270,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "25, CUTCHERRY STREET ERODE - 638 001 TAMIL NADU",
+        "ADDRESS": "25, CUTCHERRY STREET ERODE - 638 001 TAMILNADU",
         "BANK": "Catholic Syrian Bank",
         "BANKCODE": "CSBK",
         "BRANCH": "ERODE",
@@ -9283,7 +9283,7 @@
         "MICR": "638047022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9355,7 +9355,7 @@
         "MICR": "641047002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },

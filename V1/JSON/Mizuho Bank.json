@@ -54,7 +54,7 @@
         "UPI": false
     },
     {
-        "ADDRESS": "Unit No.11B 11th Floor, PRESTIGE PALLADIUM BAYAN\nNos.129 to 140, Greams Road, Chennai 600 006,\nTamil Nadu, India",
+        "ADDRESS": "Unit No.11B 11th Floor, PRESTIGE PALLADIUM BAYAN\nNos.129 to 140, Greams Road, Chennai 600 006,\nTAMILNADU, India",
         "BANK": "Mizuho Bank",
         "BANKCODE": "MHCB",
         "BRANCH": "CHENNAI",
@@ -67,7 +67,7 @@
         "MICR": "600694002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -85,7 +85,7 @@
         "MICR": "380694002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },

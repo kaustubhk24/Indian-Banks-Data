@@ -1453,7 +1453,7 @@
         "MICR": "395109002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1471,7 +1471,7 @@
         "MICR": "390109002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1489,7 +1489,7 @@
         "MICR": "380109002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1656,7 +1656,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No. 4,5,6, Business Bay, Royal Park, Street No.6, Kalawad Road, Rajkot, Gujarat 360001",
+        "ADDRESS": "Shop No. 4,5,6, Business Bay, Royal Park, Street No.6, Kalawad Road, Rajkot, GUJRAT 360001",
         "BANK": "Thane Janata Sahakari Bank",
         "BANKCODE": "TJSB",
         "BRANCH": "RAJKOT",
@@ -1669,7 +1669,7 @@
         "MICR": "360109002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1687,7 +1687,7 @@
         "MICR": "395109003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1795,7 +1795,7 @@
         "MICR": "380109003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1926,7 +1926,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "4,5,6 GROUND FLOOR, KISHAN ATRIA, NEAR TULSIDHAM CHAR RASTA, MANJALPUR, VADODARA, GUJARAT-390011",
+        "ADDRESS": "4,5,6 GROUND FLOOR, KISHAN ATRIA, NEAR TULSIDHAM CHAR RASTA, MANJALPUR, VADODARA, GUJRAT-390011",
         "BANK": "Thane Janata Sahakari Bank",
         "BANKCODE": "TJSB",
         "BRANCH": "MANJALPUR",
@@ -1939,7 +1939,7 @@
         "MICR": "390109003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2011,7 +2011,7 @@
         "MICR": "396109031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2088,7 +2088,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, IMPERIAL PLAZA, SARALA ROAD, OPP. SARDAR BAUG, MORBI, GUJARAT-363641",
+        "ADDRESS": "GROUND FLOOR, IMPERIAL PLAZA, SARALA ROAD, OPP. SARDAR BAUG, MORBI, GUJRAT-363641",
         "BANK": "Thane Janata Sahakari Bank",
         "BANKCODE": "TJSB",
         "BRANCH": "MORBI",
@@ -2101,7 +2101,7 @@
         "MICR": "363109021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2250,7 +2250,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, PLOT NO.02, SECTOR-9, BHAGWATI ARCADE, GANDHIDHAM, GUJARAT-370201",
+        "ADDRESS": "GROUND FLOOR, PLOT NO.02, SECTOR-9, BHAGWATI ARCADE, GANDHIDHAM, GUJRAT-370201",
         "BANK": "Thane Janata Sahakari Bank",
         "BANKCODE": "TJSB",
         "BRANCH": "GANDHIDHAM",
@@ -2263,7 +2263,7 @@
         "MICR": "370109001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2335,7 +2335,7 @@
         "MICR": "395109004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

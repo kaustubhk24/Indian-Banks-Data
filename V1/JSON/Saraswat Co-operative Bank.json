@@ -2754,7 +2754,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ABHINAV COMPLEX,67,VISHWAS COLONY,BELOW VENUS HOSPITAL,JETALPUR ROAD,VADODARA,GUJARAT 390 005",
+        "ADDRESS": "ABHINAV COMPLEX,67,VISHWAS COLONY,BELOW VENUS HOSPITAL,JETALPUR ROAD,VADODARA,GUJRAT 390 005",
         "BANK": "Saraswat Co-operative Bank",
         "BANKCODE": "SRCB",
         "BRANCH": "ALKAPURI",
@@ -2767,7 +2767,7 @@
         "MICR": "390088005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3217,7 +3217,7 @@
         "MICR": "390088004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3325,7 +3325,7 @@
         "MICR": "390088003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3343,7 +3343,7 @@
         "MICR": "390088002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3577,7 +3577,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3739,7 +3739,7 @@
         "MICR": "380088008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3757,7 +3757,7 @@
         "MICR": "395088004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3775,7 +3775,7 @@
         "MICR": "380088003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3793,7 +3793,7 @@
         "MICR": "380088005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3811,7 +3811,7 @@
         "MICR": "380088006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3847,7 +3847,7 @@
         "MICR": "380088002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3865,7 +3865,7 @@
         "MICR": "380088004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3901,7 +3901,7 @@
         "MICR": "395088003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3973,7 +3973,7 @@
         "MICR": "380088007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4099,7 +4099,7 @@
         "MICR": "396088031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6529,7 +6529,7 @@
         "MICR": "395088002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

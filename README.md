@@ -176,13 +176,13 @@ once it's ready ,  documentation will be updated
 | 168 | [The Delhi State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_158.xlsx)                       |  Yes  | Yes  |  Yes     |       |
 | 169 | [The Gadchiroli District Central Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_146.xlsx)       |  Yes  | Yes  |  Yes     |       |
 | 170 | [The Greater Bombay Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_80.xlsx)                     |  Yes  | Yes  |  Yes     |       |
-| 171 | [The Gujarat State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_120.xlsx)                     |  Yes  | Yes  |  Yes     |       |
+| 171 | [The GUJRAT State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_120.xlsx)                     |  Yes  | Yes  |  Yes     |       |
 | 172 | [The HASTI Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_167.xlsx)                             |  Yes  | Yes  |  Yes     |       |
 | 173 | [The Jalgaon Peoples Cooperative Bank](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_149.xlsx)                           |  Yes  | Yes  |  Yes     |       |
 | 174 | [The Kangra Central Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_124.xlsx)                    |  Yes  | Yes  |  Yes     |       |
 | 175 | [The Kangra Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_164.xlsx)                            |  Yes  | Yes  |  Yes     |       |
 | 176 | [The Karad Urban Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_102.xlsx)                       |  Yes  | Yes  |  Yes     |       |
-| 177 | [The Karanataka State Cooperative Apex Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_83.xlsx)              |  Yes  | Yes  |  Yes     |       |
+| 177 | [The KARNATAKA State Cooperative Apex Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_83.xlsx)              |  Yes  | Yes  |  Yes     |       |
 | 178 | [The Kerala State Cooperative Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_248.xlsx)                      |  Yes  | Yes  |  Yes     |       |
 | 179 | [The Kolhapur Urban Co-op Bank Ltd](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_270.xlsx)                              |  Yes  | Yes  |  Yes     |       |
 | 180 | [The Kurmanchal Nagar Sahkari Bank Limited](https://rbidocs.rbi.org.in/rdocs/Content/DOCs/IFCB2009_148.xlsx)                      |  Yes  | Yes  |  Yes     |       |

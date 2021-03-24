@@ -337,7 +337,7 @@
         "MICR": "390765002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -373,7 +373,7 @@
         "MICR": "396765002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -396,7 +396,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "A1/243,VIRAMKHAND,GOMTINAGAR,LUCKNOW,UTTARPRADESH226010",
+        "ADDRESS": "A1/243,VIRAMKHAND,GOMTINAGAR,LUCKNOW,UTTAR PRADESH226010",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "LUCKNOW",
@@ -571,7 +571,7 @@
         "MICR": "360765002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2970,7 +2970,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Plot No. 22, Sheet No. 9,Near Daga Petrol Pump,Fafadik Chowk,Raipur,Chattisgarh-492001",
+        "ADDRESS": "Plot No. 22, Sheet No. 9,Near Daga Petrol Pump,Fafadik Chowk,Raipur,CHHATTISGARH-492001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Fafadih Chowk Raipur",
@@ -3006,7 +3006,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Plot No. 82,Indira Commercial   Residential Complex,TP Nagar,Korba,Chattisgarh-495677",
+        "ADDRESS": "Plot No. 82,Indira Commercial   Residential Complex,TP Nagar,Korba,CHHATTISGARH-495677",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Korba",
@@ -3024,7 +3024,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Vijay Plaza,Beside Menonote Church,Bastar Road,Dhamtari,Chattisgarh-493773",
+        "ADDRESS": "Vijay Plaza,Beside Menonote Church,Bastar Road,Dhamtari,CHHATTISGARH-493773",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Dhamtari",
@@ -3042,7 +3042,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Bajpai S Pavillion,Opposite Gumber Petrol,Bharti Nagar Chowk,Talapara,Vyapar Vihar Road,Gayatri Nagar,Bilaspur,Chattisgarh-495001",
+        "ADDRESS": "Bajpai S Pavillion,Opposite Gumber Petrol,Bharti Nagar Chowk,Talapara,Vyapar Vihar Road,Gayatri Nagar,Bilaspur,CHHATTISGARH-495001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Gayatri Nagar Bilaspur",
@@ -3060,7 +3060,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Plot No 7 ,Ward No. 5 ,Dahshin Gangotri,G.E Road,Near Ghadi Chowk,Supela,Bhilai,Dist,Durg,Chattisgarh-490001",
+        "ADDRESS": "Plot No 7 ,Ward No. 5 ,Dahshin Gangotri,G.E Road,Near Ghadi Chowk,Supela,Bhilai,Dist,Durg,CHHATTISGARH-490001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Supela Bhilai",
@@ -6084,7 +6084,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No 1/B Ground Floor,Satva Shakti,Pushpakunj Circle,Kankaria,Ahmedabad,Gujarat-380008",
+        "ADDRESS": "Shop No 1/B Ground Floor,Satva Shakti,Pushpakunj Circle,Kankaria,Ahmedabad,GUJRAT-380008",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Mani Nagar Ahmedabad",
@@ -6097,12 +6097,12 @@
         "MICR": "380765002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No-12A, 14-17,G-Floor,Shop No-110B,110A,11A,11B,109 1St Floor,Relief Arcad,Old Relief Cinema,Relief Road,Ahmedabad,Gujarat-380001",
+        "ADDRESS": "Shop No-12A, 14-17,G-Floor,Shop No-110B,110A,11A,11B,109 1St Floor,Relief Arcad,Old Relief Cinema,Relief Road,Ahmedabad,GUJRAT-380001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Relief Road Ahmedabad",
@@ -6115,12 +6115,12 @@
         "MICR": "380765007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No F/5   F/6 ,Ground Floor,Landmark Complex,Prabha Road,Godhra,Gujarat-389001",
+        "ADDRESS": "Shop No F/5   F/6 ,Ground Floor,Landmark Complex,Prabha Road,Godhra,GUJRAT-389001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Godhra",
@@ -6133,12 +6133,12 @@
         "MICR": "389765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1st Floor ,GLK Tower,Near Bus Depot,Station Road,Dahod,Gujarat-389151",
+        "ADDRESS": "1st Floor ,GLK Tower,Near Bus Depot,Station Road,Dahod,GUJRAT-389151",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Dahod",
@@ -6151,12 +6151,12 @@
         "MICR": "389765021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Near Ratan Park Society, Bus Stand Road,Borsad,Gujarat-388540",
+        "ADDRESS": "Near Ratan Park Society, Bus Stand Road,Borsad,GUJRAT-388540",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Borsad",
@@ -6169,12 +6169,12 @@
         "MICR": "388765071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Plot 8B, Shop No 1 2,Sappire Prime,Opposite Daxinamurti School,Waghawadi Raod,Bhavnagar,Gujarat-364002",
+        "ADDRESS": "Plot 8B, Shop No 1 2,Sappire Prime,Opposite Daxinamurti School,Waghawadi Raod,Bhavnagar,GUJRAT-364002",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Bhavnagar",
@@ -6187,12 +6187,12 @@
         "MICR": "364765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No:105-107,Silver Plaza Complex,Below Hotel Kalasai,Bavla,Gujarat-382220",
+        "ADDRESS": "Shop No:105-107,Silver Plaza Complex,Below Hotel Kalasai,Bavla,GUJRAT-382220",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Bavla",
@@ -6205,12 +6205,12 @@
         "MICR": "380765003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, Shop No 1-5,Shree Ram Arcade,Station Road,Anand,Gujarat-388001",
+        "ADDRESS": "Ground Floor, Shop No 1-5,Shree Ram Arcade,Station Road,Anand,GUJRAT-388001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Station Road Anand",
@@ -6223,12 +6223,12 @@
         "MICR": "388765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "City Survey 13-16 ,Ground Floor,Central Business Space,Opposite Fortune Landmark Hotel,Usmanpura,Ashram Rd,Ahmedabad,Gujarat-380013",
+        "ADDRESS": "City Survey 13-16 ,Ground Floor,Central Business Space,Opposite Fortune Landmark Hotel,Usmanpura,Ashram Rd,Ahmedabad,GUJRAT-380013",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Ashram Road Ahmedabad",
@@ -6241,12 +6241,12 @@
         "MICR": "380765006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor,Sheetal Vasha,Shivranjani Cross Roads,Satallite,Ahmedabad,Gujarat-380015",
+        "ADDRESS": "Ground Floor,Sheetal Vasha,Shivranjani Cross Roads,Satallite,Ahmedabad,GUJRAT-380015",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Shivranjani Ahmedabad",
@@ -6259,12 +6259,12 @@
         "MICR": "380765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "City Centre, Shop No 3-5,Opposite M P Shah Arts   Science College,Surendranagar,Gujarat-363002",
+        "ADDRESS": "City Centre, Shop No 3-5,Opposite M P Shah Arts   Science College,Surendranagar,GUJRAT-363002",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Surendranagar",
@@ -6277,12 +6277,12 @@
         "MICR": "363765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "103,Gravity Complex,Opposite Amba Ashram,College Road,Nadiad,Gujarat-387001",
+        "ADDRESS": "103,Gravity Complex,Opposite Amba Ashram,College Road,Nadiad,GUJRAT-387001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Nadiad",
@@ -6295,12 +6295,12 @@
         "MICR": "387765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Mehta Complex,Opposite Lilavati Hospital,Godhra-Lunawada Highway,Lunavada,Gujarat-389230",
+        "ADDRESS": "Mehta Complex,Opposite Lilavati Hospital,Godhra-Lunawada Highway,Lunavada,GUJRAT-389230",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Lunawada",
@@ -6313,12 +6313,12 @@
         "MICR": "389765061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No. 20   21, Madhav Complex,Near Swagat Hotel, Ahmedabad Road,Kathlal,Gujarat-387630",
+        "ADDRESS": "Shop No. 20   21, Madhav Complex,Near Swagat Hotel, Ahmedabad Road,Kathlal,GUJRAT-387630",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Kathlal",
@@ -6331,7 +6331,7 @@
         "MICR": "387765501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6349,12 +6349,12 @@
         "MICR": "380765005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Plot No 171,Shop No. 1-5, 101-102,Shubh Complex, Sector 21 Gandhinagar,Opposite Sabarmati Gas Ltd,Gandhinagar,Gujarat-382021",
+        "ADDRESS": "Plot No 171,Shop No. 1-5, 101-102,Shubh Complex, Sector 21 Gandhinagar,Opposite Sabarmati Gas Ltd,Gandhinagar,GUJRAT-382021",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Gandhinagar",
@@ -6367,12 +6367,12 @@
         "MICR": "380765004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Amar Complex ,High Way Chowkdi,Wajagadh,Tharad,Gujarat-385565",
+        "ADDRESS": "Amar Complex ,High Way Chowkdi,Wajagadh,Tharad,GUJRAT-385565",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Tharad",
@@ -6385,12 +6385,12 @@
         "MICR": "385765051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "City Survey No. 1639, Sheet No. 131,Santokba Hall of Gunagadiparti,Rajmahal Station Road,Nr. Patan Railway Station,Patan,Gujarat-384265",
+        "ADDRESS": "City Survey No. 1639, Sheet No. 131,Santokba Hall of Gunagadiparti,Rajmahal Station Road,Nr. Patan Railway Station,Patan,GUJRAT-384265",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Patan",
@@ -6403,12 +6403,12 @@
         "MICR": "384765081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Trimurti Complex,Opposite Income Tax Office,Abu National Highway,Palanpur,Gujarat-385001",
+        "ADDRESS": "Trimurti Complex,Opposite Income Tax Office,Abu National Highway,Palanpur,GUJRAT-385001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Palanpur",
@@ -6421,12 +6421,12 @@
         "MICR": "385765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No.A7,A8,CTS No.509 Paiki 1,Shamalaji Road,Modasa,Gujarat-383315",
+        "ADDRESS": "Shop No.A7,A8,CTS No.509 Paiki 1,Shamalaji Road,Modasa,GUJRAT-383315",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Modasa",
@@ -6439,12 +6439,12 @@
         "MICR": "383765051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Plot No 3A ,Sheet No 18,Chalta No 138,City Survey No 5598,Ahmedabad Highway,Mehsana,Gujarat-384002",
+        "ADDRESS": "Plot No 3A ,Sheet No 18,Chalta No 138,City Survey No 5598,Ahmedabad Highway,Mehsana,GUJRAT-384002",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Mehsana",
@@ -6457,12 +6457,12 @@
         "MICR": "384765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Satyam Complex,CS No.6615-6620,Mouje Idar,Main Ambaji Highway,Idar,Gujarat-383430",
+        "ADDRESS": "Satyam Complex,CS No.6615-6620,Mouje Idar,Main Ambaji Highway,Idar,GUJRAT-383430",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Idar",
@@ -6475,12 +6475,12 @@
         "MICR": "383765031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No. 1 To 5, Ground Floor,Ashok Vatika, Sahkari Jin Road,Himmat Nagar,Gujarat-383001",
+        "ADDRESS": "Shop No. 1 To 5, Ground Floor,Ashok Vatika, Sahkari Jin Road,Himmat Nagar,GUJRAT-383001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Himatnagar",
@@ -6493,12 +6493,12 @@
         "MICR": "383765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No. 21,22 Near Govt. Guest House, Near Taxi Stand, Jalaram Park Society,Police Station Road,Deodar,Gujarat-385330",
+        "ADDRESS": "Shop No. 21,22 Near Govt. Guest House, Near Taxi Stand, Jalaram Park Society,Police Station Road,Deodar,GUJRAT-385330",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Deodar",
@@ -6511,12 +6511,12 @@
         "MICR": "385765071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No. 7-11,Pitham Complex, Below City Plaza Hotel,Near Sports Club,Old Bus-Stand Road,Deesa,Gujarat-385535",
+        "ADDRESS": "Shop No. 7-11,Pitham Complex, Below City Plaza Hotel,Near Sports Club,Old Bus-Stand Road,Deesa,GUJRAT-385535",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Deesa",
@@ -6529,12 +6529,12 @@
         "MICR": "385765031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No 16- 20,Shreeji Dada Complex,Near Market Yard,Modassa,Kapadwaj Road,Bayad,Gujarat-383325",
+        "ADDRESS": "Shop No 16- 20,Shreeji Dada Complex,Near Market Yard,Modassa,Kapadwaj Road,Bayad,GUJRAT-383325",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Bayad",
@@ -6547,12 +6547,12 @@
         "MICR": "383765111",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor Dharti Complex,Daman Road, NH8,Vapi,Gujarat-396195",
+        "ADDRESS": "Ground Floor Dharti Complex,Daman Road, NH8,Vapi,GUJRAT-396195",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Vapi",
@@ -6565,12 +6565,12 @@
         "MICR": "396765031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No-G9 ,SNS Platina,Opposite Reliance Hyper Market,Vesu,Surat,Gujarat-395007",
+        "ADDRESS": "Shop No-G9 ,SNS Platina,Opposite Reliance Hyper Market,Vesu,Surat,GUJRAT-395007",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Vesu Surat",
@@ -6583,12 +6583,12 @@
         "MICR": "395765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No G-1,Sakar Textile Market,Near Sahara Darwaja, Ring Road,Surat,Gujarat-395002",
+        "ADDRESS": "Shop No G-1,Sakar Textile Market,Near Sahara Darwaja, Ring Road,Surat,GUJRAT-395002",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Ring Road Surat",
@@ -6601,12 +6601,12 @@
         "MICR": "395765002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No. G-1, G-2, G-3, G-4,Rockies Apartment, Station Road,Navsari,Gujarat-396445",
+        "ADDRESS": "Shop No. G-1, G-2, G-3, G-4,Rockies Apartment, Station Road,Navsari,GUJRAT-396445",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Navsari",
@@ -6619,12 +6619,12 @@
         "MICR": "396765061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No 1 -4  Agarwal Complex, Dabhoi Road,Alipura,Bodeli,Gujarat-391135",
+        "ADDRESS": "Shop No 1 -4  Agarwal Complex, Dabhoi Road,Alipura,Bodeli,GUJRAT-391135",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Bodeli",
@@ -6637,12 +6637,12 @@
         "MICR": "391765081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No 12,13 Omkar- 2 Complex, Station Road, Near Hotel Loards Plaza,GIDC,Ankaleshwar,Gujarat-393002",
+        "ADDRESS": "Shop No 12,13 Omkar- 2 Complex, Station Road, Near Hotel Loards Plaza,GIDC,Ankaleshwar,GUJRAT-393002",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Ankaleshwar",
@@ -6655,12 +6655,12 @@
         "MICR": "393765051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No 3   4 ,Benison Complex,Opposite Rajlakshmi Complex,OP Road,Vadodara,Gujarat-390015",
+        "ADDRESS": "Shop No 3   4 ,Benison Complex,Opposite Rajlakshmi Complex,OP Road,Vadodara,GUJRAT-390015",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Bennyson Complex Vadodara",
@@ -6673,12 +6673,12 @@
         "MICR": "390765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "J1 Complex, Ground Floor , Near Balaji hall, Besides Pathank school, 150 Feet Ring Road,Rajkot,Gujarat-360005",
+        "ADDRESS": "J1 Complex, Ground Floor , Near Balaji hall, Besides Pathank school, 150 Feet Ring Road,Rajkot,GUJRAT-360005",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Sadar Patel Marg Rajkot",
@@ -6691,12 +6691,12 @@
         "MICR": "360765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ram Chowk, Sanala Road, Opposite K K Steel,Morbi,Gujarat-363641",
+        "ADDRESS": "Ram Chowk, Sanala Road, Opposite K K Steel,Morbi,GUJRAT-363641",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Morbi",
@@ -6709,12 +6709,12 @@
         "MICR": "363765021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No 23,24,Kalpavrush Commercial Complex,Opposite Yamuna Wadi, Zanzarda Road,Junagarh,Gujarat-362001",
+        "ADDRESS": "Shop No 23,24,Kalpavrush Commercial Complex,Opposite Yamuna Wadi, Zanzarda Road,Junagarh,GUJRAT-362001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Junagarh",
@@ -6727,12 +6727,12 @@
         "MICR": "362765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Plot No-62, City Survey No-2031/A,First Floor,  Kanakiya Plot,Jetpur,Gujarat-360370",
+        "ADDRESS": "Plot No-62, City Survey No-2031/A,First Floor,  Kanakiya Plot,Jetpur,GUJRAT-360370",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Jetpur",
@@ -6745,12 +6745,12 @@
         "MICR": "360765061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor,Shop No-4   5, Madhav Square,Opposite Tulshi Hotel ,Lal Buglow Road,Jamnagar,Gujarat-361001",
+        "ADDRESS": "Ground Floor,Shop No-4   5, Madhav Square,Opposite Tulshi Hotel ,Lal Buglow Road,Jamnagar,GUJRAT-361001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Jamnagar",
@@ -6763,12 +6763,12 @@
         "MICR": "361765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Sai Complex, Ground Floor ,DBZ S-137,Near Banking Circle,Gandhidham,Gujarat-370201",
+        "ADDRESS": "Sai Complex, Ground Floor ,DBZ S-137,Near Banking Circle,Gandhidham,GUJRAT-370201",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Gandhidham",
@@ -6781,12 +6781,12 @@
         "MICR": "370765001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ward No 5 ,Sheet No. 233, Jubilee Circle, City Survey No 687,House No M/47, Gujarat Housing Board,Bhuj,Gujarat-370001",
+        "ADDRESS": "Ward No 5 ,Sheet No. 233, Jubilee Circle, City Survey No 687,House No M/47, GUJRAT Housing Board,Bhuj,GUJRAT-370001",
         "BANK": "AU Small Finance Bank",
         "BANKCODE": "AUBL",
         "BRANCH": "Bhuj",
@@ -6799,7 +6799,7 @@
         "MICR": "370765051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

@@ -288,7 +288,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VANKARVAS,PO VIROCHAN NAGAR,KADI,CHANDRASAN,GUJARAT-382170",
+        "ADDRESS": "VANKARVAS,PO VIROCHAN NAGAR,KADI,CHANDRASAN,GUJRAT-382170",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "CHANDRASAN",
@@ -301,12 +301,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "37-B,MAHAMMADI PARK SOCIETY,OPP.C.N.ARTS COLLEGE,KADI,MAHESANA,GUJARAT-382715",
+        "ADDRESS": "37-B,MAHAMMADI PARK SOCIETY,OPP.C.N.ARTS COLLEGE,KADI,MAHESANA,GUJRAT-382715",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "CHADASNA",
@@ -319,12 +319,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BELIM VAS,SHELA,AHMEDABAD,GUJARAT-380058",
+        "ADDRESS": "BELIM VAS,SHELA,AHMEDABAD,GUJRAT-380058",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "SHELA",
@@ -337,7 +337,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -355,7 +355,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -499,7 +499,7 @@
         "MICR": "641788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -517,7 +517,7 @@
         "MICR": "600788006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -823,7 +823,7 @@
         "MICR": "600788008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1183,7 +1183,7 @@
         "MICR": "382788502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1201,7 +1201,7 @@
         "MICR": "382788505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1219,7 +1219,7 @@
         "MICR": "382788504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1237,7 +1237,7 @@
         "MICR": "382788503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1255,7 +1255,7 @@
         "MICR": "382788501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1273,7 +1273,7 @@
         "MICR": "394788505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1291,7 +1291,7 @@
         "MICR": "394788101",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1309,7 +1309,7 @@
         "MICR": "394788504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1327,7 +1327,7 @@
         "MICR": "394788503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1345,7 +1345,7 @@
         "MICR": "394788502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1363,7 +1363,7 @@
         "MICR": "394788501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1579,7 +1579,7 @@
         "MICR": "635788403",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1597,7 +1597,7 @@
         "MICR": "635788404",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1633,7 +1633,7 @@
         "MICR": "635788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1669,7 +1669,7 @@
         "MICR": "635788402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1687,7 +1687,7 @@
         "MICR": "635788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1705,7 +1705,7 @@
         "MICR": "636788007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1723,7 +1723,7 @@
         "MICR": "636788010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1741,7 +1741,7 @@
         "MICR": "636788005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1759,7 +1759,7 @@
         "MICR": "636788008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1777,7 +1777,7 @@
         "MICR": "636788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1795,7 +1795,7 @@
         "MICR": "636788004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1813,7 +1813,7 @@
         "MICR": "636788009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1831,7 +1831,7 @@
         "MICR": "636788105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1849,7 +1849,7 @@
         "MICR": "636788104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1867,7 +1867,7 @@
         "MICR": "636788106",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1885,7 +1885,7 @@
         "MICR": "636788102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1903,7 +1903,7 @@
         "MICR": "636788107",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1921,7 +1921,7 @@
         "MICR": "636788103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2137,7 +2137,7 @@
         "MICR": "638788402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2155,7 +2155,7 @@
         "MICR": "638788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2173,7 +2173,7 @@
         "MICR": "638788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2191,7 +2191,7 @@
         "MICR": "636788006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2209,7 +2209,7 @@
         "MICR": "600788009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2227,7 +2227,7 @@
         "MICR": "642788102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2425,7 +2425,7 @@
         "MICR": "394788051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2911,7 +2911,7 @@
         "MICR": "620788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2929,7 +2929,7 @@
         "MICR": "636788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2947,7 +2947,7 @@
         "MICR": "627788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2965,7 +2965,7 @@
         "MICR": "625788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2973,17 +2973,17 @@
         "ADDRESS": "GKM\u00a0Arcade, No. 2 & 4, West cross, 100 feet ECR road, Anna nagar,  Pondicherry - 605005",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
-        "BRANCH": "Puducherry",
-        "CENTRE": "Puducherry",
-        "CITY": "Puducherry",
+        "BRANCH": "PONDICHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "",
-        "DISTRICT": "Puducherry",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "JSFB0004600",
         "IMPS": true,
         "MICR": "605788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -3001,7 +3001,7 @@
         "MICR": "600788005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3019,7 +3019,7 @@
         "MICR": "641788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3037,7 +3037,7 @@
         "MICR": "600788007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3055,7 +3055,7 @@
         "MICR": "600788004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3073,7 +3073,7 @@
         "MICR": "600788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3091,7 +3091,7 @@
         "MICR": "600788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4207,12 +4207,12 @@
         "MICR": "395788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Shop No 1&2, Ground & 1st floor, Shhlok Business Centre, Ring Road, Udhana Darwaja, Surat PIN -\u00a0 395 002, Gujarat",
+        "ADDRESS": "Shop No 1&2, Ground & 1st floor, Shhlok Business Centre, Ring Road, Udhana Darwaja, Surat PIN -\u00a0 395 002, GUJRAT",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "Udhna Darwaja",
@@ -4225,7 +4225,7 @@
         "MICR": "395788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4261,7 +4261,7 @@
         "MICR": "360788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4315,7 +4315,7 @@
         "MICR": "364788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4333,7 +4333,7 @@
         "MICR": "390788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4351,7 +4351,7 @@
         "MICR": "380788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4657,7 +4657,7 @@
         "MICR": "390788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4693,7 +4693,7 @@
         "MICR": "360788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4729,12 +4729,12 @@
         "MICR": "600788031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AASMALLFIACEBAKLTD,GROUDFLOOR,BHOOMISURVEY,NO.605/2AD606/1SITUATEDATWARDO.14,VILLAGEPADLYAKALA,NAGDA-456331,UJJAIDISTRICT,MADHYAPRADESH,IDIA",
+        "ADDRESS": "AASMALLFIACEBAKLTD,GROUDFLOOR,BHOOMISURVEY,NO.605/2AD606/1SITUATEDATWARDO.14,VILLAGEPADLYAKALA,NAGDA-456331,UJJAIDISTRICT,MADHYA PRADESH,IDIA",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "NAGDA",
@@ -4801,7 +4801,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4819,7 +4819,7 @@
         "MICR": "600788025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4837,7 +4837,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4855,7 +4855,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4891,7 +4891,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4945,7 +4945,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5071,7 +5071,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5089,7 +5089,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5107,7 +5107,7 @@
         "MICR": "638788004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5125,7 +5125,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5143,7 +5143,7 @@
         "MICR": "620788004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5215,7 +5215,7 @@
         "MICR": "380788005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5281,13 +5281,13 @@
         "CENTRE": "VILLANOOR",
         "CITY": "VILLANOOR",
         "CONTACT": "00",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "JSFB0003390",
         "IMPS": true,
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -5341,7 +5341,7 @@
         "MICR": "642788103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5359,7 +5359,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5377,7 +5377,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5490,7 +5490,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "AASMALLFIACEBAKLTD,1STFLOOR,KAODIYACOMPLEX,PLOTNO.22/1,SHEETNO.15-C,CITYSURVEYNO.2931,WARDNO.41,MOUZAKOTWALICHOWK,SATA-485001,MADHYAPRADESH,IDIA",
+        "ADDRESS": "AASMALLFIACEBAKLTD,1STFLOOR,KAODIYACOMPLEX,PLOTNO.22/1,SHEETNO.15-C,CITYSURVEYNO.2931,WARDNO.41,MOUZAKOTWALICHOWK,SATA-485001,MADHYA PRADESH,IDIA",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "SATNA",
@@ -5521,7 +5521,7 @@
         "MICR": "390788004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5557,7 +5557,7 @@
         "MICR": "636788012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5575,7 +5575,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5629,7 +5629,7 @@
         "MICR": "380788004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5665,7 +5665,7 @@
         "MICR": "600788032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5683,7 +5683,7 @@
         "MICR": "641788102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5755,7 +5755,7 @@
         "MICR": "380788006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5809,7 +5809,7 @@
         "MICR": "636788011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5827,7 +5827,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5863,7 +5863,7 @@
         "MICR": "395788005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5935,7 +5935,7 @@
         "MICR": "380788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6030,7 +6030,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,GURUDWARA ROAD,STATION ROAD,NEAR SBI STATION ROAD BRANCH,DURG - 491001,CHATTISGARH,INDIA",
+        "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,GURUDWARA ROAD,STATION ROAD,NEAR SBI STATION ROAD BRANCH,DURG - 491001,CHHATTISGARH,INDIA",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "DURG",
@@ -6133,7 +6133,7 @@
         "MICR": "380788008",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6295,7 +6295,7 @@
         "MICR": "600788024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6313,7 +6313,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6403,7 +6403,7 @@
         "MICR": "605788004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6475,7 +6475,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6493,7 +6493,7 @@
         "MICR": "620788006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6511,7 +6511,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6529,7 +6529,7 @@
         "MICR": "600788027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6768,7 +6768,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "JANA SMALL FINANCE BANK LTD,2ND FLOOR,SAI SHOPPING COMPLEX,PLOT NO.234,SHEET NO.26,WARD NO.9,NARMADA MARG,SATRASTA,TEHSIL & DIST.HOSHANGABAD - 461001,MADHYAPRADESH,INDIA",
+        "ADDRESS": "JANA SMALL FINANCE BANK LTD,2ND FLOOR,SAI SHOPPING COMPLEX,PLOT NO.234,SHEET NO.26,WARD NO.9,NARMADA MARG,SATRASTA,TEHSIL & DIST.HOSHANGABAD - 461001,MADHYA PRADESH,INDIA",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "HOSHANGABAD",
@@ -6853,7 +6853,7 @@
         "MICR": "396788002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6943,7 +6943,7 @@
         "MICR": "600788022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7087,7 +7087,7 @@
         "MICR": "383788051",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7123,7 +7123,7 @@
         "MICR": "385788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7141,7 +7141,7 @@
         "MICR": "384788081",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7267,7 +7267,7 @@
         "MICR": "389788002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7303,7 +7303,7 @@
         "MICR": "384788002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7321,7 +7321,7 @@
         "MICR": "370788051",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7501,7 +7501,7 @@
         "MICR": "387788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7519,7 +7519,7 @@
         "MICR": "383788002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7573,7 +7573,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7591,7 +7591,7 @@
         "MICR": "612788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7609,7 +7609,7 @@
         "MICR": "600788033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7627,7 +7627,7 @@
         "MICR": "625788102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7645,7 +7645,7 @@
         "MICR": "629788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7663,7 +7663,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7681,7 +7681,7 @@
         "MICR": "635788405",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7861,7 +7861,7 @@
         "MICR": "362788002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7879,7 +7879,7 @@
         "MICR": "392788002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7897,7 +7897,7 @@
         "MICR": "364788003",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7915,7 +7915,7 @@
         "MICR": "363788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7933,7 +7933,7 @@
         "MICR": "380788009",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8401,7 +8401,7 @@
         "MICR": "641788005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8413,13 +8413,13 @@
         "CENTRE": "PONDICHERRY",
         "CITY": "PONDICHERRY",
         "CONTACT": "00",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "JSFB0003106",
         "IMPS": true,
         "MICR": "605788005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -8437,7 +8437,7 @@
         "MICR": "600788029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8455,12 +8455,12 @@
         "MICR": "600788011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "JANA SMALL FINANCE BANK LTD,PLOT NO.407,408,4TH FLOOR,SWASTIC PLAZA,WARD NO.356,YOGI CHOWK,VARACHHA,SURAT,GUJARAT -395006",
+        "ADDRESS": "JANA SMALL FINANCE BANK LTD,PLOT NO.407,408,4TH FLOOR,SWASTIC PLAZA,WARD NO.356,YOGI CHOWK,VARACHHA,SURAT,GUJRAT -395006",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "VARACHA",
@@ -8473,7 +8473,7 @@
         "MICR": "395788006",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8545,7 +8545,7 @@
         "MICR": "380788007",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8761,7 +8761,7 @@
         "MICR": "361788002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8784,7 +8784,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,SHOP NO.120-121,SHREEJI ARCADE,NR.ASPAS TEEN RASTA,GODADARA-DINDOLI ROAD,SURAT ( GUJARAT)- 394210",
+        "ADDRESS": "JANA SMALL FINANCE BANK LTD,1ST FLOOR,SHOP NO.120-121,SHREEJI ARCADE,NR.ASPAS TEEN RASTA,GODADARA-DINDOLI ROAD,SURAT ( GUJRAT)- 394210",
         "BANK": "Jana Small Finance Bank",
         "BANKCODE": "JSFB",
         "BRANCH": "SURAT",
@@ -8797,7 +8797,7 @@
         "MICR": "395788004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8887,7 +8887,7 @@
         "MICR": "600788034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8905,7 +8905,7 @@
         "MICR": "635788005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8923,7 +8923,7 @@
         "MICR": "620788003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8959,7 +8959,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8995,7 +8995,7 @@
         "MICR": "360788004",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9049,7 +9049,7 @@
         "MICR": "641788006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9121,7 +9121,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9139,7 +9139,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9247,7 +9247,7 @@
         "MICR": "600788010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9319,7 +9319,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9355,7 +9355,7 @@
         "MICR": "600788023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9373,7 +9373,7 @@
         "MICR": "600788030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9391,7 +9391,7 @@
         "MICR": "638788005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9463,7 +9463,7 @@
         "MICR": "641788007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9517,7 +9517,7 @@
         "MICR": "641788010",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     }

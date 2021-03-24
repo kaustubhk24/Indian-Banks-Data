@@ -2692,7 +2692,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUNDFLOOR,ANSAR BUILDING,MURALIJOAT,KOTWALI ROAD,BASTI,UTTARPRADESH,PIN 272001",
+        "ADDRESS": "GROUNDFLOOR,ANSAR BUILDING,MURALIJOAT,KOTWALI ROAD,BASTI,UTTAR PRADESH,PIN 272001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "BASTI",
@@ -3353,7 +3353,7 @@
         "MICR": "600750010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3394,7 +3394,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "340/18,KARTAR COTTAGE,NEAR K SQUARE MALL,BURHAR ROAD,SHADOL,MADHYAPRADESH,PIN-484001",
+        "ADDRESS": "340/18,KARTAR COTTAGE,NEAR K SQUARE MALL,BURHAR ROAD,SHADOL,MADHYA PRADESH,PIN-484001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "SHADOL",
@@ -3556,7 +3556,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SANTOKBA HALL,NEAR PALIKA BAZAR,RAJMAHAL ROAD,DIST.-PATAN,GUJARAT,PIN-384265",
+        "ADDRESS": "SANTOKBA HALL,NEAR PALIKA BAZAR,RAJMAHAL ROAD,DIST.-PATAN,GUJRAT,PIN-384265",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "PATAN",
@@ -3569,7 +3569,7 @@
         "MICR": "384750081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3587,12 +3587,12 @@
         "MICR": "361750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO.1-7,L&M COMPLEX,OPP.AMBEDKAR STATUE,AIRPORT CHAR RASTA,DEESA,DIST.-BANAS KANTHA GUJARAT,PIN-385535",
+        "ADDRESS": "SHOP NO.1-7,L&M COMPLEX,OPP.AMBEDKAR STATUE,AIRPORT CHAR RASTA,DEESA,DIST.-BANAS KANTHA GUJRAT,PIN-385535",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "DEESA",
@@ -3605,12 +3605,12 @@
         "MICR": "385750031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "UPPER GROUND FLOOR,SHOP NO.G 03,ADITYA BUSINESS PARK,JAGATPUR,DIST - RAIGARH,CHATTISGARH,PIN-496001",
+        "ADDRESS": "UPPER GROUND FLOOR,SHOP NO.G 03,ADITYA BUSINESS PARK,JAGATPUR,DIST - RAIGARH,CHHATTISGARH,PIN-496001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "RAIGARH",
@@ -4132,7 +4132,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NIVEDITA ROAD,PRADHAN NAGAR,SILIGURI,DIST-DARJEELING,WESTBENGAL-734003",
+        "ADDRESS": "NIVEDITA ROAD,PRADHAN NAGAR,SILIGURI,DIST-DARJEELING,WEST BENGAL-734003",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "PRADHAN NAGAR",
@@ -4150,7 +4150,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO-1-4.GROUND FLOOR,SWISS COTTAGE,ASHA NAGAR,MAIN ROAD,DIST-NAVSARI,PS-NAVSARI TOWN,GUJARAT,PIN-396445",
+        "ADDRESS": "SHOP NO-1-4.GROUND FLOOR,SWISS COTTAGE,ASHA NAGAR,MAIN ROAD,DIST-NAVSARI,PS-NAVSARI TOWN,GUJRAT,PIN-396445",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "NAVSARI",
@@ -4163,7 +4163,7 @@
         "MICR": "396750061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4240,7 +4240,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,NO.180,TV SAMY-WEST RS PURAM,COIMBATORE,TAMIL NADU,PIN-641002",
+        "ADDRESS": "GROUND FLOOR,NO.180,TV SAMY-WEST RS PURAM,COIMBATORE,TAMILNADU,PIN-641002",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "RS PURAM",
@@ -4253,12 +4253,12 @@
         "MICR": "641750003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,SHOP NO 3 AND 4,SCARLET BUSINESS HUB,OPP ANKUR SCHOOR,FATEHPUR,PALDI,AHMEDABAD,GUJARAT,PIN - 380007",
+        "ADDRESS": "GROUND FLOOR,SHOP NO 3 AND 4,SCARLET BUSINESS HUB,OPP ANKUR SCHOOR,FATEHPUR,PALDI,AHMEDABAD,GUJRAT,PIN - 380007",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "ASHRAM ROAD",
@@ -4271,12 +4271,12 @@
         "MICR": "380750008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ASHWAMEGH PEARL,RAMBAGH CROSS ROADS,NEAR SARDAR PATEL HOSPITAL,MANINAGAR,AHMEDABAD,GUJARAT,PIN -380008",
+        "ADDRESS": "ASHWAMEGH PEARL,RAMBAGH CROSS ROADS,NEAR SARDAR PATEL HOSPITAL,MANINAGAR,AHMEDABAD,GUJRAT,PIN -380008",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "MANINAGAR",
@@ -4289,12 +4289,12 @@
         "MICR": "380750006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.A8 4/34, BHARATHI STREET,SWARNAPURI,SALEM,TAMIL NADU,PIN-636004",
+        "ADDRESS": "NO.A8 4/34, BHARATHI STREET,SWARNAPURI,SALEM,TAMILNADU,PIN-636004",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "SALEM",
@@ -4307,12 +4307,12 @@
         "MICR": "636750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,NO.7,CUTCHERY STREET,PANNEERSELVAM PARK,TOWN POLICE STATION,ERODE,TAMIL NADU,PIN-638001",
+        "ADDRESS": "GROUND FLOOR,NO.7,CUTCHERY STREET,PANNEERSELVAM PARK,TOWN POLICE STATION,ERODE,TAMILNADU,PIN-638001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "ERODE",
@@ -4325,7 +4325,7 @@
         "MICR": "638750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4546,7 +4546,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHIVASHISH COLPLEX,A/4,CIVIL LINE,DEWAS,PS-KOTWALI,DEWAS,MADHYAPRADESH,PIN-455001",
+        "ADDRESS": "SHIVASHISH COLPLEX,A/4,CIVIL LINE,DEWAS,PS-KOTWALI,DEWAS,MADHYA PRADESH,PIN-455001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "DEWAS",
@@ -4618,7 +4618,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P3 A/156,SECTOR 27,NAYA RAIPUR,RAIPUR,CHATTISGARH,PIN-492002",
+        "ADDRESS": "P3 A/156,SECTOR 27,NAYA RAIPUR,RAIPUR,CHHATTISGARH,PIN-492002",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "NAYA RAIPUR",
@@ -4636,7 +4636,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAYTRI HOUSE,PLOT NO-1 AND 2,BATA BUILDING,PANAMA CROSS ROAD,VANASTHALIPURAM,RANGAREDDY,TELENGANA,PIN-500070",
+        "ADDRESS": "MAYTRI HOUSE,PLOT NO-1 AND 2,BATA BUILDING,PANAMA CROSS ROAD,VANASTHALIPURAM,RANGAREDDY,TELANGANA,PIN-500070",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "VANASTHALIPURAM",
@@ -4654,7 +4654,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UPPER GROUND FLOOR,HOUSE NO 2-83,AND 2-85,CHANDANAGAR,OPP KARUR VYASA BANK,HYDERABAD,TELENGANA,PIN-500050",
+        "ADDRESS": "UPPER GROUND FLOOR,HOUSE NO 2-83,AND 2-85,CHANDANAGAR,OPP KARUR VYASA BANK,HYDERABAD,TELANGANA,PIN-500050",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "CHANDA NAGAR",
@@ -4672,7 +4672,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO-31,DOOR NO -1-118,31,GROUND FLOOR,ROHINI LAYOUT,OPPOSITE-CYBER TOWER,MADHAPUR,HYDERABAD,TELENGANA,PIN-500081",
+        "ADDRESS": "PLOT NO-31,DOOR NO -1-118,31,GROUND FLOOR,ROHINI LAYOUT,OPPOSITE-CYBER TOWER,MADHAPUR,HYDERABAD,TELANGANA,PIN-500081",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "MADHAPUR",
@@ -4690,7 +4690,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO-8-2-686/4A,1ST FLOOR,BS SPACES,RD.NO-12,BANJARA HILLS,NBT NAGAR ,HYDRABAD,TELENGANA,PIN-50034",
+        "ADDRESS": "PLOT NO-8-2-686/4A,1ST FLOOR,BS SPACES,RD.NO-12,BANJARA HILLS,NBT NAGAR ,HYDRABAD,TELANGANA,PIN-50034",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "BANJARA HILLS",
@@ -4708,7 +4708,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,1/1 SLB SOUTH ROAD,R.V.PURAM,NAGERCOIL,KANYAKUMARI,TAMIL NADU,PIN-629001",
+        "ADDRESS": "GROUND FLOOR,1/1 SLB SOUTH ROAD,R.V.PURAM,NAGERCOIL,KANYAKUMARI,TAMILNADU,PIN-629001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "NAGERCOIL",
@@ -4721,12 +4721,12 @@
         "MICR": "629750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO-24,B1,SN HIGH ROAD,TIRUNELVELI JUNCTION,SRI PURAM,TIRUNELVELI,TAMIL NADU,PIN - 627001",
+        "ADDRESS": "NO-24,B1,SN HIGH ROAD,TIRUNELVELI JUNCTION,SRI PURAM,TIRUNELVELI,TAMILNADU,PIN - 627001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "TIRUNELVELI",
@@ -4739,7 +4739,7 @@
         "MICR": "627750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4757,7 +4757,7 @@
         "MICR": "600750009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4775,7 +4775,7 @@
         "MICR": "600750008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4870,7 +4870,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "G-1,KRUSHNA DARSHAN,PARIMAL CHOWK,WAGHAWADI ROAD,BHAVNAGAR,GUJARAT,PIN-364002",
+        "ADDRESS": "G-1,KRUSHNA DARSHAN,PARIMAL CHOWK,WAGHAWADI ROAD,BHAVNAGAR,GUJRAT,PIN-364002",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "BHAVNAGAR",
@@ -4883,12 +4883,12 @@
         "MICR": "364750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,JIGAR COMPLEX,OPP.MEHSANA URBAN CO-OP BANK,MAHESANA HIGHWAY,NEAR RAJKAMAL PETROL PUMP,MEHSANA,GUJARAT,PIN - 384002",
+        "ADDRESS": "GROUND FLOOR,JIGAR COMPLEX,OPP.MEHSANA URBAN CO-OP BANK,MAHESANA HIGHWAY,NEAR RAJKAMAL PETROL PUMP,MEHSANA,GUJRAT,PIN - 384002",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "MEHSANA",
@@ -4901,12 +4901,12 @@
         "MICR": "384750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "HOTEL DASH CONTINENTAL,VIP ROAD,KARELIBAUG,VADODARA,GUJARAT,PIN-390018",
+        "ADDRESS": "HOTEL DASH CONTINENTAL,VIP ROAD,KARELIBAUG,VADODARA,GUJRAT,PIN-390018",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "KARELI BAUG",
@@ -4919,12 +4919,12 @@
         "MICR": "390750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR NO.4,5,6,GOKUL RESIDENCY,NR.RASPAN ARCADE,NR.BHAKTAI ROAD,OPP.ANDHRA BANK,NIKOL,AHMEDABAD,GUJARAT,PIN - 382350",
+        "ADDRESS": "GROUND FLOOR NO.4,5,6,GOKUL RESIDENCY,NR.RASPAN ARCADE,NR.BHAKTAI ROAD,OPP.ANDHRA BANK,NIKOL,AHMEDABAD,GUJRAT,PIN - 382350",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "NIKOL",
@@ -4937,12 +4937,12 @@
         "MICR": "380750007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,ISHWAR COMPLEX,OPP GURUKUL TOWER,DRIVE IN ROAD,AHMEDABAD,GUJARAT,PIN-380052",
+        "ADDRESS": "GROUND FLOOR,ISHWAR COMPLEX,OPP GURUKUL TOWER,DRIVE IN ROAD,AHMEDABAD,GUJRAT,PIN-380052",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "DRIVE IN ROAD",
@@ -4955,7 +4955,7 @@
         "MICR": "380750009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4996,7 +4996,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P-158,NAZRUL ISLAM AVENUE,KOLKATA,WESTBENGAL,PIN-700054",
+        "ADDRESS": "P-158,NAZRUL ISLAM AVENUE,KOLKATA,WEST BENGAL,PIN-700054",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "ULTADANGA",
@@ -5135,7 +5135,7 @@
         "MICR": "600750007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5243,7 +5243,7 @@
         "MICR": "600750006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5302,7 +5302,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 1 AND 2,BEVERLY ARCADE,NR.MAHA GUJARAT CIRCLE COLLEGE ROAD,NADIAD,KHEDA,GUJARAT,PIN 387001",
+        "ADDRESS": "SHOP NO 1 AND 2,BEVERLY ARCADE,NR.MAHA GUJRAT CIRCLE COLLEGE ROAD,NADIAD,KHEDA,GUJRAT,PIN 387001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "NADIAD",
@@ -5315,12 +5315,12 @@
         "MICR": "387750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,MAKER1,JAWAHAR MAIN ROAD,NEAR GALAXY HOTEL,RAJKOT,GUJARAT,PIN 360001",
+        "ADDRESS": "GROUND FLOOR,MAKER1,JAWAHAR MAIN ROAD,NEAR GALAXY HOTEL,RAJKOT,GUJRAT,PIN 360001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "RAJKOT",
@@ -5333,7 +5333,7 @@
         "MICR": "360750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5351,7 +5351,7 @@
         "MICR": "632750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5680,7 +5680,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ORANGE COURT SQUARE,UPPER GROUND FLOOR,SHOP NO 25/26,INDIRAPURAM,GHAZIABAD,UTTARPRADESH,PIN-201014",
+        "ADDRESS": "ORANGE COURT SQUARE,UPPER GROUND FLOOR,SHOP NO 25/26,INDIRAPURAM,GHAZIABAD,UTTAR PRADESH,PIN-201014",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "GHAZIABAD",
@@ -5770,7 +5770,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "REVENUE SUR NO.282,PLOT NO.3,OPP.BANK OF INDIA,AT.BALADIA,BHUJ,DIST.-KUTCH,GUJARAT,PIN-370427",
+        "ADDRESS": "REVENUE SUR NO.282,PLOT NO.3,OPP.BANK OF INDIA,AT.BALADIA,BHUJ,DIST.-KUTCH,GUJRAT,PIN-370427",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "BALADIA",
@@ -5783,7 +5783,7 @@
         "MICR": "370750052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5860,7 +5860,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "KUSUM VATIKA RAILWAY STATION ROAD,NEAR ANANAD HOSPITAL,PORBANDAR,GUJARAT,PIN - 360575",
+        "ADDRESS": "KUSUM VATIKA RAILWAY STATION ROAD,NEAR ANANAD HOSPITAL,PORBANDAR,GUJRAT,PIN - 360575",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "PORBANDAR",
@@ -5873,7 +5873,7 @@
         "MICR": "360750121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5891,7 +5891,7 @@
         "MICR": "370750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6076,7 +6076,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,VILL AND PO-NATUNGRAM,PS-KANDI,DIST-MURSHIDABAD,WESTBENGAL,PIN-742140",
+        "ADDRESS": "GROUND FLOOR,VILL AND PO-NATUNGRAM,PS-KANDI,DIST-MURSHIDABAD,WEST BENGAL,PIN-742140",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "HIJOL",
@@ -6125,25 +6125,25 @@
         "MICR": "625750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "315,MMA SALAI,NALLITHOPPU,DIST PUDUCHERRY,PUDUCHERRY,PIN 605005",
+        "ADDRESS": "315,MMA SALAI,NALLITHOPPU,DIST PONDICHERRY,PONDICHERRY,PIN 605005",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
-        "BRANCH": "PUDUCHERRY",
-        "CENTRE": "PUDUCHERRY",
-        "CITY": "PUDUCHERRY",
+        "BRANCH": "PONDICHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "03366090909",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "BDBL0001791",
         "IMPS": true,
         "MICR": "605750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -6670,7 +6670,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "M.B BHAGAT COMPLEX,LAL TEKRY,BHUJ-KUTCH,GUJARAT,PIN-370001",
+        "ADDRESS": "M.B BHAGAT COMPLEX,LAL TEKRY,BHUJ-KUTCH,GUJRAT,PIN-370001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "BHUJ",
@@ -6683,12 +6683,12 @@
         "MICR": "370750051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "HEMMANSION,27/16,IC ROAD,RAHARA,KHARDAHA,PO-RAHARA.PS-KHARDAHA,WESTBENGAL,PIN-700118",
+        "ADDRESS": "HEMMANSION,27/16,IC ROAD,RAHARA,KHARDAHA,PO-RAHARA.PS-KHARDAHA,WEST BENGAL,PIN-700118",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "KHARDAHA",
@@ -6778,7 +6778,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "INAMDAR HOUSE,OPP BHAIKAKA STATUE,NEAR ICICI BANK,MOTA BAZAR,VALLABH VIDYA NAGAR,DIST ANAND,GUJARAT,PIN 388120",
+        "ADDRESS": "INAMDAR HOUSE,OPP BHAIKAKA STATUE,NEAR ICICI BANK,MOTA BAZAR,VALLABH VIDYA NAGAR,DIST ANAND,GUJRAT,PIN 388120",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "VALLABH VIDYANAGAR",
@@ -6791,12 +6791,12 @@
         "MICR": "388750004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRFLOOR,SHOPNO-20,21,85 AND 86.LANDMARK-BULDING-A2 SRNO-1/2/2.TOKARKHADA,SILVASSA,DADRA AND NAGAR HAVELI,GUJARAT,PIN-396230",
+        "ADDRESS": "GRFLOOR,SHOPNO-20,21,85 AND 86.LANDMARK-BULDING-A2 SRNO-1/2/2.TOKARKHADA,SILVASSA,DADRA AND NAGAR HAVELI,GUJRAT,PIN-396230",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "SILVASSA",
@@ -6809,7 +6809,7 @@
         "MICR": "396750111",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6827,7 +6827,7 @@
         "MICR": "600750005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7120,7 +7120,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR&FRIST FLOOR,1188/A/1,PURBACHAL MAIN ROAD,KOLKATA,PS-GARFA,WESTBENGAL,PIN-700078",
+        "ADDRESS": "GROUND FLOOR&FRIST FLOOR,1188/A/1,PURBACHAL MAIN ROAD,KOLKATA,PS-GARFA,WEST BENGAL,PIN-700078",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "KALIKAPUR",
@@ -7169,7 +7169,7 @@
         "MICR": "641750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7318,7 +7318,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NO 1 TO 6 OM SHOPPING COMPLEX, OPP PRIME ARCADE ANAND MAHAL ROAD, ADAJAN, SURAT, GUJARAT-395009",
+        "ADDRESS": "GROUND FLOOR SHOP NO 1 TO 6 OM SHOPPING COMPLEX, OPP PRIME ARCADE ANAND MAHAL ROAD, ADAJAN, SURAT, GUJRAT-395009",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "ADAJAN",
@@ -7331,12 +7331,12 @@
         "MICR": "395750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GR. FLOOR, 22,23 AND 24, THE GRAND MONARCH COMPLEX, ANAND NAGAR ROAD, SATELLITE, AHMEDABAD, GUJARAT, PIN-380015",
+        "ADDRESS": "GR. FLOOR, 22,23 AND 24, THE GRAND MONARCH COMPLEX, ANAND NAGAR ROAD, SATELLITE, AHMEDABAD, GUJRAT, PIN-380015",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "SHYAMAL CROSS ROAD",
@@ -7349,7 +7349,7 @@
         "MICR": "380750005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7588,7 +7588,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "LPFFICE,VILL-KULGORIA,P-SANKO,DISTRICT-BARHAMAN,WESTBENGAL,PIN-713141",
+        "ADDRESS": "LPFFICE,VILL-KULGORIA,P-SANKO,DISTRICT-BARHAMAN,WEST BENGAL,PIN-713141",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "SANKO",
@@ -7714,7 +7714,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "OVILL-BELEMATH,S-SANTIPUR,NADIA,WESTBENGAL,IN-741402",
+        "ADDRESS": "OVILL-BELEMATH,S-SANTIPUR,NADIA,WEST BENGAL,IN-741402",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "FULIA",
@@ -8848,7 +8848,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUNDR FLOOR,MANILAL CHAMBER,PLOT NO 282,SECTOR 16,GH ROAD NR TORRENT POWER OFFICE,GANDHINAGAR,GUJARAT,PIN - 382016",
+        "ADDRESS": "GROUNDR FLOOR,MANILAL CHAMBER,PLOT NO 282,SECTOR 16,GH ROAD NR TORRENT POWER OFFICE,GANDHINAGAR,GUJRAT,PIN - 382016",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "GANDHINAGAR",
@@ -8861,7 +8861,7 @@
         "MICR": "380750004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8897,7 +8897,7 @@
         "MICR": "392750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8920,7 +8920,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "26 A MIG,MUNICIPAL NO.7 1 397 5 A,SANJEEVA REDDY NAGAR COLONY,HYDERABAD,TELENGANA,PIN 500038",
+        "ADDRESS": "26 A MIG,MUNICIPAL NO.7 1 397 5 A,SANJEEVA REDDY NAGAR COLONY,HYDERABAD,TELANGANA,PIN 500038",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "S R NAGAR",
@@ -9118,7 +9118,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "LEGEND CRYSTAL,SHOP NO.3,GROUND FLOOR,PERNDERGHAST ROAD,SECUNDERABAD,TELENGANA,PIN 500003",
+        "ADDRESS": "LEGEND CRYSTAL,SHOP NO.3,GROUND FLOOR,PERNDERGHAST ROAD,SECUNDERABAD,TELANGANA,PIN 500003",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "SECUNDERABAD",
@@ -9190,7 +9190,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO.M-4,THILLAINAGAR MAIN ROAD,THILLAI NAGAR,TRICHY,TAMIL NADU,PIN - 620018",
+        "ADDRESS": "NO.M-4,THILLAINAGAR MAIN ROAD,THILLAI NAGAR,TRICHY,TAMILNADU,PIN - 620018",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "TRICHY",
@@ -9203,7 +9203,7 @@
         "MICR": "620750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9316,7 +9316,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "263 OLD NO.27,MUDICHUR ROAD,TAMBARAM WEST,CHENNAI,TAMIL NADU,PIN - 600045",
+        "ADDRESS": "263 OLD NO.27,MUDICHUR ROAD,TAMBARAM WEST,CHENNAI,TAMILNADU,PIN - 600045",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "TAMBARAM",
@@ -9329,12 +9329,12 @@
         "MICR": "600750004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "40,SOUTH WEST BOAGH ROAD,P.O.T NAGAR,CHENNAI,TAMIL NADU,PIN - 600017",
+        "ADDRESS": "40,SOUTH WEST BOAGH ROAD,P.O.T NAGAR,CHENNAI,TAMILNADU,PIN - 600017",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "T. NAGAR",
@@ -9347,7 +9347,7 @@
         "MICR": "600750003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9455,7 +9455,7 @@
         "MICR": "600750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10306,7 +10306,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "JITPURA,TALUKA UMRETH,P.O.ODE,DIST.ANAND,GUJARAT,PIN-388210",
+        "ADDRESS": "JITPURA,TALUKA UMRETH,P.O.ODE,DIST.ANAND,GUJRAT,PIN-388210",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "JITPURA",
@@ -10319,12 +10319,12 @@
         "MICR": "388750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO.G-1-2-3-4-5,ANNAPURNA TEXTILE MARKET,RING ROAD,P.O.AND DIST.SURAT,GUJARAT,PIN-395003",
+        "ADDRESS": "SHOP NO.G-1-2-3-4-5,ANNAPURNA TEXTILE MARKET,RING ROAD,P.O.AND DIST.SURAT,GUJRAT,PIN-395003",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "SURAT",
@@ -10337,12 +10337,12 @@
         "MICR": "395750001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILL. & P.O.VALETVA,TALUKA - NADIAD,DIST.KHEDA,GUJARAT,PIN -388440",
+        "ADDRESS": "VILL. & P.O.VALETVA,TALUKA - NADIAD,DIST.KHEDA,GUJRAT,PIN -388440",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "VALETVA",
@@ -10355,12 +10355,12 @@
         "MICR": "388750003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO.105,OPP.DHAMSANA GRAM PANCHAYAT OFFICE,DIST.GANDHINAGAR,GUJARAT,PIN -382740",
+        "ADDRESS": "SHOP NO.105,OPP.DHAMSANA GRAM PANCHAYAT OFFICE,DIST.GANDHINAGAR,GUJRAT,PIN -382740",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "DHAMSANA",
@@ -10373,7 +10373,7 @@
         "MICR": "380750002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -11692,7 +11692,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "FORTUNE MALL,SHOP NO.3 B,P.O.VAPI,GUJARAT,PIN - 396191",
+        "ADDRESS": "FORTUNE MALL,SHOP NO.3 B,P.O.VAPI,GUJRAT,PIN - 396191",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "VAPI",
@@ -11705,12 +11705,12 @@
         "MICR": "396750031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO.7 AND 8,PANCHAM HIGH STREET,NEAR MANISHA CROSS ROAD,OLD PADRA ROAD,VADODARA,GUJARAT,PIN -390007",
+        "ADDRESS": "SHOP NO.7 AND 8,PANCHAM HIGH STREET,NEAR MANISHA CROSS ROAD,OLD PADRA ROAD,VADODARA,GUJRAT,PIN -390007",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "VADODARA",
@@ -11723,12 +11723,12 @@
         "MICR": "390750001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "STATION ROAD,OPPOSITE DENA BANK,P.O.UNJHA,GUJARAT,PIN -384170",
+        "ADDRESS": "STATION ROAD,OPPOSITE DENA BANK,P.O.UNJHA,GUJRAT,PIN -384170",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "UNJHA",
@@ -11741,12 +11741,12 @@
         "MICR": "384750051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "FORTUNE AVENUE,GROUND FLOOR,NR.KUNTHUNATH DERASAR,AMBA MECH ROAD,SURENDRANAGAR,GUJARAT,PIN - 363001",
+        "ADDRESS": "FORTUNE AVENUE,GROUND FLOOR,NR.KUNTHUNATH DERASAR,AMBA MECH ROAD,SURENDRANAGAR,GUJRAT,PIN - 363001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "SURENDRANAGAR",
@@ -11759,12 +11759,12 @@
         "MICR": "363750001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "EMERALD BUSINESS HUB ROHINI CONSTRUCTION,OPPOSITE ICICI BANK,SHEVASHRAM ROAD,BESIDE RELIENCE MALL,BHARUCH,GUJARAT,PIN - 392001",
+        "ADDRESS": "EMERALD BUSINESS HUB ROHINI CONSTRUCTION,OPPOSITE ICICI BANK,SHEVASHRAM ROAD,BESIDE RELIENCE MALL,BHARUCH,GUJRAT,PIN - 392001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "BHARUCH",
@@ -11777,12 +11777,12 @@
         "MICR": "392750001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SWASTIK SQUARE,OPP.TO DHIRAJ SONS,GANDHI ROAD,P.O.BARDOLI,DIST.SURAT,GUJARAT,PIN - 394601",
+        "ADDRESS": "SWASTIK SQUARE,OPP.TO DHIRAJ SONS,GANDHI ROAD,P.O.BARDOLI,DIST.SURAT,GUJRAT,PIN - 394601",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "BARDOLI",
@@ -11795,12 +11795,12 @@
         "MICR": "394750051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHREEJI SANKALP,100 FEET ROAD,NEAR BACHPAN SCHOOL,P.O. & DIST.ANAND,GUJARAT,PIN-388001",
+        "ADDRESS": "SHREEJI SANKALP,100 FEET ROAD,NEAR BACHPAN SCHOOL,P.O. & DIST.ANAND,GUJRAT,PIN-388001",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "ANAND",
@@ -11813,12 +11813,12 @@
         "MICR": "388750001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "3RD EYE,SHOP NO.3 & 4,C.G.ROAD,NEAR CG SQUARE MALL,PANCHVATI CROSS ROAD,GUJARAT,PIN 380006",
+        "ADDRESS": "3RD EYE,SHOP NO.3 & 4,C.G.ROAD,NEAR CG SQUARE MALL,PANCHVATI CROSS ROAD,GUJRAT,PIN 380006",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "AHMEDABAD",
@@ -11831,7 +11831,7 @@
         "MICR": "380750001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12263,7 +12263,7 @@
         "MICR": "491750001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "WB",
+        "STATE": "CHHATTISGARH",
         "SWIFT": "",
         "UPI": true
     },
@@ -16606,7 +16606,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "1ST FLOOR,SUBH ARCADE,HANSALPUR CHOKRI,NEAR IOC PUMPING STATION,VIRAMGAM ROAD,P.O.HANSALPUR,GUJARAT,PIN -382150",
+        "ADDRESS": "1ST FLOOR,SUBH ARCADE,HANSALPUR CHOKRI,NEAR IOC PUMPING STATION,VIRAMGAM ROAD,P.O.HANSALPUR,GUJRAT,PIN -382150",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "VIRAMGAM",
@@ -16619,7 +16619,7 @@
         "MICR": "380750003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17002,7 +17002,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DIVINE HEIGHTS,MG ROAD,OPPOSITE COLLECTOR OFFICE,P.O.RAJPIPLA,DIST.NARMADA,GUJARAT,PIN -393145",
+        "ADDRESS": "DIVINE HEIGHTS,MG ROAD,OPPOSITE COLLECTOR OFFICE,P.O.RAJPIPLA,DIST.NARMADA,GUJRAT,PIN -393145",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "RAJPIPLA",
@@ -17015,7 +17015,7 @@
         "MICR": "393750001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17740,7 +17740,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "B -CITY CENTRE,IDAR HIMATNAGAR,H.W ROAD,SABAR SIT KENDRA,IDAR,DIST -SABARKANTHA,GUJARAT,PIN -383430",
+        "ADDRESS": "B -CITY CENTRE,IDAR HIMATNAGAR,H.W ROAD,SABAR SIT KENDRA,IDAR,DIST -SABARKANTHA,GUJRAT,PIN -383430",
         "BANK": "Bandhan Bank",
         "BANKCODE": "BDBL",
         "BRANCH": "IDAR",
@@ -17753,7 +17753,7 @@
         "MICR": "383750031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

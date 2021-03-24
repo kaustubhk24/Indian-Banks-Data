@@ -1,6 +1,6 @@
 [
     {
-        "ADDRESS": "PUNJAB AND SIND BANK SHOP NO GF 1 2 3 AND 11 12 13 PRAYOSHA COMPLEX CHANNI ROAD CHANNI JAKAT NAKA NEAR BOB CHANNI VADODRA GUJARAT 390024",
+        "ADDRESS": "PUNJAB AND SIND BANK SHOP NO GF 1 2 3 AND 11 12 13 PRAYOSHA COMPLEX CHANNI ROAD CHANNI JAKAT NAKA NEAR BOB CHANNI VADODRA GUJRAT 390024",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "CHANNI ROAD VADODRA",
@@ -13,12 +13,12 @@
         "MICR": "390023003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO H01 TO H05 HIGHER GROUND FLOOR KAILASHDEEP APARTMENT OPP SUB JAIL SANGRAMPURA RING ROAD SURAT GUJARAT 395002",
+        "ADDRESS": "SHOP NO H01 TO H05 HIGHER GROUND FLOOR KAILASHDEEP APARTMENT OPP SUB JAIL SANGRAMPURA RING ROAD SURAT GUJRAT 395002",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "RING ROAD SURAT",
@@ -31,12 +31,12 @@
         "MICR": "395023003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PUNJAB AND SIND BANK SHOP NO 6 7 8 KESHVAM COMMERCIAL COMPLEX NEAR DHAVAL COMPLEX SP RING ROAD ODHAV PO PS ODHAV AHMEDABAD GUJARAT 382415",
+        "ADDRESS": "PUNJAB AND SIND BANK SHOP NO 6 7 8 KESHVAM COMMERCIAL COMPLEX NEAR DHAVAL COMPLEX SP RING ROAD ODHAV PO PS ODHAV AHMEDABAD GUJRAT 382415",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "ODHAV AHMEDABAD",
@@ -49,7 +49,7 @@
         "MICR": "380023007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -193,7 +193,7 @@
         "MICR": "370023051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -252,7 +252,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR BALSHANTI COMPLEX NEAR RJJ SCHOOL TITHAI ROAD VALSAD VALSAD GUJARAT 396001",
+        "ADDRESS": "GROUND FLOOR BALSHANTI COMPLEX NEAR RJJ SCHOOL TITHAI ROAD VALSAD VALSAD GUJRAT 396001",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "VALSAD",
@@ -265,7 +265,7 @@
         "MICR": "396023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -337,7 +337,7 @@
         "MICR": "393023051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -355,7 +355,7 @@
         "MICR": "362023051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -391,7 +391,7 @@
         "MICR": "380023006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -409,7 +409,7 @@
         "MICR": "387023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -445,7 +445,7 @@
         "MICR": "363023021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -792,7 +792,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SAKTHI CENTREPOINT, SY NO 247, NEAR V J KALYANA MANDAPAM, THALLY ROAD, HOSUR, TAMIL NADU - 635109",
+        "ADDRESS": "SAKTHI CENTREPOINT, SY NO 247, NEAR V J KALYANA MANDAPAM, THALLY ROAD, HOSUR, TAMILNADU - 635109",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "HOSUR",
@@ -805,7 +805,7 @@
         "MICR": "635023402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1926,7 +1926,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "IAEANDPOBADIWAA,BOCK-PURKAJI,TEHSIMUZAFFARNAAR,DISTTMUZAFFARNAAR,UTTARPRADESH-251327",
+        "ADDRESS": "IAEANDPOBADIWAA,BOCK-PURKAJI,TEHSIMUZAFFARNAAR,DISTTMUZAFFARNAAR,UTTAR PRADESH-251327",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "BADHIWALA",
@@ -2124,7 +2124,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 20,21,SIMANDHAR SHOPPING COMPLEX,NANGALPUR ROAD,MEHSANA HIGHWAY,MEHSANA,GUJARAT -384002",
+        "ADDRESS": "SHOP NO 20,21,SIMANDHAR SHOPPING COMPLEX,NANGALPUR ROAD,MEHSANA HIGHWAY,MEHSANA,GUJRAT -384002",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "MEHSANA",
@@ -2137,7 +2137,7 @@
         "MICR": "384023001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3618,7 +3618,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "770 A, ANNA SALAI, GROUND FLOOR, SPENCER TOWERS, CHENNAI, TAMIL NADU 600002",
+        "ADDRESS": "770 A, ANNA SALAI, GROUND FLOOR, SPENCER TOWERS, CHENNAI, TAMILNADU 600002",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "SPL LENDING BR CHENNAI",
@@ -3631,7 +3631,7 @@
         "MICR": "600023009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4878,7 +4878,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO.26,SUBRAMANIAPURAM,4TH STREET,SOUTH EXTENSION,CITY KARAIKUDI,DISTT.SIVAGANGA 630 002,TAMIL NADU",
+        "ADDRESS": "NO.26,SUBRAMANIAPURAM,4TH STREET,SOUTH EXTENSION,CITY KARAIKUDI,DISTT.SIVAGANGA 630 002,TAMILNADU",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "KARAIKUDI",
@@ -4891,7 +4891,7 @@
         "MICR": "630023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4909,7 +4909,7 @@
         "MICR": "625023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5035,12 +5035,12 @@
         "MICR": "380023005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYMPHONY SQUARE,PALACE ROAD,MAHAVIR NAGAR,HIMMATNAGAR,DISTT SABARKANTHA GUJARAT 383001",
+        "ADDRESS": "SYMPHONY SQUARE,PALACE ROAD,MAHAVIR NAGAR,HIMMATNAGAR,DISTT SABARKANTHA GUJRAT 383001",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "HIMMATNAGAR",
@@ -5053,7 +5053,7 @@
         "MICR": "383023001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5503,7 +5503,7 @@
         "MICR": "388023001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5845,7 +5845,7 @@
         "MICR": "630023008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5881,7 +5881,7 @@
         "MICR": "370023001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6709,7 +6709,7 @@
         "MICR": "605023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -7573,7 +7573,7 @@
         "MICR": "396023031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9751,7 +9751,7 @@
         "MICR": "636023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10039,7 +10039,7 @@
         "MICR": "600023007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11641,7 +11641,7 @@
         "MICR": "380023004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13752,7 +13752,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NAVALUR,1/334, A.S.K. TOWER, RAJIV GANDHI SALAI (OMR),NAVALUR, TAMIL NADU-603103",
+        "ADDRESS": "NAVALUR,1/334, A.S.K. TOWER, RAJIV GANDHI SALAI (OMR),NAVALUR, TAMILNADU-603103",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "NAVALUR",
@@ -13765,7 +13765,7 @@
         "MICR": "600023006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15462,7 +15462,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "IBD, OLD NO 36/ NEW NO 118,KAMACHI AMMAN KOIL STREET,BEHIND OLD BUS STAND, TIRUPUR,TAMIL NADU-641604",
+        "ADDRESS": "IBD, OLD NO 36/ NEW NO 118,KAMACHI AMMAN KOIL STREET,BEHIND OLD BUS STAND, TIRUPUR,TAMILNADU-641604",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "TIRUPUR I B D",
@@ -15475,7 +15475,7 @@
         "MICR": "641023102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17491,7 +17491,7 @@
         "MICR": "600023003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17653,7 +17653,7 @@
         "MICR": "600023005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19080,7 +19080,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "435/434 OPPANKARA STR. COIMBATORE, TAMIL NADU,PINCODE-641001",
+        "ADDRESS": "435/434 OPPANKARA STR. COIMBATORE, TAMILNADU,PINCODE-641001",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "COIMBATORE",
@@ -19093,7 +19093,7 @@
         "MICR": "641023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19260,7 +19260,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "P.B.NO 1091, RAILWAY PURA, REID ROAD AHMEDABAD,GUJARAT-380002",
+        "ADDRESS": "P.B.NO 1091, RAILWAY PURA, REID ROAD AHMEDABAD,GUJRAT-380002",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "REID ROAD, AHMEDABAD",
@@ -19273,7 +19273,7 @@
         "MICR": "380023003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19980,7 +19980,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "37-A NANDI KOVIL STREET, TRICHIRAPALLI, TAMIL NADU-620002",
+        "ADDRESS": "37-A NANDI KOVIL STREET, TRICHIRAPALLI, TAMILNADU-620002",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "TRICHIRAPALLI, CHENNAI",
@@ -19993,7 +19993,7 @@
         "MICR": "620023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20101,7 +20101,7 @@
         "MICR": "600023004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20425,7 +20425,7 @@
         "MICR": "361023001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -20443,7 +20443,7 @@
         "MICR": "360023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -20533,7 +20533,7 @@
         "MICR": "364023001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21397,7 +21397,7 @@
         "MICR": "390023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22315,7 +22315,7 @@
         "MICR": "395023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23485,7 +23485,7 @@
         "MICR": "380023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -24192,7 +24192,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "161 MOUNT ROAD PB NO.2729,CHENNAI,TAMIL NADU-600002",
+        "ADDRESS": "161 MOUNT ROAD PB NO.2729,CHENNAI,TAMILNADU-600002",
         "BANK": "Punjab & Sind Bank",
         "BANKCODE": "PSIB",
         "BRANCH": "CHENNAI MOUNT ROAD",
@@ -24205,7 +24205,7 @@
         "MICR": "600023002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },

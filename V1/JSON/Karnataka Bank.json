@@ -306,7 +306,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 11A, VRAJ RENU, WAGHAWADI ROAD BHAVNAGAR 364002 GUJARAT",
+        "ADDRESS": "NO 11A, VRAJ RENU, WAGHAWADI ROAD BHAVNAGAR 364002 GUJRAT",
         "BANK": "Karnataka Bank",
         "BANKCODE": "KARB",
         "BRANCH": "BHAVNAGAR",
@@ -319,7 +319,7 @@
         "MICR": "364052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1327,7 +1327,7 @@
         "MICR": "632052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1543,7 +1543,7 @@
         "MICR": "638052004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1551,7 +1551,7 @@
         "ADDRESS": "SURYA KIRAN COMPLEX,OLD PADRA ROAD,VIDUTNAGAR,VADODARA, PIN=390015",
         "BANK": "Karnataka Bank",
         "BANKCODE": "KARB",
-        "BRANCH": "Vadodara, Gujarat",
+        "BRANCH": "Vadodara, GUJRAT",
         "CENTRE": "VADODARA",
         "CITY": "VADODARA",
         "CONTACT": "02652321120",
@@ -1561,7 +1561,7 @@
         "MICR": "390052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1633,7 +1633,7 @@
         "MICR": "641052104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1687,7 +1687,7 @@
         "MICR": "600052026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1723,7 +1723,7 @@
         "MICR": "627052003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1741,7 +1741,7 @@
         "MICR": "613052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1795,7 +1795,7 @@
         "MICR": "627052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1903,7 +1903,7 @@
         "MICR": "600052016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1993,7 +1993,7 @@
         "MICR": "641052103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2029,7 +2029,7 @@
         "MICR": "641052102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2083,7 +2083,7 @@
         "MICR": "620052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2641,7 +2641,7 @@
         "MICR": "636052003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2700,10 +2700,10 @@
         "UPI": true
     },
     {
-        "ADDRESS": "K.G.CHAMBERS,OPP.GUJARAT SAMACHAR PRESS,UDHNA DARWAJA RING ROAD,SURAT, PIN=395002",
+        "ADDRESS": "K.G.CHAMBERS,OPP.GUJRAT SAMACHAR PRESS,UDHNA DARWAJA RING ROAD,SURAT, PIN=395002",
         "BANK": "Karnataka Bank",
         "BANKCODE": "KARB",
-        "BRANCH": "Surat, Gujarat",
+        "BRANCH": "Surat, GUJRAT",
         "CENTRE": "SURAT",
         "CITY": "SURAT",
         "CONTACT": "02612363063",
@@ -2713,7 +2713,7 @@
         "MICR": "395052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2875,7 +2875,7 @@
         "MICR": "636052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3235,7 +3235,7 @@
         "MICR": "395052003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3423,7 +3423,7 @@
         "ADDRESS": "PLOT NO.2,TAANK BUSINESS TOWER JAIL ROAD,RAIPUR, PIN - 492009",
         "BANK": "Karnataka Bank",
         "BANKCODE": "KARB",
-        "BRANCH": "RAIPUR CHATTISGARH",
+        "BRANCH": "RAIPUR CHHATTISGARH",
         "CENTRE": "RAIPUR",
         "CITY": "RAIPUR",
         "CONTACT": "07712880021",
@@ -3451,7 +3451,7 @@
         "MICR": "360052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3757,7 +3757,7 @@
         "MICR": "629052102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4068,7 +4068,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO.137,AZIZ MANZIL MISSION STREET,PUDUCHERRY, PIN=605001",
+        "ADDRESS": "NO.137,AZIZ MANZIL MISSION STREET,PONDICHERRY, PIN=605001",
         "BANK": "Karnataka Bank",
         "BANKCODE": "KARB",
         "BRANCH": "Pondicherry",
@@ -4081,7 +4081,7 @@
         "MICR": "605052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -4513,7 +4513,7 @@
         "MICR": "629052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4729,7 +4729,7 @@
         "MICR": "636052004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5989,7 +5989,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6061,7 +6061,7 @@
         "MICR": "600052007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6097,7 +6097,7 @@
         "MICR": "600052003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6151,7 +6151,7 @@
         "MICR": "600052008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6205,7 +6205,7 @@
         "MICR": "600052005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6241,7 +6241,7 @@
         "MICR": "625052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6637,7 +6637,7 @@
         "MICR": "600052006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6655,7 +6655,7 @@
         "MICR": "600052004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6673,7 +6673,7 @@
         "MICR": "600052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7051,7 +7051,7 @@
         "MICR": "600052017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7249,7 +7249,7 @@
         "MICR": "639052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7951,7 +7951,7 @@
         "MICR": "612052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8185,7 +8185,7 @@
         "MICR": "361052001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8527,7 +8527,7 @@
         "MICR": "635052402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9589,7 +9589,7 @@
         "MICR": "600052023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10291,7 +10291,7 @@
         "MICR": "638052003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10309,7 +10309,7 @@
         "MICR": "638052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10705,7 +10705,7 @@
         "MICR": "600052027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10777,7 +10777,7 @@
         "MICR": "600052025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10795,7 +10795,7 @@
         "MICR": "600052024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10867,7 +10867,7 @@
         "MICR": "600052022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10885,7 +10885,7 @@
         "MICR": "600052021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10939,7 +10939,7 @@
         "MICR": "600052020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10993,7 +10993,7 @@
         "MICR": "600052019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11011,7 +11011,7 @@
         "MICR": "600052018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11029,7 +11029,7 @@
         "MICR": "600052015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11065,7 +11065,7 @@
         "MICR": "600052014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11083,7 +11083,7 @@
         "MICR": "600052013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11101,7 +11101,7 @@
         "MICR": "600052012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11119,7 +11119,7 @@
         "MICR": "600052011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11137,7 +11137,7 @@
         "MICR": "600052001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11155,7 +11155,7 @@
         "MICR": "643052102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11173,7 +11173,7 @@
         "MICR": "641052004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11191,7 +11191,7 @@
         "MICR": "600052010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11227,7 +11227,7 @@
         "MICR": "600052009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11263,7 +11263,7 @@
         "MICR": "641052003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11425,7 +11425,7 @@
         "MICR": "641052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13279,7 +13279,7 @@
         "MICR": "380052003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13369,7 +13369,7 @@
         "MICR": "380052002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

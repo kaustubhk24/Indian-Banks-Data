@@ -193,7 +193,7 @@
         "MICR": "520022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -247,7 +247,7 @@
         "MICR": "600022017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -409,7 +409,7 @@
         "MICR": "641022005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2497,7 +2497,7 @@
         "MICR": "110022151",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2551,7 +2551,7 @@
         "MICR": "110022158",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2623,7 +2623,7 @@
         "MICR": "110022152",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2659,7 +2659,7 @@
         "MICR": "110022148",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2821,7 +2821,7 @@
         "MICR": "395022008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2862,7 +2862,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "B/O MOHADDIPUR, H. NO. 623/624,KANCHANPUR TOWERS,TEHSIL SADAR,P.O KUNRAGHAT,DISTT. GORAKHPUR,UTTARPRADESH -273008",
+        "ADDRESS": "B/O MOHADDIPUR, H. NO. 623/624,KANCHANPUR TOWERS,TEHSIL SADAR,P.O KUNRAGHAT,DISTT. GORAKHPUR,UTTAR PRADESH -273008",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "GORAKHPUR-MOHADDIPUR",
@@ -2911,7 +2911,7 @@
         "MICR": "395022007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3037,7 +3037,7 @@
         "MICR": "636022004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3055,7 +3055,7 @@
         "MICR": "600022030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3073,7 +3073,7 @@
         "MICR": "635022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3091,7 +3091,7 @@
         "MICR": "627022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3109,7 +3109,7 @@
         "MICR": "380022025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3127,7 +3127,7 @@
         "MICR": "389022021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3511,7 +3511,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "CRV COMPLEX, OPP KOTHARI PETROL PUMP, MAIN ROAD, AMAPARA, DISTT KANKER, CHATTISGARH 494334",
+        "ADDRESS": "CRV COMPLEX, OPP KOTHARI PETROL PUMP, MAIN ROAD, AMAPARA, DISTT KANKER, CHHATTISGARH 494334",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "KANKER",
@@ -4191,7 +4191,7 @@
         "MICR": "380022023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4360,7 +4360,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BEHIND DISTRICT COURT OFFICE PO CHAKARDHAR NAGAR TEHSIL AND DISTRICT RAIGARH CHATTISGARH PIN 496001",
+        "ADDRESS": "BEHIND DISTRICT COURT OFFICE PO CHAKARDHAR NAGAR TEHSIL AND DISTRICT RAIGARH CHHATTISGARH PIN 496001",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "COLLECTORATE RAIGARH",
@@ -5004,7 +5004,7 @@
         "MICR": "600022029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5022,7 +5022,7 @@
         "MICR": "600022028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5436,7 +5436,7 @@
         "MICR": "380022021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5675,7 +5675,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE-TARRA, TEHSIL-PATAN, DISTRICT - DURG (CHATTISGARH) PIN - 491111",
+        "ADDRESS": "VILLAGE-TARRA, TEHSIL-PATAN, DISTRICT - DURG (CHHATTISGARH) PIN - 491111",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "TARRA DISTT-DURG",
@@ -5693,7 +5693,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ANAND RAJ COMPLEX, MAHARAJA CHOWK, NEW ADARSH NAGAR, BORSI ROAD, BORSI, DISTRICT- DURG (CHATTISGARH) PIN - 491001",
+        "ADDRESS": "ANAND RAJ COMPLEX, MAHARAJA CHOWK, NEW ADARSH NAGAR, BORSI ROAD, BORSI, DISTRICT- DURG (CHHATTISGARH) PIN - 491001",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "BORSI DISTT-DURG",
@@ -6102,7 +6102,7 @@
         "MICR": "635022302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7061,7 +7061,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "H.NO.20,SARDAR PATEL WARD,BILASPUR JABALPUR ROAD,MUNGELI CHATTISGARH",
+        "ADDRESS": "H.NO.20,SARDAR PATEL WARD,BILASPUR JABALPUR ROAD,MUNGELI CHHATTISGARH",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "MUNGELI",
@@ -7614,7 +7614,7 @@
         "MICR": "380022020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7795,7 +7795,7 @@
         "MICR": "624022102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8551,7 +8551,7 @@
         "MICR": "630022203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8646,7 +8646,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GUMANDEV LORDS MALL, OPP. LAKE,VPO-DAHEJ, DISTT. BHARUCH,DAHEJ DISTT-BHARUCH,GUJARAT,PIN-392130",
+        "ADDRESS": "GUMANDEV LORDS MALL, OPP. LAKE,VPO-DAHEJ, DISTT. BHARUCH,DAHEJ DISTT-BHARUCH,GUJRAT,PIN-392130",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "DAHEJ DIST-BHARUCH",
@@ -8659,7 +8659,7 @@
         "MICR": "392022071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9757,7 +9757,7 @@
         "MICR": "385022031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10675,7 +10675,7 @@
         "MICR": "600022027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10693,7 +10693,7 @@
         "MICR": "600022026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10748,12 +10748,12 @@
         "MICR": "609022102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Old No.32,Dr. Vardarajan Street,Vedachala Nagar,Chengalpattu,Tamil Nadu -603001.",
+        "ADDRESS": "Old No.32,Dr. Vardarajan Street,Vedachala Nagar,Chengalpattu,TAMILNADU -603001.",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "CHENGALPATTU-DIST.KANCHEEPURAM",
@@ -10766,7 +10766,7 @@
         "MICR": "600022025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12098,7 +12098,7 @@
         "MICR": "380022019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12116,7 +12116,7 @@
         "MICR": "384022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12170,7 +12170,7 @@
         "MICR": "605022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12391,7 +12391,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Oriental Bank of Commerce, Vill. & Post: Dura, Distt.- Agra, Uttarpradesh",
+        "ADDRESS": "Oriental Bank of Commerce, Vill. & Post: Dura, Distt.- Agra, UTTAR PRADESH",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "DURA - AGRA",
@@ -12566,7 +12566,7 @@
         "MICR": "600022024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13268,7 +13268,7 @@
         "MICR": "395022006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13507,7 +13507,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "C1, C2 & C6, GANESH MERIDIAN, OPP AMIRAJ FARM, NEAR GUJARAT HIGH COURT, S. G. HIGHWAY, AHMEDABAD, GUJARAT, PIN - 380060",
+        "ADDRESS": "C1, C2 & C6, GANESH MERIDIAN, OPP AMIRAJ FARM, NEAR GUJRAT HIGH COURT, S. G. HIGHWAY, AHMEDABAD, GUJRAT, PIN - 380060",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "S. G. HIGHWAY, AHMEDABAD",
@@ -13520,7 +13520,7 @@
         "MICR": "380022018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14096,7 +14096,7 @@
         "MICR": "380022017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14155,7 +14155,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "#3,SHIVAVISHNU KOIL, RO SHREENIKETAN  MATRIC S TRIRUVALLUR, TAMIL NADU",
+        "ADDRESS": "#3,SHIVAVISHNU KOIL, RO SHREENIKETAN  MATRIC S TRIRUVALLUR, TAMILNADU",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "TIRUVALLUR",
@@ -14168,7 +14168,7 @@
         "MICR": "600022023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15092,7 +15092,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UKHRA GROUND FLOOR, BANKOLA RD, VILL&PO- UKHRA, DISTT:BURDWAN, PIN 713363, WESTBENGAL",
+        "ADDRESS": "UKHRA GROUND FLOOR, BANKOLA RD, VILL&PO- UKHRA, DISTT:BURDWAN, PIN 713363, WEST BENGAL",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "UKHRA",
@@ -15542,7 +15542,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "OLD NAGAR PANCHAYAT BUILDING,MAIN ROAD,DISTT DHAMTARI,CHATTISGARH,KURUD",
+        "ADDRESS": "OLD NAGAR PANCHAYAT BUILDING,MAIN ROAD,DISTT DHAMTARI,CHHATTISGARH,KURUD",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "KURUD",
@@ -17013,7 +17013,7 @@
         "MICR": "641022006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17175,7 +17175,7 @@
         "MICR": "636022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17445,7 +17445,7 @@
         "MICR": "600022022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17607,7 +17607,7 @@
         "MICR": "600022021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17643,7 +17643,7 @@
         "MICR": "385022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17697,7 +17697,7 @@
         "MICR": "396022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17985,7 +17985,7 @@
         "MICR": "365022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18111,7 +18111,7 @@
         "MICR": "380022015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18659,7 +18659,7 @@
         "ADDRESS": "SIDDHI PLAZA, OPP KRIBHCO HOUSING COLONY,  ICCHAPORE, HAZIRA",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
-        "BRANCH": "HAZIRA - GUJARAT",
+        "BRANCH": "HAZIRA - GUJRAT",
         "CENTRE": "HAJIRA",
         "CITY": "HAJIRA",
         "CONTACT": "9327185722",
@@ -18669,7 +18669,7 @@
         "MICR": "395022005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18705,7 +18705,7 @@
         "MICR": "360022121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18764,20 +18764,20 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO.14 TO 22, KAILASH,COMPLEX, WING-C,,S.T.ROAD, GONDAL,,GONDAL-GUJARAT",
+        "ADDRESS": "SHOP NO.14 TO 22, KAILASH,COMPLEX, WING-C,,S.T.ROAD, GONDAL,,GONDAL-GUJRAT",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "GONDAL",
-        "CENTRE": "GONDAL-GUJARAT",
-        "CITY": "GONDAL-GUJARAT",
+        "CENTRE": "GONDAL-GUJRAT",
+        "CITY": "GONDAL-GUJRAT",
         "CONTACT": "2825220515",
-        "DISTRICT": "GONDAL-GUJARAT",
+        "DISTRICT": "GONDAL-GUJRAT",
         "IFSC": "ORBC0101330",
         "IMPS": true,
         "MICR": "360022041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18785,7 +18785,7 @@
         "ADDRESS": "473&474, PATEL SAMAJ, PATEL WADI NO.1,MAIN BAZAR, GANA,ANAND",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
-        "BRANCH": "GANA-GUJARAT",
+        "BRANCH": "GANA-GUJRAT",
         "CENTRE": "ANAND ",
         "CITY": "ANAND ",
         "CONTACT": "2692223",
@@ -18795,7 +18795,7 @@
         "MICR": "388022005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18813,7 +18813,7 @@
         "MICR": "380022014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19155,7 +19155,7 @@
         "MICR": "600022020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19209,7 +19209,7 @@
         "MICR": "363022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19245,7 +19245,7 @@
         "MICR": "611022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19317,7 +19317,7 @@
         "MICR": "632022501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -19749,7 +19749,7 @@
         "MICR": "630022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20883,7 +20883,7 @@
         "MICR": "600022019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22180,7 +22180,7 @@
         "MICR": "613022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22252,7 +22252,7 @@
         "MICR": "392022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22270,7 +22270,7 @@
         "MICR": "629022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22360,7 +22360,7 @@
         "MICR": "380022013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22432,7 +22432,7 @@
         "MICR": "380022012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22666,7 +22666,7 @@
         "MICR": "600022016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22756,7 +22756,7 @@
         "MICR": "620022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -22792,7 +22792,7 @@
         "MICR": "395022004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22864,7 +22864,7 @@
         "MICR": "600022014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23080,7 +23080,7 @@
         "MICR": "390022005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23098,7 +23098,7 @@
         "MICR": "625022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23170,7 +23170,7 @@
         "MICR": "600022013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23386,7 +23386,7 @@
         "MICR": "380022011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23530,7 +23530,7 @@
         "MICR": "600022012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23566,7 +23566,7 @@
         "MICR": "600022018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23584,7 +23584,7 @@
         "MICR": "641022004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23602,7 +23602,7 @@
         "MICR": "600022011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -23782,7 +23782,7 @@
         "MICR": "380022010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23890,7 +23890,7 @@
         "MICR": "641022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "ORBCINBBCMB",
         "UPI": true
     },
@@ -23908,7 +23908,7 @@
         "MICR": "600022015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "ORBCINBBMYL",
         "UPI": true
     },
@@ -24233,7 +24233,7 @@
         "MICR": "600022010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24431,7 +24431,7 @@
         "MICR": "370022501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -24449,7 +24449,7 @@
         "MICR": "600022009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24665,7 +24665,7 @@
         "MICR": "380022009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25133,7 +25133,7 @@
         "MICR": "626022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25241,7 +25241,7 @@
         "MICR": "384022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25277,7 +25277,7 @@
         "MICR": "396022031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25421,7 +25421,7 @@
         "MICR": "390022004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25511,7 +25511,7 @@
         "MICR": "388022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25853,7 +25853,7 @@
         "MICR": "380022008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25943,7 +25943,7 @@
         "MICR": "600022008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26033,7 +26033,7 @@
         "MICR": "360022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26051,7 +26051,7 @@
         "MICR": "380022007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26254,7 +26254,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "L-4, ABHUSHAN COMPLEXGHOD DOD ROADSURAT,   GUJARAT395007",
+        "ADDRESS": "L-4, ABHUSHAN COMPLEXGHOD DOD ROADSURAT,   GUJRAT395007",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "GHOD DHOD RD, SURAT",
@@ -26267,7 +26267,7 @@
         "MICR": "395022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26843,7 +26843,7 @@
         "MICR": "380022006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27185,7 +27185,7 @@
         "MICR": "639022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27244,7 +27244,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PREMISES NO. 9 & 10 (IST FLR.)UPPER BAZAR,  OOTACAMUNDDIST. NILGIRI,  TAMIL NADU",
+        "ADDRESS": "PREMISES NO. 9 & 10 (IST FLR.)UPPER BAZAR,  OOTACAMUNDDIST. NILGIRI,  TAMILNADU",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "OOTY",
@@ -27257,7 +27257,7 @@
         "MICR": "643022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27329,7 +27329,7 @@
         "MICR": "627022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27365,7 +27365,7 @@
         "MICR": "605022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -27581,7 +27581,7 @@
         "MICR": "620022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27658,7 +27658,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "78, IST FLR, OLD BANGLORE ROADHOSUR TOWN, DIST. DHARMAPURITAMIL NADU635019",
+        "ADDRESS": "78, IST FLR, OLD BANGLORE ROADHOSUR TOWN, DIST. DHARMAPURITAMILNADU635019",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "HOSUR",
@@ -27671,7 +27671,7 @@
         "MICR": "635022402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27820,7 +27820,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "T-91,  DAVBNUG ANNA NAGAR EASTCHENNAITAMIL NADU600040",
+        "ADDRESS": "T-91,  DAVBNUG ANNA NAGAR EASTCHENNAITAMILNADU600040",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "ANNA NAGAR CHENNAI",
@@ -27833,7 +27833,7 @@
         "MICR": "600022007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27869,7 +27869,7 @@
         "MICR": "362022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28175,7 +28175,7 @@
         "MICR": "383022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29255,7 +29255,7 @@
         "MICR": "370022051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29381,7 +29381,7 @@
         "MICR": "393022051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "ORBCINBBANK",
         "UPI": true
     },
@@ -29759,7 +29759,7 @@
         "MICR": "638022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29777,7 +29777,7 @@
         "MICR": "636022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -30731,7 +30731,7 @@
         "MICR": "600022006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -31415,7 +31415,7 @@
         "MICR": "390022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "ORBCINBBBRD",
         "UPI": true
     },
@@ -31559,7 +31559,7 @@
         "MICR": "625022004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -31703,7 +31703,7 @@
         "MICR": "394022051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -32009,7 +32009,7 @@
         "MICR": "363022021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -32027,7 +32027,7 @@
         "MICR": "396022061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -32099,7 +32099,7 @@
         "MICR": "600022005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -32212,14 +32212,14 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR BUS STAND, RAIPUR ROAD,,DHAMTARI (CHATTISGARH)",
+        "ADDRESS": "NEAR BUS STAND, RAIPUR ROAD,,DHAMTARI (CHHATTISGARH)",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "DHAMTARI",
-        "CENTRE": "DHAMTARI (CHATTISGARH)",
-        "CITY": "DHAMTARI (CHATTISGARH)",
+        "CENTRE": "DHAMTARI (CHHATTISGARH)",
+        "CITY": "DHAMTARI (CHHATTISGARH)",
         "CONTACT": "7722236373",
-        "DISTRICT": "DHAMTARI (CHATTISGARH)",
+        "DISTRICT": "DHAMTARI (CHHATTISGARH)",
         "IFSC": "ORBC0100574",
         "IMPS": true,
         "MICR": "495022302",
@@ -32243,7 +32243,7 @@
         "MICR": "370022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "ORBCINBBGDA",
         "UPI": true
     },
@@ -32423,7 +32423,7 @@
         "MICR": "641022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -32500,7 +32500,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO. 35/36, BINNY COMPLEX,KUMARAN ROADTIRUPUR, TAMIL NADU638601",
+        "ADDRESS": "PLOT NO. 35/36, BINNY COMPLEX,KUMARAN ROADTIRUPUR, TAMILNADU638601",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "TIRUPUR",
@@ -32513,7 +32513,7 @@
         "MICR": "641022102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "ORBCINBBTPR",
         "UPI": true
     },
@@ -32549,7 +32549,7 @@
         "MICR": "360022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "ORBCINBBRJK",
         "UPI": true
     },
@@ -32927,7 +32927,7 @@
         "MICR": "600022004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "ORBCINBBMAS",
         "UPI": true
     },
@@ -33565,7 +33565,7 @@
         "ADDRESS": "MAIN ROAD,JARHABATA CHOWK,BILASPUR,495001,,BILASPUR - CG",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
-        "BRANCH": "BILASPUR-CHATTISGARH",
+        "BRANCH": "BILASPUR-CHHATTISGARH",
         "CENTRE": "BILASPUR - CG",
         "CITY": "BILASPUR - CG",
         "CONTACT": "7752225030",
@@ -33719,12 +33719,12 @@
         "MICR": "361022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO. 87-88, RAMNAGARTALOJA ROADBHAVNAGAR (GUJARAT)364002",
+        "ADDRESS": "PLOT NO. 87-88, RAMNAGARTALOJA ROADBHAVNAGAR (GUJRAT)364002",
         "BANK": "Oriental Bank of Commerce",
         "BANKCODE": "ORBC",
         "BRANCH": "BHAVNAGAR",
@@ -33737,7 +33737,7 @@
         "MICR": "364022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -38291,7 +38291,7 @@
         "MICR": "600022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38543,7 +38543,7 @@
         "MICR": "387022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -38633,7 +38633,7 @@
         "MICR": "388022001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -39443,7 +39443,7 @@
         "MICR": "380022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "ORBCINBBAHM",
         "UPI": true
     },
@@ -39533,7 +39533,7 @@
         "MICR": "600022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "ORBCINBBSPC",
         "UPI": true
     },
@@ -39659,7 +39659,7 @@
         "MICR": "384022051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -39677,7 +39677,7 @@
         "MICR": "380022016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -39929,7 +39929,7 @@
         "MICR": "390022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -40235,7 +40235,7 @@
         "MICR": "380022005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -40307,7 +40307,7 @@
         "MICR": "380022004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -40325,7 +40325,7 @@
         "MICR": "380022003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -40649,7 +40649,7 @@
         "MICR": "395022002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "ORBCINBBSUR",
         "UPI": true
     },
@@ -42521,7 +42521,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },

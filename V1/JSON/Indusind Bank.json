@@ -229,7 +229,7 @@
         "MICR": "387812501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1633,7 +1633,7 @@
         "MICR": "370801051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1651,7 +1651,7 @@
         "MICR": "389802041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2323,7 +2323,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR V3 LANDMARK SHOP NO 04 ATLADARA MAIN ROAD ATLADARA VADODARA PIN 390012 GUJARAT",
+        "ADDRESS": "GROUND FLOOR V3 LANDMARK SHOP NO 04 ATLADARA MAIN ROAD ATLADARA VADODARA PIN 390012 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VADODARA ATLADRA",
@@ -2336,7 +2336,7 @@
         "MICR": "390234015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2449,7 +2449,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FIRST FLOOR SHIVALIK 1 NEAR MEGA MALL BESIDE BHARAT PETROL PUMP BUS STAND ROAD \u251c\u255cSURENDRANAGAR PINCODE 363001 GUJARAT",
+        "ADDRESS": "GROUND FIRST FLOOR SHIVALIK 1 NEAR MEGA MALL BESIDE BHARAT PETROL PUMP BUS STAND ROAD \u251c\u255cSURENDRANAGAR PINCODE 363001 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "SURENDRANANAGAR",
@@ -2462,7 +2462,7 @@
         "MICR": "363234002",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2642,7 +2642,7 @@
         "MICR": "600234044",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2660,7 +2660,7 @@
         "MICR": "625234009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2714,7 +2714,7 @@
         "MICR": "395234022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2876,7 +2876,7 @@
         "MICR": "395234021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2966,7 +2966,7 @@
         "MICR": "632234102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3020,7 +3020,7 @@
         "MICR": "613234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3092,7 +3092,7 @@
         "MICR": "365234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3241,7 +3241,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR KRISHNA COMPLEX PROPERTY NO 1243 1243 1 1243 1 1VARSAMEDI GATE NEAR MANAV RESIDENCY HOTEL ANJARDISTRICT BHUJ GUJARAT PIN CODE 370110",
+        "ADDRESS": "GROUND FLOOR KRISHNA COMPLEX PROPERTY NO 1243 1243 1 1243 1 1VARSAMEDI GATE NEAR MANAV RESIDENCY HOTEL ANJARDISTRICT BHUJ GUJRAT PIN CODE 370110",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "ANJAR",
@@ -3295,7 +3295,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR PLOT NO 1 EZHIL NAGAR IYER BUNGALOW NEW NATHAM ROAD MADURAI TAMIL NADU PIN CODE 625014",
+        "ADDRESS": "GROUND FLOOR PLOT NO 1 EZHIL NAGAR IYER BUNGALOW NEW NATHAM ROAD MADURAI TAMILNADU PIN CODE 625014",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "MADURAI EZHIL NAGAR ",
@@ -3308,7 +3308,7 @@
         "MICR": "625234008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3421,7 +3421,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR DOOR NO 2 ARUPUKOTTAI MAIN ROAD NR LAKSHMI GASTRO HOSPITAL VILLAPURAM MADURAI 625012 TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR DOOR NO 2 ARUPUKOTTAI MAIN ROAD NR LAKSHMI GASTRO HOSPITAL VILLAPURAM MADURAI 625012 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VILLAPURAM MADURAI",
@@ -3434,7 +3434,7 @@
         "MICR": "625234007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -3493,7 +3493,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOORSHOP NO12 A AND 14NISHAN PRIDESURVEY NO 193 AND 199TPSCHEME NO66MOUJE RANIPTALUKA SABARMATIAHMEDABADGUJARAT PIN CODE 382480",
+        "ADDRESS": "GROUND FLOORSHOP NO12 A AND 14NISHAN PRIDESURVEY NO 193 AND 199TPSCHEME NO66MOUJE RANIPTALUKA SABARMATIAHMEDABADGUJRAT PIN CODE 382480",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NEW RANIP",
@@ -3506,7 +3506,7 @@
         "MICR": "380234045",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3524,12 +3524,12 @@
         "MICR": "360234121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO18 AND 19SAHYOG CO OPHOUSING SOCIETY LTD SCHEME SHREE KUNJ SHOPPING CENTREFINAL PLOT NO66 166 26769PRABHAT CHOWKMOUJE AND TALUKA GHATLODIAAHMEDABADGUJARAT PIN CODE 380061",
+        "ADDRESS": "SHOP NO18 AND 19SAHYOG CO OPHOUSING SOCIETY LTD SCHEME SHREE KUNJ SHOPPING CENTREFINAL PLOT NO66 166 26769PRABHAT CHOWKMOUJE AND TALUKA GHATLODIAAHMEDABADGUJRAT PIN CODE 380061",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "PRABHAT CHOWK GHATLODIA ",
@@ -3542,7 +3542,7 @@
         "MICR": "380234044",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3835,7 +3835,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR D M TOWER BIRGAON BESIDE RTO OF BANJARAI MATA MANDIR RAIPUR CHATTISGARH PIN 493221",
+        "ADDRESS": "GROUND FLOOR D M TOWER BIRGAON BESIDE RTO OF BANJARAI MATA MANDIR RAIPUR CHHATTISGARH PIN 493221",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BIRGAON",
@@ -3997,7 +3997,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND AND PART FIRST FLOOR SHREEJI NIWASASHA NAGAR SOCIETYLAMBE HANUMAN ROADSURATPIN 395006GUJARAT",
+        "ADDRESS": "GROUND AND PART FIRST FLOOR SHREEJI NIWASASHA NAGAR SOCIETYLAMBE HANUMAN ROADSURATPIN 395006GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "LAMBE HANUMAN ROAD ",
@@ -4010,7 +4010,7 @@
         "MICR": "395234020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4087,7 +4087,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR NO 25 4TH MAIN ROAD NANGANALLUR CHENNAI 600061 TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR NO 25 4TH MAIN ROAD NANGANALLUR CHENNAI 600061 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NANGANALLUR CHENNAI",
@@ -4100,7 +4100,7 @@
         "MICR": "600234042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4177,7 +4177,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NOS 01 02 AND 03 SHRIFAL EXOTICA OPP APMC MARKET DHOLKA BAGODRA HIGHWAY DHOLKA AHMEDABAD PIN 382225 GUJARAT",
+        "ADDRESS": "GROUND FLOOR SHOP NOS 01 02 AND 03 SHRIFAL EXOTICA OPP APMC MARKET DHOLKA BAGODRA HIGHWAY DHOLKA AHMEDABAD PIN 382225 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "DHOLKA",
@@ -4190,7 +4190,7 @@
         "MICR": "380234043",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4267,7 +4267,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NOS 32 33 AND 34 BLOCK A ZAVERI BAZAR STATION ROAD BAVLA DISTRICT AHMEDABAD GUJARAT PIN 388820",
+        "ADDRESS": "GROUND FLOOR SHOP NOS 32 33 AND 34 BLOCK A ZAVERI BAZAR STATION ROAD BAVLA DISTRICT AHMEDABAD GUJRAT PIN 388820",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BAVLA",
@@ -4280,12 +4280,12 @@
         "MICR": "380234042",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR NO 12 5 PORTHAMARAH SOUTH KUMBAKONAM DISTRICT THANJAVUR TAMIL NADU PIN 612001",
+        "ADDRESS": "GROUND FLOOR NO 12 5 PORTHAMARAH SOUTH KUMBAKONAM DISTRICT THANJAVUR TAMILNADU PIN 612001",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KUMBAKONAM",
@@ -4298,7 +4298,7 @@
         "MICR": "612234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4321,7 +4321,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NOS 35 AND 36 MAHEK ICON NR SUMUL DAIRY SUMUL DAIRY ROAD SURAT PIN 395004 GUJARAT",
+        "ADDRESS": "GROUND FLOOR SHOP NOS 35 AND 36 MAHEK ICON NR SUMUL DAIRY SUMUL DAIRY ROAD SURAT PIN 395004 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "SUMUL DAIRY ROAD SURAT",
@@ -4334,7 +4334,7 @@
         "MICR": "395234019",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4375,7 +4375,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NO 28 SUNRISE BUSINESS CENTRE NEAR DIVYAJIVAN SATYA AND SHRIJI SANKALP NIKOL RING ROAD NIKOL AHMEDABAD PIN 380038 GUJARAT",
+        "ADDRESS": "GROUND FLOOR SHOP NO 28 SUNRISE BUSINESS CENTRE NEAR DIVYAJIVAN SATYA AND SHRIJI SANKALP NIKOL RING ROAD NIKOL AHMEDABAD PIN 380038 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NIKOL RING ROAD AHMEDABAD",
@@ -4388,12 +4388,12 @@
         "MICR": "380234041",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NOS 4 5 6 12 SUNSHINE COMPLEX MOTA VARACHA MAIN ROAD SUDAMA CHOWK MOTA VARACHA SURAT PIN 394101 GUJARAT",
+        "ADDRESS": "SHOP NOS 4 5 6 12 SUNSHINE COMPLEX MOTA VARACHA MAIN ROAD SUDAMA CHOWK MOTA VARACHA SURAT PIN 394101 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "MOTA VARACHHA SURAT",
@@ -4406,7 +4406,7 @@
         "MICR": "395234018",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4483,7 +4483,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR PLOT NO 585 SCHOOL ROAD WESTERN EXTENSION ANNANAGAR THIRUMANGALAM CHENNAI TAMIL NADU PIN 600101",
+        "ADDRESS": "GROUND FLOOR PLOT NO 585 SCHOOL ROAD WESTERN EXTENSION ANNANAGAR THIRUMANGALAM CHENNAI TAMILNADU PIN 600101",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "THIRUMANGALAM CHENNAI",
@@ -4496,7 +4496,7 @@
         "MICR": "600234041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4555,7 +4555,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR 68 S L S TOWER CHERRY ROAD SALEM TAMIL NADU PIN 636007",
+        "ADDRESS": "GROUND FLOOR 68 S L S TOWER CHERRY ROAD SALEM TAMILNADU PIN 636007",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "CHERRY ROAD SALEM",
@@ -4568,12 +4568,12 @@
         "MICR": "636234006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR BEARING DOOR NO 81 C KAMRAJ STREET NEAR TALUK OFFICE KANCHEEPURAM 631501 TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR BEARING DOOR NO 81 C KAMRAJ STREET NEAR TALUK OFFICE KANCHEEPURAM 631501 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KANCHEEPURAM",
@@ -4586,7 +4586,7 @@
         "MICR": "600234043",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4681,7 +4681,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR PREMISES BEARING NO 98 KUMBAKONAM MAIN ROAD KADAMPULIYUR POST KADAMPULIYUR DISTRICT CUDDALORE TAMIL NADU 607103",
+        "ADDRESS": "GROUND FLOOR PREMISES BEARING NO 98 KUMBAKONAM MAIN ROAD KADAMPULIYUR POST KADAMPULIYUR DISTRICT CUDDALORE TAMILNADU 607103",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KADAMPULIYUR",
@@ -4694,7 +4694,7 @@
         "MICR": "607234202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4717,7 +4717,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR NO 22 TO 26 AND 28 AR TOWER PRAKASAM SALAI BROADWAY CHENNAI 600001 TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR NO 22 TO 26 AND 28 AR TOWER PRAKASAM SALAI BROADWAY CHENNAI 600001 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BROADWAY CHENNAI",
@@ -4730,7 +4730,7 @@
         "MICR": "600234040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4838,7 +4838,7 @@
         "MICR": "605234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4861,7 +4861,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR PREMISES BEARING NO 16 VENKATRAMAN ROAD VKS COMPLEX MAHALINGAPURAM POLLACHI 642002 COIMBATORE TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR PREMISES BEARING NO 16 VENKATRAMAN ROAD VKS COMPLEX MAHALINGAPURAM POLLACHI 642002 COIMBATORE TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "POLLACHI",
@@ -4874,7 +4874,7 @@
         "MICR": "642234102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5090,7 +5090,7 @@
         "MICR": "638234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5108,7 +5108,7 @@
         "MICR": "395234017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5126,7 +5126,7 @@
         "MICR": "385234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5162,7 +5162,7 @@
         "MICR": "620234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5306,7 +5306,7 @@
         "MICR": "380234040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5342,7 +5342,7 @@
         "MICR": "600234038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5360,7 +5360,7 @@
         "MICR": "395234016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5414,7 +5414,7 @@
         "MICR": "600234039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5468,7 +5468,7 @@
         "MICR": "380234039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5594,7 +5594,7 @@
         "MICR": "600234037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5671,7 +5671,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VIDYANAGAR ROAD BRANCH GR FLR SHOP NO 2 BLDG MARUTI SUMIRANOPP NANDBHOOMI PARTY PLOT VIDYANAGAR ROADANAND GUJARAT INDIA 388001",
+        "ADDRESS": "VIDYANAGAR ROAD BRANCH GR FLR SHOP NO 2 BLDG MARUTI SUMIRANOPP NANDBHOOMI PARTY PLOT VIDYANAGAR ROADANAND GUJRAT INDIA 388001",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VIDYANAGAR ROAD",
@@ -5684,7 +5684,7 @@
         "MICR": "388234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5756,7 +5756,7 @@
         "MICR": "396234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5792,7 +5792,7 @@
         "MICR": "600234036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5828,7 +5828,7 @@
         "MICR": "395234015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5846,7 +5846,7 @@
         "MICR": "362234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5918,7 +5918,7 @@
         "MICR": "380234038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -5936,7 +5936,7 @@
         "MICR": "380234037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6296,7 +6296,7 @@
         "MICR": "380234036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6332,7 +6332,7 @@
         "MICR": "395234013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6391,7 +6391,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 7 100 FEET ROAD NATESAN NAGAR OLGARET PUDUCHERRY",
+        "ADDRESS": "DOOR NO 7 100 FEET ROAD NATESAN NAGAR OLGARET PONDICHERRY",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "PONDICHERRY-NATESAN NAGAR",
@@ -6404,7 +6404,7 @@
         "MICR": "605234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6422,12 +6422,12 @@
         "MICR": "380234035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 01 SUMEL 8 BLOCK B NEAR AJIT MILL AMTS BUS STOP RAKHIAL AHMEDABAD GUJARAT 380023",
+        "ADDRESS": "SHOP NO 01 SUMEL 8 BLOCK B NEAR AJIT MILL AMTS BUS STOP RAKHIAL AHMEDABAD GUJRAT 380023",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "RAKHIAL, AHMEDABAD",
@@ -6440,7 +6440,7 @@
         "MICR": "380234034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6530,7 +6530,7 @@
         "MICR": "625234006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -6638,7 +6638,7 @@
         "MICR": "360234007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6805,7 +6805,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NO2 GOLDEN PALACE COLLEGE ROAD GOHARBAUG BILLIMORA TA GANDEVI DISTNAVSARI GUJARAT396321",
+        "ADDRESS": "GROUND FLOOR SHOP NO2 GOLDEN PALACE COLLEGE ROAD GOHARBAUG BILLIMORA TA GANDEVI DISTNAVSARI GUJRAT396321",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BILIMORA",
@@ -6818,7 +6818,7 @@
         "MICR": "396234092",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6980,7 +6980,7 @@
         "MICR": "396234191",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -6998,7 +6998,7 @@
         "MICR": "395234014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7034,7 +7034,7 @@
         "MICR": "395234012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7052,7 +7052,7 @@
         "MICR": "395234011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7160,7 +7160,7 @@
         "MICR": "395234010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7358,7 +7358,7 @@
         "MICR": "600234034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7448,7 +7448,7 @@
         "MICR": "600234035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7471,7 +7471,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "INDUSIND BANK LIMITED GROUND FLOOR RAMKRUPA DAIRY FARM NEAR RAJNAGAR CIRCLE JAI PARK RAJKOT PIN 360001 STATE GUJARAT",
+        "ADDRESS": "INDUSIND BANK LIMITED GROUND FLOOR RAMKRUPA DAIRY FARM NEAR RAJNAGAR CIRCLE JAI PARK RAJKOT PIN 360001 STATE GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NANA MAUVA",
@@ -7484,7 +7484,7 @@
         "MICR": "360234006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7651,7 +7651,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR PREMISES NO C 1 RENGA S TRIYAMBHARA KALAPATTI ROAD COIMBATORE 641014 TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR PREMISES NO C 1 RENGA S TRIYAMBHARA KALAPATTI ROAD COIMBATORE 641014 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KALAPATTI ROAD",
@@ -7664,7 +7664,7 @@
         "MICR": "641234012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7759,7 +7759,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "INDUSIND BANK LTD GROUND FLOOR  BUILDING KNOWN AS RAJIV SEVA KENDRA  PLOT NO 250  PO  GUDMA  POLICE STATION  NAIMED  TAHSIL BHAIRAMGARH  UNDER GRAM PANCHAYAT GUDMA  DIST  BIJAPUR  494450 CHATTISGARH",
+        "ADDRESS": "INDUSIND BANK LTD GROUND FLOOR  BUILDING KNOWN AS RAJIV SEVA KENDRA  PLOT NO 250  PO  GUDMA  POLICE STATION  NAIMED  TAHSIL BHAIRAMGARH  UNDER GRAM PANCHAYAT GUDMA  DIST  BIJAPUR  494450 CHHATTISGARH",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "GUDMA",
@@ -7898,7 +7898,7 @@
         "MICR": "600234033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7934,7 +7934,7 @@
         "MICR": "262234602",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7952,7 +7952,7 @@
         "MICR": "249234202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8006,7 +8006,7 @@
         "MICR": "500234029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8168,7 +8168,7 @@
         "MICR": "431234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8294,7 +8294,7 @@
         "MICR": "246234702",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8420,12 +8420,12 @@
         "MICR": "625234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GND FLR SHOP NO3 BLUE SKY COMMERCE SQUARE CITYCENTRE BAMROLI RD SOSYO CIRCLE SURAT 395007 GUJARAT",
+        "ADDRESS": "GND FLR SHOP NO3 BLUE SKY COMMERCE SQUARE CITYCENTRE BAMROLI RD SOSYO CIRCLE SURAT 395007 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "SOSYO CIRCLE",
@@ -8438,7 +8438,7 @@
         "MICR": "395234009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8479,7 +8479,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NO 20 21 27 28 ANMOL COMPLEX SADHU VASWANI ROAD RAJKOT 360005 GUJARAT",
+        "ADDRESS": "GROUND FLOOR SHOP NO 20 21 27 28 ANMOL COMPLEX SADHU VASWANI ROAD RAJKOT 360005 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VASWANI ROAD",
@@ -8492,7 +8492,7 @@
         "MICR": "360234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8744,7 +8744,7 @@
         "MICR": "380234031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8762,12 +8762,12 @@
         "MICR": "605234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "INDUSIND BANK LTD KALLUVEETTIL TEENU CENTRE OLD NO 82 NEW NO 110 COURT ROAD NAGERCOIL K K DIST TAMIL NADU PIN 629001",
+        "ADDRESS": "INDUSIND BANK LTD KALLUVEETTIL TEENU CENTRE OLD NO 82 NEW NO 110 COURT ROAD NAGERCOIL K K DIST TAMILNADU PIN 629001",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NAGERCOIL",
@@ -8780,7 +8780,7 @@
         "MICR": "629234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8852,7 +8852,7 @@
         "MICR": "635234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8996,7 +8996,7 @@
         "MICR": "600234032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9343,7 +9343,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ISHAN CERAMIC ZONE SHOP NO 3 4 5 OPP SHAKTI CHAMBER 2 PETROL PUMP NH8 LALPAR MORBI GUJARAT 363642",
+        "ADDRESS": "ISHAN CERAMIC ZONE SHOP NO 3 4 5 OPP SHAKTI CHAMBER 2 PETROL PUMP NH8 LALPAR MORBI GUJRAT 363642",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "LALPAR",
@@ -9356,7 +9356,7 @@
         "MICR": "363234022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9788,7 +9788,7 @@
         "MICR": "395234008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10094,7 +10094,7 @@
         "MICR": "600234031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10153,7 +10153,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "INDUSIND BANK LTD GROUND FLOOR SHOP NO 12 AND 3 HARIDWAR AVENUE OPPOSITE KALUPUR CO OPERATIVE BANKNEAR RAMWADI ISHANPUR ROAD AHMEDABAD GUJARAT 382443",
+        "ADDRESS": "INDUSIND BANK LTD GROUND FLOOR SHOP NO 12 AND 3 HARIDWAR AVENUE OPPOSITE KALUPUR CO OPERATIVE BANKNEAR RAMWADI ISHANPUR ROAD AHMEDABAD GUJRAT 382443",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "ISANPUR ROAD",
@@ -10166,7 +10166,7 @@
         "MICR": "380234030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10184,7 +10184,7 @@
         "MICR": "360234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10207,7 +10207,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "UPPER GROUND FLOOR GC 27 AWAS VIKAS SCHEME NO 1 PANKI KALYANPUR ROAD KESHAVPURAM KALYANPUR KANPUR 208017 UTTARPRADESH",
+        "ADDRESS": "UPPER GROUND FLOOR GC 27 AWAS VIKAS SCHEME NO 1 PANKI KALYANPUR ROAD KESHAVPURAM KALYANPUR KANPUR 208017 UTTAR PRADESH",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KALYANPUR KANPUR",
@@ -10274,7 +10274,7 @@
         "MICR": "380234029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10459,7 +10459,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "INDUSIND BANK LTD GROUND FLOOR SHOP NO 2 3 4 AND 5 RAJPATH OPP ESSAR PETROL PUMP BHAYLI ROAD VADODARA 391410 GUJARAT",
+        "ADDRESS": "INDUSIND BANK LTD GROUND FLOOR SHOP NO 2 3 4 AND 5 RAJPATH OPP ESSAR PETROL PUMP BHAYLI ROAD VADODARA 391410 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BHAYLI",
@@ -10472,7 +10472,7 @@
         "MICR": "390234014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10490,7 +10490,7 @@
         "MICR": "600234030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10760,7 +10760,7 @@
         "MICR": "641234105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10927,7 +10927,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR SRIRAM CENTRE 180 9 PP CHAVADI THENI MAIN ROAD MADHURAI TAMIL NADU 625016",
+        "ADDRESS": "FIRST FLOOR SRIRAM CENTRE 180 9 PP CHAVADI THENI MAIN ROAD MADHURAI TAMILNADU 625016",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "THENI MAIN ROAD",
@@ -10940,7 +10940,7 @@
         "MICR": "625234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11030,7 +11030,7 @@
         "MICR": "631234102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -11444,12 +11444,12 @@
         "MICR": "641234104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "INDUSIND BANK LTD GROUND FLOOR 462 VILLAGE HATHROL TEHSIL HIMMATNAGAR DIST SABARKANTHA SABARKANTHA GUJARAT 383030",
+        "ADDRESS": "INDUSIND BANK LTD GROUND FLOOR 462 VILLAGE HATHROL TEHSIL HIMMATNAGAR DIST SABARKANTHA SABARKANTHA GUJRAT 383030",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "HATHROL",
@@ -11462,7 +11462,7 @@
         "MICR": "383234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -11570,7 +11570,7 @@
         "MICR": "380234027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -11966,7 +11966,7 @@
         "MICR": "380234028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -11984,7 +11984,7 @@
         "MICR": "600234029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12061,7 +12061,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NUMBER 1413 SATHY MAIN ROAD COIMBATORE NORTH TALUK GANAPATHY TAMIL NADU 641006",
+        "ADDRESS": "SHOP NUMBER 1413 SATHY MAIN ROAD COIMBATORE NORTH TALUK GANAPATHY TAMILNADU 641006",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "GANAPATHY",
@@ -12074,7 +12074,7 @@
         "MICR": "641234011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12154,7 +12154,7 @@
         "ADDRESS": "GROUND FLOOR SHOP NOS G 2G 3G 4G 5 AND G 6 UTSAV PLAZA PLOT NO 44 NANDAN WARE HOUSES VILLAGE GUNGADIPATI PATAN",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
-        "BRANCH": "PATAN GUJARAT",
+        "BRANCH": "PATAN GUJRAT",
         "CENTRE": "PATAN",
         "CITY": "PATAN",
         "CONTACT": "02766221190",
@@ -12164,7 +12164,7 @@
         "MICR": "384234081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12673,7 +12673,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR FP 131 AVADH BUILDING KATARGAM AMROLI ROAD MEHTA PETROL PUMP OPP MARUTI SHOWROOM KATARGAM 395004 DIST SURAT GUJARAT",
+        "ADDRESS": "GROUND FLOOR FP 131 AVADH BUILDING KATARGAM AMROLI ROAD MEHTA PETROL PUMP OPP MARUTI SHOWROOM KATARGAM 395004 DIST SURAT GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KATARGAM",
@@ -12686,7 +12686,7 @@
         "MICR": "395234007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12776,7 +12776,7 @@
         "MICR": "600234028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12856,7 +12856,7 @@
         "ADDRESS": "GROUND FLOOR DOOR NO 2 RAHAMATH BUILDING WARD NO 2 T S NO 656 2 PATTAMANGALAM STREET MAYILADUTHURAI",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
-        "BRANCH": "MAYILADUTHURAI TAMIL NADU",
+        "BRANCH": "MAYILADUTHURAI TAMILNADU",
         "CENTRE": "MAYURAM MAYILADUTHURAI",
         "CITY": "MAYURAM MAYILADUTHURAI",
         "CONTACT": "04364226866",
@@ -12866,7 +12866,7 @@
         "MICR": "609234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13172,7 +13172,7 @@
         "MICR": "380234026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13190,7 +13190,7 @@
         "MICR": "380234025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13424,7 +13424,7 @@
         "MICR": "641234010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13532,7 +13532,7 @@
         "MICR": "600234027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13640,7 +13640,7 @@
         "MICR": "626234302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14167,7 +14167,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR OPP HINGRAJ MATA TEMPLE VILLAGE BHADELI JAGALALA VALSAD 396 031 GUJARAT",
+        "ADDRESS": "GROUND FLOOR OPP HINGRAJ MATA TEMPLE VILLAGE BHADELI JAGALALA VALSAD 396 031 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BHADELI JAGALALA",
@@ -14180,7 +14180,7 @@
         "MICR": "396234504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14342,7 +14342,7 @@
         "MICR": "600234026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14360,7 +14360,7 @@
         "MICR": "641234009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14401,7 +14401,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SHOP NO B 10 SOLITAIRE BUSINESS PARK SG HIGHWAY MAKARBA SARKHEJ AHMEDABAD 380051 GUJARAT",
+        "ADDRESS": "GRD FLR SHOP NO B 10 SOLITAIRE BUSINESS PARK SG HIGHWAY MAKARBA SARKHEJ AHMEDABAD 380051 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "SARKHEJ AHMEDABAD",
@@ -14414,7 +14414,7 @@
         "MICR": "380234024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14437,7 +14437,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SHOP NO 5 6 7 8 KUMAR HOUSE DURGA MILL COMPOUND HIMMATNAGAR SABARKANTHA GUJARAT 383001",
+        "ADDRESS": "GRD FLR SHOP NO 5 6 7 8 KUMAR HOUSE DURGA MILL COMPOUND HIMMATNAGAR SABARKANTHA GUJRAT 383001",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "HIMMATNAGAR",
@@ -14450,7 +14450,7 @@
         "MICR": "383234001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14684,7 +14684,7 @@
         "MICR": "396234503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14707,7 +14707,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NO 2 3 GANGANDEEP\nPALDI CROSS ROAD PALDI\nAHMEDABAD 380007 GUJARAT",
+        "ADDRESS": "GROUND FLOOR SHOP NO 2 3 GANGANDEEP\nPALDI CROSS ROAD PALDI\nAHMEDABAD 380007 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "PALDI CROSS ROAD AHMEDABAD",
@@ -14720,7 +14720,7 @@
         "MICR": "380234023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14761,7 +14761,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD 1ST FLR PLOT NO118 OLD MAHABALIPURAM ROAD OMR PERUNGUDI CHENNAI 600096 TAMIL NADU",
+        "ADDRESS": "GRD 1ST FLR PLOT NO118 OLD MAHABALIPURAM ROAD OMR PERUNGUDI CHENNAI 600096 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "PERUNGUDI CHENNAI",
@@ -14774,7 +14774,7 @@
         "MICR": "600234025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14792,7 +14792,7 @@
         "MICR": "600234024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14972,12 +14972,12 @@
         "MICR": "641234008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "UPPER GROUND FLOOR GDS NEST 98 CUTCHERRY ROAD GOBICHETTIPALAYAM 638452 ERODE DIST TAMIL NADU",
+        "ADDRESS": "UPPER GROUND FLOOR GDS NEST 98 CUTCHERRY ROAD GOBICHETTIPALAYAM 638452 ERODE DIST TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "GOBICHETTIPALAYAM",
@@ -14990,7 +14990,7 @@
         "MICR": "638234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15391,7 +15391,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR KERAI ARCADE SHOP NO 1 4 NAVAVAS RD MADHAPAR 370020 BHUJ KUTCH GUJARAT",
+        "ADDRESS": "GRD FLR KERAI ARCADE SHOP NO 1 4 NAVAVAS RD MADHAPAR 370020 BHUJ KUTCH GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "MADHAPAR",
@@ -15404,7 +15404,7 @@
         "MICR": "370234052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -15499,7 +15499,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SHOP NO 10 ADVANCE BUSINESS PARK BLOCK A SHAHIBAUG AHMEDABAD 380004 GUJARAT",
+        "ADDRESS": "GRD FLR SHOP NO 10 ADVANCE BUSINESS PARK BLOCK A SHAHIBAUG AHMEDABAD 380004 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "SHAHIBAUG AHMEDABAD",
@@ -15512,7 +15512,7 @@
         "MICR": "380234022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -15841,7 +15841,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR PRIYAN PLAZA 76 NELSON MANICKAM ROAD CHENNAI 600029 TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR PRIYAN PLAZA 76 NELSON MANICKAM ROAD CHENNAI 600029 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NELSON MANICKAM ROAD CHENNAI",
@@ -15854,12 +15854,12 @@
         "MICR": "600234023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR PPTS TOWERS 1951 G TRICHY ROAD RAMANATHAPURAM COIMBATORE 641045 TAMIL NADU",
+        "ADDRESS": "GRD FLR PPTS TOWERS 1951 G TRICHY ROAD RAMANATHAPURAM COIMBATORE 641045 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "RAMANATHAPURAM COIMBATORE",
@@ -15872,7 +15872,7 @@
         "MICR": "641234007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15895,7 +15895,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FIRST FLR SHREEJI BUSINESS HUB 66 A SHREENAGAR SOCIETY BPC ROAD AKOTA VADODARA 390 020 GUJARAT",
+        "ADDRESS": "GRD FIRST FLR SHREEJI BUSINESS HUB 66 A SHREENAGAR SOCIETY BPC ROAD AKOTA VADODARA 390 020 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "AKOTA VADODARA",
@@ -15908,7 +15908,7 @@
         "MICR": "390234013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -15962,12 +15962,12 @@
         "MICR": "600234022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR 651 OPPANAKARA STREET COIMBATORE 641001 TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR 651 OPPANAKARA STREET COIMBATORE 641001 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "OPPANAKARA STREET COIMBATORE",
@@ -15980,12 +15980,12 @@
         "MICR": "641234022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SHOP NO 5 6 SHREE MANGALAM COMPLEX B H ADITYA COMPLEX KASAK BHARUCH 392002 GUJARAT",
+        "ADDRESS": "GRD FLR SHOP NO 5 6 SHREE MANGALAM COMPLEX B H ADITYA COMPLEX KASAK BHARUCH 392002 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BHARUCH",
@@ -15998,7 +15998,7 @@
         "MICR": "392234001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16129,7 +16129,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SHOP NO G1 SAI VILLA PLOT NO 9 SAI ENCLAVE SOMESHWARA ROAD VESU SURAT 395007 GUJARAT",
+        "ADDRESS": "GRD FLR SHOP NO G1 SAI VILLA PLOT NO 9 SAI ENCLAVE SOMESHWARA ROAD VESU SURAT 395007 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VESU SURAT",
@@ -16142,7 +16142,7 @@
         "MICR": "395234006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -16214,7 +16214,7 @@
         "MICR": "641234006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16273,7 +16273,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR NO 12 38 1 GOVIND NAGAR OPP NEW BUS STAND JEEVAN BIMA MARG PANDRI RAIPUR 492004 CHATTISGARH",
+        "ADDRESS": "GRD FLR NO 12 38 1 GOVIND NAGAR OPP NEW BUS STAND JEEVAN BIMA MARG PANDRI RAIPUR 492004 CHHATTISGARH",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "PANDRI RAIPUR",
@@ -16538,7 +16538,7 @@
         "MICR": "600234021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16880,7 +16880,7 @@
         "MICR": "600234020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -17047,7 +17047,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR 11 OPP TO SWAMINARAYAN TEMPLE BHADRAN TARAPUR ROAD ANAND CHOKDI BORSAD ANAND 388540 GUJARAT",
+        "ADDRESS": "GRD FLR 11 OPP TO SWAMINARAYAN TEMPLE BHADRAN TARAPUR ROAD ANAND CHOKDI BORSAD ANAND 388540 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BORSAD",
@@ -17060,7 +17060,7 @@
         "MICR": "388234071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -17785,7 +17785,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR SHOP NOS 32 TO 37 NEELKANTH PARADISE PLOT NO 34 NARODA AHMEDABAD 382220 GUJARAT",
+        "ADDRESS": "GROUND FLOOR SHOP NOS 32 TO 37 NEELKANTH PARADISE PLOT NO 34 NARODA AHMEDABAD 382220 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NARODA AHMEDABAD",
@@ -17798,7 +17798,7 @@
         "MICR": "380234020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18235,7 +18235,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 1 2 3 GRD FLR KANSAS ISANPUR GHODASAR LINK ROAD GHODASAR AHMEDABAD 380050 GUJARAT",
+        "ADDRESS": "SHOP NO 1 2 3 GRD FLR KANSAS ISANPUR GHODASAR LINK ROAD GHODASAR AHMEDABAD 380050 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "GHODASAR AHMEDABAD",
@@ -18248,7 +18248,7 @@
         "MICR": "380234019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18266,7 +18266,7 @@
         "MICR": "380234016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18343,7 +18343,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SAPTAK CORPORATE HOUSE GF 1 A SUKUN MALL SCIENCE CITY ROAD AHMEDABAD 380060 GUJARAT",
+        "ADDRESS": "GRD FLR SAPTAK CORPORATE HOUSE GF 1 A SUKUN MALL SCIENCE CITY ROAD AHMEDABAD 380060 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "SCIENCE CITY ROAD AHMEDABAD",
@@ -18356,12 +18356,12 @@
         "MICR": "380234014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SHOP NO 4 ABHISHREE AVENUE NANDANVAN CHS LTD NEHRU NAGAR AMBAVADI AHMEDABAD 380006 GUJARAT",
+        "ADDRESS": "GRD FLR SHOP NO 4 ABHISHREE AVENUE NANDANVAN CHS LTD NEHRU NAGAR AMBAVADI AHMEDABAD 380006 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NEHRU NAGAR AHMEDABAD",
@@ -18374,7 +18374,7 @@
         "MICR": "380234015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18505,7 +18505,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SHOP NO 1 2 SHAKTI 21 SUDARSHAN BUNGALOW MANSI CIRCLE VASTRAPUR AHMEDABAD 380015 GUJARAT",
+        "ADDRESS": "GRD FLR SHOP NO 1 2 SHAKTI 21 SUDARSHAN BUNGALOW MANSI CIRCLE VASTRAPUR AHMEDABAD 380015 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VASTRAPUR MANSI CIRCLE AHMEDABAD",
@@ -18518,7 +18518,7 @@
         "MICR": "380234013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18613,7 +18613,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, Palm Arcade, Shop No 1,2 & 3, Sukan Bungalow, Char Raasta, New Nikol, Ahmedabad- 382350 Gujarat",
+        "ADDRESS": "Ground Floor, Palm Arcade, Shop No 1,2 & 3, Sukan Bungalow, Char Raasta, New Nikol, Ahmedabad- 382350 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NIKOL",
@@ -18626,7 +18626,7 @@
         "MICR": "380234012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18757,7 +18757,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR VILLAGE TUTA BLOCK ABHANPUR DIST RAIPUR CHATTISGARH PIN 492015",
+        "ADDRESS": "GROUND FLOOR VILLAGE TUTA BLOCK ABHANPUR DIST RAIPUR CHHATTISGARH PIN 492015",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "TUTA",
@@ -18775,7 +18775,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GR FLR PARSADA BAZAR CHOWK VILLAGE PARSADA BLOCK ARANG P S MANDIRA DIST RAIPUR 492106 CHATTISGARH",
+        "ADDRESS": "GR FLR PARSADA BAZAR CHOWK VILLAGE PARSADA BLOCK ARANG P S MANDIRA DIST RAIPUR 492106 CHHATTISGARH",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "PARSADA",
@@ -18793,7 +18793,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR VILLAGE GUJRA BLOCK ARANG DIST RAIPUR P S MANDIR HASAUD STATE CHATTISGARH PIN 493441",
+        "ADDRESS": "GROUND FLOOR VILLAGE GUJRA BLOCK ARANG DIST RAIPUR P S MANDIR HASAUD STATE CHHATTISGARH PIN 493441",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "GUJARA",
@@ -18955,7 +18955,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GD FLR PATEL VAS DHANALI VILLAGE DHANALI TALUKA KADI DIST MEHSANA 382732 GUJARAT",
+        "ADDRESS": "GD FLR PATEL VAS DHANALI VILLAGE DHANALI TALUKA KADI DIST MEHSANA 382732 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "DHANALI",
@@ -18968,12 +18968,12 @@
         "MICR": "382234503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR 288 PLOT VISTAR CHORDI OLD GANTAL AREA DIST RAJKOT GUJARAT 360311",
+        "ADDRESS": "GRD FLR 288 PLOT VISTAR CHORDI OLD GANTAL AREA DIST RAJKOT GUJRAT 360311",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "CHORDI",
@@ -18986,12 +18986,12 @@
         "MICR": "360234501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR SHOP NO 3 DHARMAGH COMPLEX OPP ABC CERAMIC RANGPAR DIST MORBI TEHSIL MORBI 363641 GUJARAT",
+        "ADDRESS": "GRD FLR SHOP NO 3 DHARMAGH COMPLEX OPP ABC CERAMIC RANGPAR DIST MORBI TEHSIL MORBI 363641 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "RANGPAR",
@@ -19004,12 +19004,12 @@
         "MICR": "363234502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR PLOT NO 26 SHOP NO 1 2 JAYDEEP COMPLEX PANELI THE DIST MORBI GUJARAT PIN 363642",
+        "ADDRESS": "GRD FLR PLOT NO 26 SHOP NO 1 2 JAYDEEP COMPLEX PANELI THE DIST MORBI GUJRAT PIN 363642",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "PANELI",
@@ -19022,12 +19022,12 @@
         "MICR": "363234501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO GF 1 SIGMA PRIME NEAR SARDAR PATEL STATUS JANTA CHOWKI ROAD V V NAGAR 388120 ANAND GUJARAT",
+        "ADDRESS": "SHOP NO GF 1 SIGMA PRIME NEAR SARDAR PATEL STATUS JANTA CHOWKI ROAD V V NAGAR 388120 ANAND GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VALLABH VIDHYA NAGAR",
@@ -19040,7 +19040,7 @@
         "MICR": "388234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19117,7 +19117,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "G4 GRD FLR GCP BUSINESS CENTRE NEAR VIJAY CROSS ROAD NAVRANGPURA AHMEDABAD 380009 GUJARAT",
+        "ADDRESS": "G4 GRD FLR GCP BUSINESS CENTRE NEAR VIJAY CROSS ROAD NAVRANGPURA AHMEDABAD 380009 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VIJAY CROSS ROAD AHMEDABAD",
@@ -19130,12 +19130,12 @@
         "MICR": "380234018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR NO 3 G K AVENUE PLOT NO 6 7 8 AMAR PARK SOCIETY CHAR RASTA WAGHODIA VADODRA 390019 GUJARAT",
+        "ADDRESS": "GRD FLR NO 3 G K AVENUE PLOT NO 6 7 8 AMAR PARK SOCIETY CHAR RASTA WAGHODIA VADODRA 390019 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "WAGHODIA ROAD VADODRA",
@@ -19148,12 +19148,12 @@
         "MICR": "390234012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 28 36 37 AMRAPALI AXIOM AMBLI CROSS ROAD BOPAL MOUJE AMBLI DASKROI AHMEDABAD 380058 GUJARAT",
+        "ADDRESS": "SHOP NO 28 36 37 AMRAPALI AXIOM AMBLI CROSS ROAD BOPAL MOUJE AMBLI DASKROI AHMEDABAD 380058 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BOPAL AHMEDABAD",
@@ -19166,7 +19166,7 @@
         "MICR": "380234017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19243,7 +19243,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FIRST FLR SHOP NO 1 2 JANKI AVENUE PUNIT NAGAR SOCIETY NEW SAMA ROAD VADODARA 390024 GUJARAT",
+        "ADDRESS": "GRD FIRST FLR SHOP NO 1 2 JANKI AVENUE PUNIT NAGAR SOCIETY NEW SAMA ROAD VADODARA 390024 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "NEW SAMA ROAD VADODARA",
@@ -19256,7 +19256,7 @@
         "MICR": "390234011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19315,7 +19315,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, Shop No 5/1 to 5/6, \u201c \nShukun Business Centre\u201d, Near Fairdeal House, Swastik Char Rasta, Off. C.G. Road, Narangpura, Ahmedabad- 380 009, Gujarat",
+        "ADDRESS": "Ground Floor, Shop No 5/1 to 5/6, \u201c \nShukun Business Centre\u201d, Near Fairdeal House, Swastik Char Rasta, Off. C.G. Road, Narangpura, Ahmedabad- 380 009, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "C.G. ROAD",
@@ -19328,12 +19328,12 @@
         "MICR": "380234009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor,\u201d Mangalam Arcade\u201d, Shop no 25 & 26, Opp. Odhav Talav, Odhav BRTS Road, Odhav, Ahmedabad- 382 415, Gujarat",
+        "ADDRESS": "Ground Floor,\u201d Mangalam Arcade\u201d, Shop no 25 & 26, Opp. Odhav Talav, Odhav BRTS Road, Odhav, Ahmedabad- 382 415, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "Odhav",
@@ -19346,12 +19346,12 @@
         "MICR": "380234010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, \u201cShangrila Arcade\u201d, Shop No 1 &2, 100ft Road Shyamal Cross Road Satellite Ahmedabad 380 015 Gujarat",
+        "ADDRESS": "Ground Floor, \u201cShangrila Arcade\u201d, Shop No 1 &2, 100ft Road Shyamal Cross Road Satellite Ahmedabad 380 015 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "Shyamal Cross Road",
@@ -19364,7 +19364,7 @@
         "MICR": "380234008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19729,7 +19729,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR NARAYAN PLAZA SHOP NO 23 AT MEVAD TALUKA DIST MEHSANA 382710 GUJARAT",
+        "ADDRESS": "GROUND FLOOR NARAYAN PLAZA SHOP NO 23 AT MEVAD TALUKA DIST MEHSANA 382710 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "MEVAD",
@@ -19742,7 +19742,7 @@
         "MICR": "382234502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19760,12 +19760,12 @@
         "MICR": "384234504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR PLOT NO 1 AT VADU TALUKA VISANAGAR DISTRICT MEHSANA GUJARAT 384315",
+        "ADDRESS": "GROUND FLOOR PLOT NO 1 AT VADU TALUKA VISANAGAR DISTRICT MEHSANA GUJRAT 384315",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "VADU",
@@ -19778,12 +19778,12 @@
         "MICR": "384234503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR KRISH ESTATE SHOP NO 10 DHEDAL TALUKA BAVLA DIST AHMEDABAD 382220 GUJARAT",
+        "ADDRESS": "GROUND FLOOR KRISH ESTATE SHOP NO 10 DHEDAL TALUKA BAVLA DIST AHMEDABAD 382220 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "DHEDHAL",
@@ -19796,12 +19796,12 @@
         "MICR": "382234501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GR FLRNEAR PARABADI VILLAGE BECHARI TALUKA UMRETH DIST ANAND 388220 GUJARAT",
+        "ADDRESS": "GR FLRNEAR PARABADI VILLAGE BECHARI TALUKA UMRETH DIST ANAND 388220 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BECHARI",
@@ -19814,12 +19814,12 @@
         "MICR": "388234504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GR FLR VILLAGE KHERDA TALUK DIST ANAND GUJARAT 388365",
+        "ADDRESS": "GR FLR VILLAGE KHERDA TALUK DIST ANAND GUJRAT 388365",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KHERDA",
@@ -19832,12 +19832,12 @@
         "MICR": "388234505",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GR FLR NEAR DUDIYA KUWA VILLAGE KHANOSAN TALUKA VISHNAGAR DIST MEHSANA 384310 GUJARAT",
+        "ADDRESS": "GR FLR NEAR DUDIYA KUWA VILLAGE KHANOSAN TALUKA VISHNAGAR DIST MEHSANA 384310 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KHANDOSAN",
@@ -19850,12 +19850,12 @@
         "MICR": "384234502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GR FLR SANTHAL VILLAGE OPP POLICE STATION TALUKA AND DIST MEHSANA 384430 GUJARAT",
+        "ADDRESS": "GR FLR SANTHAL VILLAGE OPP POLICE STATION TALUKA AND DIST MEHSANA 384430 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "SANTHAL",
@@ -19868,12 +19868,12 @@
         "MICR": "384234501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GRD FLR OPP GRAM PANCHAYAT OFFICE GHORA TA UMRETH DIST ANAND GUJARAT 388220",
+        "ADDRESS": "GRD FLR OPP GRAM PANCHAYAT OFFICE GHORA TA UMRETH DIST ANAND GUJRAT 388220",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "GHORA",
@@ -19886,12 +19886,12 @@
         "MICR": "388234503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR OPP IDEA TOWER KACHAI VILAGE TEH MEHAMSAD DISTRICT KHEDA GUJARAT 387130",
+        "ADDRESS": "GROUND FLOOR OPP IDEA TOWER KACHAI VILAGE TEH MEHAMSAD DISTRICT KHEDA GUJRAT 387130",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "KACHAI",
@@ -19904,12 +19904,12 @@
         "MICR": "387234503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GD FLR 223 224 ADJACENT TO RAM MANDIR MANKWA TEH MEHMDABAD DIST KHEDA GUJARAT 387130",
+        "ADDRESS": "GD FLR 223 224 ADJACENT TO RAM MANDIR MANKWA TEH MEHMDABAD DIST KHEDA GUJRAT 387130",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "MANKWA",
@@ -19922,12 +19922,12 @@
         "MICR": "387234502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GR FLR 198 MASJIDWALO KHANCHO HERANJ TEH MAHUDA DIST KHEDA GUJARAT 387330",
+        "ADDRESS": "GR FLR 198 MASJIDWALO KHANCHO HERANJ TEH MAHUDA DIST KHEDA GUJRAT 387330",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "HERANJ",
@@ -19940,12 +19940,12 @@
         "MICR": "387234501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GR FLR BLOCK NO 428 OPP PATELWADI AT POST BHAWANIPURA TA PETLAD DIST ANAND 388450 GUJARAT",
+        "ADDRESS": "GR FLR BLOCK NO 428 OPP PATELWADI AT POST BHAWANIPURA TA PETLAD DIST ANAND 388450 GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "BHAVANIPURA",
@@ -19958,7 +19958,7 @@
         "MICR": "388234502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -20089,7 +20089,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Plot no 122, \u201cAmbika Niwas\u201d,    Ashram Road, Opp. Bata House    Ahmedabad -380 009, Gujarat",
+        "ADDRESS": "Plot no 122, \u201cAmbika Niwas\u201d,    Ashram Road, Opp. Bata House    Ahmedabad -380 009, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "Ashram Road",
@@ -20102,7 +20102,7 @@
         "MICR": "380234011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -20377,7 +20377,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, \u201cDev Apartments\u201d # 28A/1, Venkateshwara Nagar, \n100ft bye pass Road, Velachery, Chennai- 600 042, Tamil Nadu",
+        "ADDRESS": "Ground Floor, \u201cDev Apartments\u201d # 28A/1, Venkateshwara Nagar, \n100ft bye pass Road, Velachery, Chennai- 600 042, TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "Velacherry",
@@ -20390,7 +20390,7 @@
         "MICR": "600234019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20858,7 +20858,7 @@
         "MICR": "641234102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -20971,7 +20971,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, G-4, \u201c Mangaldeep Complex\u201d, Hirabagh Circle, Varachha Road, Kapodadara, Surat- 395 006, Gujarat",
+        "ADDRESS": "Ground Floor, G-4, \u201c Mangaldeep Complex\u201d, Hirabagh Circle, Varachha Road, Kapodadara, Surat- 395 006, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND VARACHHA ROAD, SURAT",
@@ -20984,12 +20984,12 @@
         "MICR": "395234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground & 1st  Floor, \u201c Haldar Tower\u201d, # A/2,Plot No 59,Jyoti Park CHS Ltd, Opp. Amrapali Complex, Water Tank Road, Karelibaug, Vadodara- 390 018, Gujarat",
+        "ADDRESS": "Ground & 1st  Floor, \u201c Haldar Tower\u201d, # A/2,Plot No 59,Jyoti Park CHS Ltd, Opp. Amrapali Complex, Water Tank Road, Karelibaug, Vadodara- 390 018, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND KARELIBAUG, VADODARA",
@@ -21002,7 +21002,7 @@
         "MICR": "390234010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21079,7 +21079,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, G-3, Block-1, \u201cAMM Towers\u201d, Opp. Spartan Matric School, # No 50, Thiruvallur Main Road, East Mogappair, Chennai- 600 037, Tamil Nadu",
+        "ADDRESS": "Ground Floor, G-3, Block-1, \u201cAMM Towers\u201d, Opp. Spartan Matric School, # No 50, Thiruvallur Main Road, East Mogappair, Chennai- 600 037, TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND EAST MOGAPPAIR, CHENNAI",
@@ -21092,7 +21092,7 @@
         "MICR": "600234018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21367,7 +21367,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground & 1st Floor, #A-46,Nutan Maheshwar Nagar Society, near High Tension Road, Subhanpura,Vadodara- 390 023, Gujarat",
+        "ADDRESS": "Ground & 1st Floor, #A-46,Nutan Maheshwar Nagar Society, near High Tension Road, Subhanpura,Vadodara- 390 023, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND SUBHANPURA, VADODARA",
@@ -21380,7 +21380,7 @@
         "MICR": "390234008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21745,7 +21745,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "\u201cPancham Icon\u201d, GF-Shop No 07 & 08, FF-107 & 108, Plot No 165, Vasna Road, Vadodara- 390 007, Gujarat",
+        "ADDRESS": "\u201cPancham Icon\u201d, GF-Shop No 07 & 08, FF-107 & 108, Plot No 165, Vasna Road, Vadodara- 390 007, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND VASNA ROAD, VADODARA",
@@ -21758,7 +21758,7 @@
         "MICR": "390234009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21835,7 +21835,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, Survey No.62 & 63/1 \u201cHotel Rajdhani Building\u201d, Near Fire Station, Char Rasta, Dandia Bazaar,Vadodara-390001,Gujarat",
+        "ADDRESS": "Ground Floor, Survey No.62 & 63/1 \u201cHotel Rajdhani Building\u201d, Near Fire Station, Char Rasta, Dandia Bazaar,Vadodara-390001,GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND DANDIA BAZAAR, VADODARA",
@@ -21848,12 +21848,12 @@
         "MICR": "390234006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, Shop No 104-106 & First Floor 204-206, \u201cAkshar Plaza\u201d , Besides Goverdhan Nathji Haveli, Opp. Ghelani Petrol Pump, Nizampura, Vadodara-390001,Gujarat",
+        "ADDRESS": "Ground Floor, Shop No 104-106 & First Floor 204-206, \u201cAkshar Plaza\u201d , Besides Goverdhan Nathji Haveli, Opp. Ghelani Petrol Pump, Nizampura, Vadodara-390001,GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND NIZAMPARA",
@@ -21866,12 +21866,12 @@
         "MICR": "390234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor,Shop No 2 & 3,\u201d PURV PRIME\u201d, Near Nathubhai Circle, Gotri Main Road, Mouje Jetapur, Vadodara- 390 007, Gujarat",
+        "ADDRESS": "Ground Floor,Shop No 2 & 3,\u201d PURV PRIME\u201d, Near Nathubhai Circle, Gotri Main Road, Mouje Jetapur, Vadodara- 390 007, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND GOTRI",
@@ -21884,7 +21884,7 @@
         "MICR": "390234007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21920,7 +21920,7 @@
         "MICR": "641234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -21992,7 +21992,7 @@
         "MICR": "390234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22303,7 +22303,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, Khasra No.581/21 Vill. Kendri Tauhsil Abhanpur, PIN-493661 Dist. Raipur, Chattisgarh",
+        "ADDRESS": "Ground Floor, Khasra No.581/21 Vill. Kendri Tauhsil Abhanpur, PIN-493661 Dist. Raipur, CHHATTISGARH",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND KENDRI",
@@ -22609,7 +22609,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "House No.467, Patwari Hal No.7, Village: Biladi, Tehsil Tilda, P.S. Tilda, Dist. Raipur, PIN-493114, Chattisgarh",
+        "ADDRESS": "House No.467, Patwari Hal No.7, Village: Biladi, Tehsil Tilda, P.S. Tilda, Dist. Raipur, PIN-493114, CHHATTISGARH",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND BILADI",
@@ -22627,7 +22627,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, Shop Nos. 6, 7 & 8, Ambika Co-Operative Housing Society, Near Udvada Railway station, Post : Udwada, Taluka : Pardi, Dist : Valsad, Pin code : 396185, Gujarat",
+        "ADDRESS": "Ground Floor, Shop Nos. 6, 7 & 8, Ambika Co-Operative Housing Society, Near Udvada Railway station, Post : Udwada, Taluka : Pardi, Dist : Valsad, Pin code : 396185, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND UDWADA",
@@ -22640,7 +22640,7 @@
         "MICR": "396234502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23059,7 +23059,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Ground Floor, \u201cGagan Complex\u201d, Near Gagan Hotel, Sarkhej \u2013Bawla Road, Post: Changodar, Taluka: Sanand, Dist: Ahmedabad- 382 213, Gujarat",
+        "ADDRESS": "Ground Floor, \u201cGagan Complex\u201d, Near Gagan Hotel, Sarkhej \u2013Bawla Road, Post: Changodar, Taluka: Sanand, Dist: Ahmedabad- 382 213, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND CHANGODAR",
@@ -23072,7 +23072,7 @@
         "MICR": "380234007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23743,7 +23743,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 10 & 11  \u201c SHREE GANESH BUILDING\u201d  OLD NH-8, ANKLESHWAR- 393 001, GUJARAT",
+        "ADDRESS": "SHOP NO 10 & 11  \u201c SHREE GANESH BUILDING\u201d  OLD NH-8, ANKLESHWAR- 393 001, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND ANKLESHWAR",
@@ -23756,12 +23756,12 @@
         "MICR": "393234051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND + FIRST FLOOR, NARANPUR, UPLOVAS, NARANPAR PASAYALI- 370 429, KACHCH DIST, GUJARAT",
+        "ADDRESS": "GROUND + FIRST FLOOR, NARANPUR, UPLOVAS, NARANPAR PASAYALI- 370 429, KACHCH DIST, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND NARANPAR PASAYALI",
@@ -23774,7 +23774,7 @@
         "MICR": "370234501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23959,7 +23959,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,  SHOP NO. 5& 6(PART) \u201c THE IMPERIAL HEIGHTS\u201d, 150FT RING ROAD, OPP.ISCON PROZONE MALL, KALAWAD ROAD, RAJKOT-360 007, GUJARAT",
+        "ADDRESS": "GROUND FLOOR,  SHOP NO. 5& 6(PART) \u201c THE IMPERIAL HEIGHTS\u201d, 150FT RING ROAD, OPP.ISCON PROZONE MALL, KALAWAD ROAD, RAJKOT-360 007, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND RING ROAD, RAJKOT",
@@ -23972,7 +23972,7 @@
         "MICR": "360234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -24013,7 +24013,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, \u201cD-CUBE\u201d, NEAR KIDNEY HOSPITAL, PETLAD ROAD, NADIAD-387 001, GUJARAT",
+        "ADDRESS": "GROUND FLOOR, \u201cD-CUBE\u201d, NEAR KIDNEY HOSPITAL, PETLAD ROAD, NADIAD-387 001, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND NADIAD",
@@ -24026,7 +24026,7 @@
         "MICR": "387234001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -24188,7 +24188,7 @@
         "MICR": "625234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24242,12 +24242,12 @@
         "MICR": "600234016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, # 148, DEVARPURAM ROAD, V. E. ROAD EXTN, NEAR ALWIN HOTEL, TUTICORIN-628 002, TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR, # 148, DEVARPURAM ROAD, V. E. ROAD EXTN, NEAR ALWIN HOTEL, TUTICORIN-628 002, TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND TUTICORIN",
@@ -24260,7 +24260,7 @@
         "MICR": "627234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24337,7 +24337,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR AT NO. 1&3, LAKSHMIAMMAL STREET, AYYAVOO NAIDU COLONY, AMINJIKARAI,  CHENNAI \u2013 600 029, TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR AT NO. 1&3, LAKSHMIAMMAL STREET, AYYAVOO NAIDU COLONY, AMINJIKARAI,  CHENNAI \u2013 600 029, TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND AMINJIKARAI, CHENNAI",
@@ -24350,7 +24350,7 @@
         "MICR": "600234015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24391,7 +24391,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, \u201c SHUBHAM CORPORATE\u201d, NO.27,PATEL NAGAR, SCHEME 31, TRAFFIC ROOT NO.6, 7,SAPNA SANGEETA MAIN ROAD,INDORE, MADHYAPRADESH",
+        "ADDRESS": "GROUND FLOOR, \u201c SHUBHAM CORPORATE\u201d, NO.27,PATEL NAGAR, SCHEME 31, TRAFFIC ROOT NO.6, 7,SAPNA SANGEETA MAIN ROAD,INDORE, MADHYA PRADESH",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND SAPNA SANGEETA MAIN ROAD, INDORE",
@@ -24710,7 +24710,7 @@
         "MICR": "600234017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24980,7 +24980,7 @@
         "MICR": "600234014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25142,7 +25142,7 @@
         "MICR": "380234006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25178,7 +25178,7 @@
         "MICR": "600234013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25196,7 +25196,7 @@
         "MICR": "636234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25412,7 +25412,7 @@
         "MICR": "600234013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25507,7 +25507,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 5 & 6, \u2018SUN PLAZA\u2019,BHUJ- MIRZAPUR HIGHWAY, OPP. COMMERCE COLLEGE, BHUJ-KUTCH DIST, GUJARAT- 370 001",
+        "ADDRESS": "SHOP NO 5 & 6, \u2018SUN PLAZA\u2019,BHUJ- MIRZAPUR HIGHWAY, OPP. COMMERCE COLLEGE, BHUJ-KUTCH DIST, GUJRAT- 370 001",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND BHUJ",
@@ -25520,7 +25520,7 @@
         "MICR": "370234051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25736,7 +25736,7 @@
         "MICR": "609234202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25826,7 +25826,7 @@
         "MICR": "600234010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26114,12 +26114,12 @@
         "MICR": "380234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 2 & 3, PREM RESIDENCY CO. OP. HO. SOC. LTD, LUNSIKUI, NAVSARI- 396 465  GUJARAT",
+        "ADDRESS": "SHOP NO 2 & 3, PREM RESIDENCY CO. OP. HO. SOC. LTD, LUNSIKUI, NAVSARI- 396 465  GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND NAVSARI",
@@ -26132,7 +26132,7 @@
         "MICR": "396234061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26258,7 +26258,7 @@
         "MICR": "395234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26564,7 +26564,7 @@
         "MICR": "600234007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26582,7 +26582,7 @@
         "MICR": "614234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26708,7 +26708,7 @@
         "MICR": "393234001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26780,7 +26780,7 @@
         "MICR": "600234005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -26852,7 +26852,7 @@
         "MICR": "380234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26888,7 +26888,7 @@
         "MICR": "600234006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27050,7 +27050,7 @@
         "MICR": "395234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27163,7 +27163,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "#20,STAR BUILDING, 1ST FLOOR, NEAR HOTEL TAMILNADU, KRISHANAGIRI BYE-PASS ROAD, HOSUR, TAMIL NADU - 635109",
+        "ADDRESS": "#20,STAR BUILDING, 1ST FLOOR, NEAR HOTEL TAMILNADU, KRISHANAGIRI BYE-PASS ROAD, HOSUR, TAMILNADU - 635109",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND HOSUR",
@@ -27176,7 +27176,7 @@
         "MICR": "635234402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27338,12 +27338,12 @@
         "MICR": "396234009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1ST FLOOR, V.V TOWERS, OPP. LGB PETROL BUNK, KOVAI ROAD, KARUR 639 002, TAMIL NADU",
+        "ADDRESS": "1ST FLOOR, V.V TOWERS, OPP. LGB PETROL BUNK, KOVAI ROAD, KARUR 639 002, TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND KARUR",
@@ -27356,12 +27356,12 @@
         "MICR": "639234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "3-3-27C, BHARATHI NAGAR,\nSANKARI \u2013 SALEM MAIN ROAD (NH47),\nAKKAMAPET, SANKARI \u2013 637301\nTAMIL NADU",
+        "ADDRESS": "3-3-27C, BHARATHI NAGAR,\nSANKARI \u2013 SALEM MAIN ROAD (NH47),\nAKKAMAPET, SANKARI \u2013 637301\nTAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND SANKARI",
@@ -27374,7 +27374,7 @@
         "MICR": "637234302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27392,7 +27392,7 @@
         "MICR": "636234102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27410,7 +27410,7 @@
         "MICR": "626234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27500,7 +27500,7 @@
         "MICR": "384234001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27626,7 +27626,7 @@
         "MICR": "636234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27752,7 +27752,7 @@
         "MICR": "643234102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27829,7 +27829,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR, NO42, 10TH AVENUE, ASHOK NAGAR, CHENNAI - 600083 TAMIL NADU",
+        "ADDRESS": "GROUND FLOOR, NO42, 10TH AVENUE, ASHOK NAGAR, CHENNAI - 600083 TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND ASHOK NAGAR, CHENNAI",
@@ -27842,7 +27842,7 @@
         "MICR": "600234009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27860,7 +27860,7 @@
         "MICR": "396234501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27878,7 +27878,7 @@
         "MICR": "380234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27896,7 +27896,7 @@
         "MICR": "641234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27932,7 +27932,7 @@
         "MICR": "390234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28009,7 +28009,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "J C. HOUSE, \nGRD FLR, MAIN BUILDING,\nNO.72, RAJAJI SALAI, OPP. BEACH STATION,\nCHENNAI - 600 001\nTAMIL NADU",
+        "ADDRESS": "J C. HOUSE, \nGRD FLR, MAIN BUILDING,\nNO.72, RAJAJI SALAI, OPP. BEACH STATION,\nCHENNAI - 600 001\nTAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND RAJAJI SALAI",
@@ -28022,7 +28022,7 @@
         "MICR": "600234008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28184,7 +28184,7 @@
         "MICR": "388234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28544,7 +28544,7 @@
         "MICR": "632234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28850,12 +28850,12 @@
         "MICR": "605234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GP BUILDING, NO.30, KAMALA IIND STREET, CHINNA CHOKKIKULAM, MADURAI - 625 002, TAMIL NADU",
+        "ADDRESS": "GP BUILDING, NO.30, KAMALA IIND STREET, CHINNA CHOKKIKULAM, MADURAI - 625 002, TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND MADURAI",
@@ -28868,12 +28868,12 @@
         "MICR": "625234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SANTHAM SHOPPING COMPLEX, 137 SARADHA COLLEGE, MAIN ROAD, ALAGAPURAM, SALEM 636 016, TAMIL NADU",
+        "ADDRESS": "SANTHAM SHOPPING COMPLEX, 137 SARADHA COLLEGE, MAIN ROAD, ALAGAPURAM, SALEM 636 016, TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND SALEM",
@@ -28886,12 +28886,12 @@
         "MICR": "636234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PREMIER PLAZA, 122/5, BHARATHIAR SALAI, CANTONMENT, TIRUCHIRAPALLI 620 001, TAMIL NADU",
+        "ADDRESS": "PREMIER PLAZA, 122/5, BHARATHIAR SALAI, CANTONMENT, TIRUCHIRAPALLI 620 001, TAMILNADU",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND TIRUCHIRAPALLI",
@@ -28904,7 +28904,7 @@
         "MICR": "620234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29030,7 +29030,7 @@
         "MICR": "394234051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29066,7 +29066,7 @@
         "MICR": "0",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29120,7 +29120,7 @@
         "MICR": "388234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29192,7 +29192,7 @@
         "MICR": "396234031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29246,7 +29246,7 @@
         "MICR": "362234021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29282,7 +29282,7 @@
         "MICR": "641234103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29300,12 +29300,12 @@
         "MICR": "360234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NOS 1 TO 7 AND 13, MADHAV HILLS, WAGHAWADI ROAD, BHAVNAGAR \u2013 364 002, GUJARAT",
+        "ADDRESS": "SHOP NOS 1 TO 7 AND 13, MADHAV HILLS, WAGHAWADI ROAD, BHAVNAGAR \u2013 364 002, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND BHAVNAGAR",
@@ -29318,7 +29318,7 @@
         "MICR": "364234001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29521,7 +29521,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "AMAR COMPLEX, PLOT NO. 158, WARD 12 \u2013 B, GANDHIDHAM 370 201, GUJARAT",
+        "ADDRESS": "AMAR COMPLEX, PLOT NO. 158, WARD 12 \u2013 B, GANDHIDHAM 370 201, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND GANDHIDHAM",
@@ -29534,12 +29534,12 @@
         "MICR": "370234001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHIVAM COMPLEX TEEN BATTI, OPP. BADRI COMPLEX, JAMNAGAR -361 001, GUJARAT",
+        "ADDRESS": "SHIVAM COMPLEX TEEN BATTI, OPP. BADRI COMPLEX, JAMNAGAR -361 001, GUJRAT",
         "BANK": "Indusind Bank",
         "BANKCODE": "INDB",
         "BRANCH": "INDUSIND JAMNAGAR",
@@ -29552,7 +29552,7 @@
         "MICR": "361234001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29804,7 +29804,7 @@
         "MICR": "600234004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29894,7 +29894,7 @@
         "MICR": "600234003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -30110,7 +30110,7 @@
         "MICR": "638234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -30308,7 +30308,7 @@
         "MICR": "395234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -30344,7 +30344,7 @@
         "MICR": "641234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -30416,7 +30416,7 @@
         "MICR": "390234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -30542,7 +30542,7 @@
         "MICR": "380234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -30578,7 +30578,7 @@
         "MICR": "600234002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },

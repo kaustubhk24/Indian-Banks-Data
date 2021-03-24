@@ -1795,7 +1795,7 @@
         "MICR": "600051004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -2227,7 +2227,7 @@
         "MICR": "395051002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3271,7 +3271,7 @@
         "MICR": "380051003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4194,7 +4194,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "60 RAINBOW ARCADE, SIR THEAGARAYAR ROAD, T NAGAR, PONDY BAZAR, CHENNAI , TAMIL NADU, PIN 600017",
+        "ADDRESS": "60 RAINBOW ARCADE, SIR THEAGARAYAR ROAD, T NAGAR, PONDY BAZAR, CHENNAI , TAMILNADU, PIN 600017",
         "BANK": "Jammu and Kashmir Bank",
         "BANKCODE": "JAKA",
         "BRANCH": "RCC CHENNAI",
@@ -4207,7 +4207,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -5485,7 +5485,7 @@
         "MICR": "600051003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -8203,7 +8203,7 @@
         "MICR": "600051002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14791,7 +14791,7 @@
         "MICR": "641051002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -16902,7 +16902,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "\"101-102,Capri House-II,\nSudhanagar Society,Jetalpur Road,\nVadodara-390 007,Gujarat.\"",
+        "ADDRESS": "\"101-102,Capri House-II,\nSudhanagar Society,Jetalpur Road,\nVadodara-390 007,GUJRAT.\"",
         "BANK": "Jammu and Kashmir Bank",
         "BANKCODE": "JAKA",
         "BRANCH": "BARODA",
@@ -16915,7 +16915,7 @@
         "MICR": "390051002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18031,7 +18031,7 @@
         "MICR": "380051002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

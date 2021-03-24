@@ -13,7 +13,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -31,7 +31,7 @@
         "MICR": "380215003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -49,7 +49,7 @@
         "MICR": "380215004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -67,12 +67,12 @@
         "MICR": "380215005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
     {
-        "ADDRESS": "62.63,BILESHWAR IND ESTATE,NR GUJARAT VEPARI MAHAMANDAL,KATHWADA,AHMEDABAD",
+        "ADDRESS": "62.63,BILESHWAR IND ESTATE,NR GUJRAT VEPARI MAHAMANDAL,KATHWADA,AHMEDABAD",
         "BANK": "Saraspur Nagrik Co-operative Bank",
         "BANKCODE": "SNBK",
         "BRANCH": "KATHWADA BRANCH",
@@ -85,7 +85,7 @@
         "MICR": "380215006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -103,7 +103,7 @@
         "MICR": "380215007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -121,7 +121,7 @@
         "MICR": "380215008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -139,7 +139,7 @@
         "MICR": "380215009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -157,7 +157,7 @@
         "MICR": "380215010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -175,7 +175,7 @@
         "MICR": "380215011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -193,7 +193,7 @@
         "MICR": "380215012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     }

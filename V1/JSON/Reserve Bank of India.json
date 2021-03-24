@@ -67,7 +67,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -543,7 +543,7 @@
         "ADDRESS": "RESERVE BANK OF INDIA,6-1-56,SECRETARIAT ROAD,SAIFABAD,KHAIRATABAD,HYDERABAD,TELANGANA 500004",
         "BANK": "Reserve Bank of India",
         "BANKCODE": "RBIS",
-        "BRANCH": "RBI, HYDERABAD, GOVT OF TELENGANA",
+        "BRANCH": "RBI, HYDERABAD, GOVT OF TELANGANA",
         "CENTRE": "HYDERABAD",
         "CITY": "HYDERABAD",
         "CONTACT": "04023230499",
@@ -787,7 +787,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },
@@ -795,7 +795,7 @@
         "ADDRESS": "RESERVE BANK OF INDIA, SUBHASHISH PARISAR SATYA PREM VIHAR MAHADEV GHAT ROAD SUNDER NAGAR RAIPUR 492 013",
         "BANK": "Reserve Bank of India",
         "BANKCODE": "RBIS",
-        "BRANCH": "RBI, RAIPUR, GOVT OF CHATTISGARH",
+        "BRANCH": "RBI, RAIPUR, GOVT OF CHHATTISGARH",
         "CENTRE": "RAIPUR",
         "CITY": "RAIPUR",
         "CONTACT": "0771224231",
@@ -931,7 +931,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -1057,7 +1057,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": false
     },

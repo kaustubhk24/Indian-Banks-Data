@@ -211,7 +211,7 @@
         "MICR": "360641002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -301,7 +301,7 @@
         "MICR": "390641002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -324,7 +324,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MAYFLOWER MID CITY GROUND FLOOR, DOOR NO. 1510, TRICHY ROAD, COIMBATORE, TAMIL NADU-641018.",
+        "ADDRESS": "MAYFLOWER MID CITY GROUND FLOOR, DOOR NO. 1510, TRICHY ROAD, COIMBATORE, TAMILNADU-641018.",
         "BANK": "Development Bank of Singapore",
         "BANKCODE": "DBSS",
         "BRANCH": "COIMBATORE",
@@ -337,7 +337,7 @@
         "MICR": "641641002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -409,7 +409,7 @@
         "MICR": "380641002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -463,7 +463,7 @@
         "MICR": "605641002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -517,7 +517,7 @@
         "MICR": "636641002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -535,7 +535,7 @@
         "MICR": "395641002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -625,7 +625,7 @@
         "MICR": "600641002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },

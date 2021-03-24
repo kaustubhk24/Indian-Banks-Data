@@ -13,7 +13,7 @@
         "MICR": "NA",
         "NEFT": false,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     },
@@ -31,7 +31,7 @@
         "MICR": "NA",
         "NEFT": false,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": false
     }

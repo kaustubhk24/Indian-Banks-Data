@@ -247,7 +247,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -265,7 +265,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -283,7 +283,7 @@
         "MICR": "WAITING",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -643,7 +643,7 @@
         "MICR": "390014008",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1134,7 +1134,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 3,4,29&30 GROUND FLOOR VINAYAK PLAZA BEHIND HOTAL KAVERI BUS STATION ROAD,VERAVAL,DIST-GIR SOMNATH,GUJARAT-362265",
+        "ADDRESS": "SHOP NO 3,4,29&30 GROUND FLOOR VINAYAK PLAZA BEHIND HOTAL KAVERI BUS STATION ROAD,VERAVAL,DIST-GIR SOMNATH,GUJRAT-362265",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "VERAVAL",
@@ -1147,7 +1147,7 @@
         "MICR": "362014051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1201,7 +1201,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1219,7 +1219,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -1255,7 +1255,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1273,7 +1273,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1417,7 +1417,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -1620,7 +1620,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 51, GROUND FLOOR, BAIRAGARH MAIN ROAD, NEAR KALI MATAM MANDIR, BAIRAGARH. MADHYAPRADESH, BHOPAL.PIN-462030",
+        "ADDRESS": "SHOP NO 51, GROUND FLOOR, BAIRAGARH MAIN ROAD, NEAR KALI MATAM MANDIR, BAIRAGARH. MADHYA PRADESH, BHOPAL.PIN-462030",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "BAIRAGARH",
@@ -2047,7 +2047,7 @@
         "MICR": "380014024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2209,7 +2209,7 @@
         "MICR": "380014023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2281,7 +2281,7 @@
         "MICR": "360014081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2299,12 +2299,12 @@
         "MICR": "364014101",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHAYAM APPT, NEAR PORT, OPP PANCHAYAT QUARTER, GARDEN RD, MAHUVA 364290 DIST BHAVNAGAR GUJARAT",
+        "ADDRESS": "SHAYAM APPT, NEAR PORT, OPP PANCHAYAT QUARTER, GARDEN RD, MAHUVA 364290 DIST BHAVNAGAR GUJRAT",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "MAHUA",
@@ -2317,7 +2317,7 @@
         "MICR": "364014091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2371,7 +2371,7 @@
         "MICR": "380014022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2430,7 +2430,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VANZ BRANCH,GANDHI DHOWK,VANZ-DIST SURAT PIN - 394230 GUJARAT",
+        "ADDRESS": "VANZ BRANCH,GANDHI DHOWK,VANZ-DIST SURAT PIN - 394230 GUJRAT",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "VANZ",
@@ -2443,7 +2443,7 @@
         "MICR": "394014503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2641,7 +2641,7 @@
         "MICR": "393014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -2700,7 +2700,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BRAHMIN FALIA, AT PO DETHAN,DIST VADODARA,STATE GUJARAT PIN-391244",
+        "ADDRESS": "BRAHMIN FALIA, AT PO DETHAN,DIST VADODARA,STATE GUJRAT PIN-391244",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "DETHAN",
@@ -2713,7 +2713,7 @@
         "MICR": "391014501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3222,7 +3222,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "C/o MANAN BAJAJ SHOW ROOM,AKSHAR NAGAR COMPLEX,MANDAL ROAD, VIRAMGAM-3802150. GUJARAT",
+        "ADDRESS": "C/o MANAN BAJAJ SHOW ROOM,AKSHAR NAGAR COMPLEX,MANDAL ROAD, VIRAMGAM-3802150. GUJRAT",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "VIRAMGAM",
@@ -3235,7 +3235,7 @@
         "MICR": "380014021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -3595,7 +3595,7 @@
         "MICR": "632014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4446,7 +4446,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Meet Plaza, Savasar Plot, Street No. 3/16, Off Salana Road, Morbi-363641, Dist. RAJKOT, GUJARAT",
+        "ADDRESS": "Meet Plaza, Savasar Plot, Street No. 3/16, Off Salana Road, Morbi-363641, Dist. RAJKOT, GUJRAT",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "MORBI",
@@ -4459,7 +4459,7 @@
         "MICR": "363014021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -4860,7 +4860,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "21, S.No. 227/1D, Opp. Girls HSS  A Kalappur, Tirupathur Taluk,  Sivaganga District, Tamil Nadu  630501",
+        "ADDRESS": "21, S.No. 227/1D, Opp. Girls HSS  A Kalappur, Tirupathur Taluk,  Sivaganga District, TAMILNADU  630501",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "A KALAPPUR",
@@ -4873,7 +4873,7 @@
         "MICR": "630014203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4891,7 +4891,7 @@
         "MICR": "613014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -4986,7 +4986,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "Jivan Jyot Bldg, Opp Tech.School, Galbakaka Chowk, Palanpur-385001,Dist Banaskantha, Gujarat",
+        "ADDRESS": "Jivan Jyot Bldg, Opp Tech.School, Galbakaka Chowk, Palanpur-385001,Dist Banaskantha, GUJRAT",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "PALANPUR",
@@ -4999,7 +4999,7 @@
         "MICR": "385014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7159,7 +7159,7 @@
         "MICR": "630014202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7177,7 +7177,7 @@
         "MICR": "396014091",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7195,7 +7195,7 @@
         "MICR": "389014041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7285,7 +7285,7 @@
         "MICR": "380014020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7303,7 +7303,7 @@
         "MICR": "394014051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7771,7 +7771,7 @@
         "MICR": "383014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -7789,7 +7789,7 @@
         "MICR": "627014003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7807,7 +7807,7 @@
         "MICR": "635014302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -7843,7 +7843,7 @@
         "MICR": "384014081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8671,7 +8671,7 @@
         "MICR": "380014019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8689,7 +8689,7 @@
         "MICR": "384014501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8707,7 +8707,7 @@
         "MICR": "370014051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8725,7 +8725,7 @@
         "MICR": "370014052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8743,7 +8743,7 @@
         "MICR": "360014003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8779,7 +8779,7 @@
         "MICR": "395014005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8797,7 +8797,7 @@
         "MICR": "392014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8815,7 +8815,7 @@
         "MICR": "390014007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8833,7 +8833,7 @@
         "MICR": "396014031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -8851,7 +8851,7 @@
         "MICR": "600014012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9013,7 +9013,7 @@
         "MICR": "635014402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -9085,7 +9085,7 @@
         "MICR": "363014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9103,7 +9103,7 @@
         "MICR": "380014017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9121,7 +9121,7 @@
         "MICR": "380014015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9139,7 +9139,7 @@
         "MICR": "380014016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -9157,7 +9157,7 @@
         "MICR": "380014014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10651,7 +10651,7 @@
         "MICR": "600014011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10831,7 +10831,7 @@
         "MICR": "639014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -10957,7 +10957,7 @@
         "MICR": "380014013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -10975,7 +10975,7 @@
         "MICR": "384014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12415,7 +12415,7 @@
         "MICR": "370014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -12793,7 +12793,7 @@
         "MICR": "395014004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -13009,7 +13009,7 @@
         "MICR": "638014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13171,7 +13171,7 @@
         "MICR": "629014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -13986,7 +13986,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "116, Sri Gujarathi Mandal,  BROADWAY,  CHENNAI - 600108",
+        "ADDRESS": "116, Sri GUJRAThi Mandal,  BROADWAY,  CHENNAI - 600108",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "SERVICE BRANCH, CHENNAI",
@@ -13999,7 +13999,7 @@
         "MICR": "600014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14161,7 +14161,7 @@
         "MICR": "600014009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14179,7 +14179,7 @@
         "MICR": "600014008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14197,7 +14197,7 @@
         "MICR": "600014010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14220,7 +14220,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GIFT PALACE APARTMENT,RANAVAV CHOWK, M.G.ROAD, JUNAGADH, GUJARAT - 362001",
+        "ADDRESS": "GIFT PALACE APARTMENT,RANAVAV CHOWK, M.G.ROAD, JUNAGADH, GUJRAT - 362001",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "JUNAGADH BRANCH",
@@ -14233,7 +14233,7 @@
         "MICR": "362014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14305,7 +14305,7 @@
         "MICR": "626014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14557,7 +14557,7 @@
         "MICR": "637014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -14701,7 +14701,7 @@
         "MICR": "390014006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -14863,7 +14863,7 @@
         "MICR": "600014007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -15115,7 +15115,7 @@
         "MICR": "380014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18067,7 +18067,7 @@
         "MICR": "395014003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18175,7 +18175,7 @@
         "MICR": "390014004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -18283,7 +18283,7 @@
         "MICR": "380014010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -19075,7 +19075,7 @@
         "MICR": "380014009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -20443,7 +20443,7 @@
         "MICR": "380014007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21127,7 +21127,7 @@
         "MICR": "380014012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -21811,7 +21811,7 @@
         "MICR": "380014008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22135,7 +22135,7 @@
         "MICR": "380014006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -22801,7 +22801,7 @@
         "MICR": "390014005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23004,7 +23004,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NAVA BAZAR, HIMATNAGAR,TEH. HIMATNAGAR,TOWER ROAD, DIST. SABAR KANTHA, GUJARAT - 383001",
+        "ADDRESS": "NAVA BAZAR, HIMATNAGAR,TEH. HIMATNAGAR,TOWER ROAD, DIST. SABAR KANTHA, GUJRAT - 383001",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "HIMMATNAGAR",
@@ -23017,7 +23017,7 @@
         "MICR": "383014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23053,7 +23053,7 @@
         "MICR": "380014011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -23503,7 +23503,7 @@
         "MICR": "600014006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -24313,7 +24313,7 @@
         "MICR": "393014051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -24961,7 +24961,7 @@
         "MICR": "382014501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -24979,7 +24979,7 @@
         "MICR": "394014502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -25339,7 +25339,7 @@
         "MICR": "600014005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -25843,7 +25843,7 @@
         "MICR": "380014004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26010,7 +26010,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "PITRU CHHAYA, HARIBHAI PATEL BUILDING,VIA UDAWADA (R.S.), KOLAK, DIST. VALSAD, GUJARAT - 396115",
+        "ADDRESS": "PITRU CHHAYA, HARIBHAI PATEL BUILDING,VIA UDAWADA (R.S.), KOLAK, DIST. VALSAD, GUJRAT - 396115",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "KOLAK",
@@ -26023,7 +26023,7 @@
         "MICR": "396014501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26311,7 +26311,7 @@
         "MICR": "394014501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26329,7 +26329,7 @@
         "MICR": "392014501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26905,7 +26905,7 @@
         "MICR": "380014005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -26941,7 +26941,7 @@
         "MICR": "641014102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27301,7 +27301,7 @@
         "MICR": "605014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -27319,7 +27319,7 @@
         "MICR": "360014121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27337,7 +27337,7 @@
         "MICR": "388014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27445,7 +27445,7 @@
         "MICR": "600014004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -27607,7 +27607,7 @@
         "MICR": "387014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27733,7 +27733,7 @@
         "MICR": "396014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27769,7 +27769,7 @@
         "MICR": "396014061",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28273,7 +28273,7 @@
         "MICR": "364014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28314,7 +28314,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "KANKU HALL,TIN BATTI CHOWK,JAMNAGAR, GUJARAT - 361001",
+        "ADDRESS": "KANKU HALL,TIN BATTI CHOWK,JAMNAGAR, GUJRAT - 361001",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "JAMNAGAR",
@@ -28327,7 +28327,7 @@
         "MICR": "361014001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28345,7 +28345,7 @@
         "MICR": "600014003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28453,7 +28453,7 @@
         "MICR": "628014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28471,7 +28471,7 @@
         "MICR": "380014003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -28561,7 +28561,7 @@
         "MICR": "620014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28795,7 +28795,7 @@
         "MICR": "636014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -28831,7 +28831,7 @@
         "MICR": "625014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29101,7 +29101,7 @@
         "MICR": "360014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -29155,7 +29155,7 @@
         "MICR": "641014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -29317,7 +29317,7 @@
         "MICR": "395014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -30060,7 +30060,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHREE GUJARATI MANDAL BLDG 116, BROADWAY CHENNAI 600 108",
+        "ADDRESS": "SHREE GUJRATI MANDAL BLDG 116, BROADWAY CHENNAI 600 108",
         "BANK": "Bank of Maharashtra",
         "BANKCODE": "MAHB",
         "BRANCH": "BROADWAY,CHENNAI",
@@ -30073,7 +30073,7 @@
         "MICR": "600014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -31585,7 +31585,7 @@
         "MICR": "380014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33529,7 +33529,7 @@
         "MICR": "390014002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },

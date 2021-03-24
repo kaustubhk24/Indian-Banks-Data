@@ -54,7 +54,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "D.NO 3-38A,PALAPARRU NANGINENI VENKATA RATNAM BHAVAN PEDANANDIPADU MANDAL,DIST GUNTUR ANDHRAPRADESH INDIA 522235",
+        "ADDRESS": "D.NO 3-38A,PALAPARRU NANGINENI VENKATA RATNAM BHAVAN PEDANANDIPADU MANDAL,DIST GUNTUR ANDHRA PRADESH INDIA 522235",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PALAPARRU",
@@ -1224,7 +1224,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,TINKONIA NO.1 PADRI BAZAR GORAKHPUR DIST GORAKHPUR UTTARPRADESH INDIA 273014",
+        "ADDRESS": "SYNDICATE BANK,TINKONIA NO.1 PADRI BAZAR GORAKHPUR DIST GORAKHPUR UTTAR PRADESH INDIA 273014",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PADRIBAZAR GORAKHPUR",
@@ -3996,7 +3996,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NO 22, 1ST FLOOR PERUMAL KOIL STREET VILLIANUR DIST:    PUDUCHERRYPIN:     605 110",
+        "ADDRESS": "NO 22, 1ST FLOOR PERUMAL KOIL STREET VILLIANUR DIST:    PONDICHERRYPIN:     605 110",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VILLIANUR",
@@ -4009,7 +4009,7 @@
         "MICR": "605025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -4027,7 +4027,7 @@
         "MICR": "609025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -4045,7 +4045,7 @@
         "MICR": "605025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -4063,7 +4063,7 @@
         "MICR": "673025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -8226,7 +8226,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "105/106,WEST PONNURANGAM ROAD,R S PURAM,COIMBATORE,TAMIL NADU",
+        "ADDRESS": "105/106,WEST PONNURANGAM ROAD,R S PURAM,COIMBATORE,TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RAH COIMBATORE-II",
@@ -8239,7 +8239,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -12060,7 +12060,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR BALRAMPUR HOUSE NO 62 GR FLOOR NAYA BAZAR DIST ALLAHABAD 271201 UTTARPRADESH",
+        "ADDRESS": "SYNDICATE BANK BR BALRAMPUR HOUSE NO 62 GR FLOOR NAYA BAZAR DIST ALLAHABAD 271201 UTTAR PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BALRAMPUR",
@@ -15390,7 +15390,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR CHOTALALPUR VARANASI GR FLR ARAZI NO 1/2 MUZA NEAR G S P G COLLEGE VARANASI 221002 UTTARPRADESH",
+        "ADDRESS": "SYNDICATE BANK BR CHOTALALPUR VARANASI GR FLR ARAZI NO 1/2 MUZA NEAR G S P G COLLEGE VARANASI 221002 UTTAR PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "CHOTALALPUR VARANASI",
@@ -16200,7 +16200,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BARA KANPUR UTTARPRADESH",
+        "ADDRESS": "BARA KANPUR UTTAR PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KANPUR BARRA",
@@ -17208,7 +17208,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR MAHARAJGANJ PLOT NO 1066 WARD NO 14 LOHIYA NAGAR DIST MAHARAJGANJ 273303 UTTARPRADESH",
+        "ADDRESS": "SYNDICATE BANK BR MAHARAJGANJ PLOT NO 1066 WARD NO 14 LOHIYA NAGAR DIST MAHARAJGANJ 273303 UTTAR PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MAHARAJGANJ",
@@ -18306,7 +18306,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DELJI SAHRANPUR ROAD VILL AND PO BAOLI BAGHPAT UTTARPRADESH 250621",
+        "ADDRESS": "DELJI SAHRANPUR ROAD VILL AND PO BAOLI BAGHPAT UTTAR PRADESH 250621",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BAOLI",
@@ -18828,7 +18828,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NANGLA PARSADI BATHAIN GATE KOSI DEHAT NANDAON BLOCK KAMAR CHHATA MATHURA UTTARPRADESH 281 403",
+        "ADDRESS": "NANGLA PARSADI BATHAIN GATE KOSI DEHAT NANDAON BLOCK KAMAR CHHATA MATHURA UTTAR PRADESH 281 403",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KAMAR",
@@ -21901,7 +21901,7 @@
         "MICR": "110025207",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -27216,7 +27216,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "AMBIKAPUR ,RAIPUR CHATTISGARH",
+        "ADDRESS": "AMBIKAPUR ,RAIPUR CHHATTISGARH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AMBIKAPUR",
@@ -27558,7 +27558,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NAHARPURA MANEK CHOWK RATLAM MADHYAPRADESH",
+        "ADDRESS": "NAHARPURA MANEK CHOWK RATLAM MADHYA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RATLAM",
@@ -27612,7 +27612,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "WARD NO 11 NEAR BLOOD BANK BIT ROAD DIST MAHASAMUND MAHASAMUND DIST CHATTISGARH 493554",
+        "ADDRESS": "WARD NO 11 NEAR BLOOD BANK BIT ROAD DIST MAHASAMUND MAHASAMUND DIST CHHATTISGARH 493554",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MAHASAMUND",
@@ -27648,7 +27648,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK NO 17 NEAR IDBI BANK OPP HP PETROL PUMP JASPURNAGAR CHATTISGARH INDIA 495559",
+        "ADDRESS": "SYNDICATE BANK NO 17 NEAR IDBI BANK OPP HP PETROL PUMP JASPURNAGAR CHHATTISGARH INDIA 495559",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "JASPURNAGAR",
@@ -27666,7 +27666,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "23 BY 1912 VIDHAN SABHA MARG,NEAR AVANTIBAI CHOWK, PANDRI,RAIPUR,,RAIPUR,CHATTISGARH,492 004",
+        "ADDRESS": "23 BY 1912 VIDHAN SABHA MARG,NEAR AVANTIBAI CHOWK, PANDRI,RAIPUR,,RAIPUR,CHHATTISGARH,492 004",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RAIPUR RAJIV NAGAR",
@@ -27720,7 +27720,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "MARUTHI HERITAGE CMPLX LALPUR,TIKARAPARA,WARD 46,RI CIRCLE,RAIPUR CHATTISGARH 492001",
+        "ADDRESS": "MARUTHI HERITAGE CMPLX LALPUR,TIKARAPARA,WARD 46,RI CIRCLE,RAIPUR CHHATTISGARH 492001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MID CORPORATE BRANCH RAIPUR",
@@ -27774,7 +27774,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "WARD NO 5,NEAR CITY HOSPITAL,KOTRA ROAD,RAIGARH,CHATTISGARH,496001,INDIA",
+        "ADDRESS": "WARD NO 5,NEAR CITY HOSPITAL,KOTRA ROAD,RAIGARH,CHHATTISGARH,496001,INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RAIGARH",
@@ -27792,7 +27792,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SHP NO 3 AND 4 WARD NO 46 MARUTHI HERITAGE OPP MMI HOSP PACHPENDINAKA RAIPUR DIST CHATTISGARH 492001",
+        "ADDRESS": "SHP NO 3 AND 4 WARD NO 46 MARUTHI HERITAGE OPP MMI HOSP PACHPENDINAKA RAIPUR DIST CHHATTISGARH 492001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PACHPENDINAKA",
@@ -27810,7 +27810,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "POST OFFICE ROAD,KACHARI CHOWK,MAHAVEER TOWER COMPLEX,DHAMTARI,CHATTISGARH,493773",
+        "ADDRESS": "POST OFFICE ROAD,KACHARI CHOWK,MAHAVEER TOWER COMPLEX,DHAMTARI,CHHATTISGARH,493773",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DHAMTARI",
@@ -27882,7 +27882,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR MORENA MILL AREA ROAD DATTPURA DIST MORENA 476001 MADHYAPRADESH",
+        "ADDRESS": "SYNDICATE BANK BR MORENA MILL AREA ROAD DATTPURA DIST MORENA 476001 MADHYA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MORENA",
@@ -28566,7 +28566,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "COMMUNITY HALL,MAIN ROAD VILLAGE DHANORA,TEHSIL KESHKAL DISTRICT KONDAGAON CHATTISGARH INDIA 494230",
+        "ADDRESS": "COMMUNITY HALL,MAIN ROAD VILLAGE DHANORA,TEHSIL KESHKAL DISTRICT KONDAGAON CHHATTISGARH INDIA 494230",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DHANORA",
@@ -28620,7 +28620,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "APAPURA DURG DURG DIST PURAI CHATTISGARH 491001",
+        "ADDRESS": "APAPURA DURG DURG DIST PURAI CHHATTISGARH 491001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PURAI",
@@ -28656,7 +28656,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ANAND BHAVAN APAPURA DURG DUMARDI CHATTISGARH 491001",
+        "ADDRESS": "ANAND BHAVAN APAPURA DURG DUMARDI CHHATTISGARH 491001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DUMARDI",
@@ -28674,7 +28674,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ANAND BAHVAN APAPURA DURG CHATTISGARH 491 001",
+        "ADDRESS": "ANAND BAHVAN APAPURA DURG CHHATTISGARH 491 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DURG",
@@ -29196,7 +29196,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SURYA BHAVAN,NEAR LAXMI TALKIES,BILASPUR,,BILASPUR,CHATTISGARH,495 001",
+        "ADDRESS": "SURYA BHAVAN,NEAR LAXMI TALKIES,BILASPUR,,BILASPUR,CHHATTISGARH,495 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BILASPUR",
@@ -29394,7 +29394,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "COMPLEXPALACE ROADJAGDALPURDIST BASTARSTATE CHATTISGARHPIN 494 001",
+        "ADDRESS": "COMPLEXPALACE ROADJAGDALPURDIST BASTARSTATE CHHATTISGARHPIN 494 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "JAGDALPUR",
@@ -29718,7 +29718,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SATELLITE BRANCH ANAND BHAVAN APAPURA DURG DUMARDI CHATTISGARH 491001 INDIA",
+        "ADDRESS": "SATELLITE BRANCH ANAND BHAVAN APAPURA DURG DUMARDI CHHATTISGARH 491001 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DUMARDI",
@@ -29736,7 +29736,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "ANAND BAHVAN APAPURA DURG CHATTISGARH 491 001",
+        "ADDRESS": "ANAND BAHVAN APAPURA DURG CHHATTISGARH 491 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DURG",
@@ -29772,7 +29772,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "29/19 MAIN ROAD DAYAL BAND BILASPUR  CHATTISGARH  495 001",
+        "ADDRESS": "29/19 MAIN ROAD DAYAL BAND BILASPUR  CHHATTISGARH  495 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BILASPUR",
@@ -29790,7 +29790,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "JAGDALPURSHUKLA COMPLEXPALACE ROADJAGDALPURDIST:    BASTARSTATE:   CHATTISGARHPIN:     494 001",
+        "ADDRESS": "JAGDALPURSHUKLA COMPLEXPALACE ROADJAGDALPURDIST:    BASTARSTATE:   CHHATTISGARHPIN:     494 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "JAGDALPUR",
@@ -32467,7 +32467,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -33349,7 +33349,7 @@
         "MICR": "403025029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33421,12 +33421,12 @@
         "MICR": "384025502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KOITA DUDH UTPADAK S M LTD VIL KOITA TEH PATAN  KOITA GUJARAT 384285 INDIA",
+        "ADDRESS": "KOITA DUDH UTPADAK S M LTD VIL KOITA TEH PATAN  KOITA GUJRAT 384285 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KOITA",
@@ -33439,12 +33439,12 @@
         "MICR": "384025501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SATELLITE BRANCH C/O PATAN BR BIC7195  VAMAIYA GUJARAT 384265 INDIA",
+        "ADDRESS": "SATELLITE BRANCH C/O PATAN BR BIC7195  VAMAIYA GUJRAT 384265 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VAMAIYA",
@@ -33457,12 +33457,12 @@
         "MICR": "384025082",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR CHHAPRA BUILDING NO 1928 UPPER LEVEL SURYA KIRAN APARTMENT CHHAPRA DISTRICT NAVSARI 396445 STATE GUJARAT",
+        "ADDRESS": "SYNDICATE BANK BR CHHAPRA BUILDING NO 1928 UPPER LEVEL SURYA KIRAN APARTMENT CHHAPRA DISTRICT NAVSARI 396445 STATE GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "CHHAPRA",
@@ -33475,7 +33475,7 @@
         "MICR": "396025062",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33493,12 +33493,12 @@
         "MICR": "363025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "CHHATRALA COMPLEX PLOT1 2 3 4 PALSANA TALUK DIST SURAT VARELI GUJARAT 394327",
+        "ADDRESS": "CHHATRALA COMPLEX PLOT1 2 3 4 PALSANA TALUK DIST SURAT VARELI GUJRAT 394327",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VARELI",
@@ -33511,12 +33511,12 @@
         "MICR": "403025028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR DHRANGADHRA NO 3 PARIVAR AVENUE GR FLR DIST SURENDRANAGAR 363310 GUJARAT",
+        "ADDRESS": "SYNDICATE BANK BR DHRANGADHRA NO 3 PARIVAR AVENUE GR FLR DIST SURENDRANAGAR 363310 GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DHRANGADHRA",
@@ -33529,12 +33529,12 @@
         "MICR": "363025051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR WADHWAN SHOPNO 11-12 BHAKTINAGAR CIRCLE, WADHEAN  GUJARAT",
+        "ADDRESS": "SYNDICATE BANK BR WADHWAN SHOPNO 11-12 BHAKTINAGAR CIRCLE, WADHEAN  GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "WADHWAN",
@@ -33547,12 +33547,12 @@
         "MICR": "363025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SATELLITE BRANCH   CHHATRALA COMPLEX PLOT1 2 3 4 PALSANA TALUK DIST SURAT VARELI GUJARAT 394327 INDIA",
+        "ADDRESS": "SATELLITE BRANCH   CHHATRALA COMPLEX PLOT1 2 3 4 PALSANA TALUK DIST SURAT VARELI GUJRAT 394327 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VARELI",
@@ -33565,12 +33565,12 @@
         "MICR": "363025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SATELLITE BRANCH POST ANTROLI  TALUKA PALSANA DIST SURAT ANTROLI GUJARAT 394325 INDIA",
+        "ADDRESS": "SATELLITE BRANCH POST ANTROLI  TALUKA PALSANA DIST SURAT ANTROLI GUJRAT 394325 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ANTROLI",
@@ -33583,12 +33583,12 @@
         "MICR": "395025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE KATUDA TAL VADHVAN DIST SURENDRANAGAR KATUDA GUJARAT 363040 INDIA",
+        "ADDRESS": "VILLAGE KATUDA TAL VADHVAN DIST SURENDRANAGAR KATUDA GUJRAT 363040 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KATUDA",
@@ -33601,7 +33601,7 @@
         "MICR": "363025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33619,12 +33619,12 @@
         "MICR": "395025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILL AND POST JOLVA TAL  PALSANA DIST SURAT    JOLVA GUJARAT 394305 INDIA",
+        "ADDRESS": "VILL AND POST JOLVA TAL  PALSANA DIST SURAT    JOLVA GUJRAT 394305 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "JOLVA",
@@ -33637,12 +33637,12 @@
         "MICR": "394025503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SURAT (MAIN)RATAN KUTIR BUILDINGP. B. NO 277SALABATPURA MAIN ROADDIST:    SURATSTATE:   GUJARAT",
+        "ADDRESS": "SURAT (MAIN)RATAN KUTIR BUILDINGP. B. NO 277SALABATPURA MAIN ROADDIST:    SURATSTATE:   GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "CAO SURAT",
@@ -33655,12 +33655,12 @@
         "MICR": "395025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SAMARTH SARATHI COMPLEX NEAR DHIRAJSONS PARLE POINT SURAT DIST GUJARAT",
+        "ADDRESS": "SAMARTH SARATHI COMPLEX NEAR DHIRAJSONS PARLE POINT SURAT DIST GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PARLE POINT SURAT",
@@ -33673,12 +33673,12 @@
         "MICR": "394025502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OPP-GANDHI SMRUTI BHAVAN TIMALIAWAD NANPURA GUJARAT 395 001",
+        "ADDRESS": "OPP-GANDHI SMRUTI BHAVAN TIMALIAWAD NANPURA GUJRAT 395 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NANPURA, SURAT",
@@ -33691,7 +33691,7 @@
         "MICR": "394025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33709,12 +33709,12 @@
         "MICR": "395025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "TAKAMA PATIA DIST SURAT GUJARAT 394540",
+        "ADDRESS": "TAKAMA PATIA DIST SURAT GUJRAT 394540",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ERTHAN",
@@ -33727,7 +33727,7 @@
         "MICR": "394025351",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33745,7 +33745,7 @@
         "MICR": "395025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33763,7 +33763,7 @@
         "MICR": "394025504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33781,7 +33781,7 @@
         "MICR": "395025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33799,12 +33799,12 @@
         "MICR": "365025999",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILL JOKHA, VIA  VAV TAL KAMREJ DIST SURAT   JOKHA GUJARAT 394326 INDIA",
+        "ADDRESS": "VILL JOKHA, VIA  VAV TAL KAMREJ DIST SURAT   JOKHA GUJRAT 394326 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "JOKHA",
@@ -33817,12 +33817,12 @@
         "MICR": "394025504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,KALIPAT BRANCH,8-G GARAIYA HOMEPATHY MEDICAL COLLEGE VILL-KALIPAT,NR TRAMBA RAJKOT GUJARAT INDIA -360020",
+        "ADDRESS": "SYNDICATE BANK,KALIPAT BRANCH,8-G GARAIYA HOMEPATHY MEDICAL COLLEGE VILL-KALIPAT,NR TRAMBA RAJKOT GUJRAT INDIA -360020",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KALIPAT",
@@ -33835,12 +33835,12 @@
         "MICR": "384025502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 6 TO 11, GROUND FLOOR AKHAND ANAND COMPLEX NEAR 9 SQUARE, HONEY PARK MN ROAD ADAJAN SURAT  GUJARAT 395009 INDIA",
+        "ADDRESS": "SHOP NO 6 TO 11, GROUND FLOOR AKHAND ANAND COMPLEX NEAR 9 SQUARE, HONEY PARK MN ROAD ADAJAN SURAT  GUJRAT 395009 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ADAJAN SURAT",
@@ -33853,12 +33853,12 @@
         "MICR": "395025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE RATANPUR POST GAURIDAD RATANPUR RAJKOT DIST GUJARAT INDIA 360003",
+        "ADDRESS": "VILLAGE RATANPUR POST GAURIDAD RATANPUR RAJKOT DIST GUJRAT INDIA 360003",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RATANPUR",
@@ -33871,12 +33871,12 @@
         "MICR": "395025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK AMRELI AMRELI GUJARAT",
+        "ADDRESS": "SYNDICATE BANK AMRELI AMRELI GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AMRELI",
@@ -33889,12 +33889,12 @@
         "MICR": "360025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR HIMMATNAGAR SHOP NO 56-58 RATNA SAGAR COMPLEX CHAR RASTA HIMMATNAGAR383001 DIST SABARKANTHA GUJARAT",
+        "ADDRESS": "SYNDICATE BANK BR HIMMATNAGAR SHOP NO 56-58 RATNA SAGAR COMPLEX CHAR RASTA HIMMATNAGAR383001 DIST SABARKANTHA GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "HIMMATNAGAR",
@@ -33907,12 +33907,12 @@
         "MICR": "383025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE RATANPUR POST GAURIDAD RATANPUR RAJKOT DIST GUJARAT INDIA 360003",
+        "ADDRESS": "VILLAGE RATANPUR POST GAURIDAD RATANPUR RAJKOT DIST GUJRAT INDIA 360003",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RATANPUR",
@@ -33925,7 +33925,7 @@
         "MICR": "360025203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33943,12 +33943,12 @@
         "MICR": "360025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VILL AND PO NAVA SADULKA BHARAT NAGAR,TQ MORVI DIST RAJKOT NAVA SADULKA GUJARAT 363642 INDIA",
+        "ADDRESS": "VILL AND PO NAVA SADULKA BHARAT NAGAR,TQ MORVI DIST RAJKOT NAVA SADULKA GUJRAT 363642 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NAVA SADULKA",
@@ -33961,12 +33961,12 @@
         "MICR": "363025104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GIRNAR KHUSHBOO PLAZA PLOT NO 29 GIDC VAPI GUJARAT 396195",
+        "ADDRESS": "GIRNAR KHUSHBOO PLAZA PLOT NO 29 GIDC VAPI GUJRAT 396195",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VAPI",
@@ -33979,7 +33979,7 @@
         "MICR": "360025502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -33997,12 +33997,12 @@
         "MICR": "389025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PANCHVATI SQUARE OPP KINARA CINEMANANDASAN KADI ROAD AHMEDABAD GUJARAT 382715",
+        "ADDRESS": "PANCHVATI SQUARE OPP KINARA CINEMANANDASAN KADI ROAD AHMEDABAD GUJRAT 382715",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KADI AHMEDABAD",
@@ -34015,12 +34015,12 @@
         "MICR": "360025501",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GIRNAR KHUSHBOO PLAZA PLOT NO 29 GIDC VAPI GUJARAT 396195",
+        "ADDRESS": "GIRNAR KHUSHBOO PLAZA PLOT NO 29 GIDC VAPI GUJRAT 396195",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VAPI",
@@ -34033,12 +34033,12 @@
         "MICR": "384025051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR GODHRA 1TO 6 JAI JALARAM PLAZA OPP BUS STAND BEHIND SCIENCE COLLEGE GODHRA 389001 GUJARAT",
+        "ADDRESS": "SYNDICATE BANK BR GODHRA 1TO 6 JAI JALARAM PLAZA OPP BUS STAND BEHIND SCIENCE COLLEGE GODHRA 389001 GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "GODHRA",
@@ -34051,12 +34051,12 @@
         "MICR": "389025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PANCHVATI SQUARE OPP KINARA CINEMANANDASAN KADI ROAD AHMEDABAD GUJARAT 382715",
+        "ADDRESS": "PANCHVATI SQUARE OPP KINARA CINEMANANDASAN KADI ROAD AHMEDABAD GUJRAT 382715",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KADI AHMEDABAD",
@@ -34069,12 +34069,12 @@
         "MICR": "384025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR UNJHA 1ST FLOOR OPP SUVIDHA HOSPITAL NEAR MEHSANA URBAN COOP BANK J P COMPLEX UNJHA 384170 DIST MEHSANA STATE GUJARAT",
+        "ADDRESS": "SYNDICATE BANK BR UNJHA 1ST FLOOR OPP SUVIDHA HOSPITAL NEAR MEHSANA URBAN COOP BANK J P COMPLEX UNJHA 384170 DIST MEHSANA STATE GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "UNJHA",
@@ -34087,12 +34087,12 @@
         "MICR": "384025051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHREEJINAGAR  KHERGAUM ROAD NEAR PARVATI MOTORS DHAMDACHI FATAK VALSAD VEJALPORE  GUJARAT 396030 INDIA",
+        "ADDRESS": "SHREEJINAGAR  KHERGAUM ROAD NEAR PARVATI MOTORS DHAMDACHI FATAK VALSAD VEJALPORE  GUJRAT 396030 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VEJALPORE",
@@ -34105,12 +34105,12 @@
         "MICR": "396025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "H NO 310 POST OFFICE MITHA LAXMIPURA TALUk DISTRICT MEHSANA KHARA GUJARAT 384002 INDIA",
+        "ADDRESS": "H NO 310 POST OFFICE MITHA LAXMIPURA TALUk DISTRICT MEHSANA KHARA GUJRAT 384002 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KHARA",
@@ -34123,7 +34123,7 @@
         "MICR": "384025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34141,12 +34141,12 @@
         "MICR": "384025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SARVAJANIK  KELVANI MANDAL CAMPUS  BEHIND  ST STAND ARVIND MARG MEHSANA GUJARAT",
+        "ADDRESS": "SARVAJANIK  KELVANI MANDAL CAMPUS  BEHIND  ST STAND ARVIND MARG MEHSANA GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ARVIND MARG AHMEDABAD",
@@ -34159,12 +34159,12 @@
         "MICR": "384025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AITHOR PRAGATHI MANDAL BLDG AITHOR MEHSANA GUJARAT 384175",
+        "ADDRESS": "AITHOR PRAGATHI MANDAL BLDG AITHOR MEHSANA GUJRAT 384175",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AITHOR",
@@ -34177,7 +34177,7 @@
         "MICR": "384025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34195,12 +34195,12 @@
         "MICR": "370025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SRI NILAKANTA VIDYALAYA BLDG MAKTAPUR PATAN DIST GUJARAT 384170",
+        "ADDRESS": "SRI NILAKANTA VIDYALAYA BLDG MAKTAPUR PATAN DIST GUJRAT 384170",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MAKTAPUR",
@@ -34213,7 +34213,7 @@
         "MICR": "370025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34231,7 +34231,7 @@
         "MICR": "370025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34249,12 +34249,12 @@
         "MICR": "388025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "OPP-ALL INDIA RADIO MANDVI ROAD   GUJARATH 370 001",
+        "ADDRESS": "OPP-ALL INDIA RADIO MANDVI ROAD   GUJRATH 370 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BHUJ",
@@ -34267,7 +34267,7 @@
         "MICR": "387025301",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34285,12 +34285,12 @@
         "MICR": "387025201",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "BALIAKAKA ROAD SARDARGANJ AREA   GUJARATH 388 001",
+        "ADDRESS": "BALIAKAKA ROAD SARDARGANJ AREA   GUJRATH 388 001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ANAND",
@@ -34303,12 +34303,12 @@
         "MICR": "387025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NOBLE ENGINEERING COLLEGE CAMPUS BAMANGA DIST JUNAGADH JUNAGADH GUJARAT INDIA 388520",
+        "ADDRESS": "NOBLE ENGINEERING COLLEGE CAMPUS BAMANGA DIST JUNAGADH JUNAGADH GUJRAT INDIA 388520",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BAMANGAM",
@@ -34321,7 +34321,7 @@
         "MICR": "396025031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34339,12 +34339,12 @@
         "MICR": "362025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHRJIKRIPA  VILL VINA NADIAD TALUKA KHEDA DIST GUJARAT 387430",
+        "ADDRESS": "SHRJIKRIPA  VILL VINA NADIAD TALUKA KHEDA DIST GUJRAT 387430",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VINA",
@@ -34357,7 +34357,7 @@
         "MICR": "362025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34375,12 +34375,12 @@
         "MICR": "360025121",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PLOT NO 1 RAJMAHAL ROAD OPP MUNICIPALITY OFFICE VERAVAL 362266 JUNAGADH GUJARAT",
+        "ADDRESS": "PLOT NO 1 RAJMAHAL ROAD OPP MUNICIPALITY OFFICE VERAVAL 362266 JUNAGADH GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VERAVAL",
@@ -34393,7 +34393,7 @@
         "MICR": "361025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34411,12 +34411,12 @@
         "MICR": "361025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SEVASI GOTRI TALUK VADODARA,VADODARA DISTRICT GUJARAT INDIA 390021",
+        "ADDRESS": "SEVASI GOTRI TALUK VADODARA,VADODARA DISTRICT GUJRAT INDIA 390021",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SEVASI CANAL ROAD GOTRI",
@@ -34429,7 +34429,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34447,12 +34447,12 @@
         "MICR": "380025023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR RPL SITE DWARAKA RD, MOTI KHAVADI GUJARAT 361140",
+        "ADDRESS": "NEAR RPL SITE DWARAKA RD, MOTI KHAVADI GUJRAT 361140",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MOTI KAVADI",
@@ -34465,7 +34465,7 @@
         "MICR": "380025019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34483,7 +34483,7 @@
         "MICR": "380025014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34506,7 +34506,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR GIFT CITY GANDHINAGAR SABARMATI CAPITAL One (GIFT ONE BUILDING) 1ST FLOOR ROAD SC ZONE 5 GIFT CITY GANDHINAGAR 382355 DISTRICT GANDHINAGAR STATE GUJARAT",
+        "ADDRESS": "SYNDICATE BANK BR GIFT CITY GANDHINAGAR SABARMATI CAPITAL One (GIFT ONE BUILDING) 1ST FLOOR ROAD SC ZONE 5 GIFT CITY GANDHINAGAR 382355 DISTRICT GANDHINAGAR STATE GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "GIFT CITY AHMEDABAD",
@@ -34519,7 +34519,7 @@
         "MICR": "380025023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34537,12 +34537,12 @@
         "MICR": "389025021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "AT POST DARAN SANAND TEHSIL AHMEDABAD AHMEDABAD DIST GUJARAT INDIA 382220",
+        "ADDRESS": "AT POST DARAN SANAND TEHSIL AHMEDABAD AHMEDABAD DIST GUJRAT INDIA 382220",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DARAN",
@@ -34555,12 +34555,12 @@
         "MICR": "362025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,SHOP NO 1 AND 2,DREAM ICONIA,NR RAMESH PATEL FARM,PATIDAR COMPLEX,NEW IP ROAD MANJALPUR GUJARAT INDIA 390011",
+        "ADDRESS": "GROUND FLOOR,SHOP NO 1 AND 2,DREAM ICONIA,NR RAMESH PATEL FARM,PATIDAR COMPLEX,NEW IP ROAD MANJALPUR GUJRAT INDIA 390011",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MANJALPUR",
@@ -34573,12 +34573,12 @@
         "MICR": "396025111",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "M/S ONYX HOTELS PVT LTD.GF,HOTEL SUBA GRAND,BHARUCH-DAHEJ ROAD,AT JOLVA,DAHEJ DAHEJ GUJARAT INDIA392130",
+        "ADDRESS": "M/S ONYX HOTELS PVT LTD.GF,HOTEL SUBA GRAND,BHARUCH-DAHEJ ROAD,AT JOLVA,DAHEJ DAHEJ GUJRAT INDIA392130",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DAHEJ",
@@ -34591,7 +34591,7 @@
         "MICR": "380025029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34609,7 +34609,7 @@
         "MICR": "392025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34627,12 +34627,12 @@
         "MICR": "390025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "52 49 1 MANDIR FALIYA AT AND POST SANKI TAL PALSANA SURAT AHMEDABAD GUJARAT 394305",
+        "ADDRESS": "52 49 1 MANDIR FALIYA AT AND POST SANKI TAL PALSANA SURAT AHMEDABAD GUJRAT 394305",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SANKI AHMEDABAD",
@@ -34645,12 +34645,12 @@
         "MICR": "392025071",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VIHARA BRANCH AT POST VIHARA TAL OLPAD DIST SURAT GUJARAT 394540",
+        "ADDRESS": "VIHARA BRANCH AT POST VIHARA TAL OLPAD DIST SURAT GUJRAT 394540",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VIHARA",
@@ -34663,12 +34663,12 @@
         "MICR": "395025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,GROUND FLOOR,1 PRAKASH PARK,SHASTRI ROAD,BARDOLI DIST SURAT GUJARAT INDIA -394601",
+        "ADDRESS": "SYNDICATE BANK,GROUND FLOOR,1 PRAKASH PARK,SHASTRI ROAD,BARDOLI DIST SURAT GUJRAT INDIA -394601",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BARDOLI",
@@ -34681,7 +34681,7 @@
         "MICR": "394025503",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34699,12 +34699,12 @@
         "MICR": "364025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,GROUND FLOOR NEAR CHOWKRI,VILL UMRAYA TAL PADRA,DIST VADODARA GUJARAT INDIA -391440",
+        "ADDRESS": "SYNDICATE BANK,GROUND FLOOR NEAR CHOWKRI,VILL UMRAYA TAL PADRA,DIST VADODARA GUJRAT INDIA -391440",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "UMRAYA",
@@ -34717,12 +34717,12 @@
         "MICR": "394025504",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RC DUTT ROAD ALAKPURI VADODARA VADODARA DIST GUJARAT 390007",
+        "ADDRESS": "RC DUTT ROAD ALAKPURI VADODARA VADODARA DIST GUJRAT 390007",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RO VADODARA",
@@ -34735,12 +34735,12 @@
         "MICR": "394025051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GF,SHOP NO 21 AND 9,PLOT NO 37/2 GIDC INDUSTRIAL ESTATE,MAKARPURA VADODARA VADODARA GUJARAT INDIA390010",
+        "ADDRESS": "GF,SHOP NO 21 AND 9,PLOT NO 37/2 GIDC INDUSTRIAL ESTATE,MAKARPURA VADODARA VADODARA GUJRAT INDIA390010",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MAKARPURA VADODARA",
@@ -34753,12 +34753,12 @@
         "MICR": "390025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VINTAGE PLAZA PLOT NO 21 UNITED COLONY SAMA VADODARA DIST GUJARAT INDIA 390008",
+        "ADDRESS": "VINTAGE PLAZA PLOT NO 21 UNITED COLONY SAMA VADODARA DIST GUJRAT INDIA 390008",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NEW SAMA ROAD",
@@ -34771,7 +34771,7 @@
         "MICR": "390025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34789,12 +34789,12 @@
         "MICR": "390025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RC DUTT ROAD ALAKPURI VADODARA VADODARA DIST GUJARAT 390007",
+        "ADDRESS": "RC DUTT ROAD ALAKPURI VADODARA VADODARA DIST GUJRAT 390007",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RO VADODARA",
@@ -34807,12 +34807,12 @@
         "MICR": "390025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VINTAGE PLAZA PLOT NO 21 UNITED COLONY SAMA VADODARA DIST GUJARAT INDIA 390008",
+        "ADDRESS": "VINTAGE PLAZA PLOT NO 21 UNITED COLONY SAMA VADODARA DIST GUJRAT INDIA 390008",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NEW SAMA ROAD",
@@ -34825,12 +34825,12 @@
         "MICR": "390025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 6 7 8 9 PRIME PLAZA OPP DLA SCHOOL BODAKDEV AHMEDABAD DIST GUJARAT INDIA 380054",
+        "ADDRESS": "SHOP NO 6 7 8 9 PRIME PLAZA OPP DLA SCHOOL BODAKDEV AHMEDABAD DIST GUJRAT INDIA 380054",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BODAKDEV",
@@ -34843,12 +34843,12 @@
         "MICR": "390025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 5 6 7 8 SANGANI SQUARE BESIDES SAMRUDHI NAROL ASLALI HIGHWAY NAROL GUJARAT 382405",
+        "ADDRESS": "SHOP NO 5 6 7 8 SANGANI SQUARE BESIDES SAMRUDHI NAROL ASLALI HIGHWAY NAROL GUJRAT 382405",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NAROL",
@@ -34861,7 +34861,7 @@
         "MICR": "380025030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -34879,12 +34879,12 @@
         "MICR": "385025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 06 07 08 AND 09 SHASHWAT COMPLEX, OPP ANMOL BUNGLOW NEW RANIP AHMEDABAD GUJARAT 382480",
+        "ADDRESS": "SHOP NO 06 07 08 AND 09 SHASHWAT COMPLEX, OPP ANMOL BUNGLOW NEW RANIP AHMEDABAD GUJRAT 382480",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RANIP AHMEDABAD",
@@ -34897,12 +34897,12 @@
         "MICR": "380025028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 5 6 7 8 SANGANI SQUARE BESIDES SAMRUDHI NAROL ASLALI HIGHWAY NAROL GUJARAT 382405",
+        "ADDRESS": "SHOP NO 5 6 7 8 SANGANI SQUARE BESIDES SAMRUDHI NAROL ASLALI HIGHWAY NAROL GUJRAT 382405",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NAROL",
@@ -34915,12 +34915,12 @@
         "MICR": "380025022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR PALANPUR  HANUMAN TEKRI ABU HIGHWAY PALANPUR  DIST BANASKANTHA 385001  GUJARAT",
+        "ADDRESS": "SYNDICATE BANK BR PALANPUR  HANUMAN TEKRI ABU HIGHWAY PALANPUR  DIST BANASKANTHA 385001  GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PALANPUR",
@@ -34933,12 +34933,12 @@
         "MICR": "385025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,,NEPTUNE TOWERS,ASHRAM ROAD OPP NEHRU BRIDGE,AHMEDABAD,GUJARAT,380009,INDIA",
+        "ADDRESS": "GROUND FLOOR,,NEPTUNE TOWERS,ASHRAM ROAD OPP NEHRU BRIDGE,AHMEDABAD,GUJRAT,380009,INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ARMBAHMEDABAD",
@@ -34951,12 +34951,12 @@
         "MICR": "380025030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 07,08,09,10,11 F.P 91/2 SILVER RESIDENCY, OPP ISHAAN BUNGLW NEAR KIRAN FLATS CHANDKHEDA AHMEDABAD GUJARAT 382424 INDIA",
+        "ADDRESS": "SHOP NO 07,08,09,10,11 F.P 91/2 SILVER RESIDENCY, OPP ISHAAN BUNGLW NEAR KIRAN FLATS CHANDKHEDA AHMEDABAD GUJRAT 382424 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AHMEDABAD CHANDKHEDA",
@@ -34969,12 +34969,12 @@
         "MICR": "380025022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 03, TRADE SQUARE OPP TORRENT POWER HOUSE SABARMATI AHMEDABAD GUJARAT 380005 INDIA",
+        "ADDRESS": "SHOP NO 03, TRADE SQUARE OPP TORRENT POWER HOUSE SABARMATI AHMEDABAD GUJRAT 380005 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SABARMATI, AHMEDABAD",
@@ -34987,12 +34987,12 @@
         "MICR": "380025024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,  NEPTUNE TOWERS ASHRAM ROAD OPP NEHRU BRIDGE AHMEDABAD GUJARAT 380009 INDIA",
+        "ADDRESS": "GROUND FLOOR,  NEPTUNE TOWERS ASHRAM ROAD OPP NEHRU BRIDGE AHMEDABAD GUJRAT 380009 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ARMB-AHMEDABAD",
@@ -35005,7 +35005,7 @@
         "MICR": "380025018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35023,7 +35023,7 @@
         "MICR": "380025017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35041,7 +35041,7 @@
         "MICR": "380025016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35059,7 +35059,7 @@
         "MICR": "380025015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35077,12 +35077,12 @@
         "MICR": "380025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VALVA AHMEADABAD GUJARAT",
+        "ADDRESS": "VALVA AHMEADABAD GUJRAT",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VALVA AHMEDABAD",
@@ -35095,7 +35095,7 @@
         "MICR": "380025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35113,7 +35113,7 @@
         "MICR": "380025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35131,7 +35131,7 @@
         "MICR": "380025011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35149,7 +35149,7 @@
         "MICR": "380025013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35167,7 +35167,7 @@
         "MICR": "380025012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35185,7 +35185,7 @@
         "MICR": "380025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35203,7 +35203,7 @@
         "MICR": "380025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35221,7 +35221,7 @@
         "MICR": "380025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35239,7 +35239,7 @@
         "MICR": "380025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35257,7 +35257,7 @@
         "MICR": "380025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35352,7 +35352,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "REGIONAL OFFICE651,ANANDPUR,EM BYPASSKOLKATA,WESTBENGAL -700017",
+        "ADDRESS": "REGIONAL OFFICE651,ANANDPUR,EM BYPASSKOLKATA,WEST BENGAL -700017",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RO, KOLKATA III",
@@ -35653,7 +35653,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -35671,7 +35671,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -35689,7 +35689,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36121,7 +36121,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36157,7 +36157,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36175,7 +36175,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36198,7 +36198,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,7/459-28 JAYAVEL COMPLEX,TRICHY MAIN ROAD PONGALUR PO,TIRUPUR PONGALUR TAMIL NADU INDIA 641667",
+        "ADDRESS": "SYNDICATE BANK,7/459-28 JAYAVEL COMPLEX,TRICHY MAIN ROAD PONGALUR PO,TIRUPUR PONGALUR TAMILNADU INDIA 641667",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PONGALUR",
@@ -36211,12 +36211,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK DOOR NO 105-106 PONNURANGAM ROAD ( WEST).R S PURAM COIMBATORE TAMIL NADU INDIA 641002",
+        "ADDRESS": "SYNDICATE BANK DOOR NO 105-106 PONNURANGAM ROAD ( WEST).R S PURAM COIMBATORE TAMILNADU INDIA 641002",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "COIMBATORE RMLC",
@@ -36229,12 +36229,12 @@
         "MICR": "380025025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SANTHALINGAM ADIGALAR,SHOPPING COMPLEX,PERUR ADHEENAM VEDAPATTI ROAD,DIST COIMBATORE COIMBATORE TAMIL NADU INDIA 641010",
+        "ADDRESS": "SANTHALINGAM ADIGALAR,SHOPPING COMPLEX,PERUR ADHEENAM VEDAPATTI ROAD,DIST COIMBATORE COIMBATORE TAMILNADU INDIA 641010",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PERUR",
@@ -36247,12 +36247,12 @@
         "MICR": "641025042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.15/21,ESWAR COMPLEX,CHINTHAMANI PUDUR,KANNAMPALAYAM PANCHAYAT,TRICHY ROAD,KANNAMPALAYAM TAMIL NADU INDIA641402",
+        "ADDRESS": "NO.15/21,ESWAR COMPLEX,CHINTHAMANI PUDUR,KANNAMPALAYAM PANCHAYAT,TRICHY ROAD,KANNAMPALAYAM TAMILNADU INDIA641402",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KANNAMPALAYAM",
@@ -36265,12 +36265,12 @@
         "MICR": "641025041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 68-F G CHENNIAPPA NAGAR UDUMALAI ROAD UDUMALAI ROAD DHARAPURAM TAMIL NADU INDIA 638656",
+        "ADDRESS": "NO 68-F G CHENNIAPPA NAGAR UDUMALAI ROAD UDUMALAI ROAD DHARAPURAM TAMILNADU INDIA 638656",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "DHARAPURAM",
@@ -36283,12 +36283,12 @@
         "MICR": "638025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 288/5/6 CHENNIMALAI ROAD KANGEYAM KANGEYAM TAMIL NADU INDIA 638701",
+        "ADDRESS": "NO 288/5/6 CHENNIMALAI ROAD KANGEYAM KANGEYAM TAMILNADU INDIA 638701",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KANGEYAM",
@@ -36301,12 +36301,12 @@
         "MICR": "641025109",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 820-G ERODE ROAD OPP TO BUS STAND VELLAKOIL TAMIL NADU INDIA 638111",
+        "ADDRESS": "NO 820-G ERODE ROAD OPP TO BUS STAND VELLAKOIL TAMILNADU INDIA 638111",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VELLAKOIL",
@@ -36319,7 +36319,7 @@
         "MICR": "638025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36337,12 +36337,12 @@
         "MICR": "641025042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,DOOR NO 311-T NSR ROAD,OPP TO BHARATHI STORES SAIBABA COLONY COIMBATORE TAMIL NADU INDIA 641010",
+        "ADDRESS": "SYNDICATE BANK,DOOR NO 311-T NSR ROAD,OPP TO BHARATHI STORES SAIBABA COLONY COIMBATORE TAMILNADU INDIA 641010",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "COIMBATORE SAIBABA COLONY",
@@ -36355,12 +36355,12 @@
         "MICR": "641025041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 72 J G NAGAR 2ND STREET 60 FEET ROAD TIRUPUR TIRUPUR DISTRICT TAMIL NADU",
+        "ADDRESS": "NO 72 J G NAGAR 2ND STREET 60 FEET ROAD TIRUPUR TIRUPUR DISTRICT TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "TIRUPUR J G NAGAR",
@@ -36373,7 +36373,7 @@
         "MICR": "641025108",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36391,7 +36391,7 @@
         "MICR": "641025040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36409,12 +36409,12 @@
         "MICR": "641025037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "VOM COMPLEX DOOR NO 49 RAMASAMY PILLAI ST NR BUS STAND VADAVALI COIMBATORE TAMIL NADU 641041",
+        "ADDRESS": "VOM COMPLEX DOOR NO 49 RAMASAMY PILLAI ST NR BUS STAND VADAVALI COIMBATORE TAMILNADU 641041",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VADAVALLI",
@@ -36427,12 +36427,12 @@
         "MICR": "641025036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "15/38 S I C BUILDING,I FLOOR ANNA SALAI CHENNAI TAMIL NADU INDIA 600002",
+        "ADDRESS": "15/38 S I C BUILDING,I FLOOR ANNA SALAI CHENNAI TAMILNADU INDIA 600002",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "STRESSED ASSET MANAGEMENT CHENNAI",
@@ -36445,7 +36445,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36463,12 +36463,12 @@
         "MICR": "641025039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO.55/12,WEST RAJA STREET WARD NO.7,NEW NO.14,CHENNIMALAI DIST ERODE CHENNIMALAI TAMIL NADU INDIA638051",
+        "ADDRESS": "NO.55/12,WEST RAJA STREET WARD NO.7,NEW NO.14,CHENNIMALAI DIST ERODE CHENNIMALAI TAMILNADU INDIA638051",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "CHENNIMALAI",
@@ -36481,12 +36481,12 @@
         "MICR": "641025038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR GOBICHETTIPALAYAM 187 GOBI COMPLEX CUTCHERRY MEDU GOBICHETTIPALAYAM 638452 DISTRICT ERODE STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR GOBICHETTIPALAYAM 187 GOBI COMPLEX CUTCHERRY MEDU GOBICHETTIPALAYAM 638452 DISTRICT ERODE STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "GOBICHETTIPALAYAM",
@@ -36499,12 +36499,12 @@
         "MICR": "638025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR KALINGARAYANPALAYAM 6 1244 BHAVANI MAIN ROAD KALINGARAYANPALAYAM BHAVANI 638301 STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR KALINGARAYANPALAYAM 6 1244 BHAVANI MAIN ROAD KALINGARAYANPALAYAM BHAVANI 638301 STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KALINGARAYANPALAYAM",
@@ -36517,7 +36517,7 @@
         "MICR": "638025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36535,7 +36535,7 @@
         "MICR": "638025402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36553,12 +36553,12 @@
         "MICR": "638025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "GURU MISTRY COMPLEX 2 BY 3 KAMARAJAR STREET WEST TEMBARAM CHENNAI TAMIL NADU INDIA 600045",
+        "ADDRESS": "GURU MISTRY COMPLEX 2 BY 3 KAMARAJAR STREET WEST TEMBARAM CHENNAI TAMILNADU INDIA 600045",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RMLC TAMBARAM",
@@ -36571,7 +36571,7 @@
         "MICR": "638025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36589,7 +36589,7 @@
         "MICR": "625025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36607,12 +36607,12 @@
         "MICR": "625025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR BODINAICKANOOR 64 UTHAMAPALAYAM ROAD TRR COMPLEX BODINAICKANOOR DIST THENI STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR BODINAICKANOOR 64 UTHAMAPALAYAM ROAD TRR COMPLEX BODINAICKANOOR DIST THENI STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BODINAICKANOOR",
@@ -36625,7 +36625,7 @@
         "MICR": "625025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36643,12 +36643,12 @@
         "MICR": "625025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "42 KIZHUR VILLAGE NELLIKUPPAM ( PO ) SAMBAKKAM ( VIZ ) KANCHEEPURAM DIST TAMIL NADU 603108",
+        "ADDRESS": "42 KIZHUR VILLAGE NELLIKUPPAM ( PO ) SAMBAKKAM ( VIZ ) KANCHEEPURAM DIST TAMILNADU 603108",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KIZHUR",
@@ -36661,12 +36661,12 @@
         "MICR": "638025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "11/1 GST ROAD PALAMUTHUR POST CHENGALPATTU DIST KANCHIPURAM KANCHIPURAM TAMIL NADU INDIA 603111",
+        "ADDRESS": "11/1 GST ROAD PALAMUTHUR POST CHENGALPATTU DIST KANCHIPURAM KANCHIPURAM TAMILNADU INDIA 603111",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PAZHAMUTHUR",
@@ -36679,12 +36679,12 @@
         "MICR": "600025083",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "2/5 THANTHAI PERIYAR SALAI KARUNILAM SP KOIL VIA KARUNILAM KARUNILAM TAMIL NADU 603204",
+        "ADDRESS": "2/5 THANTHAI PERIYAR SALAI KARUNILAM SP KOIL VIA KARUNILAM KARUNILAM TAMILNADU 603204",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KARUNILAM",
@@ -36697,12 +36697,12 @@
         "MICR": "600025072",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "3/120A MALAIPATTU SRIPERUMPUDUR TK KANCHEEPURAM DIST MALAIPATTU TAMIL NADU 601301",
+        "ADDRESS": "3/120A MALAIPATTU SRIPERUMPUDUR TK KANCHEEPURAM DIST MALAIPATTU TAMILNADU 601301",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MALAIPATTU",
@@ -36715,12 +36715,12 @@
         "MICR": "600025083",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "S NO 57 5 A SRI PERUMBUDUR CHENGALPET MAIN ROAD ORAGADAM KANCHEEPURAM TAMIL NADU 602105",
+        "ADDRESS": "S NO 57 5 A SRI PERUMBUDUR CHENGALPET MAIN ROAD ORAGADAM KANCHEEPURAM TAMILNADU 602105",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ORAGADAM CHENNAI",
@@ -36733,12 +36733,12 @@
         "MICR": "602025076",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "134 MANAL MEDU PUTHALI PO UTHIRAMERUR TK KANCHEEPURAM DIST PULIVOY TAMIL NADU 631603",
+        "ADDRESS": "134 MANAL MEDU PUTHALI PO UTHIRAMERUR TK KANCHEEPURAM DIST PULIVOY TAMILNADU 631603",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PULIVOY",
@@ -36751,7 +36751,7 @@
         "MICR": "600025075",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36769,12 +36769,12 @@
         "MICR": "600025073",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "5/46 GST ROAD SINGAPERUMALKOIL  CHENNAI TAMIL NADU 603204 INDIA",
+        "ADDRESS": "5/46 GST ROAD SINGAPERUMALKOIL  CHENNAI TAMILNADU 603204 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SINGAPERUMAL KOIL",
@@ -36787,12 +36787,12 @@
         "MICR": "600025067",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SHOP NO 13 TOWER 1 DUGAR MME GOLD CITY OMR, THIRUPORUR, CHENNAI TAMIL NADU 603110 INDIA",
+        "ADDRESS": "SHOP NO 13 TOWER 1 DUGAR MME GOLD CITY OMR, THIRUPORUR, CHENNAI TAMILNADU 603110 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THIRUPORUR",
@@ -36805,12 +36805,12 @@
         "MICR": "600025068",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "1/234 PALANDI AMMAN KOIL ST THAZHAMBUR ROAD NAVALUR KANCHIPURAM DIST TAMIL NADU 603103 INDIA",
+        "ADDRESS": "1/234 PALANDI AMMAN KOIL ST THAZHAMBUR ROAD NAVALUR KANCHIPURAM DIST TAMILNADU 603103 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THAZHAMBUR",
@@ -36823,12 +36823,12 @@
         "MICR": "600025066",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "2/308 TAMBARAM ROAD 104, NAVALAUR VILLAGE SRIPERUMBUDUR (TK), KANJEEPURAM DISTT TAMIL NADU 603202 INDIA",
+        "ADDRESS": "2/308 TAMBARAM ROAD 104, NAVALAUR VILLAGE SRIPERUMBUDUR (TK), KANJEEPURAM DISTT TAMILNADU 603202 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KAYARAMBEDU",
@@ -36841,7 +36841,7 @@
         "MICR": "600025065",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36859,12 +36859,12 @@
         "MICR": "600025055",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "WARD NO 2 BANGALORE MAIN ROAD SRIPERUMBUDUR 620105 KANCHIPURM DIST TAMIL NADU",
+        "ADDRESS": "WARD NO 2 BANGALORE MAIN ROAD SRIPERUMBUDUR 620105 KANCHIPURM DIST TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SRIPERUMBUDUR",
@@ -36877,12 +36877,12 @@
         "MICR": "600025054",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "III MAIN ROAD CHITTAPAKKAM KANCHEEPURAM TAMIL NADU 600 064",
+        "ADDRESS": "III MAIN ROAD CHITTAPAKKAM KANCHEEPURAM TAMILNADU 600 064",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "CHITLAPAKKAM CHENNAI",
@@ -36895,12 +36895,12 @@
         "MICR": "600025052",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 1267 A,THERPET BERIGAI DISTRICT KRISHNAGIRI KRISHNAGIRI TAMIL NADU INDIA 635105",
+        "ADDRESS": "NO 1267 A,THERPET BERIGAI DISTRICT KRISHNAGIRI KRISHNAGIRI TAMILNADU INDIA 635105",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BERIGAI",
@@ -36913,12 +36913,12 @@
         "MICR": "600025074",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 54/1 A,OPP TO NEW BUS STAND HOSUR MAIN ROAD,SHOOLAGIRI DIST KRISHNAGIRI KRISHNAGIRI TAMIL NADU INDIA 635117",
+        "ADDRESS": "NO 54/1 A,OPP TO NEW BUS STAND HOSUR MAIN ROAD,SHOOLAGIRI DIST KRISHNAGIRI KRISHNAGIRI TAMILNADU INDIA 635117",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SHOOLAGIRI",
@@ -36931,7 +36931,7 @@
         "MICR": "600025070",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36949,7 +36949,7 @@
         "MICR": "635025404",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -36967,12 +36967,12 @@
         "MICR": "635025405",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "12B,MEKALACHINNAMPALLY VILLAGE AND POST KRISHNAGIRI DIST AND TALUK TAMIL NADU 635120",
+        "ADDRESS": "12B,MEKALACHINNAMPALLY VILLAGE AND POST KRISHNAGIRI DIST AND TALUK TAMILNADU 635120",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MEKALACHINNAMPALLY",
@@ -36985,7 +36985,7 @@
         "MICR": "635025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37003,7 +37003,7 @@
         "MICR": "635025403",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37021,7 +37021,7 @@
         "MICR": "635025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37039,7 +37039,7 @@
         "MICR": "606025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37057,7 +37057,7 @@
         "MICR": "632025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37075,12 +37075,12 @@
         "MICR": "626025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 1(TN 768 ) NO 42 AYYARAPPAR STREET MAYILADUTHURAI NAGAPATTINAM DIST TAMIL NADU 609001",
+        "ADDRESS": "NO 1(TN 768 ) NO 42 AYYARAPPAR STREET MAYILADUTHURAI NAGAPATTINAM DIST TAMILNADU 609001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MAYILADUTHURAI",
@@ -37093,7 +37093,7 @@
         "MICR": "635025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37111,7 +37111,7 @@
         "MICR": "611025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37129,12 +37129,12 @@
         "MICR": "611025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,DOOR NO 12/1 NORTH CAR STREET,DHIVYA HOTEL UP STAIR,DIST TIRUNELVELI TAMIL NADU INDIA 627756",
+        "ADDRESS": "SYNDICATE BANK,DOOR NO 12/1 NORTH CAR STREET,DHIVYA HOTEL UP STAIR,DIST TIRUNELVELI TAMILNADU INDIA 627756",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SANKARANKOVIL",
@@ -37147,12 +37147,12 @@
         "MICR": "627025013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 19 80,SANTHAIPETTAI EAST VILL ANAIYAPPUR,TK MANAPARAI DIST TRICHYRAPPALI TAMIL NADU INDIA 621307",
+        "ADDRESS": "DOOR NO 19 80,SANTHAIPETTAI EAST VILL ANAIYAPPUR,TK MANAPARAI DIST TRICHYRAPPALI TAMILNADU INDIA 621307",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ANIYAPPUR",
@@ -37165,7 +37165,7 @@
         "MICR": "620025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37183,12 +37183,12 @@
         "MICR": "600025085",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PANCHAYAT BUILDING LAKSHMAPURAM,TIRUTTANI TALUK,DIST KANCHEEPURAM LAKSHMAPURAM TAMIL NADU INDIA631204",
+        "ADDRESS": "PANCHAYAT BUILDING LAKSHMAPURAM,TIRUTTANI TALUK,DIST KANCHEEPURAM LAKSHMAPURAM TAMILNADU INDIA631204",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "LAKSHMAPURAM",
@@ -37201,12 +37201,12 @@
         "MICR": "631025203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 8 157 MAIN ROAD POTTAL PUDHUR AMBASAMUDRAM TK THIRUNELVELI DIST TAMIL NADU INDIA 627423",
+        "ADDRESS": "DOOR NO 8 157 MAIN ROAD POTTAL PUDHUR AMBASAMUDRAM TK THIRUNELVELI DIST TAMILNADU INDIA 627423",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "POTTAL PUDHUR",
@@ -37219,7 +37219,7 @@
         "MICR": "627025011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37237,7 +37237,7 @@
         "MICR": "635025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37255,7 +37255,7 @@
         "MICR": "605025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37273,7 +37273,7 @@
         "MICR": "605025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37291,7 +37291,7 @@
         "MICR": "627025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37309,12 +37309,12 @@
         "MICR": "627025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 125,126 SOUTH BAZAR KOVILPATTI TUTICORIN DIST TAMIL NADU 628501",
+        "ADDRESS": "DOOR NO 125,126 SOUTH BAZAR KOVILPATTI TUTICORIN DIST TAMILNADU 628501",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KOVILPATTI",
@@ -37327,12 +37327,12 @@
         "MICR": "605025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 162 BY 2,NORTH MASI STREET TENKASI TIRUNELVELI DIST TAMIL NADU 627811",
+        "ADDRESS": "NO 162 BY 2,NORTH MASI STREET TENKASI TIRUNELVELI DIST TAMILNADU 627811",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "TENKASI",
@@ -37345,12 +37345,12 @@
         "MICR": "627025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR VALLIYUR 10/929 A B MAIN ROAD VALLIYUR 627117 TALUK RADHAPURAM DIST TIRUNELVELI TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR VALLIYUR 10/929 A B MAIN ROAD VALLIYUR 627117 TALUK RADHAPURAM DIST TIRUNELVELI TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VALLIYUR",
@@ -37363,7 +37363,7 @@
         "MICR": "627025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37381,12 +37381,12 @@
         "MICR": "627025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "184/21, WEST CAR ST, NIZAM COMPLEX, TIRUNELVELI TOWN, TAMIL NADU 627006",
+        "ADDRESS": "184/21, WEST CAR ST, NIZAM COMPLEX, TIRUNELVELI TOWN, TAMILNADU 627006",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "TIRUNELVELI",
@@ -37399,7 +37399,7 @@
         "MICR": "627025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37417,7 +37417,7 @@
         "MICR": "628025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37435,12 +37435,12 @@
         "MICR": "600025080",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR  76 THANEERKULAM (FI BRANCH) C.T.H. RAOD, DIST.THIRUVALLUR 602003 TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR  76 THANEERKULAM (FI BRANCH) C.T.H. RAOD, DIST.THIRUVALLUR 602003 TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THANEERKULAM",
@@ -37453,7 +37453,7 @@
         "MICR": "600025994",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37471,7 +37471,7 @@
         "MICR": "602025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37489,12 +37489,12 @@
         "MICR": "600025057",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "POONAMALLEE 387 TRUNK ROAD KARAJANCHVAD PANAMALLEE DT TIRUVALLUR TAMIL NADU 600056",
+        "ADDRESS": "POONAMALLEE 387 TRUNK ROAD KARAJANCHVAD PANAMALLEE DT TIRUVALLUR TAMILNADU 600056",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "POONAMALLEE",
@@ -37507,7 +37507,7 @@
         "MICR": "600025051",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37525,7 +37525,7 @@
         "MICR": "610025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37543,12 +37543,12 @@
         "MICR": "613025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK DOOR NO 43 PAZHAKADAI LINE OPP BUS STAND DIST SIVAGANGA TAMIL NADU 650561",
+        "ADDRESS": "SYNDICATE BANK DOOR NO 43 PAZHAKADAI LINE OPP BUS STAND DIST SIVAGANGA TAMILNADU 650561",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SIVAGANGA",
@@ -37561,7 +37561,7 @@
         "MICR": "627025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37579,7 +37579,7 @@
         "MICR": "627025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37597,12 +37597,12 @@
         "MICR": "630025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 21,V K TOWER KADAMBAR KOIL BAZAR KULITHALAI KARUR DIST TAMIL NADU 639104",
+        "ADDRESS": "DOOR NO 21,V K TOWER KADAMBAR KOIL BAZAR KULITHALAI KARUR DIST TAMILNADU 639104",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KULITHALAI",
@@ -37615,12 +37615,12 @@
         "MICR": "614025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SRI BALAJI TOWERS 24 AND 25 RAJARAM SALI KK NAGAR TIRUCHIRAPALLI TAMIL NADU 620061 INDIA",
+        "ADDRESS": "SRI BALAJI TOWERS 24 AND 25 RAJARAM SALI KK NAGAR TIRUCHIRAPALLI TAMILNADU 620061 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "TIRUCHIRAPALLI KK NAGAR",
@@ -37633,7 +37633,7 @@
         "MICR": "620025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37651,7 +37651,7 @@
         "MICR": "620025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37669,7 +37669,7 @@
         "MICR": "620025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37687,7 +37687,7 @@
         "MICR": "620025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37705,7 +37705,7 @@
         "MICR": "621025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37723,7 +37723,7 @@
         "MICR": "620025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37741,7 +37741,7 @@
         "MICR": "620025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37759,7 +37759,7 @@
         "MICR": "639025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37777,7 +37777,7 @@
         "MICR": "620025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37795,7 +37795,7 @@
         "MICR": "612025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37813,7 +37813,7 @@
         "MICR": "614025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37831,7 +37831,7 @@
         "MICR": "612025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37849,12 +37849,12 @@
         "MICR": "613025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "TMR COMPLEX NEAR BUS STOP THIMMANAICKENPATTY MANGALAPURAM VIA RASIPURAM T K NAMAKKAL TAMIL NADU INDIA 636202",
+        "ADDRESS": "TMR COMPLEX NEAR BUS STOP THIMMANAICKENPATTY MANGALAPURAM VIA RASIPURAM T K NAMAKKAL TAMILNADU INDIA 636202",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THIMMANAICKENPATTY",
@@ -37867,12 +37867,12 @@
         "MICR": "620025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 462 CHINNAMAPETTAI ALLIKUTTAI POST SALEM TAMIL NADU INDIA 636003",
+        "ADDRESS": "NO 462 CHINNAMAPETTAI ALLIKUTTAI POST SALEM TAMILNADU INDIA 636003",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AMMAPET",
@@ -37885,7 +37885,7 @@
         "MICR": "639025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37903,7 +37903,7 @@
         "MICR": "605025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37921,7 +37921,7 @@
         "MICR": "607025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37939,7 +37939,7 @@
         "MICR": "608025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37957,7 +37957,7 @@
         "MICR": "607025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -37975,12 +37975,12 @@
         "MICR": "607025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 2 BY 207,NEAR GOVT HR SEC SCHOOL POST KAMALAPURAM OMALUR SALEM TAMIL NADU INDIA 636309",
+        "ADDRESS": "NO 2 BY 207,NEAR GOVT HR SEC SCHOOL POST KAMALAPURAM OMALUR SALEM TAMILNADU INDIA 636309",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KAMALAPURAM",
@@ -37993,12 +37993,12 @@
         "MICR": "636025023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 5 BY 15 NEAR BHARAT PETROL BUNK UDAYARPALAYAM DISTRICT ARIYALUR TAMIL NADU INDIA 612903",
+        "ADDRESS": "NO 5 BY 15 NEAR BHARAT PETROL BUNK UDAYARPALAYAM DISTRICT ARIYALUR TAMILNADU INDIA 612903",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PAPPAKUDI",
@@ -38011,7 +38011,7 @@
         "MICR": "612025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38029,12 +38029,12 @@
         "MICR": "636025022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "185 BY1,TRICHY MAIN ROAD MALLUR SALEM TAMIL NADU 636203",
+        "ADDRESS": "185 BY1,TRICHY MAIN ROAD MALLUR SALEM TAMILNADU 636203",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MALLUR SALEM",
@@ -38047,12 +38047,12 @@
         "MICR": "612025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 4/100-101 N PUDUPATTI VILL AND POST NAMAKKAL DIST TAMIL NADU 637020",
+        "ADDRESS": "DOOR NO 4/100-101 N PUDUPATTI VILL AND POST NAMAKKAL DIST TAMILNADU 637020",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "N PUDUPATTI",
@@ -38065,12 +38065,12 @@
         "MICR": "637025018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 3/103 ROSE BUILDING ATTUR MAIN RD KAKAVERI RASIPURAM TQ NAMAKKAL DIST TAMIL NADU 637408",
+        "ADDRESS": "NO 3/103 ROSE BUILDING ATTUR MAIN RD KAKAVERI RASIPURAM TQ NAMAKKAL DIST TAMILNADU 637408",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KAKAVERI",
@@ -38083,7 +38083,7 @@
         "MICR": "637025017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38101,7 +38101,7 @@
         "MICR": "636025020",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38119,7 +38119,7 @@
         "MICR": "638025007",
         "NEFT": true,
         "RTGS": false,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38137,12 +38137,12 @@
         "MICR": "636025021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "41 ADVAIDHA ASHRA ROAD FAIRLANDS,  SALEM TAMIL NADU 636016 INDIA",
+        "ADDRESS": "41 ADVAIDHA ASHRA ROAD FAIRLANDS,  SALEM TAMILNADU 636016 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "FAIRLAND, SALEM",
@@ -38155,7 +38155,7 @@
         "MICR": "636025016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38173,12 +38173,12 @@
         "MICR": "636025012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR GANGAVALLI 16A, WARD NO 13, ATTUR MAIN ROAD, GANGAVALLI 636105 DIST SALEM TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR GANGAVALLI 16A, WARD NO 13, ATTUR MAIN ROAD, GANGAVALLI 636105 DIST SALEM TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "GANGAVALLI",
@@ -38191,7 +38191,7 @@
         "MICR": "636025013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38209,7 +38209,7 @@
         "MICR": "637025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38227,7 +38227,7 @@
         "MICR": "636025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38245,7 +38245,7 @@
         "MICR": "636025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38263,7 +38263,7 @@
         "MICR": "636025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38281,7 +38281,7 @@
         "MICR": "636025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38299,7 +38299,7 @@
         "MICR": "636025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38317,12 +38317,12 @@
         "MICR": "636025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "TIRUCHENGODE JEDDARPAL MN RD, MARADAMPALAYAM TAMIL NADU 637210",
+        "ADDRESS": "TIRUCHENGODE JEDDARPAL MN RD, MARADAMPALAYAM TAMILNADU 637210",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ELAMPALLI",
@@ -38335,7 +38335,7 @@
         "MICR": "637025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38353,7 +38353,7 @@
         "MICR": "636025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38371,7 +38371,7 @@
         "MICR": "636025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38389,7 +38389,7 @@
         "MICR": "636025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38407,12 +38407,12 @@
         "MICR": "636025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MUDUKULATHUR RAMANATHAPURAM 623704 MUDUKULATHUR TAMIL NADU INDIA 623704",
+        "ADDRESS": "MUDUKULATHUR RAMANATHAPURAM 623704 MUDUKULATHUR TAMILNADU INDIA 623704",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MUDUKULATHUR",
@@ -38425,12 +38425,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 10 2 27 SAKKOTTAI MAIN ROAD KARAIKUDI TALUK KARAIKUDI DISTRICT PUDUVAYAL TAMIL NADU INDIA-630108",
+        "ADDRESS": "DOOR NO 10 2 27 SAKKOTTAI MAIN ROAD KARAIKUDI TALUK KARAIKUDI DISTRICT PUDUVAYAL TAMILNADU INDIA-630108",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PUDUVAYAL",
@@ -38443,7 +38443,7 @@
         "MICR": "636025019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38461,12 +38461,12 @@
         "MICR": "626025502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK DOOR NO 187 D MADURAI MAIN ROAD MENAMBIKAI TRANSPORT BUILDING VIRUDHUNAGAR TAMIL NADU INDIA 626101",
+        "ADDRESS": "SYNDICATE BANK DOOR NO 187 D MADURAI MAIN ROAD MENAMBIKAI TRANSPORT BUILDING VIRUDHUNAGAR TAMILNADU INDIA 626101",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ARUPPUKOTTAI",
@@ -38479,12 +38479,12 @@
         "MICR": "626025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR VIRUDHUNAGAR 103/1 MADURAI ROAD VIRUDHUNAGAR 626001 DIST VIRUDHUNAGAR STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR VIRUDHUNAGAR 103/1 MADURAI ROAD VIRUDHUNAGAR 626001 DIST VIRUDHUNAGAR STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "VIRUDHUNAGAR",
@@ -38497,7 +38497,7 @@
         "MICR": "626025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38515,7 +38515,7 @@
         "MICR": "623025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38533,12 +38533,12 @@
         "MICR": "625025013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK TAMARAKKI 630 562 SIVAGANGAI DT TAMIL NADU 04575 253330",
+        "ADDRESS": "SYNDICATE BANK TAMARAKKI 630 562 SIVAGANGAI DT TAMILNADU 04575 253330",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "TAMARAKKI",
@@ -38551,12 +38551,12 @@
         "MICR": "630025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "185, SEKKALAI RD, KARAIKUDI, TAMIL NADU 630001",
+        "ADDRESS": "185, SEKKALAI RD, KARAIKUDI, TAMILNADU 630001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KARAIKUDI",
@@ -38569,12 +38569,12 @@
         "MICR": "630025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "656 TENKASI RD, RAJAPALAYAM, TAMIL NADU 626117",
+        "ADDRESS": "656 TENKASI RD, RAJAPALAYAM, TAMILNADU 626117",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RAJAPALAYAM",
@@ -38587,7 +38587,7 @@
         "MICR": "626025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38605,7 +38605,7 @@
         "MICR": "630025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38623,12 +38623,12 @@
         "MICR": "621025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SURVEY NO 20 POTHATURPET  MAIN ROAD TEKKALUR VILLAGE, SURIYANAGARAm POST,TIRUTTANI TALUK TIRUVALLUR DIST TAMIL NADU 631209 INDIA",
+        "ADDRESS": "SURVEY NO 20 POTHATURPET  MAIN ROAD TEKKALUR VILLAGE, SURIYANAGARAm POST,TIRUTTANI TALUK TIRUVALLUR DIST TAMILNADU 631209 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SURIYANAGARAM",
@@ -38641,12 +38641,12 @@
         "MICR": "631025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR THANJUR NO 348 NORTH STREET THANJUR 622201 THANJUR P.O. {VIA} ARIMALAM DISTRICT PUDUKOTTAI STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR THANJUR NO 348 NORTH STREET THANJUR 622201 THANJUR P.O. {VIA} ARIMALAM DISTRICT PUDUKOTTAI STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THANJUR",
@@ -38659,7 +38659,7 @@
         "MICR": "622025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38677,12 +38677,12 @@
         "MICR": "630025203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 120 MAIN ROAD KANNADYKUPPAM VILLAGE AMBUR TALUK VELLORE DIST TAMIL NADU 635807 INDIA",
+        "ADDRESS": "DOOR NO 120 MAIN ROAD KANNADYKUPPAM VILLAGE AMBUR TALUK VELLORE DIST TAMILNADU 635807 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KANNADIKUPPAM",
@@ -38695,7 +38695,7 @@
         "MICR": "635025306",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38713,7 +38713,7 @@
         "MICR": "621025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38731,7 +38731,7 @@
         "MICR": "622025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38749,7 +38749,7 @@
         "MICR": "632025203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38767,7 +38767,7 @@
         "MICR": "632025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38785,7 +38785,7 @@
         "MICR": "632025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38803,7 +38803,7 @@
         "MICR": "632025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38821,7 +38821,7 @@
         "MICR": "635025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38839,7 +38839,7 @@
         "MICR": "635025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38857,7 +38857,7 @@
         "MICR": "631025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38875,7 +38875,7 @@
         "MICR": "635025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38893,12 +38893,12 @@
         "MICR": "632025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "CENTRE OF EXCELLENCE BUILDING SIDCO WOMEN INDUSTRIAL PARK KAPPALUR,MADURAI 625008 THOPPUR TAMIL NADU",
+        "ADDRESS": "CENTRE OF EXCELLENCE BUILDING SIDCO WOMEN INDUSTRIAL PARK KAPPALUR,MADURAI 625008 THOPPUR TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THOPPUR",
@@ -38911,12 +38911,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 1 A,HARI NIVAS COMPLEX,PILLAYAR KOVIL STREET,SASI NAGAR,ANAIYUR POST,MADURAI,625017,TAMIL NADU",
+        "ADDRESS": "NO 1 A,HARI NIVAS COMPLEX,PILLAYAR KOVIL STREET,SASI NAGAR,ANAIYUR POST,MADURAI,625017,TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ANAIYUR",
@@ -38929,7 +38929,7 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38947,7 +38947,7 @@
         "MICR": "643025203",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38965,7 +38965,7 @@
         "MICR": "643025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -38983,7 +38983,7 @@
         "MICR": "643025502",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39001,7 +39001,7 @@
         "MICR": "643025403",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39019,12 +39019,12 @@
         "MICR": "643025402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "FIGURE OF 8 ROAD BEDFORD UPPER COONOOR , NILGIRIS DIST TAMIL NADU",
+        "ADDRESS": "FIGURE OF 8 ROAD BEDFORD UPPER COONOOR , NILGIRIS DIST TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "COONOOR",
@@ -39037,7 +39037,7 @@
         "MICR": "643025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39055,12 +39055,12 @@
         "MICR": "643025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SEEMA BUILDINGS 17/158 A HOPE PARK ROAD KOTAGIRI NILGIRIS TAMIL NADU",
+        "ADDRESS": "SEEMA BUILDINGS 17/158 A HOPE PARK ROAD KOTAGIRI NILGIRIS TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KOTAGIRI",
@@ -39073,7 +39073,7 @@
         "MICR": "643025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39091,12 +39091,12 @@
         "MICR": "643025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR,NO 49A,OLD TRUNK ROAD,SATTUR,VIRUDHUNAGAR DISTRICT,626203,TAMIL NADU",
+        "ADDRESS": "FIRST FLOOR,NO 49A,OLD TRUNK ROAD,SATTUR,VIRUDHUNAGAR DISTRICT,626203,TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SATTUR",
@@ -39109,12 +39109,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR,NO 4/52,NARASINGHAM ROAD,MADURAI,625107,TAMIL NADU",
+        "ADDRESS": "FIRST FLOOR,NO 4/52,NARASINGHAM ROAD,MADURAI,625107,TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "OTHAKADAI MADURAI",
@@ -39127,12 +39127,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "FIRST FLOOR,NO 650,80FT BY PASS MAIN,ANNA SALAI,K K NAGAR MAIN ROAD,MADURAI,625020,TAMIL NADU",
+        "ADDRESS": "FIRST FLOOR,NO 650,80FT BY PASS MAIN,ANNA SALAI,K K NAGAR MAIN ROAD,MADURAI,625020,TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "K K NAGAR MADURAI",
@@ -39145,12 +39145,12 @@
         "MICR": "NA",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,D NO 1B IST FLOOR THENDRAL NAGAR,THENI MAIN ROAD NAGAMALAI PUDUKOTTAI MADURAI TAMIL NADU INDIA 625019",
+        "ADDRESS": "SYNDICATE BANK,D NO 1B IST FLOOR THENDRAL NAGAR,THENI MAIN ROAD NAGAMALAI PUDUKOTTAI MADURAI TAMILNADU INDIA 625019",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NAGAMALAI PUDUKOTTAI",
@@ -39163,12 +39163,12 @@
         "MICR": "625025025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,DOOR NO 9/5 ABDUL KHAFAR KHAN ROAD CHINNA CHOKKIKULAM,DIST MADUARI TAMIL NADU INDIA 625002",
+        "ADDRESS": "SYNDICATE BANK,DOOR NO 9/5 ABDUL KHAFAR KHAN ROAD CHINNA CHOKKIKULAM,DIST MADUARI TAMILNADU INDIA 625002",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "TALLAKULAM MADURAI",
@@ -39181,12 +39181,12 @@
         "MICR": "621025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,WARD NO 8 DOOR NO 69 AND 70,AMMAN SANNATHI STREET,DIST MADURAI MADURAI TAMIL NADU INDIA 625001",
+        "ADDRESS": "SYNDICATE BANK,WARD NO 8 DOOR NO 69 AND 70,AMMAN SANNATHI STREET,DIST MADURAI MADURAI TAMILNADU INDIA 625001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AMMAN SANNATHI",
@@ -39199,12 +39199,12 @@
         "MICR": "632025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "WARD NO33 DOOR NO 199,DHARSHINI TOWER 80 FT ROAD,ANNA NAGAR,MADURAI DISTT MADURAI TAMIL NADU INDIA 625020",
+        "ADDRESS": "WARD NO33 DOOR NO 199,DHARSHINI TOWER 80 FT ROAD,ANNA NAGAR,MADURAI DISTT MADURAI TAMILNADU INDIA 625020",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ANNA NAGAR MADURAI",
@@ -39217,12 +39217,12 @@
         "MICR": "625025022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 1131/3 MAIN ROAD,MPM-NIVAS PERIYAMMAPATTI,PERUMAL PUDUR-POST,PALANI DISTRICT,DINDIGUL TAMIL NADU INDIA 624615",
+        "ADDRESS": "DOOR NO 1131/3 MAIN ROAD,MPM-NIVAS PERIYAMMAPATTI,PERUMAL PUDUR-POST,PALANI DISTRICT,DINDIGUL TAMILNADU INDIA 624615",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PERIYAMMAPATTI",
@@ -39235,12 +39235,12 @@
         "MICR": "625025021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 18-G THARAPURAM ROAD NEAR SRISANTH PETROL BUNCK THANGACHIAMMAPATTI DNDIGUL DIST ODDANCHATRAM TAMIL NADU INDIA 624612",
+        "ADDRESS": "DOOR NO 18-G THARAPURAM ROAD NEAR SRISANTH PETROL BUNCK THANGACHIAMMAPATTI DNDIGUL DIST ODDANCHATRAM TAMILNADU INDIA 624612",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THANGACHIAMMAPATTI",
@@ -39253,12 +39253,12 @@
         "MICR": "625025020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 584/4 GST TPK RD OPP DRIVE AAARTHY  HOTEL THIRUPARANKUNDRAM MADURAI DIST TAMIL NADU 625005",
+        "ADDRESS": "NO 584/4 GST TPK RD OPP DRIVE AAARTHY  HOTEL THIRUPARANKUNDRAM MADURAI DIST TAMILNADU 625005",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THIRUPARANKUNDRAM",
@@ -39271,12 +39271,12 @@
         "MICR": "625025018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 7 OLD NATHAM ROAD VALLUVAR COLONY MADURAI DIST BIBIKULAM TAMIL NADU 625014",
+        "ADDRESS": "NO 7 OLD NATHAM ROAD VALLUVAR COLONY MADURAI DIST BIBIKULAM TAMILNADU 625014",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BIBIKULAM",
@@ -39289,12 +39289,12 @@
         "MICR": "625025017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK,DOOR NO 159 TO 162 KAMARAJAR SALAI,NEAR THEPPAKULAM DISTRICT MADURAI MADURAI TAMIL NADU 625009",
+        "ADDRESS": "SYNDICATE BANK,DOOR NO 159 TO 162 KAMARAJAR SALAI,NEAR THEPPAKULAM DISTRICT MADURAI MADURAI TAMILNADU 625009",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KAMARAJAR SALAI-MADURAI",
@@ -39307,12 +39307,12 @@
         "MICR": "625025019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "RO, MADURAI,SYNDICATE BANK,BY PASS ROAD,PONMENI,MADURAI,TAMIL NADU,625010",
+        "ADDRESS": "RO, MADURAI,SYNDICATE BANK,BY PASS ROAD,PONMENI,MADURAI,TAMILNADU,625010",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RO, MADURAI",
@@ -39325,12 +39325,12 @@
         "MICR": "625025024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR NAIDUPURAM KODAIKANAL 16/117A NAIDUPURAM KODAIKANAL 624101 DISTRICT DINDIGUL STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR NAIDUPURAM KODAIKANAL 16/117A NAIDUPURAM KODAIKANAL 624101 DISTRICT DINDIGUL STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NAIDIPURAM KODAIKANAL",
@@ -39343,7 +39343,7 @@
         "MICR": "625025016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39361,7 +39361,7 @@
         "MICR": "625025014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39379,7 +39379,7 @@
         "MICR": "625025012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39397,12 +39397,12 @@
         "MICR": "625025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SWAMI VIVEKANAND NAGAR MOONDRUMAVADI  625 007 DIST MADURAI TAMIL NADU",
+        "ADDRESS": "SWAMI VIVEKANAND NAGAR MOONDRUMAVADI  625 007 DIST MADURAI TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MOONDRU MAVADI",
@@ -39415,7 +39415,7 @@
         "MICR": "625025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39433,7 +39433,7 @@
         "MICR": "625025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39451,7 +39451,7 @@
         "MICR": "625025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39469,12 +39469,12 @@
         "MICR": "625025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "ARUL ILLAM TRICHY ROAD THAMARAIPADI DINDIGUL TAMIL NADU  624 005",
+        "ADDRESS": "ARUL ILLAM TRICHY ROAD THAMARAIPADI DINDIGUL TAMILNADU  624 005",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THAMARAIPADI",
@@ -39487,7 +39487,7 @@
         "MICR": "625025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39505,7 +39505,7 @@
         "MICR": "625025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39523,7 +39523,7 @@
         "MICR": "625025011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39541,7 +39541,7 @@
         "MICR": "625025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39559,7 +39559,7 @@
         "MICR": "625025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39577,7 +39577,7 @@
         "MICR": "629025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39595,12 +39595,12 @@
         "MICR": "629025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR THIRUVATTAR 16-3 CHANDRA BUILDING NEAR BUS STAND POST OFFICE JUNCTION THIRUVATTAR 629177 DIST KANYAKUMARI STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR THIRUVATTAR 16-3 CHANDRA BUILDING NEAR BUS STAND POST OFFICE JUNCTION THIRUVATTAR 629177 DIST KANYAKUMARI STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THIRUVATTAR",
@@ -39613,7 +39613,7 @@
         "MICR": "629025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39631,12 +39631,12 @@
         "MICR": "629025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR PARVATHIPURAM 6/167A, TVM ROAD, PARVATHIPURAM, NAGERCOIL 629003 TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR PARVATHIPURAM 6/167A, TVM ROAD, PARVATHIPURAM, NAGERCOIL 629003 TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PARVATHIPURAM",
@@ -39649,7 +39649,7 @@
         "MICR": "629025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39667,12 +39667,12 @@
         "MICR": "629025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MAY MALIGAI, 207B, COLLEGE RD, NAGARKOIL,TAMIL NADU 629001",
+        "ADDRESS": "MAY MALIGAI, 207B, COLLEGE RD, NAGARKOIL,TAMILNADU 629001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NAGARKOIL",
@@ -39685,12 +39685,12 @@
         "MICR": "629025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO VIII-9-103D MAIN ROAD KARINKAL VILAVANCODE ALUKA DIST KANYAKUMARI TAMIL NADU 629 157",
+        "ADDRESS": "NO VIII-9-103D MAIN ROAD KARINKAL VILAVANCODE ALUKA DIST KANYAKUMARI TAMILNADU 629 157",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KARINKAL",
@@ -39703,7 +39703,7 @@
         "MICR": "629025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39721,12 +39721,12 @@
         "MICR": "629025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 1/630-A, SALEM MAIN ROAD PO: KAVERIPATTINAM DIST KRISHNAGIRI KRISHNAGIRI TAMIL NADU 625010 INDIA",
+        "ADDRESS": "DOOR NO 1/630-A, SALEM MAIN ROAD PO: KAVERIPATTINAM DIST KRISHNAGIRI KRISHNAGIRI TAMILNADU 625010 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KAVERPATTINAM",
@@ -39739,12 +39739,12 @@
         "MICR": "635025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR VARUVAN VADIVELAN COLGE GUNDALAPATTI HALE DHARMAPURI PO NALLANAHALLI TAMIL NADU 636703 INDIA",
+        "ADDRESS": "NEAR VARUVAN VADIVELAN COLGE GUNDALAPATTI HALE DHARMAPURI PO NALLANAHALLI TAMILNADU 636703 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NALLANAHALLI",
@@ -39757,7 +39757,7 @@
         "MICR": "636025998",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39775,7 +39775,7 @@
         "MICR": "635025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39793,12 +39793,12 @@
         "MICR": "636025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "PERIAMUTHUR DAM ROAD KRISHNAGIRI PROJECT PERIAMUTHUR DIST DHARMAPURI TAMIL NADU 635 101",
+        "ADDRESS": "PERIAMUTHUR DAM ROAD KRISHNAGIRI PROJECT PERIAMUTHUR DIST DHARMAPURI TAMILNADU 635 101",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PERIAMUTHUR",
@@ -39811,7 +39811,7 @@
         "MICR": "635025303",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39829,7 +39829,7 @@
         "MICR": "635025304",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39847,7 +39847,7 @@
         "MICR": "636025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39865,7 +39865,7 @@
         "MICR": "635025305",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39883,7 +39883,7 @@
         "MICR": "636025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39901,12 +39901,12 @@
         "MICR": "635025402",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NEHRU INSTITUTE OF MANAGEMENT NEHRU GARDEN, THIRUMALAYAMPALAYAM DIST COIMBATORE COIMBATORE TAMIL NADU 641105 INDIA",
+        "ADDRESS": "NEHRU INSTITUTE OF MANAGEMENT NEHRU GARDEN, THIRUMALAYAMPALAYAM DIST COIMBATORE COIMBATORE TAMILNADU 641105 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THIRUMALAYAMPALAYAM",
@@ -39919,12 +39919,12 @@
         "MICR": "641025035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "23/2, MADATHUKULAM TO KARATHOLUVU  ROAD, C N AND SONS COMPLEX  JOTHAMPATTI, PO KANIYUR MADATHUKULAM TQ, DIST TIRUPUR TAMIL NADU 642203 INDIA",
+        "ADDRESS": "23/2, MADATHUKULAM TO KARATHOLUVU  ROAD, C N AND SONS COMPLEX  JOTHAMPATTI, PO KANIYUR MADATHUKULAM TQ, DIST TIRUPUR TAMILNADU 642203 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "JOTHAMPATTI",
@@ -39937,7 +39937,7 @@
         "MICR": "641025107",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -39955,12 +39955,12 @@
         "MICR": "641025034",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "101,102 SUBRAMANIYAM ROAD GANDHIPARK, R S PURAM  COIMBATORE TAMIL NADU 641001 INDIA",
+        "ADDRESS": "101,102 SUBRAMANIYAM ROAD GANDHIPARK, R S PURAM  COIMBATORE TAMILNADU 641001 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "GANDHIPARK COIMBATORE",
@@ -39973,12 +39973,12 @@
         "MICR": "636025033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "385/2 KAMARAJAR ROAD PEELAMEDU  COIMBATORE DIST TAMIL NADU 641004 INDIA",
+        "ADDRESS": "385/2 KAMARAJAR ROAD PEELAMEDU  COIMBATORE DIST TAMILNADU 641004 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PEELAMEDU, COIMBATORE",
@@ -39991,12 +39991,12 @@
         "MICR": "641025032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "286/A, VAM COMLEX, IST FLOOR KINATHUKADAVU  DIST COIMBATORE TAMIL NADU 642109 INDIA",
+        "ADDRESS": "286/A, VAM COMLEX, IST FLOOR KINATHUKADAVU  DIST COIMBATORE TAMILNADU 642109 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KINATHUKADAVU",
@@ -40009,12 +40009,12 @@
         "MICR": "641025031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 83, SEETHUMADAI ROAD ANAIMALAI POLLACHI TQ COIMBATORE DIST TAMIL NADU 642104 INDIA",
+        "ADDRESS": "DOOR NO 83, SEETHUMADAI ROAD ANAIMALAI POLLACHI TQ COIMBATORE DIST TAMILNADU 642104 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ANAIMALAI",
@@ -40027,12 +40027,12 @@
         "MICR": "641025030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK PALLAPALAYAM BRANCH 239A AND 239B SHANKAR COMPLEX PALLAPALAYAM PIN CODE 642112 DISTRICT TIRUPUR STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK PALLAPALAYAM BRANCH 239A AND 239B SHANKAR COMPLEX PALLAPALAYAM PIN CODE 642112 DISTRICT TIRUPUR STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PALLAPALAYAM",
@@ -40045,12 +40045,12 @@
         "MICR": "641025106",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "411, LGB NAGAR BUS STOP SATHY RAOD, SHIVANANDAPURAM SARVANAMPATTI COIMBATORE TAMIL NADU 641035 INDIA",
+        "ADDRESS": "411, LGB NAGAR BUS STOP SATHY RAOD, SHIVANANDAPURAM SARVANAMPATTI COIMBATORE TAMILNADU 641035 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SARVANAMPATTI",
@@ -40063,12 +40063,12 @@
         "MICR": "641025029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR THONDAMUTHUR THENDRAL COMPLEX NARASIPURAM ROAD THONDAMUTHUR 641109 DIST COIMBATORE STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR THONDAMUTHUR THENDRAL COMPLEX NARASIPURAM ROAD THONDAMUTHUR 641109 DIST COIMBATORE STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THONDAMUTHUR",
@@ -40081,12 +40081,12 @@
         "MICR": "641025028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR AVINASHI 15/408 MAIN ROAD RASU COMPLEX SRINIVASAPURAM AVINASHI 641654 DIST TIRUPUR STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR AVINASHI 15/408 MAIN ROAD RASU COMPLEX SRINIVASAPURAM AVINASHI 641654 DIST TIRUPUR STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AVINASHI",
@@ -40099,7 +40099,7 @@
         "MICR": "641025105",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40117,7 +40117,7 @@
         "MICR": "641025104",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40135,7 +40135,7 @@
         "MICR": "641025103",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40153,7 +40153,7 @@
         "MICR": "638025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40171,7 +40171,7 @@
         "MICR": "641025027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40189,7 +40189,7 @@
         "MICR": "641025022",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40207,7 +40207,7 @@
         "MICR": "641025023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40225,7 +40225,7 @@
         "MICR": "628025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40243,7 +40243,7 @@
         "MICR": "642025303",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40261,7 +40261,7 @@
         "MICR": "642025304",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40279,7 +40279,7 @@
         "MICR": "641025021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -40297,7 +40297,7 @@
         "MICR": "641025018",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40315,7 +40315,7 @@
         "MICR": "641025016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40333,7 +40333,7 @@
         "MICR": "641025014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40351,7 +40351,7 @@
         "MICR": "641025015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40369,7 +40369,7 @@
         "MICR": "641025013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40387,7 +40387,7 @@
         "MICR": "641025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40405,12 +40405,12 @@
         "MICR": "641025012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NACHIMUTHU POLYTECHNIC CAMPUS UDUMALAI ROAD HAKKINAMPATTI POLLACHI COIMBATORE TAMIL NADU",
+        "ADDRESS": "NACHIMUTHU POLYTECHNIC CAMPUS UDUMALAI ROAD HAKKINAMPATTI POLLACHI COIMBATORE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NPT POLLACHI",
@@ -40423,7 +40423,7 @@
         "MICR": "641025020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40441,7 +40441,7 @@
         "MICR": "641025011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40459,7 +40459,7 @@
         "MICR": "641025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40477,7 +40477,7 @@
         "MICR": "641025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40495,12 +40495,12 @@
         "MICR": "642025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "G G COMPLEX , 81A VIVEKANANDA RD, RAM NAGAR COIMBATORE, TAMIL NADU  641009",
+        "ADDRESS": "G G COMPLEX , 81A VIVEKANANDA RD, RAM NAGAR COIMBATORE, TAMILNADU  641009",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RAMNAGAR COIMBATORE",
@@ -40513,12 +40513,12 @@
         "MICR": "641025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "6/24 ANAIKADAVU RAMACHANDRAPURAM VIA NEGAMUM COIMBATORE TAMIL NADU 642 120",
+        "ADDRESS": "6/24 ANAIKADAVU RAMACHANDRAPURAM VIA NEGAMUM COIMBATORE TAMILNADU 642 120",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ANNAIKADAVU",
@@ -40531,12 +40531,12 @@
         "MICR": "642025302",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "105/106 PONNURANGAM ROAD WEST R S PURAM COIMBATORE TAMIL NADU 641012 INDIA",
+        "ADDRESS": "105/106 PONNURANGAM ROAD WEST R S PURAM COIMBATORE TAMILNADU 641012 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RO, COIMBATORE",
@@ -40549,7 +40549,7 @@
         "MICR": "641025999",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40567,7 +40567,7 @@
         "MICR": "641025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40585,7 +40585,7 @@
         "MICR": "641025033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40603,7 +40603,7 @@
         "MICR": "642025202",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40621,7 +40621,7 @@
         "MICR": "641025017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40639,7 +40639,7 @@
         "MICR": "641025019",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40657,7 +40657,7 @@
         "MICR": "642025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40675,7 +40675,7 @@
         "MICR": "638025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40693,7 +40693,7 @@
         "MICR": "641025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40711,7 +40711,7 @@
         "MICR": "641025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40729,12 +40729,12 @@
         "MICR": "641025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "KUMARAN MILLS OFFICE BLDG NO 774 AVINASHI ROAD COIMBATORE TAMIL NADU 641 018",
+        "ADDRESS": "KUMARAN MILLS OFFICE BLDG NO 774 AVINASHI ROAD COIMBATORE TAMILNADU 641 018",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AVINASHI ROAD COIMBATORE",
@@ -40747,7 +40747,7 @@
         "MICR": "641025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40765,7 +40765,7 @@
         "MICR": "641025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40783,7 +40783,7 @@
         "MICR": "600025053",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40801,7 +40801,7 @@
         "MICR": "600025047",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40819,7 +40819,7 @@
         "MICR": "600025040",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40837,7 +40837,7 @@
         "MICR": "600025041",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40855,7 +40855,7 @@
         "MICR": "600025046",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40873,7 +40873,7 @@
         "MICR": "600025042",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40891,7 +40891,7 @@
         "MICR": "600025044",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40909,12 +40909,12 @@
         "MICR": "600025039",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "3 MEDAVAKKAM MAIN RD, KEELKATTALAI TAMIL NADU 600117",
+        "ADDRESS": "3 MEDAVAKKAM MAIN RD, KEELKATTALAI TAMILNADU 600117",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KEELKATTALAI",
@@ -40927,12 +40927,12 @@
         "MICR": "600025038",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "50, IST FLR TRUNK RD, PORUR CHENNAI TAMIL NADU 600116",
+        "ADDRESS": "50, IST FLR TRUNK RD, PORUR CHENNAI TAMILNADU 600116",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PORUR, CHENNAI",
@@ -40945,7 +40945,7 @@
         "MICR": "600025037",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40963,7 +40963,7 @@
         "MICR": "600025036",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40981,7 +40981,7 @@
         "MICR": "600025033",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -40999,7 +40999,7 @@
         "MICR": "600025049",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41017,12 +41017,12 @@
         "MICR": "600025032",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "46/1 A2 GNT RD THORAPALLAM BAZAR ELAVUR VILL-POST TIRUVALLUR  TAMIL NADU 27922315",
+        "ADDRESS": "46/1 A2 GNT RD THORAPALLAM BAZAR ELAVUR VILL-POST TIRUVALLUR  TAMILNADU 27922315",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "THORAPALLAMBAZAR CHENNAI",
@@ -41035,7 +41035,7 @@
         "MICR": "600025062",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41053,7 +41053,7 @@
         "MICR": "600025023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41071,7 +41071,7 @@
         "MICR": "631025102",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41089,7 +41089,7 @@
         "MICR": "600025050",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41107,12 +41107,12 @@
         "MICR": "600025048",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "MS BUILDING 459 1 ANNA SALAI TEYNAPET CHENNAI CHENNAI TAMIL NADU INDIA 600045",
+        "ADDRESS": "MS BUILDING 459 1 ANNA SALAI TEYNAPET CHENNAI CHENNAI TAMILNADU INDIA 600045",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RO, CHENNAI-II",
@@ -41125,7 +41125,7 @@
         "MICR": "625025023",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41143,7 +41143,7 @@
         "MICR": "600025084",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41161,12 +41161,12 @@
         "MICR": "600025081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "M S BUILDINGS 459/1 ANNA SALAI TEYNAMPET CHENNAI TAMIL NADU 600018",
+        "ADDRESS": "M S BUILDINGS 459/1 ANNA SALAI TEYNAMPET CHENNAI TAMILNADU 600018",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MID CORPORATE CHENNAI",
@@ -41179,7 +41179,7 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41197,7 +41197,7 @@
         "MICR": "600025078",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41215,7 +41215,7 @@
         "MICR": "600025079",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41233,12 +41233,12 @@
         "MICR": "600025081",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 10 2ND STREET POSTAL COLONY WEST MAMBALAM CHENNAI TAMIL NADU 600033 INDIA",
+        "ADDRESS": "NO 10 2ND STREET POSTAL COLONY WEST MAMBALAM CHENNAI TAMILNADU 600033 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MAMBALAM",
@@ -41251,7 +41251,7 @@
         "MICR": "600025069",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41269,12 +41269,12 @@
         "MICR": "NonMICR",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR ANNA NAGAR WEST EXTENSION, PLOT NO 1302 ANNA NAGAR WEST EXTENSION GOLDEN COLONY ANNA NAGAR WEST EXTENSION CHENNAI 600050 STATE TAMIL NADU",
+        "ADDRESS": "SYNDICATE BANK BR ANNA NAGAR WEST EXTENSION, PLOT NO 1302 ANNA NAGAR WEST EXTENSION GOLDEN COLONY ANNA NAGAR WEST EXTENSION CHENNAI 600050 STATE TAMILNADU",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ANNA NAGAR WEST EXTENSION CHENNAI",
@@ -41287,12 +41287,12 @@
         "MICR": "600025064",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "123/3 A2 METTUKUPPAM ROAD MADURAVOYAL CHENNAI TAMIL NADU 600095 INDIA",
+        "ADDRESS": "123/3 A2 METTUKUPPAM ROAD MADURAVOYAL CHENNAI TAMILNADU 600095 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MADURAVOYAL CHENNAI",
@@ -41305,7 +41305,7 @@
         "MICR": "600025063",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41323,7 +41323,7 @@
         "MICR": "600025025",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41341,7 +41341,7 @@
         "MICR": "600025058",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41359,12 +41359,12 @@
         "MICR": "600025059",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 38 SIC BUILDDING ANNA SALAI  CHENNAI TAMIL NADU 600 002",
+        "ADDRESS": "NO 38 SIC BUILDDING ANNA SALAI  CHENNAI TAMILNADU 600 002",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ARMB CHENNAI",
@@ -41377,12 +41377,12 @@
         "MICR": "600025998",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "NO 38 SIC BUILDDING ANNA SALAI  CHENNAI TAMIL NADU 600 002",
+        "ADDRESS": "NO 38 SIC BUILDDING ANNA SALAI  CHENNAI TAMILNADU 600 002",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "CENTRALISED PRECESSING CENTRE  CHENNAI",
@@ -41395,7 +41395,7 @@
         "MICR": "600025999",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41413,7 +41413,7 @@
         "MICR": "600025045",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41431,7 +41431,7 @@
         "MICR": "600025043",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41449,7 +41449,7 @@
         "MICR": "600025035",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41467,7 +41467,7 @@
         "MICR": "600025031",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41485,7 +41485,7 @@
         "MICR": "600025030",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41503,7 +41503,7 @@
         "MICR": "600025029",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41521,7 +41521,7 @@
         "MICR": "600025028",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41539,7 +41539,7 @@
         "MICR": "600025027",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41557,7 +41557,7 @@
         "MICR": "600025026",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41575,7 +41575,7 @@
         "MICR": "600025021",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41593,7 +41593,7 @@
         "MICR": "600025024",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41611,12 +41611,12 @@
         "MICR": "600025020",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
     {
-        "ADDRESS": "38, SIC BLDG ANNA SALAI  CHENNAI TAMIL NADU 600002 INDIA",
+        "ADDRESS": "38, SIC BLDG ANNA SALAI  CHENNAI TAMILNADU 600002 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RO, CHENNAI",
@@ -41629,7 +41629,7 @@
         "MICR": "600025997",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41647,7 +41647,7 @@
         "MICR": "600025002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41665,7 +41665,7 @@
         "MICR": "600025011",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41683,7 +41683,7 @@
         "MICR": "600025001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41701,7 +41701,7 @@
         "MICR": "600025009",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41719,7 +41719,7 @@
         "MICR": "600025004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41737,7 +41737,7 @@
         "MICR": "600025005",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41755,7 +41755,7 @@
         "MICR": "600025007",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41773,7 +41773,7 @@
         "MICR": "600025016",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41791,7 +41791,7 @@
         "MICR": "600025017",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41809,7 +41809,7 @@
         "MICR": "600025013",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41827,7 +41827,7 @@
         "MICR": "600025006",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41845,7 +41845,7 @@
         "MICR": "600025014",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41863,7 +41863,7 @@
         "MICR": "600025010",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41881,7 +41881,7 @@
         "MICR": "600025015",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41899,7 +41899,7 @@
         "MICR": "600025008",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41917,7 +41917,7 @@
         "MICR": "600025012",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -41935,7 +41935,7 @@
         "MICR": "600025003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -44298,7 +44298,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "C BY O SYN BANK JAGDALPUR BR SUKLA COMPLX PALACE ROAD DIST BASTAS ASAN CHATTISGARH 494001",
+        "ADDRESS": "C BY O SYN BANK JAGDALPUR BR SUKLA COMPLX PALACE ROAD DIST BASTAS ASAN CHHATTISGARH 494001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ASAN",
@@ -44316,7 +44316,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "RAJNANDGAON BR OLD BUS STAND OPP UNITED HOSPITAL RAJNANDGAON PATEWA CHATTISGARH 491441",
+        "ADDRESS": "RAJNANDGAON BR OLD BUS STAND OPP UNITED HOSPITAL RAJNANDGAON PATEWA CHHATTISGARH 491441",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PATEWA",
@@ -44334,7 +44334,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "CBYO SYNBANK DURG BR ANAND BHAVAN APAPURA,DIST DURG,KHOZPLI CHATTISGARH 491001",
+        "ADDRESS": "CBYO SYNBANK DURG BR ANAND BHAVAN APAPURA,DIST DURG,KHOZPLI CHHATTISGARH 491001",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KHOZPLI",
@@ -44622,7 +44622,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "RK PLAZA WARD NO 20 RAIPUR RD INFRONT OF HOTEL MOHINI DIST KAWARDHA KAWARDHA DIST CHATTISGARH 491559",
+        "ADDRESS": "RK PLAZA WARD NO 20 RAIPUR RD INFRONT OF HOTEL MOHINI DIST KAWARDHA KAWARDHA DIST CHHATTISGARH 491559",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KAWARDHA",
@@ -44838,7 +44838,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "HOUSE NO 123 WAR NO 19 CIVIL LINES TEAHSIL RD CHAMPA DIST CHAMPA CHATTISGARH 495671",
+        "ADDRESS": "HOUSE NO 123 WAR NO 19 CIVIL LINES TEAHSIL RD CHAMPA DIST CHAMPA CHHATTISGARH 495671",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "CHAMPA",
@@ -46476,7 +46476,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "C/O SYN BANK JAGDALPUR BR SUKLA COMPLX PALACE ROAD DIST BASTAR ASAN CHATTISGARH 494001 INDIA",
+        "ADDRESS": "C/O SYN BANK JAGDALPUR BR SUKLA COMPLX PALACE ROAD DIST BASTAR ASAN CHHATTISGARH 494001 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "ASAN",
@@ -46494,7 +46494,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "VILLAGE AND POST PATEWA THANA GHUMKA DIST RAJNANDGAON PATEWA CHATTISGARH 491444 INDIA",
+        "ADDRESS": "VILLAGE AND POST PATEWA THANA GHUMKA DIST RAJNANDGAON PATEWA CHHATTISGARH 491444 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "PATEWA",
@@ -46512,7 +46512,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "C/O SYN BANK DURG BR ANAND BHAVAN APAPURA DIST DURG  KHOZPLI CHATTISGARH 491001 INDIA",
+        "ADDRESS": "C/O SYN BANK DURG BR ANAND BHAVAN APAPURA DIST DURG  KHOZPLI CHHATTISGARH 491001 INDIA",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "KHOZPLI",
@@ -51534,7 +51534,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DNO.3-54,MAIN ROAD OPP DONBOSCO BOYS HIGH SCHOOL NANDIGAMA,KRISHNA DISTRICT KRISHNA ANDHRAPRADESH 521185",
+        "ADDRESS": "DNO.3-54,MAIN ROAD OPP DONBOSCO BOYS HIGH SCHOOL NANDIGAMA,KRISHNA DISTRICT KRISHNA ANDHRA PRADESH 521185",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "NANDIGAMA",
@@ -51750,7 +51750,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR BHARTINAGAR D NO 54-14/8-23 PLOT NO 8 VIJAYAWADA 520008 DIST KRISHNA ANDHRAPRADESH",
+        "ADDRESS": "SYNDICATE BANK BR BHARTINAGAR D NO 54-14/8-23 PLOT NO 8 VIJAYAWADA 520008 DIST KRISHNA ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BHARATINAGAR",
@@ -54108,7 +54108,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "NEAR RAMKRISHNA  THEATRE SRIKAKULAM ANDHRAPRADESH",
+        "ADDRESS": "NEAR RAMKRISHNA  THEATRE SRIKAKULAM ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SRIKAKULAM",
@@ -59526,7 +59526,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "SYNDICATE BANK BR BANGARUPALEM D NO 3-113 MBT ROAD DIST CHITTOOR  517416 ANDHRAPRADESH",
+        "ADDRESS": "SYNDICATE BANK BR BANGARUPALEM D NO 3-113 MBT ROAD DIST CHITTOOR  517416 ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BANGARUPALEM",
@@ -59796,7 +59796,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "9-1-126  1ST FLOOR LAKSHMI   BAZAAR RAYADURG DIST ANANTAPUR ANDHRAPRADESH",
+        "ADDRESS": "9-1-126  1ST FLOOR LAKSHMI   BAZAAR RAYADURG DIST ANANTAPUR ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RAYADURG",
@@ -59832,7 +59832,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "BEEDUPALLI POST PRASHANTHI NILAYAM PUTTAPARTHY MANDAL ANANTAPUR ANDHRAPRADESH",
+        "ADDRESS": "BEEDUPALLI POST PRASHANTHI NILAYAM PUTTAPARTHY MANDAL ANANTAPUR ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "BEEDUPALLI",
@@ -59922,7 +59922,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "TONDAPADU GOOTY MANDAL DIST ANANTPUR ANDHRAPRADESH 515 404",
+        "ADDRESS": "TONDAPADU GOOTY MANDAL DIST ANANTPUR ANDHRA PRADESH 515 404",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "TONDAPADU",
@@ -60318,7 +60318,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "16/106  IST FLOOR MAIN ROAD OPP. OLD BUS STAND GUNTAKAL , ANANTHAPUR ,ANDHRAPRADESH",
+        "ADDRESS": "16/106  IST FLOOR MAIN ROAD OPP. OLD BUS STAND GUNTAKAL , ANANTHAPUR ,ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "GUNTAKAL",
@@ -61182,7 +61182,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "17-1-197/6 DOBHIGHAT CROSS ROAD I S SADAN, SAIDABAD , HYDERABAD ANDHRAPRADESH",
+        "ADDRESS": "17-1-197/6 DOBHIGHAT CROSS ROAD I S SADAN, SAIDABAD , HYDERABAD ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "I S SADAN BRANCH, HYDERABAD",
@@ -61380,7 +61380,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "OPP INDIRA PARK DOMALAGUDA HYDERABAD ANDHRAPRADESH",
+        "ADDRESS": "OPP INDIRA PARK DOMALAGUDA HYDERABAD ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RAMAKRISHNAMATH, HYDERABAD",
@@ -61434,7 +61434,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "S C  RAILWAY HEAD QUARTERS . RAIL NILAYAM SECUNDERABAD ANDHRAPRADESH",
+        "ADDRESS": "S C  RAILWAY HEAD QUARTERS . RAIL NILAYAM SECUNDERABAD ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "RAIL NILAYAM, SECUNDERABAD",
@@ -61488,7 +61488,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "H N 18-78/A CHAITANYAPURI  X ROADS HYDERABAD ANDHRAPRADESH",
+        "ADDRESS": "H N 18-78/A CHAITANYAPURI  X ROADS HYDERABAD ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "CHAITANYAPURI, HYDERABAD",
@@ -61686,7 +61686,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "42/1,MAIN ROAD MOULA ALI , HYDERABAD DIST RANGAREDDY ANDHRAPRADESH",
+        "ADDRESS": "42/1,MAIN ROAD MOULA ALI , HYDERABAD DIST RANGAREDDY ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "MOULA ALI, HYDERABAD",
@@ -61938,7 +61938,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "DOOR NO 15-9-414 TO 407 MAHARANI JHANSI ROAD AFZALGUNZ HYDERABAD ANDHRAPRADESH",
+        "ADDRESS": "DOOR NO 15-9-414 TO 407 MAHARANI JHANSI ROAD AFZALGUNZ HYDERABAD ANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "AFZALGUNZ HYDERABAD",
@@ -61956,7 +61956,7 @@
         "UPI": true
     },
     {
-        "ADDRESS": "20-4-194/7NEW ROAD SHAH -ALI-BANDA HYDERABAD  ANDHANDHRAPRADESH",
+        "ADDRESS": "20-4-194/7NEW ROAD SHAH -ALI-BANDA HYDERABAD  ANDHANDHRA PRADESH",
         "BANK": "Syndicate Bank",
         "BANKCODE": "SYNB",
         "BRANCH": "SITARAMBAGH HYDERABAD",

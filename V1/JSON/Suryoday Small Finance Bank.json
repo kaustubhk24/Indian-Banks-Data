@@ -139,7 +139,7 @@
         "MICR": "380757001",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "GUJARAT",
+        "STATE": "GUJRAT",
         "SWIFT": "",
         "UPI": true
     },
@@ -162,20 +162,20 @@
         "UPI": true
     },
     {
-        "ADDRESS": "GROUND FLOOR,S J MODERN TOWER,AT NO.13,VALLALAR SALAI,KAMRAJ NAGAR,PUDUCHERRY",
+        "ADDRESS": "GROUND FLOOR,S J MODERN TOWER,AT NO.13,VALLALAR SALAI,KAMRAJ NAGAR,PONDICHERRY",
         "BANK": "Suryoday Small Finance Bank",
         "BANKCODE": "SURY",
         "BRANCH": "KAMRAJ NAGAR",
-        "CENTRE": "PUDUCHERRY",
-        "CITY": "PUDUCHERRY",
+        "CENTRE": "PONDICHERRY",
+        "CITY": "PONDICHERRY",
         "CONTACT": "00",
-        "DISTRICT": "PUDUCHERRY",
+        "DISTRICT": "PONDICHERRY",
         "IFSC": "SURY0000020",
         "IMPS": true,
         "MICR": "605757002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "PUDUCHERRY",
+        "STATE": "PONDICHERRY",
         "SWIFT": "",
         "UPI": true
     },
@@ -193,7 +193,7 @@
         "MICR": "600757003",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -211,7 +211,7 @@
         "MICR": "641757002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -229,7 +229,7 @@
         "MICR": "620757002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -265,7 +265,7 @@
         "MICR": "600757002",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
@@ -463,7 +463,7 @@
         "MICR": "600757004",
         "NEFT": true,
         "RTGS": true,
-        "STATE": "TAMIL NADU",
+        "STATE": "TAMILNADU",
         "SWIFT": "",
         "UPI": true
     },
