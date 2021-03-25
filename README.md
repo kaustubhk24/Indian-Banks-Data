@@ -1,7 +1,9 @@
 # Bank Details API
 *NOTE : API is in beta version, We are aware that some data is duplicate and we're removing duplicates*
 
+* [Wiki Home](https://github.com/kaustubhk24/Indian-Banks-Data/wiki)
 * [Available Banks](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/Available-Banks)
+* [How to Contribute?](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/How-to-Contribute%3F)
 
 ## V1 Documentation
 * [API To Get Bank Details Using IFSC](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#1--api-to-get-bank-details-using-ifsc)
