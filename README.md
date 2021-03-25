@@ -12,7 +12,7 @@
 
 
 ## Contributors 
- <a href="https://github.com/kaustubhk24/Indian-Banks-Data/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=kaustubhk24/Indian-Banks-Data" />
-</a>
+* [Kaustubh Kulkarni](https://github.com/kaustubhk24)
+* [Pooja Mhaskar](https://github.com/poojamhaskar)
+* [Radhika Deshmukh](https://github.com/radhikadeshmukh107)
 
