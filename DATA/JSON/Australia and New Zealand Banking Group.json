@@ -1,0 +1,20 @@
+[
+    {
+        "ADDRESS": "Cnergy, Gr Floor, Appasaheb Marathe Marg, Mumbai-37",
+        "BANK": "Australia and New Zealand Banking Group",
+        "BANKCODE": "ANZB",
+        "BRANCH": "Mumbai",
+        "CENTRE": "MUMBAI",
+        "CITY": "MUMBAI",
+        "CONTACT": "02233620073",
+        "DISTRICT": "GREATER BOMBAY",
+        "IFSC": "ANZB0000001",
+        "IMPS": true,
+        "MICR": "400064252",
+        "NEFT": true,
+        "RTGS": true,
+        "STATE": "MAHARASHTRA",
+        "SWIFT": "",
+        "UPI": false
+    }
+]
