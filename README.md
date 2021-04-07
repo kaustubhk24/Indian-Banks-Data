@@ -21,6 +21,9 @@
 * [API To Get Data By Selections](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#2-api-to-get-data-by-selections)
 * [Get Excel File of Any Bank](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#3--get-excel-file-of-any-bank)
 
+## API Status
+To check downtimes or upgrade schedules of API please see [API status page](https://status.justinclicks.com/incident.html?n=IFSC%20Bank%20API) , You can also subscribe for email alerts from this page.
+
 
 ## Contributors 
 * [Kaustubh Kulkarni](https://github.com/kaustubhk24)
