@@ -1,6 +1,4 @@
 # Bank Details API
-*NOTE : API is in beta version, We are aware that some data is duplicate and we're removing duplicates*
-
 
 
 ![ViewCount](https://views.whatilearened.today/views/github/kaustubhk24/Indian-Banks-Data.svg) [![GitHub issues](https://img.shields.io/github/issues/kaustubhk24/Indian-Banks-Data)](https://github.com/kaustubhk24/Indian-Banks-Data/issues)  [![GitHub forks](https://img.shields.io/github/forks/kaustubhk24/Indian-Banks-Data)](https://github.com/kaustubhk24/Indian-Banks-Data/network) [![GitHub stars](https://img.shields.io/github/stars/kaustubhk24/Indian-Banks-Data)](https://github.com/kaustubhk24/Indian-Banks-Data/stargazers) [![GitHub license](https://img.shields.io/github/license/kaustubhk24/Indian-Banks-Data)](https://github.com/kaustubhk24/Indian-Banks-Data/blob/master/License.txt) 
@@ -11,18 +9,18 @@
 
 
 ## Pages
-
-* [Wiki Home](https://github.com/kaustubhk24/Indian-Banks-Data/wiki)
-* [Available Banks](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/Available-Banks)
-* [How to Contribute?](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/How-to-Contribute%3F)
+* [Intro](https://www.kaustubh.codes/blog/free-bank-ifsc-api)
+* [Available Banks](https://www.kaustubh.codes/blog/free-bank-ifsc-api/#available-banks)
+* [How to Contribute?](https://www.kaustubh.codes/blog/free-bank-ifsc-api/#contribute)
 
 ## V1 Documentation
-* [API To Get Bank Details Using IFSC](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#1--api-to-get-bank-details-using-ifsc)
-* [API To Get Data By Selections](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#2-api-to-get-data-by-selections)
-* [Get Excel File of Any Bank](https://github.com/kaustubhk24/Indian-Banks-Data/wiki/V1-Documentation#3--get-excel-file-of-any-bank)
+* [Documents](https://www.kaustubh.codes/blog/free-bank-ifsc-api/)
+* [API To Get Bank Details Using IFSC](https://www.kaustubh.codes/blog/free-bank-ifsc-api/#api-to-get-bank-details-using-ifsc)
+* [API To Get Data By Selections](https://www.kaustubh.codes/blog/free-bank-ifsc-api/#api-to-get-data-by-selections)
+* [Get Excel File of Any Bank](https://www.kaustubh.codes/blog/free-bank-ifsc-api/#get-excel-file-of-any-bank)
 
 ## API Status
-To check downtimes or upgrade schedules of API please see [API status page](https://status.justinclicks.com/incident.html?n=IFSC%20Bank%20API) , You can also subscribe for email alerts from this page.
+To check downtimes or upgrade schedules of API please see [API status page](https://status.justinclicks.com/history/bank-api-v1) , You can also subscribe for email alerts from this page.
 
 
 ## Contributors 
