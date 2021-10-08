@@ -22,11 +22,5 @@
 ## API Status
 To check downtimes or upgrade schedules of API please see [API status page](https://status.justinclicks.com/history/bank-api-v1) , You can also subscribe for email alerts from this page.
 
-
-## Contributors 
-* [Kaustubh Kulkarni](https://github.com/kaustubhk24)
-* [Pooja Mhaskar](https://github.com/poojamhaskar)
-* [Radhika Deshmukh](https://github.com/radhikadeshmukh107)
-
 ## Disclaimer
  We have tried our best to keep the latest information updated as available from RBI, users are requested to confirm information with the respective bank before using the information provided. The author reserves the right not to be responsible for the topicality, correctness, completeness or quality of the information provided. Liability claims regarding damage caused by the use of any information provided, including any kind of information which is incomplete or incorrect, will therefore be rejected.
