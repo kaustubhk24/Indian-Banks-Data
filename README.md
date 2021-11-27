@@ -9,15 +9,15 @@
 
 
 ## Pages
-* [Intro](https://kaustubhk24.blogspot.com/2021/05/bank-ifsc-api-documentation.html)
-* [Available Banks](https://kaustubhk24.blogspot.com/2021/05/bank-ifsc-api-documentation.html#available-banks)
-* [How to Contribute?](https://kaustubhk24.blogspot.com/2021/05/bank-ifsc-api-documentation.html#contribute)
+* [Intro](https://kaustubhk24.netlify.app/blog/free-bank-ifsc-api)
+* [Available Banks](https://kaustubhk24.netlify.app/blog/free-bank-ifsc-api/#available-banks)
+* [How to Contribute?](https://kaustubhk24.netlify.app/blog/free-bank-ifsc-api/#contribute)
 
 ## V1 Documentation
-* [Documents](https://kaustubhk24.blogspot.com/2021/05/bank-ifsc-api-documentation.html/)
-* [API To Get Bank Details Using IFSC](https://kaustubhk24.blogspot.com/2021/05/bank-ifsc-api-documentation.html#api-to-get-bank-details-using-ifsc)
-* [API To Get Data By Selections](https://kaustubhk24.blogspot.com/2021/05/bank-ifsc-api-documentation.html#api-to-get-data-by-selections)
-* [Get Excel File of Any Bank](https://kaustubhk24.blogspot.com/2021/05/bank-ifsc-api-documentation.html#get-excel-file-of-any-bank)
+* [Documents](https://kaustubhk24.netlify.app/blog/free-bank-ifsc-api/)
+* [API To Get Bank Details Using IFSC](https://kaustubhk24.netlify.app/blog/free-bank-ifsc-api/#api-to-get-bank-details-using-ifsc)
+* [API To Get Data By Selections](https://kaustubhk24.netlify.app/blog/free-bank-ifsc-api/#api-to-get-data-by-selections)
+* [Get Excel File of Any Bank](https://kaustubhk24.netlify.app/blog/free-bank-ifsc-api/#get-excel-file-of-any-bank)
 
 ## API Status
 To check downtimes or upgrade schedules of API please see [API status page](https://status.justinclicks.com/history/bank-api-v1) , You can also subscribe for email alerts from this page.
